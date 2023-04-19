@@ -19,4 +19,4 @@ dicList = API_Func.tmp_pipe_league_API(tempAPI)
 
 DB_Func.insertPipeLeagueData(dicList)
 
-DB_Func.closeSQLServer()
+DB_Func.closeSQLServer() 

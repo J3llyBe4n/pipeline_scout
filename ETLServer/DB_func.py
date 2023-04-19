@@ -29,9 +29,8 @@ class DBfunc:
 			insertDataList = []
 			insertDataList.append(data[i]['league_name'])
 			insertDataList.append(data[i]['api_league_id'])
-			insertDataList.append(data[i]['nation_name'])
+			insertDataList.append(data[i]['league_nation'])
 			insertSql = 'insert into pipe_league (league_name, api_league_id,league_nation) values ("%s",%d,"%s")' %(insertDataList[0],insertDataList[1],insertDataList[2])
 			self.cursor.execute(insertSql)
 			# print("insert Done!")
-		 	self.conn.commit()
-
+			self.conn.commit()

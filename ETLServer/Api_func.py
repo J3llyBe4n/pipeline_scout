@@ -37,4 +37,4 @@ class API_block:
 			dataDict = {"league_name" : league_name, "api_league_id" : api_league_id, "league_nation" : league_nation}
 			dictList.append(dataDict)
 
-		return dictList
+		return dictList 
