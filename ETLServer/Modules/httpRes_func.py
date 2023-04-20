@@ -48,6 +48,8 @@ def httpStatus():
         return httpStatus
 
 
+def test():
+        print("hihi")
 
 startTime = time.time()
 baseStatus = re.get(url = getBaseInfoUrl, headers = headers)

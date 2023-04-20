@@ -3,7 +3,7 @@ import datetime
 import json
 
 nowDate = datetime.datetime.now().date().strftime("%Y_%m_%d")
-directory = os.path.join(os.path.dirname(__file__), '..', '..', '..', 'datas', 'Logs')
+directory = os.path.join(os.path.dirname(__file__), '..', 'datas', 'Logs')
 
 def createFolder():
     os.mkdir("%s/%s" %(directory, nowDate))
