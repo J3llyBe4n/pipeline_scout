@@ -16,5 +16,3 @@ def createJsonFile():
 
     print("file created")
 
-createFolder()
-createJsonFile()
