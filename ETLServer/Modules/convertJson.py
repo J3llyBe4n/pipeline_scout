@@ -7,6 +7,6 @@ def convertToJson(resTime, crudOpt, date, time, http_Status):
     tmpDict['crudOption'] = crudOpt
     tmpDict['Date'] = date
     tmpDict['Time'] = time
-  	tmpDict['httpStatus'] = http_Status
+    tmpDict['httpStatus'] = http_Status
 
     return tmpDict
