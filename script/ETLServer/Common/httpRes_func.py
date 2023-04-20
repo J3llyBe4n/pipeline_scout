@@ -10,22 +10,21 @@ headers = {
         'x-rapidapi-key': 'a86d420d0d8840c8e722e16cf9742f7b'
         }
 
-
 def resTime(res):
         # responseTime = round((time.time() - startTime),4)
 
         responseTime = (time.time() - res)
         #응답시간 변수 이름 responeTime
-        print(responseTime)
+        return responseTime
 
 def getUrl():
         endPointUrl = getBaseInfoUrl[:getBaseInfoUrl.index('?')]
-        print(endPointUrl)
+        return endPointUrl
 
 def getCrudOpt():
         crudOption = status['Access-Control-Allow-Methods']
         crudOption = crudOption[:crudOption.index(',')]
-        print(crudOption)
+        return crudOption
 
 
 def getTimeStamp():
@@ -35,16 +34,18 @@ def getTimeStamp():
         month = dateObj.month
         day = dateObj.day
         # gmt gg 
-        hour = dateObj.hour + 9
+        hour = dateObj.hour
         minute = dateObj.minute
         second = dateObj.second
 
-        print(year, month, day)
-        print(hour, minute, second)
+        nowDate = str(year) + "_" + str(month) + "_" + str(day)
+        nowTime = str(hour) + "_" + str(minute) + "_" + str(second)
+
+        return nowDate, nowTime
 
 def httpStatus():
         httpStatus = baseStatus.status_code
-        print(httpStatus)
+        return httpStatus
 
 
 
