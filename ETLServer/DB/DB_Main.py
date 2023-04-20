@@ -1,22 +1,23 @@
 import requests
-from DB_func import *
-from Api_func import *
+from ETLServer.Modules.api_func import API_block
+from ETLServer.Modules.db_func import DBfunc
 
 api_keys = "e6b9fb7ce7a7ad7b239595f76e546384"
 
-DB_Func = DBfunc()
-print("test")
-API_Func = API_block()
+DB_func = DBfunc()
 
-DB_Func.connectSQLServer()
+api_func = API_block()
 
-tempId = DB_Func.readTmpID()
-print("test")
+DB_func.connectSQLServer()
 
-cnt, tempAPI = API_Func.load_pipe_league_API(tempId, api_keys)
+tempId = DB_func.readTmpID()
 
-dicList = API_Func.tmp_pipe_league_API(tempAPI)
+tempAPI = api_func.load_pipe_league_API(tempId, api_keys)
 
-DB_Func.insertPipeLeagueData(dicList)
+dicList = api_func.tmp_pipe_league_API(tempAPI)
 
-DB_Func.closeSQLServer() 
+
+#DB_Func.insertPipeLeagueData(dicList)
+
+DB_func.closeSQLServer()
+
