@@ -97,8 +97,6 @@ class ApiTeamBlock:
 
             load.loadMonitoringJson(finalDict)
 
-            data_1 = data[0]
-            dataList.append(data_1)
         # print(dataList)
 
         return dataList
