@@ -1,0 +1,10 @@
+리퀘스트:	getRequest = re.get(API주소,헤더) -> Resquest든 req든
+리퀘스트status_code:	getStatusCode = getRequest.status_code				(200,404,500 등) 
+리스폰스:	resp = getRequest.json() -> resp든 response든
+리스폰스 헤더:	getResponseHeaders = resp.headers						(하루 총 api할당량, 1분 remain 할당량, 하루 renmain 할당량 등)
+주소:	uri,url,baseuri,baseurl 등등
+실데이터값:	resp['response']											(response 안에 players든 teams든 딕->리->딕 등의 형태로 있음)
+
+
+임시 리스트:	tmpList
+임시 딕셔너리: tmpDict
