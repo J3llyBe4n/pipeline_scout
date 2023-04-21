@@ -10,11 +10,12 @@ def createFolder():
     print("folder created")
 
 def createJsonFile():
-    data ={}
+    data = {'data' : []}
     with open("%s/%s/%s.json" %(directory, nowDate, nowDate), "w") as json_file:
         json.dump(data, json_file, indent=4)
 
     print("file created")
+
 
 createFolder()
 createJsonFile()
