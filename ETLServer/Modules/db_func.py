@@ -34,3 +34,26 @@ class DBfunc:
 			self.cursor.execute(insertSql)
 			# print("insert Done!")
 			self.conn.commit()
+
+
+	def readLeagueId(self):
+		listId = []
+
+		readQuery = 'select api_league_id from pipe_league'
+		self.cursor.execute(readQuery)
+		tmpListRaw = self.cursor.fetchall()
+		for i in range(len(tmpListRaw)):
+			listId.append(tmpListRaw[i][0])
+
+		return listId
+
+
+	def insertPipeTeamData(self,data):
+		for i in range(len(data)):
+			tmpInsertDataList =[]
+			tmpInsertDataList.append(data[i]['teamName'])
+			tmpInsertDataList.append(data[i]['apiTeamId'])
+			insertQuery = 'insert into pipe_team (team_name, api_team_id) values ("%s", %d)' %(tmpInsertDataList[0], tmpInsertDataList[1])
+			self.cursor.execute(insertQuery)
+			print("insert %s compelete" %tmpInsertDataList[0])
+			self.conn.commit()

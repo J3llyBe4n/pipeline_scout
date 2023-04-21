@@ -6,7 +6,7 @@ from ETLServer.Modules import yoda_loadJson_block as load
 class API_block:
 
 	def load_pipe_league_API(self, idList, api_keys):
-		print("load start")
+		print("load league ID start")
 
 		dataList = []
 		
@@ -56,3 +56,73 @@ class API_block:
 			dictList.append(dataDict)
 
 		return dictList 
+
+
+class ApiTeamBlock:
+
+	def loadTeamData(self, idList, api_keys):
+		print("load Team ID start")
+
+		dataList =[]
+
+		for i in idList:
+			leagueId = i
+			season = 2022
+
+			uri = "https://v3.football.api-sports.io/teams?league=%s&season=%d" %(leagueId, season)
+			
+			headers = {
+				'x-rapidapi-host': "v3.football.api-sports.io",
+				'x-rapidapi-key': api_keys
+			}
+
+			startTime = time.time()
+			resp = requests.request("GET", uri, headers=headers)
+			data = resp.json()['response']
+
+			for j in range(len(data)):
+				tmpData = data[j]
+				dataList.append(tmpData)
+
+			print("load compelete league ID : %s" %leagueId)
+			
+			status = resp.headers
+
+			finalTime = hf.resTime(startTime)
+			finalUrl = hf.getUrl(uri)
+			finalList = hf.getTimeStamp(status)
+			finalCrudOpt = hf.getCrudOpt(status)
+			finalstatus = hf.httpStatus(resp)
+			#print(finalstatus)
+			finalDict = js.convertToJson(finalTime, finalCrudOpt, finalUrl, finalList[0], finalList[1], finalstatus)
+
+			load.loadMonitoringJson(finalDict)
+
+			data_1 = data[0]
+			dataList.append(data_1)
+			#print(dataList)
+			
+		return dataList 
+
+
+
+
+
+
+
+
+	def transformTeamData(self, dataList):
+		dictList =[]
+
+		for i in dataList:
+			teamName = i['team']['name']
+			apiTeamId = i['team']['id']
+			dataDict ={"teamName": teamName, "apiTeamId" : apiTeamId}
+			dictList.append(dataDict)
+
+		return dictList
+
+
+
+
+
