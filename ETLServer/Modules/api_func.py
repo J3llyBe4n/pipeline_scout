@@ -125,40 +125,39 @@ class ApiPlayerBlock:
             if i % 200 == 0:
                 time.sleep(60)
             else:
+                pass
 
-                teamId = idList[i]
+            teamId = idList[i-1]
 
-                uri = "https://v3.football.api-sports.io/players/squads?team=%d" % teamId
+            uri = "https://v3.football.api-sports.io/players/squads?team=%d" % teamId
 
-                headers = {
-                    'x-rapidapi-host': "v3.football.api-sports.io",
-                    'x-rapidapi-key': api_keys
-                }
+            headers = {
+                'x-rapidapi-host': "v3.football.api-sports.io",
+                'x-rapidapi-key': api_keys
+            }
 
-                startTime = time.time()
-                resp = requests.request("GET", uri, headers=headers)
-                data = resp.json()['response']
+            startTime = time.time()
+            resp = requests.request("GET", uri, headers=headers)
+            data = resp.json()['response']
 
-                for j in range(len(data)):
-                    tmpData = data[j]
-                    dataList.append(tmpData)
+            for j in range(len(data)):
+                tmpData = data[j]
+                dataList.append(tmpData)
 
-                print("load compelete team ID : %s" % teamId)
+            print("load compelete team ID : %s" % teamId)
 
-                status = resp.headers
+            status = resp.headers
 
-                finalTime = hf.resTime(startTime)
-                finalUrl = hf.getUrl(uri)
-                finalList = hf.getTimeStamp(status)
-                finalCrudOpt = hf.getCrudOpt(status)
-                finalstatus = hf.httpStatus(resp)
-                # print(finalstatus)
-                finalDict = js.convertToJson(finalTime, finalCrudOpt, finalUrl, finalList[0], finalList[1], finalstatus)
+            finalTime = hf.resTime(startTime)
+            finalUrl = hf.getUrl(uri)
+            finalList = hf.getTimeStamp(status)
+            finalCrudOpt = hf.getCrudOpt(status)
+            finalstatus = hf.httpStatus(resp)
+            # print(finalstatus)
+            finalDict = js.convertToJson(finalTime, finalCrudOpt, finalUrl, finalList[0], finalList[1], finalstatus)
 
-                load.loadMonitoringJson(finalDict)
+            load.loadMonitoringJson(finalDict)
 
-                data_1 = data[0]
-                dataList.append(data_1)
         # print(dataList)
 
         return dataList

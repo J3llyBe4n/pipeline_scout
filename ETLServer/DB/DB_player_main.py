@@ -2,6 +2,7 @@ import requests
 from ETLServer.Modules.api_func import ApiPlayerBlock
 from ETLServer.Modules.db_func import DBfunc
 
+
 api_keys = "a68636f8f2c18511179c56f15e95080c"
 
 #db func 불러오기 위해서 class 생성
@@ -25,6 +26,6 @@ print(tempApi)
 
 dicList = api_func.transformPlayerData(tempApi)
 
-#DB_func.insertPipeTeamData(dicList)
+DB_func.insertPipeTeamData(dicList)
 
 DB_func.closeSQLServer()
