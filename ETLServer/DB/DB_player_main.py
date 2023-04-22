@@ -26,6 +26,6 @@ print(tempApi)
 
 dicList = api_func.transformPlayerData(tempApi)
 
-DB_func.insertPipeTeamData(dicList)
+DB_func.insertPlayerData(dicList)
 
 DB_func.closeSQLServer()
