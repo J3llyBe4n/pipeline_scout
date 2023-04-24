@@ -1,5 +1,7 @@
 import requests, time
 from ETLServer.Modules.load_toLocalJson import * 
+from ETLServer.Modules import convertJson as js
+from ETLServer.Modules import yoda_loadJson_block as load
 
 class ApiStandings:
 
@@ -19,12 +21,21 @@ class ApiStandings:
                 'x-rapidapi-key': api_keys
             }
 			
-			#start_time = time.time()
+			start_time = time.time()
 			resp = requests.request("GET",base_Url, headers=headers)
 			data_raw = resp.json()['response']
 
-			#data_json = data_raw.json
-			
+			status = resp.headers
+
+            finalTime = hf.resTime(startTime)
+            finalUrl = hf.getUrl(uri)
+            finalList = hf.getTimeStamp(status)
+            finalCrudOpt = hf.getCrudOpt(status)
+            finalstatus = hf.httpStatus(resp)
+            print(finalstatus)
+            finalDict = js.convertToJson(finalTime, finalCrudOpt, finalUrl, finalList[0], finalList[1], finalstatus)
+
+            load.loadMonitoringJson(finalDict)
 
 			load_standingJson(data_raw, leagueId)
 
