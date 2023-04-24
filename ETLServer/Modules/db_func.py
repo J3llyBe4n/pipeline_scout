@@ -78,3 +78,15 @@ class DBfunc:
 			self.cursor.execute(insertQuery)
 			print("insert %s compelete" %tmpInsertDataList[0])
 			self.conn.commit()
+
+	def insert_fixtureData(self,data):
+		for i in range(len(data)):
+			tmp_insertDataList = []
+			tmp_insertDataList.append(data[i]['fixture_id'])
+			tmp_insertDataList.append(data[i]['fixture_date'])
+			tmp_insertDataList.append(data[i]['fixture_home_id'])
+			tmp_insertDataList.append(data[i]['fixture_away_id'])
+			insert_query = 'insert into pipe_round (api_fixture_id, date, home_team_id, away_team_id) values (%d, "%s", %d, %d)' %(tmp_insertDataList[0], tmp_insertDataList[1], tmp_insertDataList[2], tmp_insertDataList[3])
+			self.cursor.execute(insert_query)
+			print("insert %s complete" %tmp_insertDataList[0])
+			self.conn.commit()
