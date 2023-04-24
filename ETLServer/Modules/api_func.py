@@ -1,3 +1,6 @@
+#DB로 가는 api_func 스크립트 
+
+
 import requests, time
 from ETLServer.Modules import httpRes_func as hf
 from ETLServer.Modules import convertJson as js
