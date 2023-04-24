@@ -2,6 +2,7 @@ import requests, time
 from ETLServer.Modules.load_toLocalJson import * 
 from ETLServer.Modules import convertJson as js
 from ETLServer.Modules import yoda_loadJson_block as load
+from ETLServer.Modules import httpRes_func as hf
 
 class ApiStandings:
 
