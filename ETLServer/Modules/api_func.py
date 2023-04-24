@@ -177,3 +177,62 @@ class ApiPlayerBlock:
                 dataDict = {"playerName": playerName, "apiPlayerId": apiPlayerId}
                 dictList.append(dataDict)
         return dictList
+
+
+class ApiFixtureBlock:
+    
+    def load_fixtureData(self, idList, api_keys):
+
+        season = 2022
+        timezone = "europe/london"
+        dataList =[]
+
+        print("load fixture data start")
+
+        for i in idList:
+            league_id = i
+
+            base_url = "https://v3.football.api-sports.io/fixtures?league=%d&season=%d&timezone=%s" %(league_id, season, timezone)
+
+            headers = {
+                'x-rapidapi-host': "v3.football.api-sports.io",
+                'x-rapidapi-key': api_keys
+            }
+
+            start_time = time.time()
+            resp = requests.request("GET", base_url, headers= headers)
+            data = resp.json()['response']
+            
+            for j in range(len(data)):
+                tmpData = data[j]
+                dataList.append(tmpData)
+                
+
+            print("params : %d load list complete!" %league_id)
+
+            status = resp.headers
+
+            finalTime = hf.resTime(start_time)
+            finalUrl = hf.getUrl(base_url)
+            finalList = hf.getTimeStamp(status)
+            finalCrudOpt = hf.getCrudOpt(status)
+            finalstatus = hf.httpStatus(resp)
+            # print(finalstatus)
+            finalDict = js.convertToJson(finalTime, finalCrudOpt, finalUrl, finalList[0], finalList[1], finalstatus)
+
+            load.loadMonitoringJson(finalDict)
+
+        return dataList
+
+    def transform_fixtureData(self, data_list):
+        dict_list = []
+
+        for i in data_list:
+            tmp_fixtureId = i['fixture']['id']
+            tmp_fixtureDate = i['fixture']['date']
+            tmp_fixtureHomeId = i['teams']['home']['id']
+            tmp_fixtureAwayId = i['teams']['away']['id']
+            data_dict = {"fixture_id" : tmp_fixtureId, "fixture_date" : tmp_fixtureDate, "fixture_home_id" : tmp_fixtureHomeId, "fixture_away_id": tmp_fixtureAwayId}
+            dict_list.append(data_dict)
+
+        return dict_list
