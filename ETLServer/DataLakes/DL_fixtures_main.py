@@ -3,16 +3,15 @@
 # json 이름 라벨링 후 데이터 적재
 # req log 남기기
 
-from ETLServer.Modules.db_func import *
+from ETLServer.Modules.db_function import *
 
 #db 관련func 내장 class 생성
 db_func = DBfunc()
 
 #db 서버 열어주기
-db_func.connectSQLServer()
+db_func.connect_SQL()
 
 #league_id 불러오기
-league_id = db_func.readTmpID()
-
+league_id = db_func.read_tmpLeagueId()
 
 
