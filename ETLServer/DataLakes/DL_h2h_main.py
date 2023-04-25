@@ -6,17 +6,29 @@
 
 
 from ETLServer.Modules.db_function import *
-import datetime, mysql.connector
+from ETLServer.Modules.DL_api_function import *
+from datetime import datetime
 
+api_keys = "a68636f8f2c18511179c56f15e95080c"
 
 db_func = DBfunc()
+api_func = ApiH2h()
 
 db_func.connect_SQL()
 
-now_date = datetime.datetime.now().date().strftime("%Y_%m_%d")
+now_date = datetime.now().date().strftime("%Y_%m_%d")
 print(now_date)
 
 round_data = db_func.read_roundInfo(now_date)
+
+api_func.load_h2hJson(round_data, api_keys)
+
+
+
+
+
+
+
 
 
 

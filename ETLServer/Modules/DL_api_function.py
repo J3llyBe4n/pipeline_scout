@@ -160,3 +160,46 @@ class ApiTeams:
 			load.load_json(tmp_dict)
 
 			loadL.load_teamJson(data, team_id)
+
+
+
+class ApiH2h:
+
+	def load_h2hJson(self,data_list, api_keys):
+		print("run func load_h2hJson")
+
+		for i in range(len(data_list)):
+			home = data_list[i]['home_id']
+			away =data_list[i]['away_id']
+			date_day = data_list[i]['date']
+			print(date_day)
+
+			params = "%d-%d" %(home, away) 
+			print("call api req -> params : %s" %params)
+
+			uri = "https://v3.football.api-sports.io/fixtures/headtohead?h2h=%s&date=%s&timezone=%s" %(params, date_day, 'europe/london')
+			
+			headers={
+				'x-rapidapi-host': "v3.football.api-sports.io",
+				'x-rapidapi-key': api_keys
+
+			}
+
+			start_time = time.time()
+			response = requests.request("GET", uri, headers = headers)
+			response_time = http.get_responseTime(start_time)
+			data = response.json()['response']
+			status = response.headers
+
+
+
+			uri_info = http.get_uriInfos(uri)
+			time_stamp = http.get_timeStamp(status)
+			crud_option = http.get_crudOption(status)
+			http_status = http.get_httpStatus(response)
+
+			tmp_dict = conv.convert_toJson(response_time, crud_option, uri_info, time_stamp, http_status)
+			#load.load_json(tmp_dict)
+
+			loadL.load_h2hJson(data)
+

@@ -36,7 +36,7 @@ def create_h2hJson():
 
     for i in tmp_leagueId:
         leagueId = i 
-        file_path = "%s/h2h/%s_%s_h2h.json" % (directory, nowDate,leagueId)
+        file_path = "%s/h2h/%s/%s_%s_h2h.json" % (directory,nowDate, nowDate,leagueId)
         data = {'data' : []}
         
         if os.path.exists(file_path):
