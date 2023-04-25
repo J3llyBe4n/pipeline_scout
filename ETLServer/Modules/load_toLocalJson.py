@@ -95,3 +95,23 @@ def load_teamJson(tmp_data, team_id):
     with open("%s/%s_%d_Tinfo.json" % (directory, now_date, team_id), "w") as json_file:
         json.dump(data, json_file, indent=4)
         print("sucksex")
+
+
+def load_h2hJson(tmp_data):
+    
+    date_time = tmp_data[0]['fixture']['date'][:tmp_data[0]['fixture']['date'].index('T')].replace('-','')[2:]
+    print(date_time)
+    league_id = tmp_data[0]['league']['id']
+    print(league_id)
+    
+    directory = os.path.join(os.path.dirname(__file__), "..", 'datas', 'DataLake', 'fixtures', 'h2h')
+
+    with open("%s/%s/%s_%s_h2h.json" %(directory,date_time, date_time, league_id), "r") as json_file:
+        data = json.load(json_file)
+
+    data['data'].append(tmp_data)
+
+    with open("%s/%s/%s_%s_h2h.json" %(directory,date_time, date_time, league_id), "w") as json_file:
+        json.dump(data, json_file, indent=4)
+        print("heheh")
+    

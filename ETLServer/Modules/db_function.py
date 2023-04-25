@@ -105,6 +105,7 @@ class DBfunc:
 
 		return round_date
 
+<<<<<<< HEAD
 
 	def read_LeagueTeamId(self):
 		id_list = []
@@ -117,3 +118,5 @@ class DBfunc:
 			TeamLeagueId_list.append(sql_data[i][1])
 			id_list.append(TeamLeagueId_list)
 		return id_list
+=======
+
