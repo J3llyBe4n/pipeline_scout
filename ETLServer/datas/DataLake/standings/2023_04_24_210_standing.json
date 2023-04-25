@@ -1,0 +1,470 @@
+{
+    "data": [
+        [
+            {
+                "league": {
+                    "id": 210,
+                    "name": "HNL",
+                    "country": "Croatia",
+                    "logo": "https://media-1.api-sports.io/football/leagues/210.png",
+                    "flag": "https://media-3.api-sports.io/flags/hr.svg",
+                    "season": 2022,
+                    "standings": [
+                        [
+                            {
+                                "rank": 1,
+                                "team": {
+                                    "id": 620,
+                                    "name": "Dinamo Zagreb",
+                                    "logo": "https://media-3.api-sports.io/football/teams/620.png"
+                                },
+                                "points": 67,
+                                "goalsDiff": 43,
+                                "group": "HNL",
+                                "form": "DWWDW",
+                                "status": "same",
+                                "description": "UEFA Champions League Qualifiers",
+                                "all": {
+                                    "played": 30,
+                                    "win": 20,
+                                    "draw": 7,
+                                    "lose": 3,
+                                    "goals": {
+                                        "for": 69,
+                                        "against": 26
+                                    }
+                                },
+                                "home": {
+                                    "played": 15,
+                                    "win": 13,
+                                    "draw": 2,
+                                    "lose": 0,
+                                    "goals": {
+                                        "for": 42,
+                                        "against": 11
+                                    }
+                                },
+                                "away": {
+                                    "played": 15,
+                                    "win": 7,
+                                    "draw": 5,
+                                    "lose": 3,
+                                    "goals": {
+                                        "for": 27,
+                                        "against": 15
+                                    }
+                                },
+                                "update": "2023-04-23T00:00:00+00:00"
+                            },
+                            {
+                                "rank": 2,
+                                "team": {
+                                    "id": 608,
+                                    "name": "HNK Hajduk Split",
+                                    "logo": "https://media-1.api-sports.io/football/teams/608.png"
+                                },
+                                "points": 57,
+                                "goalsDiff": 14,
+                                "group": "HNL",
+                                "form": "WLDWW",
+                                "status": "same",
+                                "description": "UEFA Conference League Qualifiers",
+                                "all": {
+                                    "played": 30,
+                                    "win": 17,
+                                    "draw": 6,
+                                    "lose": 7,
+                                    "goals": {
+                                        "for": 55,
+                                        "against": 41
+                                    }
+                                },
+                                "home": {
+                                    "played": 15,
+                                    "win": 10,
+                                    "draw": 3,
+                                    "lose": 2,
+                                    "goals": {
+                                        "for": 33,
+                                        "against": 18
+                                    }
+                                },
+                                "away": {
+                                    "played": 15,
+                                    "win": 7,
+                                    "draw": 3,
+                                    "lose": 5,
+                                    "goals": {
+                                        "for": 22,
+                                        "against": 23
+                                    }
+                                },
+                                "update": "2023-04-23T00:00:00+00:00"
+                            },
+                            {
+                                "rank": 3,
+                                "team": {
+                                    "id": 561,
+                                    "name": "HNK Rijeka",
+                                    "logo": "https://media-1.api-sports.io/football/teams/561.png"
+                                },
+                                "points": 41,
+                                "goalsDiff": -1,
+                                "group": "HNL",
+                                "form": "LWWDL",
+                                "status": "up",
+                                "description": "UEFA Conference League Qualifiers",
+                                "all": {
+                                    "played": 30,
+                                    "win": 12,
+                                    "draw": 5,
+                                    "lose": 13,
+                                    "goals": {
+                                        "for": 35,
+                                        "against": 36
+                                    }
+                                },
+                                "home": {
+                                    "played": 15,
+                                    "win": 5,
+                                    "draw": 3,
+                                    "lose": 7,
+                                    "goals": {
+                                        "for": 16,
+                                        "against": 19
+                                    }
+                                },
+                                "away": {
+                                    "played": 15,
+                                    "win": 7,
+                                    "draw": 2,
+                                    "lose": 6,
+                                    "goals": {
+                                        "for": 19,
+                                        "against": 17
+                                    }
+                                },
+                                "update": "2023-04-23T00:00:00+00:00"
+                            },
+                            {
+                                "rank": 4,
+                                "team": {
+                                    "id": 1018,
+                                    "name": "NK Slaven Belupo",
+                                    "logo": "https://media-1.api-sports.io/football/teams/1018.png"
+                                },
+                                "points": 40,
+                                "goalsDiff": -14,
+                                "group": "HNL",
+                                "form": "WLDWL",
+                                "status": "up",
+                                "description": null,
+                                "all": {
+                                    "played": 30,
+                                    "win": 10,
+                                    "draw": 10,
+                                    "lose": 10,
+                                    "goals": {
+                                        "for": 24,
+                                        "against": 38
+                                    }
+                                },
+                                "home": {
+                                    "played": 15,
+                                    "win": 5,
+                                    "draw": 6,
+                                    "lose": 4,
+                                    "goals": {
+                                        "for": 15,
+                                        "against": 21
+                                    }
+                                },
+                                "away": {
+                                    "played": 15,
+                                    "win": 5,
+                                    "draw": 4,
+                                    "lose": 6,
+                                    "goals": {
+                                        "for": 9,
+                                        "against": 17
+                                    }
+                                },
+                                "update": "2023-04-23T00:00:00+00:00"
+                            },
+                            {
+                                "rank": 5,
+                                "team": {
+                                    "id": 616,
+                                    "name": "NK Osijek",
+                                    "logo": "https://media-1.api-sports.io/football/teams/616.png"
+                                },
+                                "points": 39,
+                                "goalsDiff": 2,
+                                "group": "HNL",
+                                "form": "LDLDD",
+                                "status": "down",
+                                "description": null,
+                                "all": {
+                                    "played": 30,
+                                    "win": 10,
+                                    "draw": 9,
+                                    "lose": 11,
+                                    "goals": {
+                                        "for": 37,
+                                        "against": 35
+                                    }
+                                },
+                                "home": {
+                                    "played": 15,
+                                    "win": 6,
+                                    "draw": 7,
+                                    "lose": 2,
+                                    "goals": {
+                                        "for": 19,
+                                        "against": 12
+                                    }
+                                },
+                                "away": {
+                                    "played": 15,
+                                    "win": 4,
+                                    "draw": 2,
+                                    "lose": 9,
+                                    "goals": {
+                                        "for": 18,
+                                        "against": 23
+                                    }
+                                },
+                                "update": "2023-04-23T00:00:00+00:00"
+                            },
+                            {
+                                "rank": 6,
+                                "team": {
+                                    "id": 1483,
+                                    "name": "NK Varazdin",
+                                    "logo": "https://media-3.api-sports.io/football/teams/1483.png"
+                                },
+                                "points": 39,
+                                "goalsDiff": -7,
+                                "group": "HNL",
+                                "form": "LDDDW",
+                                "status": "down",
+                                "description": null,
+                                "all": {
+                                    "played": 30,
+                                    "win": 10,
+                                    "draw": 9,
+                                    "lose": 11,
+                                    "goals": {
+                                        "for": 34,
+                                        "against": 41
+                                    }
+                                },
+                                "home": {
+                                    "played": 15,
+                                    "win": 5,
+                                    "draw": 5,
+                                    "lose": 5,
+                                    "goals": {
+                                        "for": 17,
+                                        "against": 20
+                                    }
+                                },
+                                "away": {
+                                    "played": 15,
+                                    "win": 5,
+                                    "draw": 4,
+                                    "lose": 6,
+                                    "goals": {
+                                        "for": 17,
+                                        "against": 21
+                                    }
+                                },
+                                "update": "2023-04-23T00:00:00+00:00"
+                            },
+                            {
+                                "rank": 7,
+                                "team": {
+                                    "id": 1016,
+                                    "name": "Istra 1961",
+                                    "logo": "https://media-2.api-sports.io/football/teams/1016.png"
+                                },
+                                "points": 38,
+                                "goalsDiff": -3,
+                                "group": "HNL",
+                                "form": "DDDLD",
+                                "status": "same",
+                                "description": null,
+                                "all": {
+                                    "played": 30,
+                                    "win": 9,
+                                    "draw": 11,
+                                    "lose": 10,
+                                    "goals": {
+                                        "for": 28,
+                                        "against": 31
+                                    }
+                                },
+                                "home": {
+                                    "played": 15,
+                                    "win": 6,
+                                    "draw": 5,
+                                    "lose": 4,
+                                    "goals": {
+                                        "for": 12,
+                                        "against": 10
+                                    }
+                                },
+                                "away": {
+                                    "played": 15,
+                                    "win": 3,
+                                    "draw": 6,
+                                    "lose": 6,
+                                    "goals": {
+                                        "for": 16,
+                                        "against": 21
+                                    }
+                                },
+                                "update": "2023-04-23T00:00:00+00:00"
+                            },
+                            {
+                                "rank": 8,
+                                "team": {
+                                    "id": 1017,
+                                    "name": "NK Lokomotiva Zagreb",
+                                    "logo": "https://media-3.api-sports.io/football/teams/1017.png"
+                                },
+                                "points": 37,
+                                "goalsDiff": -2,
+                                "group": "HNL",
+                                "form": "WDLDD",
+                                "status": "same",
+                                "description": null,
+                                "all": {
+                                    "played": 30,
+                                    "win": 10,
+                                    "draw": 7,
+                                    "lose": 13,
+                                    "goals": {
+                                        "for": 40,
+                                        "against": 42
+                                    }
+                                },
+                                "home": {
+                                    "played": 15,
+                                    "win": 7,
+                                    "draw": 3,
+                                    "lose": 5,
+                                    "goals": {
+                                        "for": 20,
+                                        "against": 16
+                                    }
+                                },
+                                "away": {
+                                    "played": 15,
+                                    "win": 3,
+                                    "draw": 4,
+                                    "lose": 8,
+                                    "goals": {
+                                        "for": 20,
+                                        "against": 26
+                                    }
+                                },
+                                "update": "2023-04-23T00:00:00+00:00"
+                            },
+                            {
+                                "rank": 9,
+                                "team": {
+                                    "id": 1068,
+                                    "name": "HNK Gorica",
+                                    "logo": "https://media-2.api-sports.io/football/teams/1068.png"
+                                },
+                                "points": 26,
+                                "goalsDiff": -13,
+                                "group": "HNL",
+                                "form": "WWWDL",
+                                "status": "up",
+                                "description": null,
+                                "all": {
+                                    "played": 30,
+                                    "win": 6,
+                                    "draw": 8,
+                                    "lose": 16,
+                                    "goals": {
+                                        "for": 28,
+                                        "against": 41
+                                    }
+                                },
+                                "home": {
+                                    "played": 15,
+                                    "win": 5,
+                                    "draw": 4,
+                                    "lose": 6,
+                                    "goals": {
+                                        "for": 14,
+                                        "against": 18
+                                    }
+                                },
+                                "away": {
+                                    "played": 15,
+                                    "win": 1,
+                                    "draw": 4,
+                                    "lose": 10,
+                                    "goals": {
+                                        "for": 14,
+                                        "against": 23
+                                    }
+                                },
+                                "update": "2023-04-23T00:00:00+00:00"
+                            },
+                            {
+                                "rank": 10,
+                                "team": {
+                                    "id": 1475,
+                                    "name": "Sibenik",
+                                    "logo": "https://media-2.api-sports.io/football/teams/1475.png"
+                                },
+                                "points": 24,
+                                "goalsDiff": -19,
+                                "group": "HNL",
+                                "form": "LLLLD",
+                                "status": "down",
+                                "description": "Relegation",
+                                "all": {
+                                    "played": 30,
+                                    "win": 4,
+                                    "draw": 12,
+                                    "lose": 14,
+                                    "goals": {
+                                        "for": 20,
+                                        "against": 39
+                                    }
+                                },
+                                "home": {
+                                    "played": 15,
+                                    "win": 2,
+                                    "draw": 4,
+                                    "lose": 9,
+                                    "goals": {
+                                        "for": 11,
+                                        "against": 26
+                                    }
+                                },
+                                "away": {
+                                    "played": 15,
+                                    "win": 2,
+                                    "draw": 8,
+                                    "lose": 5,
+                                    "goals": {
+                                        "for": 9,
+                                        "against": 13
+                                    }
+                                },
+                                "update": "2023-04-23T00:00:00+00:00"
+                            }
+                        ]
+                    ]
+                }
+            }
+        ]
+    ]
+}

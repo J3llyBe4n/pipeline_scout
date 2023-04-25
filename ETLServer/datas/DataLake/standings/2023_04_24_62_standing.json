@@ -1,0 +1,920 @@
+{
+    "data": [
+        [
+            {
+                "league": {
+                    "id": 62,
+                    "name": "Ligue 2",
+                    "country": "France",
+                    "logo": "https://media-3.api-sports.io/football/leagues/62.png",
+                    "flag": "https://media-1.api-sports.io/flags/fr.svg",
+                    "season": 2022,
+                    "standings": [
+                        [
+                            {
+                                "rank": 1,
+                                "team": {
+                                    "id": 111,
+                                    "name": "LE Havre",
+                                    "logo": "https://media-2.api-sports.io/football/teams/111.png"
+                                },
+                                "points": 65,
+                                "goalsDiff": 27,
+                                "group": "Ligue 2",
+                                "form": "DWDWD",
+                                "status": "same",
+                                "description": null,
+                                "all": {
+                                    "played": 32,
+                                    "win": 17,
+                                    "draw": 14,
+                                    "lose": 1,
+                                    "goals": {
+                                        "for": 41,
+                                        "against": 14
+                                    }
+                                },
+                                "home": {
+                                    "played": 16,
+                                    "win": 9,
+                                    "draw": 7,
+                                    "lose": 0,
+                                    "goals": {
+                                        "for": 21,
+                                        "against": 7
+                                    }
+                                },
+                                "away": {
+                                    "played": 16,
+                                    "win": 8,
+                                    "draw": 7,
+                                    "lose": 1,
+                                    "goals": {
+                                        "for": 20,
+                                        "against": 7
+                                    }
+                                },
+                                "update": "2023-04-24T00:00:00+00:00"
+                            },
+                            {
+                                "rank": 2,
+                                "team": {
+                                    "id": 112,
+                                    "name": "Metz",
+                                    "logo": "https://media-3.api-sports.io/football/teams/112.png"
+                                },
+                                "points": 58,
+                                "goalsDiff": 23,
+                                "group": "Ligue 2",
+                                "form": "WWDWW",
+                                "status": "same",
+                                "description": null,
+                                "all": {
+                                    "played": 32,
+                                    "win": 16,
+                                    "draw": 10,
+                                    "lose": 6,
+                                    "goals": {
+                                        "for": 51,
+                                        "against": 28
+                                    }
+                                },
+                                "home": {
+                                    "played": 16,
+                                    "win": 8,
+                                    "draw": 6,
+                                    "lose": 2,
+                                    "goals": {
+                                        "for": 23,
+                                        "against": 12
+                                    }
+                                },
+                                "away": {
+                                    "played": 16,
+                                    "win": 8,
+                                    "draw": 4,
+                                    "lose": 4,
+                                    "goals": {
+                                        "for": 28,
+                                        "against": 16
+                                    }
+                                },
+                                "update": "2023-04-24T00:00:00+00:00"
+                            },
+                            {
+                                "rank": 3,
+                                "team": {
+                                    "id": 78,
+                                    "name": "Bordeaux",
+                                    "logo": "https://media-2.api-sports.io/football/teams/78.png"
+                                },
+                                "points": 56,
+                                "goalsDiff": 16,
+                                "group": "Ligue 2",
+                                "form": "LWWWD",
+                                "status": "same",
+                                "description": null,
+                                "all": {
+                                    "played": 31,
+                                    "win": 16,
+                                    "draw": 8,
+                                    "lose": 7,
+                                    "goals": {
+                                        "for": 42,
+                                        "against": 26
+                                    }
+                                },
+                                "home": {
+                                    "played": 15,
+                                    "win": 9,
+                                    "draw": 4,
+                                    "lose": 2,
+                                    "goals": {
+                                        "for": 21,
+                                        "against": 9
+                                    }
+                                },
+                                "away": {
+                                    "played": 16,
+                                    "win": 7,
+                                    "draw": 4,
+                                    "lose": 5,
+                                    "goals": {
+                                        "for": 21,
+                                        "against": 17
+                                    }
+                                },
+                                "update": "2023-04-24T00:00:00+00:00"
+                            },
+                            {
+                                "rank": 4,
+                                "team": {
+                                    "id": 115,
+                                    "name": "Sochaux",
+                                    "logo": "https://media-3.api-sports.io/football/teams/115.png"
+                                },
+                                "points": 52,
+                                "goalsDiff": 21,
+                                "group": "Ligue 2",
+                                "form": "LLWLW",
+                                "status": "same",
+                                "description": null,
+                                "all": {
+                                    "played": 32,
+                                    "win": 15,
+                                    "draw": 7,
+                                    "lose": 10,
+                                    "goals": {
+                                        "for": 52,
+                                        "against": 31
+                                    }
+                                },
+                                "home": {
+                                    "played": 16,
+                                    "win": 9,
+                                    "draw": 4,
+                                    "lose": 3,
+                                    "goals": {
+                                        "for": 31,
+                                        "against": 14
+                                    }
+                                },
+                                "away": {
+                                    "played": 16,
+                                    "win": 6,
+                                    "draw": 3,
+                                    "lose": 7,
+                                    "goals": {
+                                        "for": 21,
+                                        "against": 17
+                                    }
+                                },
+                                "update": "2023-04-24T00:00:00+00:00"
+                            },
+                            {
+                                "rank": 5,
+                                "team": {
+                                    "id": 88,
+                                    "name": "Caen",
+                                    "logo": "https://media-2.api-sports.io/football/teams/88.png"
+                                },
+                                "points": 52,
+                                "goalsDiff": 8,
+                                "group": "Ligue 2",
+                                "form": "WWLWW",
+                                "status": "same",
+                                "description": null,
+                                "all": {
+                                    "played": 32,
+                                    "win": 14,
+                                    "draw": 10,
+                                    "lose": 8,
+                                    "goals": {
+                                        "for": 42,
+                                        "against": 34
+                                    }
+                                },
+                                "home": {
+                                    "played": 16,
+                                    "win": 10,
+                                    "draw": 5,
+                                    "lose": 1,
+                                    "goals": {
+                                        "for": 26,
+                                        "against": 11
+                                    }
+                                },
+                                "away": {
+                                    "played": 16,
+                                    "win": 4,
+                                    "draw": 5,
+                                    "lose": 7,
+                                    "goals": {
+                                        "for": 16,
+                                        "against": 23
+                                    }
+                                },
+                                "update": "2023-04-24T00:00:00+00:00"
+                            },
+                            {
+                                "rank": 6,
+                                "team": {
+                                    "id": 1305,
+                                    "name": "Bastia",
+                                    "logo": "https://media-3.api-sports.io/football/teams/1305.png"
+                                },
+                                "points": 52,
+                                "goalsDiff": 4,
+                                "group": "Ligue 2",
+                                "form": "DWLWW",
+                                "status": "same",
+                                "description": null,
+                                "all": {
+                                    "played": 32,
+                                    "win": 15,
+                                    "draw": 7,
+                                    "lose": 10,
+                                    "goals": {
+                                        "for": 39,
+                                        "against": 35
+                                    }
+                                },
+                                "home": {
+                                    "played": 16,
+                                    "win": 10,
+                                    "draw": 2,
+                                    "lose": 4,
+                                    "goals": {
+                                        "for": 22,
+                                        "against": 12
+                                    }
+                                },
+                                "away": {
+                                    "played": 16,
+                                    "win": 5,
+                                    "draw": 5,
+                                    "lose": 6,
+                                    "goals": {
+                                        "for": 17,
+                                        "against": 23
+                                    }
+                                },
+                                "update": "2023-04-24T00:00:00+00:00"
+                            },
+                            {
+                                "rank": 7,
+                                "team": {
+                                    "id": 101,
+                                    "name": "Grenoble",
+                                    "logo": "https://media-2.api-sports.io/football/teams/101.png"
+                                },
+                                "points": 47,
+                                "goalsDiff": 3,
+                                "group": "Ligue 2",
+                                "form": "LWWLW",
+                                "status": "same",
+                                "description": null,
+                                "all": {
+                                    "played": 31,
+                                    "win": 13,
+                                    "draw": 8,
+                                    "lose": 10,
+                                    "goals": {
+                                        "for": 30,
+                                        "against": 27
+                                    }
+                                },
+                                "home": {
+                                    "played": 16,
+                                    "win": 8,
+                                    "draw": 4,
+                                    "lose": 4,
+                                    "goals": {
+                                        "for": 16,
+                                        "against": 13
+                                    }
+                                },
+                                "away": {
+                                    "played": 15,
+                                    "win": 5,
+                                    "draw": 4,
+                                    "lose": 6,
+                                    "goals": {
+                                        "for": 14,
+                                        "against": 14
+                                    }
+                                },
+                                "update": "2023-04-24T00:00:00+00:00"
+                            },
+                            {
+                                "rank": 8,
+                                "team": {
+                                    "id": 431,
+                                    "name": "Quevilly",
+                                    "logo": "https://media-1.api-sports.io/football/teams/431.png"
+                                },
+                                "points": 44,
+                                "goalsDiff": 1,
+                                "group": "Ligue 2",
+                                "form": "DDWLL",
+                                "status": "same",
+                                "description": null,
+                                "all": {
+                                    "played": 32,
+                                    "win": 11,
+                                    "draw": 11,
+                                    "lose": 10,
+                                    "goals": {
+                                        "for": 35,
+                                        "against": 34
+                                    }
+                                },
+                                "home": {
+                                    "played": 16,
+                                    "win": 6,
+                                    "draw": 7,
+                                    "lose": 3,
+                                    "goals": {
+                                        "for": 25,
+                                        "against": 19
+                                    }
+                                },
+                                "away": {
+                                    "played": 16,
+                                    "win": 5,
+                                    "draw": 4,
+                                    "lose": 7,
+                                    "goals": {
+                                        "for": 10,
+                                        "against": 15
+                                    }
+                                },
+                                "update": "2023-04-24T00:00:00+00:00"
+                            },
+                            {
+                                "rank": 9,
+                                "team": {
+                                    "id": 114,
+                                    "name": "Paris FC",
+                                    "logo": "https://media-1.api-sports.io/football/teams/114.png"
+                                },
+                                "points": 43,
+                                "goalsDiff": -1,
+                                "group": "Ligue 2",
+                                "form": "WLLWL",
+                                "status": "same",
+                                "description": null,
+                                "all": {
+                                    "played": 32,
+                                    "win": 12,
+                                    "draw": 7,
+                                    "lose": 13,
+                                    "goals": {
+                                        "for": 39,
+                                        "against": 40
+                                    }
+                                },
+                                "home": {
+                                    "played": 16,
+                                    "win": 5,
+                                    "draw": 3,
+                                    "lose": 8,
+                                    "goals": {
+                                        "for": 20,
+                                        "against": 21
+                                    }
+                                },
+                                "away": {
+                                    "played": 16,
+                                    "win": 7,
+                                    "draw": 4,
+                                    "lose": 5,
+                                    "goals": {
+                                        "for": 19,
+                                        "against": 19
+                                    }
+                                },
+                                "update": "2023-04-24T00:00:00+00:00"
+                            },
+                            {
+                                "rank": 10,
+                                "team": {
+                                    "id": 1063,
+                                    "name": "Saint Etienne",
+                                    "logo": "https://media-2.api-sports.io/football/teams/1063.png"
+                                },
+                                "points": 42,
+                                "goalsDiff": 2,
+                                "group": "Ligue 2",
+                                "form": "LWWWD",
+                                "status": "same",
+                                "description": null,
+                                "all": {
+                                    "played": 32,
+                                    "win": 12,
+                                    "draw": 9,
+                                    "lose": 11,
+                                    "goals": {
+                                        "for": 50,
+                                        "against": 48
+                                    }
+                                },
+                                "home": {
+                                    "played": 16,
+                                    "win": 7,
+                                    "draw": 4,
+                                    "lose": 5,
+                                    "goals": {
+                                        "for": 25,
+                                        "against": 23
+                                    }
+                                },
+                                "away": {
+                                    "played": 16,
+                                    "win": 5,
+                                    "draw": 5,
+                                    "lose": 6,
+                                    "goals": {
+                                        "for": 25,
+                                        "against": 25
+                                    }
+                                },
+                                "update": "2023-04-24T00:00:00+00:00"
+                            },
+                            {
+                                "rank": 11,
+                                "team": {
+                                    "id": 90,
+                                    "name": "Guingamp",
+                                    "logo": "https://media-2.api-sports.io/football/teams/90.png"
+                                },
+                                "points": 42,
+                                "goalsDiff": -1,
+                                "group": "Ligue 2",
+                                "form": "LWDLD",
+                                "status": "same",
+                                "description": null,
+                                "all": {
+                                    "played": 32,
+                                    "win": 11,
+                                    "draw": 9,
+                                    "lose": 12,
+                                    "goals": {
+                                        "for": 40,
+                                        "against": 41
+                                    }
+                                },
+                                "home": {
+                                    "played": 16,
+                                    "win": 5,
+                                    "draw": 3,
+                                    "lose": 8,
+                                    "goals": {
+                                        "for": 20,
+                                        "against": 22
+                                    }
+                                },
+                                "away": {
+                                    "played": 16,
+                                    "win": 6,
+                                    "draw": 6,
+                                    "lose": 4,
+                                    "goals": {
+                                        "for": 20,
+                                        "against": 19
+                                    }
+                                },
+                                "update": "2023-04-24T00:00:00+00:00"
+                            },
+                            {
+                                "rank": 12,
+                                "team": {
+                                    "id": 1301,
+                                    "name": "Rodez",
+                                    "logo": "https://media-2.api-sports.io/football/teams/1301.png"
+                                },
+                                "points": 40,
+                                "goalsDiff": -4,
+                                "group": "Ligue 2",
+                                "form": "WWLWW",
+                                "status": "same",
+                                "description": null,
+                                "all": {
+                                    "played": 32,
+                                    "win": 10,
+                                    "draw": 10,
+                                    "lose": 12,
+                                    "goals": {
+                                        "for": 34,
+                                        "against": 38
+                                    }
+                                },
+                                "home": {
+                                    "played": 16,
+                                    "win": 4,
+                                    "draw": 5,
+                                    "lose": 7,
+                                    "goals": {
+                                        "for": 15,
+                                        "against": 23
+                                    }
+                                },
+                                "away": {
+                                    "played": 16,
+                                    "win": 6,
+                                    "draw": 5,
+                                    "lose": 5,
+                                    "goals": {
+                                        "for": 19,
+                                        "against": 15
+                                    }
+                                },
+                                "update": "2023-04-24T00:00:00+00:00"
+                            },
+                            {
+                                "rank": 13,
+                                "team": {
+                                    "id": 1297,
+                                    "name": "PAU",
+                                    "logo": "https://media-2.api-sports.io/football/teams/1297.png"
+                                },
+                                "points": 40,
+                                "goalsDiff": -8,
+                                "group": "Ligue 2",
+                                "form": "WWDLW",
+                                "status": "same",
+                                "description": null,
+                                "all": {
+                                    "played": 32,
+                                    "win": 10,
+                                    "draw": 10,
+                                    "lose": 12,
+                                    "goals": {
+                                        "for": 28,
+                                        "against": 36
+                                    }
+                                },
+                                "home": {
+                                    "played": 16,
+                                    "win": 5,
+                                    "draw": 6,
+                                    "lose": 5,
+                                    "goals": {
+                                        "for": 14,
+                                        "against": 17
+                                    }
+                                },
+                                "away": {
+                                    "played": 16,
+                                    "win": 5,
+                                    "draw": 4,
+                                    "lose": 7,
+                                    "goals": {
+                                        "for": 14,
+                                        "against": 19
+                                    }
+                                },
+                                "update": "2023-04-24T00:00:00+00:00"
+                            },
+                            {
+                                "rank": 14,
+                                "team": {
+                                    "id": 87,
+                                    "name": "Amiens",
+                                    "logo": "https://media-3.api-sports.io/football/teams/87.png"
+                                },
+                                "points": 40,
+                                "goalsDiff": -9,
+                                "group": "Ligue 2",
+                                "form": "LLWLL",
+                                "status": "same",
+                                "description": null,
+                                "all": {
+                                    "played": 32,
+                                    "win": 11,
+                                    "draw": 7,
+                                    "lose": 14,
+                                    "goals": {
+                                        "for": 33,
+                                        "against": 42
+                                    }
+                                },
+                                "home": {
+                                    "played": 16,
+                                    "win": 7,
+                                    "draw": 3,
+                                    "lose": 6,
+                                    "goals": {
+                                        "for": 17,
+                                        "against": 17
+                                    }
+                                },
+                                "away": {
+                                    "played": 16,
+                                    "win": 4,
+                                    "draw": 4,
+                                    "lose": 8,
+                                    "goals": {
+                                        "for": 16,
+                                        "against": 25
+                                    }
+                                },
+                                "update": "2023-04-24T00:00:00+00:00"
+                            },
+                            {
+                                "rank": 15,
+                                "team": {
+                                    "id": 105,
+                                    "name": "Valenciennes",
+                                    "logo": "https://media-3.api-sports.io/football/teams/105.png"
+                                },
+                                "points": 37,
+                                "goalsDiff": -6,
+                                "group": "Ligue 2",
+                                "form": "WDLLL",
+                                "status": "same",
+                                "description": null,
+                                "all": {
+                                    "played": 32,
+                                    "win": 8,
+                                    "draw": 13,
+                                    "lose": 11,
+                                    "goals": {
+                                        "for": 35,
+                                        "against": 41
+                                    }
+                                },
+                                "home": {
+                                    "played": 16,
+                                    "win": 5,
+                                    "draw": 10,
+                                    "lose": 1,
+                                    "goals": {
+                                        "for": 25,
+                                        "against": 20
+                                    }
+                                },
+                                "away": {
+                                    "played": 16,
+                                    "win": 3,
+                                    "draw": 3,
+                                    "lose": 10,
+                                    "goals": {
+                                        "for": 10,
+                                        "against": 21
+                                    }
+                                },
+                                "update": "2023-04-24T00:00:00+00:00"
+                            },
+                            {
+                                "rank": 16,
+                                "team": {
+                                    "id": 3012,
+                                    "name": "Annecy",
+                                    "logo": "https://media-1.api-sports.io/football/teams/3012.png"
+                                },
+                                "points": 36,
+                                "goalsDiff": -13,
+                                "group": "Ligue 2",
+                                "form": "LLWLD",
+                                "status": "same",
+                                "description": null,
+                                "all": {
+                                    "played": 32,
+                                    "win": 9,
+                                    "draw": 9,
+                                    "lose": 14,
+                                    "goals": {
+                                        "for": 32,
+                                        "against": 45
+                                    }
+                                },
+                                "home": {
+                                    "played": 16,
+                                    "win": 7,
+                                    "draw": 3,
+                                    "lose": 6,
+                                    "goals": {
+                                        "for": 15,
+                                        "against": 17
+                                    }
+                                },
+                                "away": {
+                                    "played": 16,
+                                    "win": 2,
+                                    "draw": 6,
+                                    "lose": 8,
+                                    "goals": {
+                                        "for": 17,
+                                        "against": 28
+                                    }
+                                },
+                                "update": "2023-04-24T00:00:00+00:00"
+                            },
+                            {
+                                "rank": 17,
+                                "team": {
+                                    "id": 433,
+                                    "name": "Laval",
+                                    "logo": "https://media-3.api-sports.io/football/teams/433.png"
+                                },
+                                "points": 34,
+                                "goalsDiff": -12,
+                                "group": "Ligue 2",
+                                "form": "WLLLL",
+                                "status": "same",
+                                "description": null,
+                                "all": {
+                                    "played": 32,
+                                    "win": 10,
+                                    "draw": 4,
+                                    "lose": 18,
+                                    "goals": {
+                                        "for": 35,
+                                        "against": 47
+                                    }
+                                },
+                                "home": {
+                                    "played": 16,
+                                    "win": 6,
+                                    "draw": 2,
+                                    "lose": 8,
+                                    "goals": {
+                                        "for": 21,
+                                        "against": 22
+                                    }
+                                },
+                                "away": {
+                                    "played": 16,
+                                    "win": 4,
+                                    "draw": 2,
+                                    "lose": 10,
+                                    "goals": {
+                                        "for": 14,
+                                        "against": 25
+                                    }
+                                },
+                                "update": "2023-04-24T00:00:00+00:00"
+                            },
+                            {
+                                "rank": 18,
+                                "team": {
+                                    "id": 89,
+                                    "name": "Dijon",
+                                    "logo": "https://media-1.api-sports.io/football/teams/89.png"
+                                },
+                                "points": 31,
+                                "goalsDiff": -10,
+                                "group": "Ligue 2",
+                                "form": "DDWLL",
+                                "status": "same",
+                                "description": null,
+                                "all": {
+                                    "played": 32,
+                                    "win": 7,
+                                    "draw": 10,
+                                    "lose": 15,
+                                    "goals": {
+                                        "for": 29,
+                                        "against": 39
+                                    }
+                                },
+                                "home": {
+                                    "played": 17,
+                                    "win": 6,
+                                    "draw": 6,
+                                    "lose": 5,
+                                    "goals": {
+                                        "for": 17,
+                                        "against": 16
+                                    }
+                                },
+                                "away": {
+                                    "played": 15,
+                                    "win": 1,
+                                    "draw": 4,
+                                    "lose": 10,
+                                    "goals": {
+                                        "for": 12,
+                                        "against": 23
+                                    }
+                                },
+                                "update": "2023-04-24T00:00:00+00:00"
+                            },
+                            {
+                                "rank": 19,
+                                "team": {
+                                    "id": 92,
+                                    "name": "Nimes",
+                                    "logo": "https://media-1.api-sports.io/football/teams/92.png"
+                                },
+                                "points": 29,
+                                "goalsDiff": -16,
+                                "group": "Ligue 2",
+                                "form": "LLLWL",
+                                "status": "same",
+                                "description": null,
+                                "all": {
+                                    "played": 32,
+                                    "win": 8,
+                                    "draw": 5,
+                                    "lose": 19,
+                                    "goals": {
+                                        "for": 32,
+                                        "against": 48
+                                    }
+                                },
+                                "home": {
+                                    "played": 15,
+                                    "win": 7,
+                                    "draw": 1,
+                                    "lose": 7,
+                                    "goals": {
+                                        "for": 17,
+                                        "against": 15
+                                    }
+                                },
+                                "away": {
+                                    "played": 17,
+                                    "win": 1,
+                                    "draw": 4,
+                                    "lose": 12,
+                                    "goals": {
+                                        "for": 15,
+                                        "against": 33
+                                    }
+                                },
+                                "update": "2023-04-24T00:00:00+00:00"
+                            },
+                            {
+                                "rank": 20,
+                                "team": {
+                                    "id": 113,
+                                    "name": "Niort",
+                                    "logo": "https://media-2.api-sports.io/football/teams/113.png"
+                                },
+                                "points": 27,
+                                "goalsDiff": -25,
+                                "group": "Ligue 2",
+                                "form": "LDLLW",
+                                "status": "same",
+                                "description": null,
+                                "all": {
+                                    "played": 32,
+                                    "win": 7,
+                                    "draw": 6,
+                                    "lose": 19,
+                                    "goals": {
+                                        "for": 28,
+                                        "against": 53
+                                    }
+                                },
+                                "home": {
+                                    "played": 16,
+                                    "win": 5,
+                                    "draw": 2,
+                                    "lose": 9,
+                                    "goals": {
+                                        "for": 18,
+                                        "against": 28
+                                    }
+                                },
+                                "away": {
+                                    "played": 16,
+                                    "win": 2,
+                                    "draw": 4,
+                                    "lose": 10,
+                                    "goals": {
+                                        "for": 10,
+                                        "against": 25
+                                    }
+                                },
+                                "update": "2023-04-24T00:00:00+00:00"
+                            }
+                        ]
+                    ]
+                }
+            }
+        ]
+    ]
+}
