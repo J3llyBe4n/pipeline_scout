@@ -1,13 +1,6 @@
 from ETLServer.Modules.db_function import *
 from ETLServer.Modules.DL_api_function import *
 
-def get_GmtNowDate():
-    tmp_GmtNowDate = datetime.datetime.utcnow().date()
-    Gmt_NowDate = (tmp_GmtNowDate-datetime.timedelta(days=1)).strftime('%Y-%m-%d')
-
-    return Gmt_NowDate
-
-round_Date = get_GmtNowDate()
 
 api_keys = 'a86d420d0d8840c8e722e16cf9742f7b'
 
