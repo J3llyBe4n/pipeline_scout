@@ -7,7 +7,7 @@ directory = os.path.join(os.path.dirname(__file__), 'datas', 'DataLake')
 nowDate = datetime.datetime.now().date().strftime("%Y_%m_%d")
 
 def create_teamsFloder():
-	if not os.path.exists("%s/teams" % directory):
+    if not os.path.exists("%s/teams" % directory):
         os.mkdir("%s/teams" % directory)
         print("folder created")
     else:
