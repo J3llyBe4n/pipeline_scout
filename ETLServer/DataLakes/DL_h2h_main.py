@@ -16,7 +16,8 @@ db_func.connect_SQL()
 now_date = datetime.datetime.now().date().strftime("%Y_%m_%d")
 print(now_date)
 
-round_data = db_func.read_roundData(now_date)
+round_data = db_func.read_roundInfo(now_date)
+
 
 
 
