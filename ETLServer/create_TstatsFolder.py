@@ -24,7 +24,7 @@ def create_teamStatisticsJson():
     db_func = DBfunc()
 
     #DB server연결 
-    db_func.connectSQLServer()
+    db_func.connect_SQL()
 
     #DB league_id 리스트 반환 
     tmp_leagueId = db_func.read_tmpLeagueId()
