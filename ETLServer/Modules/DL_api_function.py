@@ -95,7 +95,7 @@ class ApiTeamStatistics:
 
 	def Api_TstatsJson(self, league_idList, team_idList, api_keys, round_date):
 		print("run func load_TeamStatisticsJson")
-
+		print(round_date)
 		for i in league_idList:
 			season = 2022
 			leagueId = i
@@ -103,16 +103,17 @@ class ApiTeamStatistics:
 
 			for j in team_idList:
 				teamId = j
-				uri = "https://v3.football.api-sports.io/teams/statistics?league=%d&season=%d&team=%d&date='%s'" %(leagueId, teamId, season, round_date)
+				uri = "https://v3.football.api-sports.io/teams/statistics?league=%d&season=%d&team=%d&date=%s" %(leagueId, season, teamId, round_date)
 				headers = {
 							'x-rapidapi-host': "v3.football.api-sports.io",
 							'x-rapidapi-key': api_keys
 							}
-
+				print(uri)
 				start_time = time.time()
 				response = requests.request("GET", uri, headers = headers)
 				response_time = http.get_responseTime(start_time)
 				data = response.json()['response']
+				print(data)
 				status = response.headers
 
 				uri_info = http.get_uriInfos(uri)

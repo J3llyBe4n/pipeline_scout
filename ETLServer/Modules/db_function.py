@@ -92,9 +92,13 @@ class DBfunc:
 
 	# written by woorek: pipe_round tb에서 date 가져오기
 	def read_roundDate(self,now_Date):
-		read_query = 'select distinct date from pipe_round where date LIKE "%s"' %now_Date
+		print(now_Date)
+		read_query = 'select distinct date from pipe_round where date LIKE "%s"' %(now_Date+str("%"))
+		print(read_query)
 		self.cursor.execute(read_query)
 		tmp_roundDate = self.cursor.fetchall()
+		print(tmp_roundDate)
 		round_date = tmp_roundDate[0][0]
+		print(round_date)
 
 		return round_date
