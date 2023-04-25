@@ -7,14 +7,14 @@ directory = os.path.join(os.path.dirname(__file__), 'datas', 'DataLake')
 nowDate = datetime.datetime.now().date().strftime("%y%m%d")
 
 
-def create_standingFolder():
-    if not os.path.exists("%s/standings" %directory):
-        os.mkdir("%s/standings" %directory)
+def create_fixtureFolder():
+    if not os.path.exists("%s/fixtures" %directory):
+        os.mkdir("%s/fixtures" %directory)
         print("folder created")
     else:
         print("already exists!")
 
-def create_standingJson():
+def create_fixtureJson():
     db_func = DBfunc()
 
     #DB server연결 
@@ -27,7 +27,7 @@ def create_standingJson():
 
     for i in tmp_leagueId:
         leagueId = i 
-        file_path = "%s/standings/%s_%s_standing.json" % (directory, nowDate,leagueId)
+        file_path = "%s/fixtures/%s_%s_fixture.json" % (directory, nowDate,leagueId)
         data = {'data' : []}
         
         if os.path.exists(file_path):
@@ -38,9 +38,5 @@ def create_standingJson():
                 json.dump(data, json_file, indent=4)
 
 
-create_standingFolder()
-create_standingJson()
-
-
-
-
+create_fixtureFolder()
+create_fixtureJson()
