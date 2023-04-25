@@ -138,17 +138,17 @@ class ApiTeamStatistics:
 
 class ApiTeams:
 
-	# team_id 리스트로 받아오기기
+	# league_id 리스트로 받아오기기
 	def load_teamJson(self, idList, api_keys):
 
 		print("run func load_fixtureJson")
 		# season = 2022
 		
 		for i in idList:
-			team_id = i
-			print("call api req -> params : %d" %team_id)
+			league_id = i
+			print("call api req -> params : %d" %league_id)
 
-			uri = "https://v3.football.api-sports.io/teams?id=%d" %(team_id)
+			uri = "https://v3.football.api-sports.io/teams?league=%d" %(league_id)
 
 			headers = {
                 'x-rapidapi-host': "v3.football.api-sports.io",
@@ -169,7 +169,7 @@ class ApiTeams:
 			tmp_dict = conv.convert_toJson(response_time, crud_option, uri_info, time_stamp, http_status)
 			load.load_json(tmp_dict)
 
-			loadL.load_teamJson(data, team_id)
+			loadL.load_teamJson(data, league_id)
 
 
 
