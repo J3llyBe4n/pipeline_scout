@@ -89,3 +89,12 @@ class DBfunc:
 			self.cursor.execute(insertQuery)
 			print("insert %s compelete" %load_data[0])
 			self.conn.commit()
+
+	# written by woorek: pipe_round tb에서 date 가져오기
+	def read_roundDate(self,now_Date):
+		read_query = 'select distinct date from pipe_round where date LIKE "%s"' %now_Date
+		self.cursor.execute(read_query)
+		tmp_roundDate = self.cursor.fetchall()
+		round_date = tmp_roundDate[0][0]
+
+		return round_date

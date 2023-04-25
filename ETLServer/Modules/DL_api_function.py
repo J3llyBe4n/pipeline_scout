@@ -12,17 +12,17 @@ import requests, time
 import sys
 sys.path.append('../')
 
-import Modules.load_toLocalJson as loadL
-import Modules.convert_toJson as conv		# js > conv
-import Modules.load_json as load
-import Modules.http_response as http 		# hf > http
+# import Modules.load_toLocalJson as loadL
+# import Modules.convert_toJson as conv		# js > conv
+# import Modules.load_json as load
+# import Modules.http_response as http 		# hf > http
 
 
-#from ETLServer.Modules import load_toLocalJson as loadL
-#from ETLServer.Modules.load_toLocalJson import * 
-#from ETLServer.Modules import convert_toJson as conv		# js > conv
-#from ETLServer.Modules import load_json as load
-#from ETLServer.Modules import http_response as http 		# hf > http
+from ETLServer.Modules import load_toLocalJson as loadL
+from ETLServer.Modules.load_toLocalJson import *
+from ETLServer.Modules import convert_toJson as conv		# js > conv
+from ETLServer.Modules import load_json as load
+from ETLServer.Modules import http_response as http 		# hf > http
 
 class ApiStandings:
 
@@ -90,3 +90,37 @@ class ApiFixtures:
 			load.load_json(tmp_dict)
 
 			loadL.load_fixtureJson(data, league_id)
+
+class ApiTeamStatistics:
+
+	def Api_TstatsJson(self, league_idList, team_idList, api_keys, round_date):
+		print("run func load_TeamStatisticsJson")
+
+		for i in league_idList:
+			season = 2022
+			leagueId = i
+			print("call api req -> params : %d" % leagueId)
+
+			for j in team_idList:
+				teamId = j
+				uri = "https://v3.football.api-sports.io/teams/statistics?league=%d&season=%d&team=%d&date='%s'" %(leagueId, teamId, season, round_date)
+				headers = {
+							'x-rapidapi-host': "v3.football.api-sports.io",
+							'x-rapidapi-key': api_keys
+							}
+
+				start_time = time.time()
+				response = requests.request("GET", uri, headers = headers)
+				response_time = http.get_responseTime(start_time)
+				data = response.json()['response']
+				status = response.headers
+
+				uri_info = http.get_uriInfos(uri)
+				time_stamp = http.get_timeStamp(status)
+				crud_option = http.get_crudOption(status)
+				http_status = http.get_httpStatus(response)
+
+				tmp_dict = conv.convert_toJson(response_time, crud_option, uri_info, time_stamp, http_status)
+				load.load_json(tmp_dict)
+				
+				load_TstatsJsonData(data, leagueId)
