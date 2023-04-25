@@ -105,7 +105,6 @@ class DBfunc:
 
 		return round_date
 
-<<<<<<< HEAD
 
 	def read_LeagueTeamId(self):
 		id_list = []
@@ -118,5 +117,24 @@ class DBfunc:
 			TeamLeagueId_list.append(sql_data[i][1])
 			id_list.append(TeamLeagueId_list)
 		return id_list
-=======
 
+
+	def read_roundInfo(self, now_date):
+	
+	return_data = []
+	now_date = now_date.replace('_','-')
+
+	query = "select * from pipe_round where date(date) = '%s'" %now_date
+	print(query)
+	self.cursor.execute(query)
+	tmp_data = self.cursor.fetchall()
+	for i in range(len(tmp_data)):
+		
+		tmp_date = tmp_data[i][2][:tmp_data[i][2].index('T')]
+		#print(tmp_date)
+		tmp_home_id = tmp_data[i][3]
+		tmp_away_id = tmp_data[i][4]
+		tmp_dict = {'home_id': tmp_home_id, 'away_id': tmp_away_id, 'date': tmp_date}
+		return_data.append(tmp_dict)
+
+	return return_data
