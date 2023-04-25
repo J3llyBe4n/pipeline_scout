@@ -40,6 +40,10 @@ class ApiStandings:
 
 			load_standingJson(data_raw, leagueId)
 
+class ApiFixtures:
+
+	#def load_fixtureJson(self, idList, api_keys):
+
 			
 
 
