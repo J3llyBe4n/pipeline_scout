@@ -6,12 +6,12 @@ from ETLServer.Modules.db_function import *
 directory = os.path.join(os.path.dirname(__file__), 'datas', 'DataLake')
 nowDate = datetime.datetime.now().date().strftime("%Y_%m_%d")
 
-def create_teamsFloder():
-    if not os.path.exists("%s/teams" % directory):
-        os.mkdir("%s/teams" % directory)
-        print("folder created")
-    else:
-        print("already exists!")
+# def create_teamsFolder():
+#     if not os.path.exists("%s/teams" % directory):
+#         os.mkdir("%s/teams" % directory)
+#         print("folder created")
+#     else:
+#         print("already exists!")
 
 def create_teamsStatisticsFolder():
     if not os.path.exists("%s/teams/statistics" % directory):
@@ -27,7 +27,7 @@ def create_teamStatisticsJson():
     db_func.connect_SQL()
 
     #DB league_id 리스트 반환 
-    tmp_leagueId = db_func.read_tmpLeagueId()
+    tmp_leagueId = db_func.read_leagueId()
 
     print(tmp_leagueId)
 
@@ -43,6 +43,6 @@ def create_teamStatisticsJson():
             with open(file_path, "w") as json_file:
                 json.dump(data, json_file, indent=4)
 
-create_teamsFloder()
+# create_teamsFolder()
 create_teamsStatisticsFolder()
 create_teamStatisticsJson()

@@ -11,14 +11,12 @@ apiFunc = ApiTeamStatistics()
 #db 서버 열어주기
 db_func.connect_SQL()
 
-tmp_leagueId = db_func.read_leagueId()
-
-tmp_teamId = db_func.read_teamId()
+tmp_TeamLeagueId = db_func.read_LeagueTeamId()
 
 gmt_nowDate = datetime.datetime.utcnow().date().strftime('%Y-%m-%d')
 print(gmt_nowDate)
 
 #json 파일 로드 하고 로컬에 관리해주기
-apiFunc.Api_TstatsJson(tmp_leagueId, tmp_teamId, api_keys, round_date=gmt_nowDate)
+apiFunc.Api_TstatsJson(tmp_TeamLeagueId, api_keys, round_date=gmt_nowDate)
 
 db_func.close_SQL()

@@ -93,38 +93,48 @@ class ApiFixtures:
 
 class ApiTeamStatistics:
 
-	def Api_TstatsJson(self, league_idList, team_idList, api_keys, round_date):
+	def Api_TstatsJson(self, idList, api_keys, round_date):
 		print("run func load_TeamStatisticsJson")
 		print(round_date)
-		for i in league_idList:
+
+		cnt = 1
+		for i in range(len(idList)):
+			
+			if cnt % 250 == 0:
+				time.sleep(60)
+				print('wait for 60s')
+			else:
+				pass
+
 			season = 2022
-			leagueId = i
+			leagueId = idList[i][0]
+			teamId = idList[i][1]
 			print("call api req -> params : %d" % leagueId)
 
-			for j in team_idList:
-				teamId = j
-				uri = "https://v3.football.api-sports.io/teams/statistics?league=%d&season=%d&team=%d&date=%s" %(leagueId, season, teamId, round_date)
-				headers = {
-							'x-rapidapi-host': "v3.football.api-sports.io",
-							'x-rapidapi-key': api_keys
-							}
-				print(uri)
-				start_time = time.time()
-				response = requests.request("GET", uri, headers = headers)
-				response_time = http.get_responseTime(start_time)
-				data = response.json()['response']
-				print(data)
-				status = response.headers
+			uri = "https://v3.football.api-sports.io/teams/statistics?league=%d&season=%d&team=%d&date=%s" %(leagueId, season, teamId, round_date)
+			headers = {
+						'x-rapidapi-host': "v3.football.api-sports.io",
+						'x-rapidapi-key': api_keys
+						}
+			# print(uri)
+			start_time = time.time()
+			response = requests.request("GET", uri, headers = headers)
+			response_time = http.get_responseTime(start_time)
+			data = response.json()['response']
 
-				uri_info = http.get_uriInfos(uri)
-				time_stamp = http.get_timeStamp(status)
-				crud_option = http.get_crudOption(status)
-				http_status = http.get_httpStatus(response)
+			status = response.headers
 
-				tmp_dict = conv.convert_toJson(response_time, crud_option, uri_info, time_stamp, http_status)
-				load.load_json(tmp_dict)
-				
-				load_TstatsJsonData(data, leagueId)
+			uri_info = http.get_uriInfos(uri)
+			time_stamp = http.get_timeStamp(status)
+			crud_option = http.get_crudOption(status)
+			http_status = http.get_httpStatus(response)
+
+			tmp_dict = conv.convert_toJson(response_time, crud_option, uri_info, time_stamp, http_status)
+			load.load_json(tmp_dict)
+			
+			load_TstatsJsonData(data, leagueId)
+			cnt += 1
+
 
 class ApiTeams:
 

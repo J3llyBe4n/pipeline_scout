@@ -64,7 +64,9 @@ class DBfunc:
 			data_list =[]
 			data_list.append(data[i]['teamName'])
 			data_list.append(data[i]['apiTeamId'])
-			insert_query = 'insert into pipe_team (team_name, api_team_id) values ("%s", %d)' %(data_list[0], data_list[1])
+			data_list.append(data[i]['apiLeagueId'])
+			print(data[i]['apiLeagueId'])
+			insert_query = 'insert into pipe_team (team_name, api_team_id, api_league_id) values ("%s", %d, %d)' %(data_list[0], data_list[1], data_list[2])
 			self.cursor.execute(insert_query)
 			print("insert %s complete" %data_list[0])
 			self.conn.commit()
@@ -102,3 +104,16 @@ class DBfunc:
 		print(round_date)
 
 		return round_date
+
+
+	def read_LeagueTeamId(self):
+		id_list = []
+		read_query = 'select api_league_id,api_team_id from pipe_team'
+		self.cursor.execute(read_query)
+		sql_data = self.cursor.fetchall()
+		for i in range(len(sql_data)):
+			TeamLeagueId_list = []
+			TeamLeagueId_list.append(sql_data[i][0])
+			TeamLeagueId_list.append(sql_data[i][1])
+			id_list.append(TeamLeagueId_list)
+		return id_list

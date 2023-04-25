@@ -7,9 +7,9 @@
 
 
 import requests, time
-from ETLServer.Modules import httpRes_func as hf
-from ETLServer.Modules import convertJson as js
-from ETLServer.Modules import yoda_loadJson_block as load
+from ETLServer.Modules import http_response as hf
+from ETLServer.Modules import convert_toJson as js
+from ETLServer.Modules import load_json as load
 
 
 class API_block:
@@ -42,7 +42,7 @@ class API_block:
             finalCrudOpt = hf.getCrudOpt(status)
             finalstatus = hf.httpStatus(resp)
             print(finalstatus)
-            finalDict = js.convertToJson(finalTime, finalCrudOpt, finalUrl, finalList[0], finalList[1], finalstatus)
+            finalDict = js.convert_toJson(finalTime, finalCrudOpt, finalUrl, finalList[0], finalList[1], finalstatus)
 
             load.loadMonitoringJson(finalDict)
 
@@ -88,22 +88,25 @@ class ApiTeamBlock:
             data = resp.json()['response']
 
             for j in range(len(data)):
+                tmpList = []
                 tmpData = data[j]
-                dataList.append(tmpData)
+                tmpList.append(i)
+                tmpList.append(tmpData)
+                dataList.append(tmpList)
 
             print("load compelete league ID : %s" % leagueId)
 
             status = resp.headers
 
-            finalTime = hf.resTime(startTime)
-            finalUrl = hf.getUrl(uri)
-            finalList = hf.getTimeStamp(status)
-            finalCrudOpt = hf.getCrudOpt(status)
-            finalstatus = hf.httpStatus(resp)
+            finalTime = hf.get_responseTime(startTime)
+            finalUrl = hf.get_uriInfos(uri)
+            finalTimeStamp = hf.get_timeStamp(status)
+            finalCrudOpt = hf.get_crudOption(status)
+            finalstatus = hf.get_httpStatus(resp)
             # print(finalstatus)
-            finalDict = js.convertToJson(finalTime, finalCrudOpt, finalUrl, finalList[0], finalList[1], finalstatus)
+            finalDict = js.convert_toJson(finalTime, finalCrudOpt, finalUrl, finalTimeStamp, finalstatus)
 
-            load.loadMonitoringJson(finalDict)
+            load.load_json(finalDict)
 
         # print(dataList)
 
@@ -113,9 +116,11 @@ class ApiTeamBlock:
         dictList = []
 
         for i in dataList:
-            teamName = i['team']['name']
-            apiTeamId = i['team']['id']
-            dataDict = {"teamName": teamName, "apiTeamId": apiTeamId}
+            teamName = i[1]['team']['name']
+            apiTeamId = i[1]['team']['id']
+            apiLeagueID = i[0]
+            print(apiLeagueID)
+            dataDict = {"teamName": teamName, "apiTeamId": apiTeamId,"apiLeagueId": apiLeagueID}
             dictList.append(dataDict)
 
         return dictList
