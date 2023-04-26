@@ -151,6 +151,28 @@ class DBfunc:
 
 		return returning_list
 
+	def read_tlId(self):
+		tmp_leagueId = self.read_leagueId()
+		
+		return_list =[]
+
+		for i in tmp_leagueId:
+			tmp_teamList = []
+			tmp_league = i
+
+			query = 'select api_team_id from pipe_team where api_league_id = %s' %tmp_league
+			self.cursor.execute(query)
+			tmp_data = self.cursor.fetchall()
+
+			for j in tmp_data:
+				tmp_teamList.append(j[0])
+
+			tmp_dict ={'%s' %tmp_league : tmp_teamList}
+			return_list.append(tmp_dict)
+
+		print(return_list)
+			
+
 
 		
 
