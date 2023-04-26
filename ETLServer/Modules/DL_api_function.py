@@ -246,7 +246,7 @@ class ApiEvents:
 			load.load_json(tmp_dict)
 			loadL.load_eventsJson(data)
 
-class ApiFixtureStats:
+class ApiFixtureTStats:
 
 	def load_fixtureStatsJson(self, data_list, api_keys):
 		print("run func load_fixtureStatsJson")
@@ -278,4 +278,4 @@ class ApiFixtureStats:
 			tmp_dict = conv.convert_toJson(response_time, crud_option, uri_info, time_stamp, http_status)
 			#load.load_json(tmp_dict)
 
-			loadL.load_fixtureStatsJsonData(data)
+			loadL.load_fixtureTStatsJsonData(data)
