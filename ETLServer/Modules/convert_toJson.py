@@ -21,7 +21,6 @@ def convert_toJson(response_time, crud_option, uri_info, time_stamp, http_status
 
     return tmp_dict
 
-
 def convert_lineUpsJson(tmp_data, fixture_id):
     fixture_id = fixture_id
     home_teamData = tmp_data[0]
@@ -31,6 +30,8 @@ def convert_lineUpsJson(tmp_data, fixture_id):
 
     return tmp_dict
 
+def convert_eventsJson(tmp_data, fixture_id):
+    fixture_id = fixture_id
+    tmp_dict = {'fixture': fixture_id, 'events' : tmp_data}
 
-    
-    
+    return tmp_dict

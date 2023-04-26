@@ -44,7 +44,7 @@ class ApiStandings:
 			start_time = time.time()
 			response = requests.request("GET",uri, headers=headers)
 			response_time = http.get_responseTime(start_time)
-			data = response.json()['response']
+			data = response.json()['response'][0]
 			status = response.headers
 
 			uri_info = http.get_uriInfos(uri)
@@ -78,7 +78,7 @@ class ApiFixtures:
 			start_time = time.time()
 			response = requests.request("GET", uri, headers = headers)
 			response_time = http.get_responseTime(start_time)
-			data = response.json()['response']
+			data = response.json()['response'][0]
 			status = response.headers
 
 			uri_info = http.get_uriInfos(uri)
@@ -157,7 +157,7 @@ class ApiTeams:
 			start_time = time.time()
 			response = requests.request("GET", uri, headers = headers)
 			response_time = http.get_responseTime(start_time)
-			data = response.json()['response']
+			data = response.json()['response'][0]
 			status = response.headers
 
 			uri_info = http.get_uriInfos(uri)
@@ -195,7 +195,7 @@ class ApiH2h:
 			start_time = time.time()
 			response = requests.request("GET", uri, headers = headers)
 			response_time = http.get_responseTime(start_time)
-			data = response.json()['response']
+			data = response.json()['response'][0]
 			status = response.headers
 
 
@@ -229,7 +229,7 @@ class ApiEvents:
 			start_time = time.time()
 			response = requests.request("GET", uri, headers= headers)
 			response_time = http.get_responseTime(start_time)
-			data = response.json()['response']
+			data = response.json()['response'][0]
 			status = response.headers
 
 
@@ -242,7 +242,9 @@ class ApiEvents:
 			tmp_dict = conv.convert_toJson(response_time, crud_option, uri_info, time_stamp, http_status)
 
 			load.load_json(tmp_dict)
-			loadL.load_eventsJson(data)
+
+			final_dict = loadL.convert_eventsJson(data,fixture_id)
+			loadL.load_eventsJson(final_dict)
 
 class ApiFixtureTStats:
 
@@ -276,7 +278,8 @@ class ApiFixtureTStats:
 			tmp_dict = conv.convert_toJson(response_time, crud_option, uri_info, time_stamp, http_status)
 			#load.load_json(tmp_dict)
 
-			loadL.load_fixtureTStatsJsonData(data)
+			final_dict = conv.convert_lineUpsJson(data, fixture_id)
+			loadL.load_lineUpsJson(final_dict)
 
 class ApiFixturePStats:
 
@@ -310,7 +313,8 @@ class ApiFixturePStats:
 			tmp_dict = conv.convert_toJson(response_time, crud_option, uri_info, time_stamp, http_status)
 			#load.load_json(tmp_dict)
 
-			loadL.load_fixturePStatsJsonData(data)
+			final_dict = conv.convert_lineUpsJson(data, fixture_id)
+			loadL.load_lineUpsJson(final_dict)
 
 class ApiFixtureLineups:
 
@@ -370,7 +374,7 @@ class ApiLeagues:
 			start_time = time.time()
 			response = requests.request("GET", uri, headers = headers)
 			response_time = http.get_responseTime(start_time)
-			data = response.json()['response']
+			data = response.json()['response'][0]
 			status = response.headers
 
 			uri_info = http.get_uriInfos(uri)
