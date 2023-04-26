@@ -247,7 +247,7 @@ class ApiEvents:
 class ApiFixtureTStats:
 
 	def load_fixtureTStatsJson(self, data_list, api_keys):
-		print("run func load_fixtureStatsJson")
+		print("run func load_fixtureTStatsJson")
 
 		for i in range(len(data_list)):
 			fixture_id = data_list[i]

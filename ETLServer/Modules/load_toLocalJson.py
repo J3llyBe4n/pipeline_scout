@@ -127,7 +127,7 @@ def load_eventsJson(tmp_data):
         print("heheh")
 
 def load_fixtureTStatsJsonData(tmp_data):
-    now_date = datetime.utcnow().date().strftime("%Y_%m_%d")
+    now_date = datetime.utcnow().date().strftime("%y%m%d")
 
     directory = os.path.join(os.path.dirname(__file__), "..", 'datas', 'DataLake', 'fixtures', 'Tstatistics')
     with open("%s/%s/%s_Tstatistics.json" % (directory, now_date, now_date), "r") as json_file:
@@ -139,11 +139,10 @@ def load_fixtureTStatsJsonData(tmp_data):
 
     with open("%s/%s/%s_Tstatistics.json" % (directory, now_date, now_date), "w") as json_file:
         json.dump(data, json_file, indent=4)
-        print(league_id)
         print("sucksex")
 
 def load_fixturePStatsJsonData(tmp_data):
-    now_date = datetime.utcnow().date().strftime("%Y_%m_%d")
+    now_date = datetime.utcnow().date().strftime("%y%m%d")
 
     directory = os.path.join(os.path.dirname(__file__), "..", 'datas', 'DataLake', 'fixtures', 'Pstatistics')
     with open("%s/%s/%s_Pstatistics.json" % (directory, now_date, now_date), "r") as json_file:
@@ -155,7 +154,6 @@ def load_fixturePStatsJsonData(tmp_data):
 
     with open("%s/%s/%s_Pstatistics.json" % (directory, now_date, now_date), "w") as json_file:
         json.dump(data, json_file, indent=4)
-        print(league_id)
         print("sucksex")
 
 def load_lineUpsJson(tmp_data):
