@@ -39,7 +39,6 @@ def load_standingJson(tmp_data, league_id):
         json.dump(data, json_file, indent=4)
         print("sucksex")
 
-
 def load_fixtureJson(tmp_data, league_id):
     now_date = datetime.utcnow().date().strftime("%y%m%d")
     
@@ -73,7 +72,6 @@ def load_TstatsJsonData(tmp_data, league_id):
         print(league_id)
         print("sucksex")
 
-
 def load_TinfosJson(tmp_data, league_id):
     now_date = datetime.utcnow().date().strftime("%y%m%d")
     
@@ -96,7 +94,6 @@ def load_TinfosJson(tmp_data, league_id):
         json.dump(data, json_file, indent=4)
         print("sucksex")
 
-
 def load_h2hJson(tmp_data):
     
     date_time = tmp_data[0]['fixture']['date'][:tmp_data[0]['fixture']['date'].index('T')].replace('-','')[2:]
@@ -115,3 +112,16 @@ def load_h2hJson(tmp_data):
         json.dump(data, json_file, indent=4)
         print("heheh")
     
+def load_eventsJson(tmp_data):
+    
+    now_date = datetime.now().date().strftime("%y%m%d")
+    directory = os.path.join(os.path.dirname(__file__), "..", 'datas/DataLake/fixtures/events')
+
+    with open("%s/%s/%s_events.json" %(directory, now_date, now_date), "r") as json_file:
+        data = json.load(json_file)
+
+    data['data'].append(tmp_data)
+
+    with open("%s/%s/%s_events.json" %(directory, now_date, now_date), "w") as json_file:
+        json.dump(data, json_file, indent=4)
+        print("heheh")
