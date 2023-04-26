@@ -109,6 +109,8 @@
 
 23.04.22
 =======
-=======
-hi woorek
->>>>>>> da45bcb4677238df081ea5bb296ee0694ad96afe
+
+
+오늘 해야할 것 : 
+				league / fixture 다 뽑아오기
+				
