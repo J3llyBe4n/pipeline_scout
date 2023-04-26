@@ -20,3 +20,17 @@ def convert_toJson(response_time, crud_option, uri_info, time_stamp, http_status
     tmp_dict['http_status'] = http_status
 
     return tmp_dict
+
+
+def convert_lineUpsJson(tmp_data, fixture_id):
+    fixture_id = fixture_id
+    home_teamData = tmp_data[0]
+    away_teamData = tmp_data[1]
+
+    tmp_dict ={'fixture': fixture_id, 'home' : home_teamData, 'away': away_teamData}
+
+    return tmp_dict
+
+
+    
+    
