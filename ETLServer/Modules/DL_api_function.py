@@ -248,7 +248,7 @@ class ApiEvents:
 
 class ApiFixtureTStats:
 
-	def load_fixtureStatsJson(self, data_list, api_keys):
+	def load_fixtureTStatsJson(self, data_list, api_keys):
 		print("run func load_fixtureStatsJson")
 
 		for i in range(len(data_list)):
@@ -279,3 +279,37 @@ class ApiFixtureTStats:
 			#load.load_json(tmp_dict)
 
 			loadL.load_fixtureTStatsJsonData(data)
+
+class ApiFixturePStats:
+
+	def load_fixturePStatsJson(self, data_list, api_keys):
+		print("run func load_fixturePStatsJson")
+
+		for i in range(len(data_list)):
+			fixture_id = data_list[i]
+			print(fixture_id)
+
+			uri = "https://v3.football.api-sports.io/fixtures/players?fixture=%d" %fixture_id
+			headers={
+				'x-rapidapi-host': "v3.football.api-sports.io",
+				'x-rapidapi-key': api_keys
+
+			}
+
+			start_time = time.time()
+			response = requests.request("GET", uri, headers = headers)
+			response_time = http.get_responseTime(start_time)
+			data = response.json()['response']
+			status = response.headers
+
+
+
+			uri_info = http.get_uriInfos(uri)
+			time_stamp = http.get_timeStamp(status)
+			crud_option = http.get_crudOption(status)
+			http_status = http.get_httpStatus(response)
+
+			tmp_dict = conv.convert_toJson(response_time, crud_option, uri_info, time_stamp, http_status)
+			#load.load_json(tmp_dict)
+
+			loadL.load_fixturePStatsJsonData(data)

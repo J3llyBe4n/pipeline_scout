@@ -141,3 +141,19 @@ def load_fixtureTStatsJsonData(tmp_data):
         json.dump(data, json_file, indent=4)
         print(league_id)
         print("sucksex")
+
+def load_fixturePStatsJsonData(tmp_data):
+    now_date = datetime.utcnow().date().strftime("%Y_%m_%d")
+
+    directory = os.path.join(os.path.dirname(__file__), "..", 'datas', 'DataLake', 'fixtures', 'Pstatistics')
+    with open("%s/%s/%s_Pstatistics.json" % (directory, now_date, now_date), "r") as json_file:
+        data = json.load(json_file)
+     
+    data['data'].append(tmp_data)
+
+    # print(tmp_data)
+
+    with open("%s/%s/%s_Pstatistics.json" % (directory, now_date, now_date), "w") as json_file:
+        json.dump(data, json_file, indent=4)
+        print(league_id)
+        print("sucksex")
