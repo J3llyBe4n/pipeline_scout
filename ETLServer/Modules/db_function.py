@@ -136,3 +136,25 @@ class DBfunc:
 			return_data.append(tmp_dict)
 
 		return return_data
+
+
+	def read_fixtureId(self, now_date):
+		print("run func read_fixtureId")
+		returning_list = []
+
+		query = "select api_fixture_id from pipe_round where date(date) ='%s'" %now_date
+		self.cursor.execute(query)
+		tmp_data = self.cursor.fetchall()
+
+		for i in range(len(tmp_data)):
+			returning_list.append(tmp_data[i][0])
+
+		return returning_list
+
+
+		
+
+
+
+
+
