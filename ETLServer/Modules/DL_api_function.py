@@ -243,6 +243,7 @@ class ApiEvents:
 
 			tmp_dict = conv.convert_toJson(response_time, crud_option, uri_info, time_stamp, http_status)
 
+			load.load_json(tmp_dict)
 			loadL.load_eventsJson(data)
 
 
