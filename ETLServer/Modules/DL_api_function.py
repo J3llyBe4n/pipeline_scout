@@ -349,3 +349,36 @@ class ApiFixtureLineups:
 			loadL.load_lineUpsJson(final_dict)
 
 
+class ApiLeagues:
+
+	# league_id 리스트로 받아오기기
+	def load_leagueJson(self, data_list, api_keys):
+
+		print("run func load_fixtureJson")
+		season = 2022
+		
+		print("call api req -> params : %d" %season)
+		for i in data_list:
+			league_id = i
+			uri = "https://v3.football.api-sports.io/leagues?season=%d&id=%d" %(season, league_id)
+
+			headers = {
+				'x-rapidapi-host': "v3.football.api-sports.io",
+				'x-rapidapi-key': api_keys
+			}
+
+			start_time = time.time()
+			response = requests.request("GET", uri, headers = headers)
+			response_time = http.get_responseTime(start_time)
+			data = response.json()['response']
+			status = response.headers
+
+			uri_info = http.get_uriInfos(uri)
+			time_stamp = http.get_timeStamp(status)
+			crud_option = http.get_crudOption(status)
+			http_status = http.get_httpStatus(response)
+
+			tmp_dict = conv.convert_toJson(response_time, crud_option, uri_info, time_stamp, http_status)
+			load.load_json(tmp_dict)
+
+			loadL.load_leagueJson(data, i)
