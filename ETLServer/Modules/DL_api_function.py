@@ -101,8 +101,8 @@ class ApiTeamStatistics:
 		for i in range(len(idList)):
 			
 			if cnt % 250 == 0:
-				time.sleep(60)
 				print('wait for 60s')
+				time.sleep(60)
 			else:
 				pass
 
@@ -132,7 +132,7 @@ class ApiTeamStatistics:
 			tmp_dict = conv.convert_toJson(response_time, crud_option, uri_info, time_stamp, http_status)
 			load.load_json(tmp_dict)
 			
-			load_TstatsJsonData(data, leagueId)
+			loadL.load_TstatsJsonData(data, leagueId)
 			cnt += 1
 
 class ApiTeams:
@@ -243,7 +243,7 @@ class ApiEvents:
 
 			load.load_json(tmp_dict)
 
-			final_dict = loadL.convert_eventsJson(data,fixture_id)
+			final_dict = conv.convert_eventsJson(data,fixture_id)
 			loadL.load_eventsJson(final_dict)
 
 class ApiFixtureTStats:
@@ -416,3 +416,46 @@ def load_psquadJson(self, data_list, api_keys):
 			load.load_json(tmp_dict)
 
 			loadL.load_psquadJson(data, i) 
+
+class ApiCoachs:
+
+	def load_coachsJson(self, data_list, api_keys):
+		print('run fun load_coachsJson')
+
+		cnt=1
+		for i in range(len(data_list)):
+
+			if cnt % 250 == 0:
+				print('wait for 60s')
+				time.sleep(60)
+			else:
+				pass
+			
+			league_id = data_list[i][0]
+			team_id = data_list[i][1]
+
+			uri = "https://v3.football.api-sports.io/coachs?&team=%d" %team_id
+			headers = {
+						'x-rapidapi-host': "v3.football.api-sports.io",
+						'x-rapidapi-key': api_keys
+						}
+
+			start_time = time.time()
+			response = requests.request("GET", uri, headers = headers)
+			response_time = http.get_responseTime(start_time)
+			data = response.json()['response'][0]
+
+			status = response.headers
+
+			uri_info = http.get_uriInfos(uri)
+			time_stamp = http.get_timeStamp(status)
+			crud_option = http.get_crudOption(status)
+			http_status = http.get_httpStatus(response)
+
+			tmp_dict = conv.convert_toJson(response_time, crud_option, uri_info, time_stamp, http_status)
+			# load.load_json(tmp_dict)
+			
+			loadL.load_coachsJsonData(data, league_id)
+
+
+			cnt+=1
