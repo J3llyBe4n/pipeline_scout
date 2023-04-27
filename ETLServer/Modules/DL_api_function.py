@@ -454,8 +454,9 @@ class ApiCoachs:
 
 			tmp_dict = conv.convert_toJson(response_time, crud_option, uri_info, time_stamp, http_status)
 			# load.load_json(tmp_dict)
-			
-			loadL.load_coachsJsonData(data, league_id)
+
+			final_dict = conv.convert_coachsJson(data)
+			loadL.load_coachsJsonData(final_dict, league_id)
 
 
 			cnt+=1
