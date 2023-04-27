@@ -223,7 +223,6 @@ class ApiEvents:
 			headers={
 				'x-rapidapi-host': "v3.football.api-sports.io",
 				'x-rapidapi-key': api_keys
-
 			}
 
 			start_time = time.time()
@@ -231,7 +230,6 @@ class ApiEvents:
 			response_time = http.get_responseTime(start_time)
 			data = response.json()['response'][0]
 			status = response.headers
-
 
 
 			uri_info = http.get_uriInfos(uri)
@@ -259,7 +257,6 @@ class ApiFixtureTStats:
 			headers={
 				'x-rapidapi-host': "v3.football.api-sports.io",
 				'x-rapidapi-key': api_keys
-
 			}
 
 			start_time = time.time()
@@ -267,8 +264,6 @@ class ApiFixtureTStats:
 			response_time = http.get_responseTime(start_time)
 			data = response.json()['response']
 			status = response.headers
-
-
 
 			uri_info = http.get_uriInfos(uri)
 			time_stamp = http.get_timeStamp(status)
@@ -294,7 +289,6 @@ class ApiFixturePStats:
 			headers={
 				'x-rapidapi-host': "v3.football.api-sports.io",
 				'x-rapidapi-key': api_keys
-
 			}
 
 			start_time = time.time()
@@ -302,8 +296,6 @@ class ApiFixturePStats:
 			response_time = http.get_responseTime(start_time)
 			data = response.json()['response']
 			status = response.headers
-
-
 
 			uri_info = http.get_uriInfos(uri)
 			time_stamp = http.get_timeStamp(status)
@@ -330,7 +322,6 @@ class ApiFixtureLineups:
 			headers={
 				'x-rapidapi-host': "v3.football.api-sports.io",
 				'x-rapidapi-key': api_keys
-
 			}
 
 			start_time = time.time()
@@ -338,8 +329,6 @@ class ApiFixtureLineups:
 			response_time = http.get_responseTime(start_time)
 			data = response.json()['response']
 			status = response.headers
-
-
 
 			uri_info = http.get_uriInfos(uri)
 			time_stamp = http.get_timeStamp(status)
@@ -457,7 +446,6 @@ class ApiCoachs:
 			final_dict = conv.convert_coachsJson(data)
 			loadL.load_coachsJsonData(final_dict, league_id)
 
-
 			cnt+=1
 
 class ApiPlayerPlayers:
@@ -504,20 +492,42 @@ class ApiPlayerPlayers:
 
 			print("league %s is done" %tmp_leagueId)
 			time.sleep(30)
-				
-
-
-					
-
-
-
-
 
 		print(data_list)
 
 		#print("call api req -> params : %d" %)
 
+class ApiPtopscoreres:
 
+	def load_ptopscorersJson(self, data_list, api_keys):
+		print("run func load_fixtureJson")
+		season = 2022
+		# print("call api req -> params : %d" %team_id)
+		for i in data_list:
+			league_id = i
+			uri = "https://v3.football.api-sports.io/players/topscorers?league=%d&season=%d" %(league_id, season)
+
+			headers = {
+				'x-rapidapi-host': "v3.football.api-sports.io",
+				'x-rapidapi-key': api_keys
+			}
+
+			start_time = time.time()
+			response = requests.request("GET", uri, headers = headers)
+			response_time = http.get_responseTime(start_time)
+			data = response.json()['response']
+			status = response.headers
+
+			uri_info = http.get_uriInfos(uri)
+			time_stamp = http.get_timeStamp(status)
+			crud_option = http.get_crudOption(status)
+			http_status = http.get_httpStatus(response)
+
+			tmp_dict = conv.convert_toJson(response_time, crud_option, uri_info, time_stamp, http_status)
+			# load.load_json(tmp_dict)
+
+			# 모듈의 load_toLocalJson에 함수 추가 > load_ptopscorersJson
+			loadL.load_ptopscorersJson(data, i) 
 
 
 
