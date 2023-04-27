@@ -21,7 +21,7 @@ def create_teamsStatisticsFolder():
         print("already exists!")
 
 def create_teamStatisticsDayFolder():
-    if not os.path.exists("%s/h2h/%s" %(directory, nowDate)):
+    if not os.path.exists("%s/teams/statistics/%s" %(directory, nowDate)):
         os.mkdir("%s/teams/statistics/%s" %(directory, nowDate))
         print("folder created! : %s" %nowDate)
     else:
