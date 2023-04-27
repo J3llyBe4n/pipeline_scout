@@ -352,7 +352,6 @@ class ApiFixtureLineups:
 			final_dict = conv.convert_lineUpsJson(data, fixture_id)
 			loadL.load_lineUpsJson(final_dict)
 
-
 class ApiLeagues:
 
 	# league_id 리스트로 받아오기기
@@ -460,3 +459,68 @@ class ApiCoachs:
 
 
 			cnt+=1
+
+class ApiPlayerPlayers:
+	def load_pplayerJson(self, data_list, api_keys):
+		print("run func load_pplayerJson")
+		season = 2022
+		league_playerdata = []
+
+		for i in range(len(data_list)):
+			tmp_leagueRaw = data_list[i].keys()
+			tmp_leagueId =', '.join(tmp_leagueRaw)
+
+			tmp_teamList = data_list[i][f'{tmp_leagueId}']
+
+			for team_id in tmp_teamList:
+
+				base_uri = "https://v3.football.api-sports.io/players?league=%s&team=%s&season=%s" %(tmp_leagueId, team_id, season)
+				
+				headers = {
+				'x-rapidapi-host': "v3.football.api-sports.io",
+				'x-rapidapi-key': api_keys
+				}
+
+				response = requests.request("GET", base_uri, headers = headers)
+				end_page = response.json()['paging']['total']
+				
+				tmp_data = []
+
+				for current in range(1, end_page+1):
+					
+					final_uri = "https://v3.football.api-sports.io/players?league=%s&team=%s&season=%s&page=%d" %(tmp_leagueId, team_id, season, current)
+					print(final_uri)
+
+					response = requests.request("GET", final_uri , headers = headers)
+					
+					data = response.json()['response']
+					tmp_data.append(data)
+
+				print(tmp_data)
+				
+				team_playerData = conv.convert_playerJson(team_id, tmp_data)
+				loadL.load_pplayerJson(team_playerData, tmp_leagueId)
+				print("compelete %d teamId ")
+
+			print("league %s is done" %tmp_leagueId)
+			time.sleep(30)
+				
+
+
+					
+
+
+
+
+
+		print(data_list)
+
+		#print("call api req -> params : %d" %)
+
+
+
+
+
+
+
+
