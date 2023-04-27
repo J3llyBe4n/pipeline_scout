@@ -62,3 +62,14 @@ def convert_predictionsJson(tmp_data, fixture_id):
     tmp_dict = {'fixture':fixture_id, 'predictions':tmp_data['predictions'], 'league':tmp_data['league'], 'teams':tmp_data['teams'], 'comparison':tmp_data['comparison'],'h2h':tmp_data['h2h']}
 
     return tmp_dict
+
+
+def convert_ptopscorersJson(tmp_data, league_id):
+    tmp_dict = {}
+    tmp_topscorerData =[]
+    for i in range(len(tmp_data)):
+        tmp_topscorerData.append(tmp_data[i])
+
+    tmp_dict ={'id': league_id, 'data' : tmp_topscorerData}
+
+    return tmp_dict

@@ -526,9 +526,9 @@ class ApiPtopscoreres:
 
 			tmp_dict = conv.convert_toJson(response_time, crud_option, uri_info, time_stamp, http_status)
 			# load.load_json(tmp_dict)
-
+			final_dict = conv.convert_ptopscorersJson(data, league_id)
 			# 모듈의 load_toLocalJson에 함수 추가 > load_ptopscorersJson
-			loadL.load_ptopscorersJson(data, i) 
+			loadL.load_ptopscorersJson(final_dict, league_id) 
 
 
 
