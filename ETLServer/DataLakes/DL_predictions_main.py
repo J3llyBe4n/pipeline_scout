@@ -14,3 +14,5 @@ db_func.connect_SQL()
 fixture_id = db_func.read_fixtureId(now_date)
 
 api_func.load_predictionsJson(fixture_id, api_keys)
+
+db_func.close_SQL()
