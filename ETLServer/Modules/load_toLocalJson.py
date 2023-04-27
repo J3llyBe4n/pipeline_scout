@@ -210,12 +210,12 @@ def load_coachsJsonData(tmp_data, league_id):
     now_date = datetime.utcnow().date().strftime("%y%m%d")
     directory = os.path.join(os.path.dirname(__file__), "..", 'datas', 'DataLake', 'coachs')
 
-    with open("%s/%s/%s_%d_coachs.json" % (directory, now_date, now_date, team_id), "r") as json_file:
+    with open("%s/%s/%s_%d_coachs.json" % (directory, now_date, now_date, league_id), "r") as json_file:
         data = json.load(json_file)
 
     data['data'].append(tmp_data)
     print(tmp_data)
 
-    with open("%s/%s/%s_%d_coachs.json" % (directory, now_date, now_date, team_id), "w") as json_file:
+    with open("%s/%s/%s_%d_coachs.json" % (directory, now_date, now_date, league_id), "w") as json_file:
         json.dump(data, json_file, indent=4)
         print("sucksex")
