@@ -56,6 +56,9 @@ def convert_playerJson(team_id, tmp_data):
     return tmp_dict
 
 
+def convert_predictionsJson(tmp_data, fixture_id):
+    print(tmp_data)
+    fixture_id = fixture_id
+    tmp_dict = {'fixture':fixture_id, 'predictions':tmp_data['predictions'], 'league':tmp_data['league'], 'teams':tmp_data['teams'], 'comparison':tmp_data['comparison'],'h2h':tmp_data['h2h']}
 
-
-
+    return tmp_dict

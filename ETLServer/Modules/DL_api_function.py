@@ -404,7 +404,7 @@ def load_psquadJson(self, data_list, api_keys):
 			load.load_json(tmp_dict)
 
 			loadL.load_psquadJson(data, i) 
-
+'''
 class ApiCoachs:
 
 	def load_coachsJson(self, data_list, api_keys):
@@ -447,6 +447,7 @@ class ApiCoachs:
 			loadL.load_coachsJsonData(final_dict, league_id)
 
 			cnt+=1
+'''
 
 class ApiPlayerPlayers:
 	def load_pplayerJson(self, data_list, api_keys):
@@ -534,3 +535,40 @@ class ApiPtopscoreres:
 
 
 
+
+
+class ApiPredictions:
+
+	def load_predictionsJson(self, data_list, api_keys):
+		print("run func load_predictionsJson")
+
+		for i in range(len(data_list)):
+			fixture_id = data_list[i]
+			print(fixture_id)
+
+			uri = "https://v3.football.api-sports.io/predictions?fixture=%d" %fixture_id
+			headers={
+				'x-rapidapi-host': "v3.football.api-sports.io",
+				'x-rapidapi-key': api_keys
+
+			}
+
+			start_time = time.time()
+			response = requests.request("GET", uri, headers = headers)
+			response_time = http.get_responseTime(start_time)
+			data = response.json()['response'][0]
+			# print(data)
+			status = response.headers
+
+
+
+			uri_info = http.get_uriInfos(uri)
+			time_stamp = http.get_timeStamp(status)
+			crud_option = http.get_crudOption(status)
+			http_status = http.get_httpStatus(response)
+
+			tmp_dict = conv.convert_toJson(response_time, crud_option, uri_info, time_stamp, http_status)
+			#load.load_json(tmp_dict)
+
+			final_dict = conv.convert_predictionsJson(data, fixture_id)
+			loadL.load_predictionsJsonData(final_dict)
