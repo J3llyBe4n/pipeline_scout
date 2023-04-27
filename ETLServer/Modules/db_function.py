@@ -170,7 +170,7 @@ class DBfunc:
 			tmp_dict ={'%s' %tmp_league : tmp_teamList}
 			return_list.append(tmp_dict)
 
-		print(return_list)
+		return return_list
 			
 
 
