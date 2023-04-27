@@ -190,5 +190,17 @@ def load_leagueJson(tmp_data, league_id):
         print("sucksex")
 
 
+def load_psquadJson(tmp_data, team_id):
 
+    now_date = datetime.utcnow().date().strftime("%y%m%d")
+    directory = os.path.join(os.path.dirname(__file__), "..", 'datas', 'DataLake', 'players', 'squad')
 
+    with open("%s/%s_%d_Psquad.json" % (directory, now_date, team_id), "r") as json_file:
+        data = json.load(json_file)
+
+    data['data'].append(tmp_data)
+    print(tmp_data)
+
+    with open("%s/%s_%d_Psquad.json" % (directory, now_date, team_id), "w") as json_file:
+        json.dump(data, json_file, indent=4)
+        print("sucksex")
