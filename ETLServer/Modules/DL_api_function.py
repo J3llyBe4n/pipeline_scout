@@ -275,7 +275,7 @@ class ApiFixtureTStats:
 			#load.load_json(tmp_dict)
 
 			final_dict = conv.convert_lineUpsJson(data, fixture_id)
-			loadL.load_lineUpsJson(final_dict)
+			loadL.convert_HomeAwayJson(final_dict)
 
 class ApiFixturePStats:
 
@@ -307,7 +307,7 @@ class ApiFixturePStats:
 			#load.load_json(tmp_dict)
 
 			final_dict = conv.convert_lineUpsJson(data, fixture_id)
-			loadL.load_lineUpsJson(final_dict)
+			loadL.convert_HomeAwayJson(final_dict)
 
 class ApiFixtureLineups:
 
@@ -340,7 +340,7 @@ class ApiFixtureLineups:
 
 			load.load_json(tmp_dict)
 			final_dict = conv.convert_lineUpsJson(data, fixture_id)
-			loadL.load_lineUpsJson(final_dict)
+			loadL.convert_HomeAwayJson(final_dict)
 
 class ApiLeagues:
 
@@ -531,13 +531,6 @@ class ApiPtopscoreres:
 			final_dict = conv.convert_ptopscorersJson(data, league_id)
 			# 모듈의 load_toLocalJson에 함수 추가 > load_ptopscorersJson
 			loadL.load_ptopscorersJson(final_dict, league_id) 
-
-
-
-
-
-
-
 
 class ApiPredictions:
 

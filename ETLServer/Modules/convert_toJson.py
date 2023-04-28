@@ -21,7 +21,8 @@ def convert_toJson(response_time, crud_option, uri_info, time_stamp, http_status
 
     return tmp_dict
 
-def convert_lineUpsJson(tmp_data, fixture_id):
+# fixture_lineups, fixture_Tstats, fixture_Pstats에 쓰이는 func
+def convert_HomeAwayJson(tmp_data, fixture_id):
     fixture_id = fixture_id
     home_teamData = tmp_data[0]
     away_teamData = tmp_data[1]
