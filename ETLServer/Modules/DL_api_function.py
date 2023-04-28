@@ -132,6 +132,7 @@ class ApiTeamStatistics:
 			tmp_dict = conv.convert_toJson(response_time, crud_option, uri_info, time_stamp, http_status)
 			load.load_json(tmp_dict)
 			
+			final_dict = conv.convert_TstatsJson(data,round_date)
 			loadL.load_TstatsJsonData(data, leagueId)
 			cnt += 1
 
