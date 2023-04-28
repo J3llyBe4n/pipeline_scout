@@ -62,3 +62,7 @@ def convert_predictionsJson(tmp_data, fixture_id):
     tmp_dict = {'fixture':fixture_id, 'predictions':tmp_data['predictions'], 'league':tmp_data['league'], 'teams':tmp_data['teams'], 'comparison':tmp_data['comparison'],'h2h':tmp_data['h2h']}
 
     return tmp_dict
+
+def convert_TstatsJson(tmp_data, date):
+    tmp_dict = {'up_to_date': date, 'league':tmp_data['league'], 'team':tmp_data['team'], 'stats':{'form':tmp_data['form'], 'fixtures':tmp_data['fixtures'], 'goals':tmp_data['goals'], 'biggest':tmp_data['biggest'], 'clean_sheet':tmp_data['clean_sheet'], 'failed_to_score':tmp_data['failed_to_score'], 'penalty':tmp_data['penalty'], 'lineups':tmp_data['lineups'], 'cards':tmp_data['cards']}}
+    return tmp_dict
