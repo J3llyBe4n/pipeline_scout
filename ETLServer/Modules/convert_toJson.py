@@ -63,6 +63,14 @@ def convert_predictionsJson(tmp_data, fixture_id):
 
     return tmp_dict
 
-def convert_TstatsJson(tmp_data, date):
-    tmp_dict = {'up_to_date': date, 'league':tmp_data['league'], 'team':tmp_data['team'], 'stats':{'form':tmp_data['form'], 'fixtures':tmp_data['fixtures'], 'goals':tmp_data['goals'], 'biggest':tmp_data['biggest'], 'clean_sheet':tmp_data['clean_sheet'], 'failed_to_score':tmp_data['failed_to_score'], 'penalty':tmp_data['penalty'], 'lineups':tmp_data['lineups'], 'cards':tmp_data['cards']}}
+
+def convert_ptopscorersJson(tmp_data, league_id):
+    tmp_dict = {}
+    tmp_topscorerData =[]
+    for i in range(len(tmp_data)):
+        tmp_topscorerData.append(tmp_data[i])
+
+    tmp_dict ={'id': league_id, 'data' : tmp_topscorerData}
+
     return tmp_dict
+>>>>>>> 50bbc83f6d047eafe51ec46e9a7f20fdd4907086
