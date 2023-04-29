@@ -274,8 +274,8 @@ class ApiFixtureTStats:
 			tmp_dict = conv.convert_toJson(response_time, crud_option, uri_info, time_stamp, http_status)
 			#load.load_json(tmp_dict)
 
-			final_dict = conv.convert_lineUpsJson(data, fixture_id)
-			loadL.convert_HomeAwayJson(final_dict)
+			final_dict = conv.convert_HomeAwayJson(data, fixture_id)
+			loadL.load_fixtureTStatsJsonData(final_dict)
 
 class ApiFixturePStats:
 
@@ -306,8 +306,8 @@ class ApiFixturePStats:
 			tmp_dict = conv.convert_toJson(response_time, crud_option, uri_info, time_stamp, http_status)
 			#load.load_json(tmp_dict)
 
-			final_dict = conv.convert_lineUpsJson(data, fixture_id)
-			loadL.convert_HomeAwayJson(final_dict)
+			final_dict = conv.convert_HomeAwayJson(data, fixture_id)
+			loadL.load_fixturePStatsJsonData(final_dict)
 
 class ApiFixtureLineups:
 
@@ -339,8 +339,8 @@ class ApiFixtureLineups:
 			tmp_dict = conv.convert_toJson(response_time, crud_option, uri_info, time_stamp, http_status)
 
 			load.load_json(tmp_dict)
-			final_dict = conv.convert_lineUpsJson(data, fixture_id)
-			loadL.convert_HomeAwayJson(final_dict)
+			final_dict = conv.convert_HomeAwayJson(data, fixture_id)
+			loadL.load_lineUpsJson(final_dict)
 
 class ApiLeagues:
 
