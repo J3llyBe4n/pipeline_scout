@@ -207,7 +207,7 @@ class ApiH2h:
 			http_status = http.get_httpStatus(response)
 
 			tmp_dict = conv.convert_toJson(response_time, crud_option, uri_info, time_stamp, http_status)
-			#load.load_json(tmp_dict)
+			load.load_json(tmp_dict)
 
 			loadL.load_h2hJson(data)
 
