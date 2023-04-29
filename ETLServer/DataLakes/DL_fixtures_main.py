@@ -3,10 +3,8 @@
 # json 이름 라벨링 후 데이터 적재
 # req log 남기기
 
-import sys #
-sys.path.append('../') #
-from Modules.db_function import * #
-from Modules.DL_api_function import * #
+from ETLServer.Modules.db_function import * 
+from ETLServer.Modules.DL_api_function import * 
 
 api_keys = "a68636f8f2c18511179c56f15e95080c"
 

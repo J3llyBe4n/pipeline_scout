@@ -4,11 +4,8 @@
 # fixture를 기반으로 json에 붙여넣기
 # 그날 00시에 돌면 해당 경기 데이터를 받아올 수 가없음 따라서, 해당 경기 날 경기가 다 끝나는 시간 ex 해당날 밤 11:30 분 이런식으로 배치를 돌려야함
 
-import sys #
-print(sys)
-sys.path.append('..') #
-from ETLServer.Modules.db_function import * #
-from ETLServer.Modules.DL_api_function import * #
+from ETLServer.Modules.db_function import * 
+from ETLServer.Modules.DL_api_function import * 
 from datetime import datetime
 
 now_date = datetime.now().date().strftime("%Y-%m-%d")
@@ -23,5 +20,3 @@ db_func.connect_SQL()
 fixture_id = db_func.read_fixtureId(now_date)
 
 api_func.load_eventsJson(fixture_id, api_keys)
-
-

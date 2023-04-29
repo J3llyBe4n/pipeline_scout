@@ -1,7 +1,5 @@
-import sys #
-sys.path.append('../') #
-from Modules.db_function import * #
-from Modules.DL_api_function import * #
+from ETLServer.Modules.db_function import * 
+from ETLServer.Modules.DL_api_function import * 
 import datetime
 
 api_keys = 'a86d420d0d8840c8e722e16cf9742f7b'

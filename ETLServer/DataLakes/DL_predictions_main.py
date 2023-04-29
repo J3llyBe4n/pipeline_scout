@@ -1,7 +1,5 @@
-import sys #
-sys.path.append('../') #
-from Modules.db_function import * #
-from Modules.DL_api_function import * #
+from ETLServer.Modules.db_function import * 
+from ETLServer.Modules.DL_api_function import * 
 import datetime
 
 now_date = datetime.datetime.utcnow().date().strftime("%Y-%m-%d")
