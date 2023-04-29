@@ -39,6 +39,7 @@ def load_standingJson(tmp_data): #
 def load_fixtureJson(tmp_data, league_id): #
 
     now_year = datetime.utcnow().date().strftime("%Y") #
+    now_year = str(int(now_year) - 1)
     directory = os.path.join(os.path.dirname(__file__), "..", 'datas', 'DataLake', 'fixtures', 'fixtures', now_year) #
 
     with open("%s/%s_%d_fixture.json" % (directory, str(now_year)[2:], league_id), "r") as json_file:

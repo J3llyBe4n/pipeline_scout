@@ -8,6 +8,7 @@ from ETLServer.Modules.db_function import *
 
 directory = os.path.join(os.path.dirname(__file__), "../datas/DataLake")
 nowDate = datetime.datetime.now().date().strftime("%y")
+nowDate = str(int(nowDate) - 1 )
 
 def create_fixtureBaseFolder():
     if not os.path.exists("%s/fixtures" %directory):
