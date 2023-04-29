@@ -78,7 +78,7 @@ class ApiFixtures:
 			start_time = time.time()
 			response = requests.request("GET", uri, headers = headers)
 			response_time = http.get_responseTime(start_time)
-			data = response.json()['response'][0]
+			data = response.json()['response']
 			status = response.headers
 
 			uri_info = http.get_uriInfos(uri)
