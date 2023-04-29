@@ -30,7 +30,7 @@ def create_seasonFixtureTstatsFolder():
 
 def create_fixtureTstatsJson():
 
-        file_path = "%s/Tstatistics/%s/%s_Tstatistics.json" % (directory, nowYear, nowDate)
+        file_path = "%s/Tstatistics/%s/%s_Ftstats.json" % (directory, nowYear, nowDate)
         data = {'data' : []}
         
         if os.path.exists(file_path):
