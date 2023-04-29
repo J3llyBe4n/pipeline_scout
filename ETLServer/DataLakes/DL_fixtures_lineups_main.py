@@ -4,8 +4,10 @@
 #들어온 data 형태에 맞춰서 적재
 
 from datetime import datetime
-from ETLServer.Modules.db_function import *
-from ETLServer.Modules.DL_api_function import *
+import sys #
+sys.path.append('../') #
+from Modules.db_function import * #
+from Modules.DL_api_function import * #
 
 now_date = datetime.now().date().strftime("%Y-%m-%d")
 

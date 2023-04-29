@@ -9,20 +9,11 @@
 '''
 
 import requests, time
-import sys
-sys.path.append('../')
-
-# import Modules.load_toLocalJson as loadL
-# import Modules.convert_toJson as conv		# js > conv
-# import Modules.load_json as load
-# import Modules.http_response as http 		# hf > http
-
-
-from ETLServer.Modules import load_toLocalJson as loadL
-from ETLServer.Modules.load_toLocalJson import *
-from ETLServer.Modules import convert_toJson as conv		# js > conv
-from ETLServer.Modules import load_json as load
-from ETLServer.Modules import http_response as http 		# hf > http
+import load_toLocalJson as loadL
+from load_toLocalJson import *
+import convert_toJson as conv		# js > conv
+import load_json as load
+import http_response as http 		# hf > http
 
 class ApiStandings:
 
