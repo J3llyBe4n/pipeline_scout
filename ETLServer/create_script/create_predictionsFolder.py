@@ -7,7 +7,7 @@ import json
 from ETLServer.Modules.db_function import *
 
 directory = os.path.join(os.path.dirname(__file__), '../datas/DataLake')
-nowDate = datetime.datetime.utcnow().date().strftime("%y%m%d")
+now_date = datetime.datetime.utcnow().date().strftime("%y%m%d")
 now_year = datetime.datetime.now().date().strftime("%Y")
 now_year = int(now_year) - 1
 
@@ -26,7 +26,7 @@ def create_predictionsSeasonFolder():
         print("already exists")
 
 def create_predictionsJson():
-    file_path = "%s/predictions/%s/%s_predictions.json" % (directory,now_year, nowDate)
+    file_path = "%s/predictions/%s/%s_predictions.json" % (directory, now_year, now_date)
     data = {'data' : []}
     
     if os.path.exists(file_path):
