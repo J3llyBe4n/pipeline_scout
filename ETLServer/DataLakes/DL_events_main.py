@@ -5,9 +5,10 @@
 # 그날 00시에 돌면 해당 경기 데이터를 받아올 수 가없음 따라서, 해당 경기 날 경기가 다 끝나는 시간 ex 해당날 밤 11:30 분 이런식으로 배치를 돌려야함
 
 import sys #
-sys.path.append('../') #
-from Modules.db_function import * #
-from Modules.DL_api_function import * #
+print(sys)
+sys.path.append('..') #
+from ETLServer.Modules.db_function import * #
+from ETLServer.Modules.DL_api_function import * #
 from datetime import datetime
 
 now_date = datetime.now().date().strftime("%Y-%m-%d")
