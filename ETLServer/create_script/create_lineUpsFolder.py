@@ -28,7 +28,7 @@ def create_seasonsLineUpsFolder():
 
 def create_lineUpsJson():
 
-        file_path = "%s/lineups/%s/%s_lineUps.json" % (directory,now_year, nowDate)
+        file_path = "%s/lineups/%s/%s_lineUps.json" % (directory, now_year, nowDate)
         data = {'data' : []}
         
         if os.path.exists(file_path):
