@@ -124,6 +124,7 @@ def load_h2hJson(tmp_data): #
 def load_eventsJson(tmp_data):
     
     now_year = datetime.utcnow().date().strftime("%Y") #
+    now_year = str(int(now_year) -1)
     now_date = datetime.utcnow().date().strftime("%y%m%d") #
     directory = os.path.join(os.path.dirname(__file__), "..", 'datas', 'DataLake', 'fixtures', 'events', now_year) #
 
