@@ -7,7 +7,7 @@ import json
 from ETLServer.Modules.db_function import *
 
 directory = os.path.join(os.path.dirname(__file__), '../datas/DataLake/fixtures')
-nowYear = datetime.datetime.now().date().strftime("%y")
+nowYear = datetime.datetime.now().date().strftime("%Y")
 nowDate = datetime.datetime.now().date().strftime("%y%m%d")
 nowYear = int(nowYear) -1
 
