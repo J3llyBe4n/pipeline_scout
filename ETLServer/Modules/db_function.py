@@ -171,6 +171,14 @@ class DBfunc:
 			return_list.append(tmp_dict)
 
 		return return_list
+
+	def update_fixture(self, update_data):
+
+		for i in update_data:
+			query = 'update pipe_round set date = "%s" where api_fixture_id = %s' %(i[1], i[0])
+			self.cursor.execute(query)
+			self.cursor.commit()
+			print("update %s compelete" %i[0])
 			
 
 

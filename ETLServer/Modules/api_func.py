@@ -246,3 +246,50 @@ class ApiFixtureBlock:
             dict_list.append(data_dict)
 
         return dict_list
+
+
+
+class ApiUpdateFixture:
+
+    def update_todayRoundFixture(self, data_list, api_keys):
+
+        print("run func update_todayRoundFixutre")
+        timezone = 'europe/london'
+        update_data = []
+
+        for fixture_id in data_list:
+            
+            tmp_dataList =[]
+
+            base_url = "https://v3.football.api-sports.io/fixtures?id=%s&timezone=%s" %(fixture_id, timezone)
+
+            headers = {
+                'x-rapidapi-host': "v3.football.api-sports.io",
+                'x-rapidapi-key': api_keys
+            }
+
+            start_time = time.time()
+            resp = requests.request("GET", base_url , headers = headers)
+            data = resp.json()['response'][0]
+
+            tmp_dataList.append(data['fixture']['id'])
+            tmp_dataList.append(data['fixture']['date'])
+            tmp_dataList.append(data['teams']['home']['id'])
+            tmp_dataList.append(data['teams']['away']['id'])
+
+            update_data.append(tmp_dataList)
+            print("load comeplete %s" %data['fixture']['id'])
+
+        return update_data
+
+            
+
+
+
+            
+
+
+
+
+
+
