@@ -9,11 +9,11 @@
 '''
 
 import requests, time
-import Modules.load_toLocalJson as loadL
-from Modules.load_toLocalJson import *
-import Modules.convert_toJson as conv		# js > conv
-import Modules.load_json as load
-import Modules.http_response as http 		# hf > http
+import ETLServer.Modules.load_toLocalJson as loadL
+from ETLServer.Modules.load_toLocalJson import *
+import ETLServer.Modules.convert_toJson as conv		# js > conv
+import ETLServer.Modules.load_json as load
+import ETLServer.Modules.http_response as http 		# hf > http
 
 class ApiStandings:
 
