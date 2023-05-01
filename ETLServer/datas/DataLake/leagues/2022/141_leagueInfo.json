@@ -1,3 +1,41 @@
 {
-    "data": []
+    "data": [
+        {
+            "league": {
+                "id": 141,
+                "name": "Segunda Divisi\u00f3n",
+                "type": "League",
+                "logo": "https://media-2.api-sports.io/football/leagues/141.png"
+            },
+            "country": {
+                "name": "Spain",
+                "code": "ES",
+                "flag": "https://media-1.api-sports.io/flags/es.svg"
+            },
+            "seasons": [
+                {
+                    "year": 2022,
+                    "start": "2022-08-14",
+                    "end": "2023-05-28",
+                    "current": true,
+                    "coverage": {
+                        "fixtures": {
+                            "events": true,
+                            "lineups": true,
+                            "statistics_fixtures": true,
+                            "statistics_players": true
+                        },
+                        "standings": true,
+                        "players": true,
+                        "top_scorers": true,
+                        "top_assists": true,
+                        "top_cards": true,
+                        "injuries": false,
+                        "predictions": true,
+                        "odds": true
+                    }
+                }
+            ]
+        }
+    ]
 }

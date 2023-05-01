@@ -1,3 +1,41 @@
 {
-    "data": []
+    "data": [
+        {
+            "league": {
+                "id": 113,
+                "name": "Allsvenskan",
+                "type": "League",
+                "logo": "https://media-1.api-sports.io/football/leagues/113.png"
+            },
+            "country": {
+                "name": "Sweden",
+                "code": "SE",
+                "flag": "https://media-2.api-sports.io/flags/se.svg"
+            },
+            "seasons": [
+                {
+                    "year": 2022,
+                    "start": "2022-04-02",
+                    "end": "2022-11-13",
+                    "current": false,
+                    "coverage": {
+                        "fixtures": {
+                            "events": true,
+                            "lineups": true,
+                            "statistics_fixtures": true,
+                            "statistics_players": true
+                        },
+                        "standings": true,
+                        "players": true,
+                        "top_scorers": true,
+                        "top_assists": true,
+                        "top_cards": true,
+                        "injuries": true,
+                        "predictions": true,
+                        "odds": false
+                    }
+                }
+            ]
+        }
+    ]
 }

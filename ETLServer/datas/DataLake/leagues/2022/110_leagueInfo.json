@@ -1,3 +1,41 @@
 {
-    "data": []
+    "data": [
+        {
+            "league": {
+                "id": 110,
+                "name": "Premier League",
+                "type": "League",
+                "logo": "https://media-3.api-sports.io/football/leagues/110.png"
+            },
+            "country": {
+                "name": "Wales",
+                "code": "GB",
+                "flag": "https://media-3.api-sports.io/flags/gb.svg"
+            },
+            "seasons": [
+                {
+                    "year": 2022,
+                    "start": "2022-08-12",
+                    "end": "2023-04-22",
+                    "current": true,
+                    "coverage": {
+                        "fixtures": {
+                            "events": true,
+                            "lineups": true,
+                            "statistics_fixtures": false,
+                            "statistics_players": false
+                        },
+                        "standings": true,
+                        "players": true,
+                        "top_scorers": true,
+                        "top_assists": true,
+                        "top_cards": true,
+                        "injuries": false,
+                        "predictions": true,
+                        "odds": false
+                    }
+                }
+            ]
+        }
+    ]
 }

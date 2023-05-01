@@ -1,3 +1,41 @@
 {
-    "data": []
+    "data": [
+        {
+            "league": {
+                "id": 362,
+                "name": "A Lyga",
+                "type": "League",
+                "logo": "https://media-1.api-sports.io/football/leagues/362.png"
+            },
+            "country": {
+                "name": "Lithuania",
+                "code": "LT",
+                "flag": "https://media-2.api-sports.io/flags/lt.svg"
+            },
+            "seasons": [
+                {
+                    "year": 2022,
+                    "start": "2022-03-04",
+                    "end": "2022-11-11",
+                    "current": false,
+                    "coverage": {
+                        "fixtures": {
+                            "events": true,
+                            "lineups": true,
+                            "statistics_fixtures": false,
+                            "statistics_players": false
+                        },
+                        "standings": true,
+                        "players": true,
+                        "top_scorers": true,
+                        "top_assists": true,
+                        "top_cards": true,
+                        "injuries": false,
+                        "predictions": true,
+                        "odds": false
+                    }
+                }
+            ]
+        }
+    ]
 }

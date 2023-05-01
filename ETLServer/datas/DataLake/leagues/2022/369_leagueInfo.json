@@ -1,3 +1,41 @@
 {
-    "data": []
+    "data": [
+        {
+            "league": {
+                "id": 369,
+                "name": "Super League",
+                "type": "League",
+                "logo": "https://media-3.api-sports.io/football/leagues/369.png"
+            },
+            "country": {
+                "name": "Uzbekistan",
+                "code": "UZ",
+                "flag": "https://media-1.api-sports.io/flags/uz.svg"
+            },
+            "seasons": [
+                {
+                    "year": 2022,
+                    "start": "2022-03-02",
+                    "end": "2022-11-25",
+                    "current": false,
+                    "coverage": {
+                        "fixtures": {
+                            "events": true,
+                            "lineups": true,
+                            "statistics_fixtures": false,
+                            "statistics_players": false
+                        },
+                        "standings": true,
+                        "players": true,
+                        "top_scorers": true,
+                        "top_assists": true,
+                        "top_cards": true,
+                        "injuries": false,
+                        "predictions": true,
+                        "odds": false
+                    }
+                }
+            ]
+        }
+    ]
 }
