@@ -9,11 +9,11 @@
 '''
 
 import requests, time
-import load_toLocalJson as loadL
-from load_toLocalJson import *
-import convert_toJson as conv		# js > conv
-import load_json as load
-import http_response as http 		# hf > http
+import Modules.load_toLocalJson as loadL
+from Modules.load_toLocalJson import *
+import Modules.convert_toJson as conv		# js > conv
+import Modules.load_json as load
+import Modules.http_response as http 		# hf > http
 
 class ApiStandings:
 
