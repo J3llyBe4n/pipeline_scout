@@ -7,7 +7,7 @@ from datetime import datetime
 from ETLServer.Modules.db_function import * 
 from ETLServer.Modules.DL_api_function import * 
 
-now_date = datetime.now().date().strftime("%Y-%m-%d")
+now_date = datetime.utcnow().date().strftime("%Y-%m-%d")
 
 api_keys = "a68636f8f2c18511179c56f15e95080c"
 

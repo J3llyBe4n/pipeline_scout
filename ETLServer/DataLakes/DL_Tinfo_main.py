@@ -2,8 +2,8 @@
 import sys
 sys.path.append('../')
 
-from Modules.db_function import *
-from Modules.DL_api_function import * 
+from ETLServer.Modules.db_function import *
+from ETLServer.Modules.DL_api_function import * 
 
 api_keys = "e6b9fb7ce7a7ad7b239595f76e546384"
 

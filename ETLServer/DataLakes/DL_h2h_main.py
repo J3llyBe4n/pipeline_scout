@@ -16,7 +16,7 @@ api_func = ApiH2h()
 
 db_func.connect_SQL()
 
-now_date = datetime.now().date().strftime("%Y_%m_%d")
+now_date = datetime.utcnow().date().strftime("%Y_%m_%d")
 print(now_date)
 
 round_data = db_func.read_roundInfo(now_date)

@@ -6,8 +6,9 @@ from datetime import datetime
 from ETLServer.Modules.db_function import *
 
 directory = os.path.join(os.path.dirname(__file__), '../datas/DataLake')
-nowDate = datetime.now().date().strftime("%y%m%d")
-now_year = datetime.now().date().strftime("%Y")
+
+now_year = datetime.datetime.utcnow().date().strftime("%Y")
+nowDate = datetime.datetime.utcnow().date().strftime("%y%m%d")
 now_year = int(now_year) - 1
 
 
