@@ -21,8 +21,8 @@ api_func = ApiFixtureLineups()
 db_func.connect_SQL()
 
 fixture_id = db_func.read_fixtureId(yesterday)
-api_func.load_lineUpsJson(fixture_id, yesterday)
+api_func.load_lineUpsJson(fixture_id, api_keys)
 
 #fixture_id = db_func.read_fixtureId(now_date)
 #print(fixture_id)
-#api_func.load_lineUpsJson(fixture_id, now_date)
+#api_func.load_lineUpsJson(fixture_id, api_keys)

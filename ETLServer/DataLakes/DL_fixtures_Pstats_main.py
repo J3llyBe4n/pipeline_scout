@@ -1,6 +1,6 @@
 from ETLServer.Modules.db_function import * 
 from ETLServer.Modules.DL_api_function import * 
-import datetime, timedelta
+from datetime import datetime, timedelta
 
 api_keys = 'a86d420d0d8840c8e722e16cf9742f7b'
 
@@ -10,7 +10,7 @@ api_func = ApiFixturePStats()
 
 db_func.connect_SQL()
 
-gmt_nowDate = datetime.datetime.utcnow().date().strftime('%Y-%m-%d')
+gmt_nowDate = datetime.utcnow().date().strftime('%Y-%m-%d')
 
 ################## 테스트 블록 전날 데이터
 yesterday = (datetime.utcnow().date() - timedelta(days=1)).strftime("%Y-%m-%d")
