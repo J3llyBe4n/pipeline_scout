@@ -17,6 +17,11 @@ def createJsonFile():
 
     print("file created")
 
+def createBlobFile():
+    data = {'data' : []}
+    with open("%s/%s/%s_blob_logs.json" %(directory, nowDate, nowDate), "w") as json_files:
+        json.dump(data, json_file, indent=4)
 
 createFolder()
 createJsonFile()
+createBlobFile()
