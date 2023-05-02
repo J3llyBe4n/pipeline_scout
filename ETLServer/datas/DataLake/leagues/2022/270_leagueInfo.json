@@ -36,6 +36,43 @@
                     }
                 }
             ]
+        },
+        {
+            "league": {
+                "id": 270,
+                "name": "Primera Divisi\u00f3n - Clausura",
+                "type": "League",
+                "logo": "https://media-2.api-sports.io/football/leagues/270.png"
+            },
+            "country": {
+                "name": "Uruguay",
+                "code": "UY",
+                "flag": "https://media-3.api-sports.io/flags/uy.svg"
+            },
+            "seasons": [
+                {
+                    "year": 2022,
+                    "start": "2022-07-30",
+                    "end": "2022-10-30",
+                    "current": true,
+                    "coverage": {
+                        "fixtures": {
+                            "events": true,
+                            "lineups": true,
+                            "statistics_fixtures": true,
+                            "statistics_players": false
+                        },
+                        "standings": true,
+                        "players": true,
+                        "top_scorers": true,
+                        "top_assists": true,
+                        "top_cards": true,
+                        "injuries": false,
+                        "predictions": true,
+                        "odds": false
+                    }
+                }
+            ]
         }
     ]
 }

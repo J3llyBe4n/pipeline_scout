@@ -36,6 +36,43 @@
                     }
                 }
             ]
+        },
+        {
+            "league": {
+                "id": 365,
+                "name": "Virsliga",
+                "type": "League",
+                "logo": "https://media-2.api-sports.io/football/leagues/365.png"
+            },
+            "country": {
+                "name": "Latvia",
+                "code": "LV",
+                "flag": "https://media-3.api-sports.io/flags/lv.svg"
+            },
+            "seasons": [
+                {
+                    "year": 2022,
+                    "start": "2022-03-11",
+                    "end": "2022-11-12",
+                    "current": false,
+                    "coverage": {
+                        "fixtures": {
+                            "events": true,
+                            "lineups": true,
+                            "statistics_fixtures": false,
+                            "statistics_players": false
+                        },
+                        "standings": true,
+                        "players": true,
+                        "top_scorers": true,
+                        "top_assists": true,
+                        "top_cards": true,
+                        "injuries": false,
+                        "predictions": true,
+                        "odds": false
+                    }
+                }
+            ]
         }
     ]
 }

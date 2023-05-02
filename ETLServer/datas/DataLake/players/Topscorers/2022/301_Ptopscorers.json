@@ -1,3 +1,1909 @@
 {
-    "data": []
+    "data": [
+        {
+            "id": 301,
+            "data": [
+                {
+                    "player": {
+                        "id": 36679,
+                        "name": "K. Laba",
+                        "firstname": "Kodjo Fo-Doh",
+                        "lastname": "Laba",
+                        "age": 31,
+                        "birth": {
+                            "date": "1992-01-27",
+                            "place": "Lom\u00e9",
+                            "country": "Togo"
+                        },
+                        "nationality": "Togo",
+                        "height": "180 cm",
+                        "weight": "82 kg",
+                        "injured": false,
+                        "photo": "https://media-3.api-sports.io/football/players/36679.png"
+                    },
+                    "statistics": [
+                        {
+                            "team": {
+                                "id": 2865,
+                                "name": "Al Ain",
+                                "logo": "https://media-3.api-sports.io/football/teams/2865.png"
+                            },
+                            "league": {
+                                "id": 301,
+                                "name": "Pro League",
+                                "country": "United-Arab-Emirates",
+                                "logo": "https://media-2.api-sports.io/football/leagues/301.png",
+                                "flag": "https://media-3.api-sports.io/flags/ae.svg",
+                                "season": 2022
+                            },
+                            "games": {
+                                "appearences": 23,
+                                "lineups": 23,
+                                "minutes": 2048,
+                                "number": null,
+                                "position": "Attacker",
+                                "rating": null,
+                                "captain": false
+                            },
+                            "substitutes": {
+                                "in": 0,
+                                "out": 4,
+                                "bench": 0
+                            },
+                            "shots": {
+                                "total": null,
+                                "on": null
+                            },
+                            "goals": {
+                                "total": 25,
+                                "conceded": null,
+                                "assists": null,
+                                "saves": null
+                            },
+                            "passes": {
+                                "total": null,
+                                "key": null,
+                                "accuracy": null
+                            },
+                            "tackles": {
+                                "total": null,
+                                "blocks": null,
+                                "interceptions": null
+                            },
+                            "duels": {
+                                "total": null,
+                                "won": null
+                            },
+                            "dribbles": {
+                                "attempts": null,
+                                "success": null,
+                                "past": null
+                            },
+                            "fouls": {
+                                "drawn": null,
+                                "committed": null
+                            },
+                            "cards": {
+                                "yellow": 2,
+                                "yellowred": 0,
+                                "red": 0
+                            },
+                            "penalty": {
+                                "won": null,
+                                "commited": null,
+                                "scored": null,
+                                "missed": null,
+                                "saved": null
+                            }
+                        }
+                    ]
+                },
+                {
+                    "player": {
+                        "id": 50358,
+                        "name": "Ali Mabkhout",
+                        "firstname": "Ali Ahmed Mabkhout Mohsen Omra",
+                        "lastname": "Al Hajeri",
+                        "age": 33,
+                        "birth": {
+                            "date": "1990-10-05",
+                            "place": "Abu Dhabi",
+                            "country": "United Arab Emirates"
+                        },
+                        "nationality": "United Arab Emirates",
+                        "height": "180 cm",
+                        "weight": "77 kg",
+                        "injured": false,
+                        "photo": "https://media-2.api-sports.io/football/players/50358.png"
+                    },
+                    "statistics": [
+                        {
+                            "team": {
+                                "id": 2871,
+                                "name": "Al-Jazira",
+                                "logo": "https://media-2.api-sports.io/football/teams/2871.png"
+                            },
+                            "league": {
+                                "id": 301,
+                                "name": "Pro League",
+                                "country": "United-Arab-Emirates",
+                                "logo": "https://media-2.api-sports.io/football/leagues/301.png",
+                                "flag": "https://media-2.api-sports.io/flags/ae.svg",
+                                "season": 2022
+                            },
+                            "games": {
+                                "appearences": 22,
+                                "lineups": 22,
+                                "minutes": 1980,
+                                "number": null,
+                                "position": "Attacker",
+                                "rating": null,
+                                "captain": false
+                            },
+                            "substitutes": {
+                                "in": 0,
+                                "out": 1,
+                                "bench": 0
+                            },
+                            "shots": {
+                                "total": null,
+                                "on": null
+                            },
+                            "goals": {
+                                "total": 23,
+                                "conceded": null,
+                                "assists": null,
+                                "saves": null
+                            },
+                            "passes": {
+                                "total": null,
+                                "key": null,
+                                "accuracy": null
+                            },
+                            "tackles": {
+                                "total": null,
+                                "blocks": null,
+                                "interceptions": null
+                            },
+                            "duels": {
+                                "total": null,
+                                "won": null
+                            },
+                            "dribbles": {
+                                "attempts": null,
+                                "success": null,
+                                "past": null
+                            },
+                            "fouls": {
+                                "drawn": null,
+                                "committed": null
+                            },
+                            "cards": {
+                                "yellow": 2,
+                                "yellowred": 0,
+                                "red": 0
+                            },
+                            "penalty": {
+                                "won": null,
+                                "commited": null,
+                                "scored": null,
+                                "missed": null,
+                                "saved": null
+                            }
+                        }
+                    ]
+                },
+                {
+                    "player": {
+                        "id": 50537,
+                        "name": "F\u00e1bio Lima",
+                        "firstname": "F\u00e1bio",
+                        "lastname": "Virginio de Lima",
+                        "age": 30,
+                        "birth": {
+                            "date": "1993-06-30",
+                            "place": null,
+                            "country": "Brazil"
+                        },
+                        "nationality": "United Arab Emirates",
+                        "height": "177 cm",
+                        "weight": "74 kg",
+                        "injured": false,
+                        "photo": "https://media-1.api-sports.io/football/players/50537.png"
+                    },
+                    "statistics": [
+                        {
+                            "team": {
+                                "id": 2872,
+                                "name": "Al-Wasl FC",
+                                "logo": "https://media-3.api-sports.io/football/teams/2872.png"
+                            },
+                            "league": {
+                                "id": 301,
+                                "name": "Pro League",
+                                "country": "United-Arab-Emirates",
+                                "logo": "https://media-2.api-sports.io/football/leagues/301.png",
+                                "flag": "https://media-3.api-sports.io/flags/ae.svg",
+                                "season": 2022
+                            },
+                            "games": {
+                                "appearences": 22,
+                                "lineups": 22,
+                                "minutes": 1944,
+                                "number": null,
+                                "position": "Midfielder",
+                                "rating": null,
+                                "captain": false
+                            },
+                            "substitutes": {
+                                "in": 0,
+                                "out": 2,
+                                "bench": 0
+                            },
+                            "shots": {
+                                "total": null,
+                                "on": null
+                            },
+                            "goals": {
+                                "total": 16,
+                                "conceded": null,
+                                "assists": null,
+                                "saves": null
+                            },
+                            "passes": {
+                                "total": null,
+                                "key": null,
+                                "accuracy": null
+                            },
+                            "tackles": {
+                                "total": null,
+                                "blocks": null,
+                                "interceptions": null
+                            },
+                            "duels": {
+                                "total": null,
+                                "won": null
+                            },
+                            "dribbles": {
+                                "attempts": null,
+                                "success": null,
+                                "past": null
+                            },
+                            "fouls": {
+                                "drawn": null,
+                                "committed": null
+                            },
+                            "cards": {
+                                "yellow": 2,
+                                "yellowred": 0,
+                                "red": 0
+                            },
+                            "penalty": {
+                                "won": null,
+                                "commited": null,
+                                "scored": null,
+                                "missed": null,
+                                "saved": null
+                            }
+                        }
+                    ]
+                },
+                {
+                    "player": {
+                        "id": 44524,
+                        "name": "Jo\u00e3o Pedro",
+                        "firstname": "Jo\u00e3o Pedro",
+                        "lastname": "Pereira dos Santos",
+                        "age": 30,
+                        "birth": {
+                            "date": "1993-04-22",
+                            "place": "Fortaleza",
+                            "country": "Brazil"
+                        },
+                        "nationality": "Brazil",
+                        "height": "182 cm",
+                        "weight": "87 kg",
+                        "injured": false,
+                        "photo": "https://media-2.api-sports.io/football/players/44524.png"
+                    },
+                    "statistics": [
+                        {
+                            "team": {
+                                "id": 2875,
+                                "name": "Al Wahda FC",
+                                "logo": "https://media-1.api-sports.io/football/teams/2875.png"
+                            },
+                            "league": {
+                                "id": 301,
+                                "name": "Pro League",
+                                "country": "United-Arab-Emirates",
+                                "logo": "https://media-3.api-sports.io/football/leagues/301.png",
+                                "flag": "https://media-1.api-sports.io/flags/ae.svg",
+                                "season": 2022
+                            },
+                            "games": {
+                                "appearences": 22,
+                                "lineups": 19,
+                                "minutes": 1700,
+                                "number": null,
+                                "position": "Attacker",
+                                "rating": null,
+                                "captain": false
+                            },
+                            "substitutes": {
+                                "in": 3,
+                                "out": 6,
+                                "bench": 3
+                            },
+                            "shots": {
+                                "total": null,
+                                "on": null
+                            },
+                            "goals": {
+                                "total": 13,
+                                "conceded": null,
+                                "assists": null,
+                                "saves": null
+                            },
+                            "passes": {
+                                "total": null,
+                                "key": null,
+                                "accuracy": null
+                            },
+                            "tackles": {
+                                "total": null,
+                                "blocks": null,
+                                "interceptions": null
+                            },
+                            "duels": {
+                                "total": null,
+                                "won": null
+                            },
+                            "dribbles": {
+                                "attempts": null,
+                                "success": null,
+                                "past": null
+                            },
+                            "fouls": {
+                                "drawn": null,
+                                "committed": null
+                            },
+                            "cards": {
+                                "yellow": 3,
+                                "yellowred": 0,
+                                "red": 0
+                            },
+                            "penalty": {
+                                "won": null,
+                                "commited": null,
+                                "scored": null,
+                                "missed": null,
+                                "saved": null
+                            }
+                        }
+                    ]
+                },
+                {
+                    "player": {
+                        "id": 49468,
+                        "name": "F. Ben Arbi",
+                        "firstname": "Mohamed Firas",
+                        "lastname": "Ben Arbi",
+                        "age": 27,
+                        "birth": {
+                            "date": "1996-05-27",
+                            "place": null,
+                            "country": "Tunisia"
+                        },
+                        "nationality": "Tunisia",
+                        "height": "180 cm",
+                        "weight": "80 kg",
+                        "injured": false,
+                        "photo": "https://media-3.api-sports.io/football/players/49468.png"
+                    },
+                    "statistics": [
+                        {
+                            "team": {
+                                "id": 2879,
+                                "name": "Ajman",
+                                "logo": "https://media-2.api-sports.io/football/teams/2879.png"
+                            },
+                            "league": {
+                                "id": 301,
+                                "name": "Pro League",
+                                "country": "United-Arab-Emirates",
+                                "logo": "https://media-3.api-sports.io/football/leagues/301.png",
+                                "flag": "https://media-3.api-sports.io/flags/ae.svg",
+                                "season": 2022
+                            },
+                            "games": {
+                                "appearences": 23,
+                                "lineups": 22,
+                                "minutes": 2020,
+                                "number": null,
+                                "position": "Midfielder",
+                                "rating": null,
+                                "captain": false
+                            },
+                            "substitutes": {
+                                "in": 1,
+                                "out": 4,
+                                "bench": 1
+                            },
+                            "shots": {
+                                "total": null,
+                                "on": null
+                            },
+                            "goals": {
+                                "total": 11,
+                                "conceded": null,
+                                "assists": null,
+                                "saves": null
+                            },
+                            "passes": {
+                                "total": null,
+                                "key": null,
+                                "accuracy": null
+                            },
+                            "tackles": {
+                                "total": null,
+                                "blocks": null,
+                                "interceptions": null
+                            },
+                            "duels": {
+                                "total": null,
+                                "won": null
+                            },
+                            "dribbles": {
+                                "attempts": null,
+                                "success": null,
+                                "past": null
+                            },
+                            "fouls": {
+                                "drawn": null,
+                                "committed": null
+                            },
+                            "cards": {
+                                "yellow": 2,
+                                "yellowred": 0,
+                                "red": 0
+                            },
+                            "penalty": {
+                                "won": null,
+                                "commited": null,
+                                "scored": null,
+                                "missed": null,
+                                "saved": null
+                            }
+                        }
+                    ]
+                },
+                {
+                    "player": {
+                        "id": 16825,
+                        "name": "W. Azaro",
+                        "firstname": "Walid",
+                        "lastname": "Azaro",
+                        "age": 28,
+                        "birth": {
+                            "date": "1995-06-11",
+                            "place": "Agadir",
+                            "country": "Morocco"
+                        },
+                        "nationality": "Morocco",
+                        "height": "180 cm",
+                        "weight": "80 kg",
+                        "injured": false,
+                        "photo": "https://media-2.api-sports.io/football/players/16825.png"
+                    },
+                    "statistics": [
+                        {
+                            "team": {
+                                "id": 2879,
+                                "name": "Ajman",
+                                "logo": "https://media-2.api-sports.io/football/teams/2879.png"
+                            },
+                            "league": {
+                                "id": 301,
+                                "name": "Pro League",
+                                "country": "United-Arab-Emirates",
+                                "logo": "https://media-2.api-sports.io/football/leagues/301.png",
+                                "flag": "https://media-1.api-sports.io/flags/ae.svg",
+                                "season": 2022
+                            },
+                            "games": {
+                                "appearences": 23,
+                                "lineups": 23,
+                                "minutes": 2068,
+                                "number": null,
+                                "position": "Attacker",
+                                "rating": null,
+                                "captain": false
+                            },
+                            "substitutes": {
+                                "in": 0,
+                                "out": 2,
+                                "bench": 0
+                            },
+                            "shots": {
+                                "total": null,
+                                "on": null
+                            },
+                            "goals": {
+                                "total": 11,
+                                "conceded": null,
+                                "assists": null,
+                                "saves": null
+                            },
+                            "passes": {
+                                "total": null,
+                                "key": null,
+                                "accuracy": null
+                            },
+                            "tackles": {
+                                "total": null,
+                                "blocks": null,
+                                "interceptions": null
+                            },
+                            "duels": {
+                                "total": null,
+                                "won": null
+                            },
+                            "dribbles": {
+                                "attempts": null,
+                                "success": null,
+                                "past": null
+                            },
+                            "fouls": {
+                                "drawn": null,
+                                "committed": null
+                            },
+                            "cards": {
+                                "yellow": 2,
+                                "yellowred": 0,
+                                "red": 0
+                            },
+                            "penalty": {
+                                "won": null,
+                                "commited": null,
+                                "scored": null,
+                                "missed": null,
+                                "saved": null
+                            }
+                        }
+                    ]
+                },
+                {
+                    "player": {
+                        "id": 46797,
+                        "name": "F. Cartabia",
+                        "firstname": "Federico Nicol\u00e1s",
+                        "lastname": "Cartabia",
+                        "age": 30,
+                        "birth": {
+                            "date": "1993-01-20",
+                            "place": "Bombal",
+                            "country": "Argentina"
+                        },
+                        "nationality": "Argentina",
+                        "height": "171 cm",
+                        "weight": "68 kg",
+                        "injured": false,
+                        "photo": "https://media-3.api-sports.io/football/players/46797.png"
+                    },
+                    "statistics": [
+                        {
+                            "team": {
+                                "id": 2870,
+                                "name": "Shabab Al Ahli Dubai",
+                                "logo": "https://media-1.api-sports.io/football/teams/2870.png"
+                            },
+                            "league": {
+                                "id": 301,
+                                "name": "Pro League",
+                                "country": "United-Arab-Emirates",
+                                "logo": "https://media-2.api-sports.io/football/leagues/301.png",
+                                "flag": "https://media-1.api-sports.io/flags/ae.svg",
+                                "season": 2022
+                            },
+                            "games": {
+                                "appearences": 18,
+                                "lineups": 17,
+                                "minutes": 1479,
+                                "number": null,
+                                "position": "Midfielder",
+                                "rating": null,
+                                "captain": false
+                            },
+                            "substitutes": {
+                                "in": 1,
+                                "out": 8,
+                                "bench": 1
+                            },
+                            "shots": {
+                                "total": null,
+                                "on": null
+                            },
+                            "goals": {
+                                "total": 11,
+                                "conceded": null,
+                                "assists": null,
+                                "saves": null
+                            },
+                            "passes": {
+                                "total": null,
+                                "key": null,
+                                "accuracy": null
+                            },
+                            "tackles": {
+                                "total": null,
+                                "blocks": null,
+                                "interceptions": null
+                            },
+                            "duels": {
+                                "total": null,
+                                "won": null
+                            },
+                            "dribbles": {
+                                "attempts": null,
+                                "success": null,
+                                "past": null
+                            },
+                            "fouls": {
+                                "drawn": null,
+                                "committed": null
+                            },
+                            "cards": {
+                                "yellow": 4,
+                                "yellowred": 0,
+                                "red": 0
+                            },
+                            "penalty": {
+                                "won": null,
+                                "commited": null,
+                                "scored": null,
+                                "missed": null,
+                                "saved": null
+                            }
+                        }
+                    ]
+                },
+                {
+                    "player": {
+                        "id": 36579,
+                        "name": "S. Rahimi",
+                        "firstname": "Soufiane",
+                        "lastname": "Rahimi",
+                        "age": 27,
+                        "birth": {
+                            "date": "1996-06-02",
+                            "place": null,
+                            "country": "Morocco"
+                        },
+                        "nationality": "Morocco",
+                        "height": "181 cm",
+                        "weight": "76 kg",
+                        "injured": false,
+                        "photo": "https://media-3.api-sports.io/football/players/36579.png"
+                    },
+                    "statistics": [
+                        {
+                            "team": {
+                                "id": 2865,
+                                "name": "Al Ain",
+                                "logo": "https://media-2.api-sports.io/football/teams/2865.png"
+                            },
+                            "league": {
+                                "id": 301,
+                                "name": "Pro League",
+                                "country": "United-Arab-Emirates",
+                                "logo": "https://media-3.api-sports.io/football/leagues/301.png",
+                                "flag": "https://media-3.api-sports.io/flags/ae.svg",
+                                "season": 2022
+                            },
+                            "games": {
+                                "appearences": 23,
+                                "lineups": 22,
+                                "minutes": 1957,
+                                "number": null,
+                                "position": "Attacker",
+                                "rating": null,
+                                "captain": false
+                            },
+                            "substitutes": {
+                                "in": 1,
+                                "out": 8,
+                                "bench": 1
+                            },
+                            "shots": {
+                                "total": null,
+                                "on": null
+                            },
+                            "goals": {
+                                "total": 10,
+                                "conceded": null,
+                                "assists": null,
+                                "saves": null
+                            },
+                            "passes": {
+                                "total": null,
+                                "key": null,
+                                "accuracy": null
+                            },
+                            "tackles": {
+                                "total": null,
+                                "blocks": null,
+                                "interceptions": null
+                            },
+                            "duels": {
+                                "total": null,
+                                "won": null
+                            },
+                            "dribbles": {
+                                "attempts": null,
+                                "success": null,
+                                "past": null
+                            },
+                            "fouls": {
+                                "drawn": null,
+                                "committed": null
+                            },
+                            "cards": {
+                                "yellow": 2,
+                                "yellowred": 0,
+                                "red": 0
+                            },
+                            "penalty": {
+                                "won": null,
+                                "commited": null,
+                                "scored": null,
+                                "missed": null,
+                                "saved": null
+                            }
+                        }
+                    ]
+                },
+                {
+                    "player": {
+                        "id": 10218,
+                        "name": "Lourency",
+                        "firstname": "Lourency",
+                        "lastname": "do Nascimento Rodrigues",
+                        "age": 27,
+                        "birth": {
+                            "date": "1996-01-02",
+                            "place": "Jo\u00e3o Lisboa",
+                            "country": "Brazil"
+                        },
+                        "nationality": "Brazil",
+                        "height": "178 cm",
+                        "weight": "74 kg",
+                        "injured": false,
+                        "photo": "https://media-1.api-sports.io/football/players/10218.png"
+                    },
+                    "statistics": [
+                        {
+                            "team": {
+                                "id": 9136,
+                                "name": "Al Bataeh",
+                                "logo": "https://media-1.api-sports.io/football/teams/9136.png"
+                            },
+                            "league": {
+                                "id": 301,
+                                "name": "Pro League",
+                                "country": "United-Arab-Emirates",
+                                "logo": "https://media-3.api-sports.io/football/leagues/301.png",
+                                "flag": "https://media-1.api-sports.io/flags/ae.svg",
+                                "season": 2022
+                            },
+                            "games": {
+                                "appearences": 23,
+                                "lineups": 22,
+                                "minutes": 1974,
+                                "number": null,
+                                "position": "Attacker",
+                                "rating": null,
+                                "captain": false
+                            },
+                            "substitutes": {
+                                "in": 1,
+                                "out": 4,
+                                "bench": 1
+                            },
+                            "shots": {
+                                "total": null,
+                                "on": null
+                            },
+                            "goals": {
+                                "total": 10,
+                                "conceded": null,
+                                "assists": null,
+                                "saves": null
+                            },
+                            "passes": {
+                                "total": null,
+                                "key": null,
+                                "accuracy": null
+                            },
+                            "tackles": {
+                                "total": null,
+                                "blocks": null,
+                                "interceptions": null
+                            },
+                            "duels": {
+                                "total": null,
+                                "won": null
+                            },
+                            "dribbles": {
+                                "attempts": null,
+                                "success": null,
+                                "past": null
+                            },
+                            "fouls": {
+                                "drawn": null,
+                                "committed": null
+                            },
+                            "cards": {
+                                "yellow": 3,
+                                "yellowred": 0,
+                                "red": 0
+                            },
+                            "penalty": {
+                                "won": null,
+                                "commited": null,
+                                "scored": null,
+                                "missed": null,
+                                "saved": null
+                            }
+                        }
+                    ]
+                },
+                {
+                    "player": {
+                        "id": 18834,
+                        "name": "A. Yarmolenko",
+                        "firstname": "Andrii",
+                        "lastname": "Yarmolenko",
+                        "age": 34,
+                        "birth": {
+                            "date": "1989-10-23",
+                            "place": "Sankt-Peterburg",
+                            "country": "Russia"
+                        },
+                        "nationality": "Ukraine",
+                        "height": "189 cm",
+                        "weight": "81 kg",
+                        "injured": false,
+                        "photo": "https://media-3.api-sports.io/football/players/18834.png"
+                    },
+                    "statistics": [
+                        {
+                            "team": {
+                                "id": 2865,
+                                "name": "Al Ain",
+                                "logo": "https://media-1.api-sports.io/football/teams/2865.png"
+                            },
+                            "league": {
+                                "id": 301,
+                                "name": "Pro League",
+                                "country": "United-Arab-Emirates",
+                                "logo": "https://media-3.api-sports.io/football/leagues/301.png",
+                                "flag": "https://media-3.api-sports.io/flags/ae.svg",
+                                "season": 2022
+                            },
+                            "games": {
+                                "appearences": 20,
+                                "lineups": 17,
+                                "minutes": 1370,
+                                "number": null,
+                                "position": "Midfielder",
+                                "rating": null,
+                                "captain": false
+                            },
+                            "substitutes": {
+                                "in": 3,
+                                "out": 15,
+                                "bench": 3
+                            },
+                            "shots": {
+                                "total": null,
+                                "on": null
+                            },
+                            "goals": {
+                                "total": 9,
+                                "conceded": null,
+                                "assists": null,
+                                "saves": null
+                            },
+                            "passes": {
+                                "total": null,
+                                "key": null,
+                                "accuracy": null
+                            },
+                            "tackles": {
+                                "total": null,
+                                "blocks": null,
+                                "interceptions": null
+                            },
+                            "duels": {
+                                "total": null,
+                                "won": null
+                            },
+                            "dribbles": {
+                                "attempts": null,
+                                "success": null,
+                                "past": null
+                            },
+                            "fouls": {
+                                "drawn": null,
+                                "committed": null
+                            },
+                            "cards": {
+                                "yellow": 2,
+                                "yellowred": 0,
+                                "red": 0
+                            },
+                            "penalty": {
+                                "won": null,
+                                "commited": null,
+                                "scored": null,
+                                "missed": null,
+                                "saved": null
+                            }
+                        }
+                    ]
+                },
+                {
+                    "player": {
+                        "id": 44067,
+                        "name": "Caio Lucas",
+                        "firstname": "Caio",
+                        "lastname": "Lucas Fernandes",
+                        "age": 29,
+                        "birth": {
+                            "date": "1994-04-19",
+                            "place": "S\u00e3o Paulo",
+                            "country": "Brazil"
+                        },
+                        "nationality": "Brazil",
+                        "height": "174 cm",
+                        "weight": "75 kg",
+                        "injured": false,
+                        "photo": "https://media-2.api-sports.io/football/players/44067.png"
+                    },
+                    "statistics": [
+                        {
+                            "team": {
+                                "id": 2874,
+                                "name": "Sharjah FC",
+                                "logo": "https://media-3.api-sports.io/football/teams/2874.png"
+                            },
+                            "league": {
+                                "id": 301,
+                                "name": "Pro League",
+                                "country": "United-Arab-Emirates",
+                                "logo": "https://media-1.api-sports.io/football/leagues/301.png",
+                                "flag": "https://media-2.api-sports.io/flags/ae.svg",
+                                "season": 2022
+                            },
+                            "games": {
+                                "appearences": 19,
+                                "lineups": 17,
+                                "minutes": 1521,
+                                "number": null,
+                                "position": "Attacker",
+                                "rating": null,
+                                "captain": false
+                            },
+                            "substitutes": {
+                                "in": 2,
+                                "out": 2,
+                                "bench": 2
+                            },
+                            "shots": {
+                                "total": null,
+                                "on": null
+                            },
+                            "goals": {
+                                "total": 9,
+                                "conceded": null,
+                                "assists": null,
+                                "saves": null
+                            },
+                            "passes": {
+                                "total": null,
+                                "key": null,
+                                "accuracy": null
+                            },
+                            "tackles": {
+                                "total": null,
+                                "blocks": null,
+                                "interceptions": null
+                            },
+                            "duels": {
+                                "total": null,
+                                "won": null
+                            },
+                            "dribbles": {
+                                "attempts": null,
+                                "success": null,
+                                "past": null
+                            },
+                            "fouls": {
+                                "drawn": null,
+                                "committed": null
+                            },
+                            "cards": {
+                                "yellow": 5,
+                                "yellowred": 1,
+                                "red": 0
+                            },
+                            "penalty": {
+                                "won": null,
+                                "commited": null,
+                                "scored": null,
+                                "missed": null,
+                                "saved": null
+                            }
+                        }
+                    ]
+                },
+                {
+                    "player": {
+                        "id": 41370,
+                        "name": "Aylton Boa Morte",
+                        "firstname": "Aylton Filipe",
+                        "lastname": "Boa Morte",
+                        "age": 30,
+                        "birth": {
+                            "date": "1993-09-23",
+                            "place": "Almada",
+                            "country": "Portugal"
+                        },
+                        "nationality": "Portugal",
+                        "height": "178 cm",
+                        "weight": "80 kg",
+                        "injured": false,
+                        "photo": "https://media-2.api-sports.io/football/players/41370.png"
+                    },
+                    "statistics": [
+                        {
+                            "team": {
+                                "id": 4912,
+                                "name": "Al Khaleej",
+                                "logo": "https://media-1.api-sports.io/football/teams/4912.png"
+                            },
+                            "league": {
+                                "id": 301,
+                                "name": "Pro League",
+                                "country": "United-Arab-Emirates",
+                                "logo": "https://media-3.api-sports.io/football/leagues/301.png",
+                                "flag": "https://media-1.api-sports.io/flags/ae.svg",
+                                "season": 2022
+                            },
+                            "games": {
+                                "appearences": 23,
+                                "lineups": 23,
+                                "minutes": 2070,
+                                "number": null,
+                                "position": "Attacker",
+                                "rating": null,
+                                "captain": false
+                            },
+                            "substitutes": {
+                                "in": 0,
+                                "out": 3,
+                                "bench": 0
+                            },
+                            "shots": {
+                                "total": null,
+                                "on": null
+                            },
+                            "goals": {
+                                "total": 8,
+                                "conceded": null,
+                                "assists": null,
+                                "saves": null
+                            },
+                            "passes": {
+                                "total": null,
+                                "key": null,
+                                "accuracy": null
+                            },
+                            "tackles": {
+                                "total": null,
+                                "blocks": null,
+                                "interceptions": null
+                            },
+                            "duels": {
+                                "total": null,
+                                "won": null
+                            },
+                            "dribbles": {
+                                "attempts": null,
+                                "success": null,
+                                "past": null
+                            },
+                            "fouls": {
+                                "drawn": null,
+                                "committed": null
+                            },
+                            "cards": {
+                                "yellow": 3,
+                                "yellowred": 0,
+                                "red": 0
+                            },
+                            "penalty": {
+                                "won": null,
+                                "commited": null,
+                                "scored": null,
+                                "missed": null,
+                                "saved": null
+                            }
+                        }
+                    ]
+                },
+                {
+                    "player": {
+                        "id": 50608,
+                        "name": "Ahmed Al Naqbi",
+                        "firstname": "Ahmed Amir Saeed",
+                        "lastname": "Amir Al Naqbi",
+                        "age": 25,
+                        "birth": {
+                            "date": "1998-03-09",
+                            "place": null,
+                            "country": "United Arab Emirates"
+                        },
+                        "nationality": "United Arab Emirates",
+                        "height": "178 cm",
+                        "weight": "73 kg",
+                        "injured": false,
+                        "photo": "https://media-2.api-sports.io/football/players/50608.png"
+                    },
+                    "statistics": [
+                        {
+                            "team": {
+                                "id": 2876,
+                                "name": "Al-Ittihad Kalba",
+                                "logo": "https://media-2.api-sports.io/football/teams/2876.png"
+                            },
+                            "league": {
+                                "id": 301,
+                                "name": "Pro League",
+                                "country": "United-Arab-Emirates",
+                                "logo": "https://media-1.api-sports.io/football/leagues/301.png",
+                                "flag": "https://media-3.api-sports.io/flags/ae.svg",
+                                "season": 2022
+                            },
+                            "games": {
+                                "appearences": 20,
+                                "lineups": 10,
+                                "minutes": 906,
+                                "number": null,
+                                "position": "Attacker",
+                                "rating": null,
+                                "captain": false
+                            },
+                            "substitutes": {
+                                "in": 10,
+                                "out": 9,
+                                "bench": 11
+                            },
+                            "shots": {
+                                "total": null,
+                                "on": null
+                            },
+                            "goals": {
+                                "total": 8,
+                                "conceded": null,
+                                "assists": null,
+                                "saves": null
+                            },
+                            "passes": {
+                                "total": null,
+                                "key": null,
+                                "accuracy": null
+                            },
+                            "tackles": {
+                                "total": null,
+                                "blocks": null,
+                                "interceptions": null
+                            },
+                            "duels": {
+                                "total": null,
+                                "won": null
+                            },
+                            "dribbles": {
+                                "attempts": null,
+                                "success": null,
+                                "past": null
+                            },
+                            "fouls": {
+                                "drawn": null,
+                                "committed": null
+                            },
+                            "cards": {
+                                "yellow": 4,
+                                "yellowred": 0,
+                                "red": 0
+                            },
+                            "penalty": {
+                                "won": null,
+                                "commited": null,
+                                "scored": null,
+                                "missed": null,
+                                "saved": null
+                            }
+                        }
+                    ]
+                },
+                {
+                    "player": {
+                        "id": 6659,
+                        "name": "T. Chancalay",
+                        "firstname": "Tom\u00e1s Alejandro",
+                        "lastname": "Chancalay",
+                        "age": 24,
+                        "birth": {
+                            "date": "1999-01-01",
+                            "place": "Viale",
+                            "country": "Argentina"
+                        },
+                        "nationality": "Argentina",
+                        "height": "179 cm",
+                        "weight": "76 kg",
+                        "injured": false,
+                        "photo": "https://media-3.api-sports.io/football/players/6659.png"
+                    },
+                    "statistics": [
+                        {
+                            "team": {
+                                "id": 2872,
+                                "name": "Al-Wasl FC",
+                                "logo": "https://media-2.api-sports.io/football/teams/2872.png"
+                            },
+                            "league": {
+                                "id": 301,
+                                "name": "Pro League",
+                                "country": "United-Arab-Emirates",
+                                "logo": "https://media-2.api-sports.io/football/leagues/301.png",
+                                "flag": "https://media-3.api-sports.io/flags/ae.svg",
+                                "season": 2022
+                            },
+                            "games": {
+                                "appearences": 19,
+                                "lineups": 19,
+                                "minutes": 1673,
+                                "number": null,
+                                "position": "Attacker",
+                                "rating": null,
+                                "captain": false
+                            },
+                            "substitutes": {
+                                "in": 0,
+                                "out": 6,
+                                "bench": 0
+                            },
+                            "shots": {
+                                "total": null,
+                                "on": null
+                            },
+                            "goals": {
+                                "total": 8,
+                                "conceded": null,
+                                "assists": null,
+                                "saves": null
+                            },
+                            "passes": {
+                                "total": null,
+                                "key": null,
+                                "accuracy": null
+                            },
+                            "tackles": {
+                                "total": null,
+                                "blocks": null,
+                                "interceptions": null
+                            },
+                            "duels": {
+                                "total": null,
+                                "won": null
+                            },
+                            "dribbles": {
+                                "attempts": null,
+                                "success": null,
+                                "past": null
+                            },
+                            "fouls": {
+                                "drawn": null,
+                                "committed": null
+                            },
+                            "cards": {
+                                "yellow": 3,
+                                "yellowred": 0,
+                                "red": 0
+                            },
+                            "penalty": {
+                                "won": null,
+                                "commited": null,
+                                "scored": null,
+                                "missed": null,
+                                "saved": null
+                            }
+                        }
+                    ]
+                },
+                {
+                    "player": {
+                        "id": 21,
+                        "name": "Paco Alc\u00e1cer",
+                        "firstname": "Francisco",
+                        "lastname": "Alc\u00e1cer Garc\u00eda",
+                        "age": 30,
+                        "birth": {
+                            "date": "1993-08-30",
+                            "place": "Torrent",
+                            "country": "Spain"
+                        },
+                        "nationality": "Spain",
+                        "height": "175 cm",
+                        "weight": "72 kg",
+                        "injured": false,
+                        "photo": "https://media-1.api-sports.io/football/players/21.png"
+                    },
+                    "statistics": [
+                        {
+                            "team": {
+                                "id": 2874,
+                                "name": "Sharjah FC",
+                                "logo": "https://media-3.api-sports.io/football/teams/2874.png"
+                            },
+                            "league": {
+                                "id": 301,
+                                "name": "Pro League",
+                                "country": "United-Arab-Emirates",
+                                "logo": "https://media-1.api-sports.io/football/leagues/301.png",
+                                "flag": "https://media-1.api-sports.io/flags/ae.svg",
+                                "season": 2022
+                            },
+                            "games": {
+                                "appearences": 22,
+                                "lineups": 18,
+                                "minutes": 1747,
+                                "number": null,
+                                "position": "Attacker",
+                                "rating": null,
+                                "captain": false
+                            },
+                            "substitutes": {
+                                "in": 4,
+                                "out": 4,
+                                "bench": 4
+                            },
+                            "shots": {
+                                "total": null,
+                                "on": null
+                            },
+                            "goals": {
+                                "total": 7,
+                                "conceded": null,
+                                "assists": null,
+                                "saves": null
+                            },
+                            "passes": {
+                                "total": null,
+                                "key": null,
+                                "accuracy": null
+                            },
+                            "tackles": {
+                                "total": null,
+                                "blocks": null,
+                                "interceptions": null
+                            },
+                            "duels": {
+                                "total": null,
+                                "won": null
+                            },
+                            "dribbles": {
+                                "attempts": null,
+                                "success": null,
+                                "past": null
+                            },
+                            "fouls": {
+                                "drawn": null,
+                                "committed": null
+                            },
+                            "cards": {
+                                "yellow": 3,
+                                "yellowred": 0,
+                                "red": 0
+                            },
+                            "penalty": {
+                                "won": null,
+                                "commited": null,
+                                "scored": null,
+                                "missed": null,
+                                "saved": null
+                            }
+                        }
+                    ]
+                },
+                {
+                    "player": {
+                        "id": 16851,
+                        "name": "Omar Khribin",
+                        "firstname": "Omar Maher",
+                        "lastname": "Khribin",
+                        "age": 29,
+                        "birth": {
+                            "date": "1994-01-15",
+                            "place": null,
+                            "country": "Syria"
+                        },
+                        "nationality": "Syria",
+                        "height": "182 cm",
+                        "weight": "82 kg",
+                        "injured": false,
+                        "photo": "https://media-1.api-sports.io/football/players/16851.png"
+                    },
+                    "statistics": [
+                        {
+                            "team": {
+                                "id": 2870,
+                                "name": "Shabab Al Ahli Dubai",
+                                "logo": "https://media-3.api-sports.io/football/teams/2870.png"
+                            },
+                            "league": {
+                                "id": 301,
+                                "name": "Pro League",
+                                "country": "United-Arab-Emirates",
+                                "logo": "https://media-2.api-sports.io/football/leagues/301.png",
+                                "flag": "https://media-1.api-sports.io/flags/ae.svg",
+                                "season": 2022
+                            },
+                            "games": {
+                                "appearences": 19,
+                                "lineups": 17,
+                                "minutes": 1455,
+                                "number": null,
+                                "position": "Attacker",
+                                "rating": null,
+                                "captain": false
+                            },
+                            "substitutes": {
+                                "in": 2,
+                                "out": 12,
+                                "bench": 2
+                            },
+                            "shots": {
+                                "total": null,
+                                "on": null
+                            },
+                            "goals": {
+                                "total": 7,
+                                "conceded": null,
+                                "assists": null,
+                                "saves": null
+                            },
+                            "passes": {
+                                "total": null,
+                                "key": null,
+                                "accuracy": null
+                            },
+                            "tackles": {
+                                "total": null,
+                                "blocks": null,
+                                "interceptions": null
+                            },
+                            "duels": {
+                                "total": null,
+                                "won": null
+                            },
+                            "dribbles": {
+                                "attempts": null,
+                                "success": null,
+                                "past": null
+                            },
+                            "fouls": {
+                                "drawn": null,
+                                "committed": null
+                            },
+                            "cards": {
+                                "yellow": 1,
+                                "yellowred": 1,
+                                "red": 0
+                            },
+                            "penalty": {
+                                "won": null,
+                                "commited": null,
+                                "scored": null,
+                                "missed": null,
+                                "saved": null
+                            }
+                        }
+                    ]
+                },
+                {
+                    "player": {
+                        "id": 10532,
+                        "name": "Luanzinho",
+                        "firstname": "Luan",
+                        "lastname": "Martins Pereira",
+                        "age": 23,
+                        "birth": {
+                            "date": "2000-04-21",
+                            "place": "Ariquemes",
+                            "country": "Brazil"
+                        },
+                        "nationality": "Brazil",
+                        "height": "180 cm",
+                        "weight": "80 kg",
+                        "injured": false,
+                        "photo": "https://media-3.api-sports.io/football/players/10532.png"
+                    },
+                    "statistics": [
+                        {
+                            "team": {
+                                "id": 2874,
+                                "name": "Sharjah FC",
+                                "logo": "https://media-1.api-sports.io/football/teams/2874.png"
+                            },
+                            "league": {
+                                "id": 301,
+                                "name": "Pro League",
+                                "country": "United-Arab-Emirates",
+                                "logo": "https://media-1.api-sports.io/football/leagues/301.png",
+                                "flag": "https://media-3.api-sports.io/flags/ae.svg",
+                                "season": 2022
+                            },
+                            "games": {
+                                "appearences": 23,
+                                "lineups": 20,
+                                "minutes": 1515,
+                                "number": null,
+                                "position": "Midfielder",
+                                "rating": null,
+                                "captain": false
+                            },
+                            "substitutes": {
+                                "in": 3,
+                                "out": 20,
+                                "bench": 3
+                            },
+                            "shots": {
+                                "total": null,
+                                "on": null
+                            },
+                            "goals": {
+                                "total": 6,
+                                "conceded": null,
+                                "assists": null,
+                                "saves": null
+                            },
+                            "passes": {
+                                "total": null,
+                                "key": null,
+                                "accuracy": null
+                            },
+                            "tackles": {
+                                "total": null,
+                                "blocks": null,
+                                "interceptions": null
+                            },
+                            "duels": {
+                                "total": null,
+                                "won": null
+                            },
+                            "dribbles": {
+                                "attempts": null,
+                                "success": null,
+                                "past": null
+                            },
+                            "fouls": {
+                                "drawn": null,
+                                "committed": null
+                            },
+                            "cards": {
+                                "yellow": 2,
+                                "yellowred": 0,
+                                "red": 0
+                            },
+                            "penalty": {
+                                "won": null,
+                                "commited": null,
+                                "scored": null,
+                                "missed": null,
+                                "saved": null
+                            }
+                        }
+                    ]
+                },
+                {
+                    "player": {
+                        "id": 41101,
+                        "name": "Jo\u00e3o Novais",
+                        "firstname": "Jo\u00e3o Pedro",
+                        "lastname": "Barradas Novais",
+                        "age": 30,
+                        "birth": {
+                            "date": "1993-07-10",
+                            "place": "Vila Nova de Gaia",
+                            "country": "Portugal"
+                        },
+                        "nationality": "Portugal",
+                        "height": "183 cm",
+                        "weight": "77 kg",
+                        "injured": false,
+                        "photo": "https://media-1.api-sports.io/football/players/41101.png"
+                    },
+                    "statistics": [
+                        {
+                            "team": {
+                                "id": 9136,
+                                "name": "Al Bataeh",
+                                "logo": "https://media-2.api-sports.io/football/teams/9136.png"
+                            },
+                            "league": {
+                                "id": 301,
+                                "name": "Pro League",
+                                "country": "United-Arab-Emirates",
+                                "logo": "https://media-1.api-sports.io/football/leagues/301.png",
+                                "flag": "https://media-1.api-sports.io/flags/ae.svg",
+                                "season": 2022
+                            },
+                            "games": {
+                                "appearences": 22,
+                                "lineups": 21,
+                                "minutes": 1835,
+                                "number": null,
+                                "position": "Midfielder",
+                                "rating": null,
+                                "captain": false
+                            },
+                            "substitutes": {
+                                "in": 1,
+                                "out": 5,
+                                "bench": 1
+                            },
+                            "shots": {
+                                "total": null,
+                                "on": null
+                            },
+                            "goals": {
+                                "total": 6,
+                                "conceded": null,
+                                "assists": null,
+                                "saves": null
+                            },
+                            "passes": {
+                                "total": null,
+                                "key": null,
+                                "accuracy": null
+                            },
+                            "tackles": {
+                                "total": null,
+                                "blocks": null,
+                                "interceptions": null
+                            },
+                            "duels": {
+                                "total": null,
+                                "won": null
+                            },
+                            "dribbles": {
+                                "attempts": null,
+                                "success": null,
+                                "past": null
+                            },
+                            "fouls": {
+                                "drawn": null,
+                                "committed": null
+                            },
+                            "cards": {
+                                "yellow": 3,
+                                "yellowred": 0,
+                                "red": 0
+                            },
+                            "penalty": {
+                                "won": null,
+                                "commited": null,
+                                "scored": null,
+                                "missed": null,
+                                "saved": null
+                            }
+                        }
+                    ]
+                },
+                {
+                    "player": {
+                        "id": 102687,
+                        "name": "P. Mboungou",
+                        "firstname": "Vieljeux Prestige",
+                        "lastname": "Mboungou",
+                        "age": 23,
+                        "birth": {
+                            "date": "2000-07-10",
+                            "place": null,
+                            "country": "Congo"
+                        },
+                        "nationality": "Congo",
+                        "height": "170 cm",
+                        "weight": "70 kg",
+                        "injured": false,
+                        "photo": "https://media-1.api-sports.io/football/players/102687.png"
+                    },
+                    "statistics": [
+                        {
+                            "team": {
+                                "id": 2879,
+                                "name": "Ajman",
+                                "logo": "https://media-3.api-sports.io/football/teams/2879.png"
+                            },
+                            "league": {
+                                "id": 301,
+                                "name": "Pro League",
+                                "country": "United-Arab-Emirates",
+                                "logo": "https://media-3.api-sports.io/football/leagues/301.png",
+                                "flag": "https://media-3.api-sports.io/flags/ae.svg",
+                                "season": 2022
+                            },
+                            "games": {
+                                "appearences": 21,
+                                "lineups": 20,
+                                "minutes": 1763,
+                                "number": null,
+                                "position": "Attacker",
+                                "rating": null,
+                                "captain": false
+                            },
+                            "substitutes": {
+                                "in": 1,
+                                "out": 11,
+                                "bench": 1
+                            },
+                            "shots": {
+                                "total": null,
+                                "on": null
+                            },
+                            "goals": {
+                                "total": 6,
+                                "conceded": null,
+                                "assists": null,
+                                "saves": null
+                            },
+                            "passes": {
+                                "total": null,
+                                "key": null,
+                                "accuracy": null
+                            },
+                            "tackles": {
+                                "total": null,
+                                "blocks": null,
+                                "interceptions": null
+                            },
+                            "duels": {
+                                "total": null,
+                                "won": null
+                            },
+                            "dribbles": {
+                                "attempts": null,
+                                "success": null,
+                                "past": null
+                            },
+                            "fouls": {
+                                "drawn": null,
+                                "committed": null
+                            },
+                            "cards": {
+                                "yellow": 4,
+                                "yellowred": 0,
+                                "red": 0
+                            },
+                            "penalty": {
+                                "won": null,
+                                "commited": null,
+                                "scored": null,
+                                "missed": null,
+                                "saved": null
+                            }
+                        }
+                    ]
+                },
+                {
+                    "player": {
+                        "id": 50423,
+                        "name": "Suhail Al Noobi",
+                        "firstname": "Suhail Ahmed",
+                        "lastname": "Al Noobi Saeed",
+                        "age": 27,
+                        "birth": {
+                            "date": "1996-01-09",
+                            "place": null,
+                            "country": "United Arab Emirates"
+                        },
+                        "nationality": "United Arab Emirates",
+                        "height": "174 cm",
+                        "weight": "67 kg",
+                        "injured": false,
+                        "photo": "https://media-3.api-sports.io/football/players/50423.png"
+                    },
+                    "statistics": [
+                        {
+                            "team": {
+                                "id": 2877,
+                                "name": "Baniyas SC",
+                                "logo": "https://media-2.api-sports.io/football/teams/2877.png"
+                            },
+                            "league": {
+                                "id": 301,
+                                "name": "Pro League",
+                                "country": "United-Arab-Emirates",
+                                "logo": "https://media-1.api-sports.io/football/leagues/301.png",
+                                "flag": "https://media-2.api-sports.io/flags/ae.svg",
+                                "season": 2022
+                            },
+                            "games": {
+                                "appearences": 23,
+                                "lineups": 21,
+                                "minutes": 1815,
+                                "number": null,
+                                "position": "Attacker",
+                                "rating": null,
+                                "captain": false
+                            },
+                            "substitutes": {
+                                "in": 2,
+                                "out": 10,
+                                "bench": 2
+                            },
+                            "shots": {
+                                "total": null,
+                                "on": null
+                            },
+                            "goals": {
+                                "total": 5,
+                                "conceded": null,
+                                "assists": null,
+                                "saves": null
+                            },
+                            "passes": {
+                                "total": null,
+                                "key": null,
+                                "accuracy": null
+                            },
+                            "tackles": {
+                                "total": null,
+                                "blocks": null,
+                                "interceptions": null
+                            },
+                            "duels": {
+                                "total": null,
+                                "won": null
+                            },
+                            "dribbles": {
+                                "attempts": null,
+                                "success": null,
+                                "past": null
+                            },
+                            "fouls": {
+                                "drawn": null,
+                                "committed": null
+                            },
+                            "cards": {
+                                "yellow": 2,
+                                "yellowred": 0,
+                                "red": 0
+                            },
+                            "penalty": {
+                                "won": null,
+                                "commited": null,
+                                "scored": null,
+                                "missed": null,
+                                "saved": null
+                            }
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
 }

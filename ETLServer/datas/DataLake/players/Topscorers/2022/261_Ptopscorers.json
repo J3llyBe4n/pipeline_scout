@@ -1,3 +1,1909 @@
 {
-    "data": []
+    "data": [
+        {
+            "id": 261,
+            "data": [
+                {
+                    "player": {
+                        "id": 129693,
+                        "name": "R. Philippe",
+                        "firstname": "Rayan",
+                        "lastname": "Philippe",
+                        "age": 23,
+                        "birth": {
+                            "date": "2000-10-23",
+                            "place": "Nice",
+                            "country": "France"
+                        },
+                        "nationality": "France",
+                        "height": "177 cm",
+                        "weight": "76 kg",
+                        "injured": false,
+                        "photo": "https://media-2.api-sports.io/football/players/129693.png"
+                    },
+                    "statistics": [
+                        {
+                            "team": {
+                                "id": 11907,
+                                "name": "Swift Hesperange",
+                                "logo": "https://media-3.api-sports.io/football/teams/11907.png"
+                            },
+                            "league": {
+                                "id": 261,
+                                "name": "National Division",
+                                "country": "Luxembourg",
+                                "logo": "https://media-2.api-sports.io/football/leagues/261.png",
+                                "flag": "https://media-2.api-sports.io/flags/lu.svg",
+                                "season": 2022
+                            },
+                            "games": {
+                                "appearences": 25,
+                                "lineups": 24,
+                                "minutes": 2165,
+                                "number": null,
+                                "position": "Attacker",
+                                "rating": null,
+                                "captain": false
+                            },
+                            "substitutes": {
+                                "in": 1,
+                                "out": 4,
+                                "bench": 0
+                            },
+                            "shots": {
+                                "total": null,
+                                "on": null
+                            },
+                            "goals": {
+                                "total": 23,
+                                "conceded": null,
+                                "assists": null,
+                                "saves": null
+                            },
+                            "passes": {
+                                "total": null,
+                                "key": null,
+                                "accuracy": null
+                            },
+                            "tackles": {
+                                "total": null,
+                                "blocks": null,
+                                "interceptions": null
+                            },
+                            "duels": {
+                                "total": null,
+                                "won": null
+                            },
+                            "dribbles": {
+                                "attempts": null,
+                                "success": null,
+                                "past": null
+                            },
+                            "fouls": {
+                                "drawn": null,
+                                "committed": null
+                            },
+                            "cards": {
+                                "yellow": 3,
+                                "yellowred": 0,
+                                "red": 0
+                            },
+                            "penalty": {
+                                "won": null,
+                                "commited": null,
+                                "scored": null,
+                                "missed": null,
+                                "saved": null
+                            }
+                        }
+                    ]
+                },
+                {
+                    "player": {
+                        "id": 1674,
+                        "name": "D. Stolz",
+                        "firstname": "Dominik",
+                        "lastname": "Stolz",
+                        "age": 33,
+                        "birth": {
+                            "date": "1990-05-04",
+                            "place": "Neuendettelsau",
+                            "country": "Germany"
+                        },
+                        "nationality": "Germany",
+                        "height": "174 cm",
+                        "weight": "73 kg",
+                        "injured": false,
+                        "photo": "https://media-1.api-sports.io/football/players/1674.png"
+                    },
+                    "statistics": [
+                        {
+                            "team": {
+                                "id": 11907,
+                                "name": "Swift Hesperange",
+                                "logo": "https://media-1.api-sports.io/football/teams/11907.png"
+                            },
+                            "league": {
+                                "id": 261,
+                                "name": "National Division",
+                                "country": "Luxembourg",
+                                "logo": "https://media-1.api-sports.io/football/leagues/261.png",
+                                "flag": "https://media-3.api-sports.io/flags/lu.svg",
+                                "season": 2022
+                            },
+                            "games": {
+                                "appearences": 24,
+                                "lineups": 24,
+                                "minutes": 2146,
+                                "number": null,
+                                "position": "Midfielder",
+                                "rating": null,
+                                "captain": false
+                            },
+                            "substitutes": {
+                                "in": 0,
+                                "out": 1,
+                                "bench": 0
+                            },
+                            "shots": {
+                                "total": null,
+                                "on": null
+                            },
+                            "goals": {
+                                "total": 22,
+                                "conceded": null,
+                                "assists": null,
+                                "saves": null
+                            },
+                            "passes": {
+                                "total": null,
+                                "key": null,
+                                "accuracy": null
+                            },
+                            "tackles": {
+                                "total": null,
+                                "blocks": null,
+                                "interceptions": null
+                            },
+                            "duels": {
+                                "total": null,
+                                "won": null
+                            },
+                            "dribbles": {
+                                "attempts": null,
+                                "success": null,
+                                "past": null
+                            },
+                            "fouls": {
+                                "drawn": null,
+                                "committed": null
+                            },
+                            "cards": {
+                                "yellow": 3,
+                                "yellowred": 0,
+                                "red": 0
+                            },
+                            "penalty": {
+                                "won": null,
+                                "commited": null,
+                                "scored": null,
+                                "missed": null,
+                                "saved": null
+                            }
+                        }
+                    ]
+                },
+                {
+                    "player": {
+                        "id": 333082,
+                        "name": "E. Filet",
+                        "firstname": "Elias",
+                        "lastname": "Filet",
+                        "age": 21,
+                        "birth": {
+                            "date": "2002-03-06",
+                            "place": null,
+                            "country": "France"
+                        },
+                        "nationality": "France",
+                        "height": null,
+                        "weight": null,
+                        "injured": false,
+                        "photo": "https://media-2.api-sports.io/football/players/333082.png"
+                    },
+                    "statistics": [
+                        {
+                            "team": {
+                                "id": 658,
+                                "name": "Progres Niederkorn",
+                                "logo": "https://media-2.api-sports.io/football/teams/658.png"
+                            },
+                            "league": {
+                                "id": 261,
+                                "name": "National Division",
+                                "country": "Luxembourg",
+                                "logo": "https://media-1.api-sports.io/football/leagues/261.png",
+                                "flag": "https://media-3.api-sports.io/flags/lu.svg",
+                                "season": 2022
+                            },
+                            "games": {
+                                "appearences": 25,
+                                "lineups": 21,
+                                "minutes": 1977,
+                                "number": null,
+                                "position": "Attacker",
+                                "rating": null,
+                                "captain": false
+                            },
+                            "substitutes": {
+                                "in": 4,
+                                "out": 5,
+                                "bench": 0
+                            },
+                            "shots": {
+                                "total": null,
+                                "on": null
+                            },
+                            "goals": {
+                                "total": 19,
+                                "conceded": null,
+                                "assists": null,
+                                "saves": null
+                            },
+                            "passes": {
+                                "total": null,
+                                "key": null,
+                                "accuracy": null
+                            },
+                            "tackles": {
+                                "total": null,
+                                "blocks": null,
+                                "interceptions": null
+                            },
+                            "duels": {
+                                "total": null,
+                                "won": null
+                            },
+                            "dribbles": {
+                                "attempts": null,
+                                "success": null,
+                                "past": null
+                            },
+                            "fouls": {
+                                "drawn": null,
+                                "committed": null
+                            },
+                            "cards": {
+                                "yellow": 4,
+                                "yellowred": 0,
+                                "red": 0
+                            },
+                            "penalty": {
+                                "won": null,
+                                "commited": null,
+                                "scored": null,
+                                "missed": null,
+                                "saved": null
+                            }
+                        }
+                    ]
+                },
+                {
+                    "player": {
+                        "id": 105902,
+                        "name": "S. Hadji",
+                        "firstname": "Samir",
+                        "lastname": "Hadji",
+                        "age": 34,
+                        "birth": {
+                            "date": "1989-09-12",
+                            "place": "Creutzwald",
+                            "country": "France"
+                        },
+                        "nationality": "Morocco",
+                        "height": "190 cm",
+                        "weight": null,
+                        "injured": false,
+                        "photo": "https://media-2.api-sports.io/football/players/105902.png"
+                    },
+                    "statistics": [
+                        {
+                            "team": {
+                                "id": 578,
+                                "name": "F91 Dudelange",
+                                "logo": "https://media-3.api-sports.io/football/teams/578.png"
+                            },
+                            "league": {
+                                "id": 261,
+                                "name": "National Division",
+                                "country": "Luxembourg",
+                                "logo": "https://media-2.api-sports.io/football/leagues/261.png",
+                                "flag": "https://media-3.api-sports.io/flags/lu.svg",
+                                "season": 2022
+                            },
+                            "games": {
+                                "appearences": 25,
+                                "lineups": 24,
+                                "minutes": 2036,
+                                "number": null,
+                                "position": "Attacker",
+                                "rating": null,
+                                "captain": false
+                            },
+                            "substitutes": {
+                                "in": 1,
+                                "out": 7,
+                                "bench": 0
+                            },
+                            "shots": {
+                                "total": null,
+                                "on": null
+                            },
+                            "goals": {
+                                "total": 16,
+                                "conceded": null,
+                                "assists": null,
+                                "saves": null
+                            },
+                            "passes": {
+                                "total": null,
+                                "key": null,
+                                "accuracy": null
+                            },
+                            "tackles": {
+                                "total": null,
+                                "blocks": null,
+                                "interceptions": null
+                            },
+                            "duels": {
+                                "total": null,
+                                "won": null
+                            },
+                            "dribbles": {
+                                "attempts": null,
+                                "success": null,
+                                "past": null
+                            },
+                            "fouls": {
+                                "drawn": null,
+                                "committed": null
+                            },
+                            "cards": {
+                                "yellow": 1,
+                                "yellowred": 0,
+                                "red": 0
+                            },
+                            "penalty": {
+                                "won": null,
+                                "commited": null,
+                                "scored": null,
+                                "missed": null,
+                                "saved": null
+                            }
+                        }
+                    ]
+                },
+                {
+                    "player": {
+                        "id": 105901,
+                        "name": "D. Sinani",
+                        "firstname": "Dejvid",
+                        "lastname": "Sinani",
+                        "age": 30,
+                        "birth": {
+                            "date": "1993-04-02",
+                            "place": "Belgrad",
+                            "country": "Serbia"
+                        },
+                        "nationality": "Luxembourg",
+                        "height": "185 cm",
+                        "weight": null,
+                        "injured": false,
+                        "photo": "https://media-1.api-sports.io/football/players/105901.png"
+                    },
+                    "statistics": [
+                        {
+                            "team": {
+                                "id": 578,
+                                "name": "F91 Dudelange",
+                                "logo": "https://media-3.api-sports.io/football/teams/578.png"
+                            },
+                            "league": {
+                                "id": 261,
+                                "name": "National Division",
+                                "country": "Luxembourg",
+                                "logo": "https://media-2.api-sports.io/football/leagues/261.png",
+                                "flag": "https://media-2.api-sports.io/flags/lu.svg",
+                                "season": 2022
+                            },
+                            "games": {
+                                "appearences": 24,
+                                "lineups": 23,
+                                "minutes": 2001,
+                                "number": null,
+                                "position": "Midfielder",
+                                "rating": null,
+                                "captain": false
+                            },
+                            "substitutes": {
+                                "in": 1,
+                                "out": 6,
+                                "bench": 0
+                            },
+                            "shots": {
+                                "total": null,
+                                "on": null
+                            },
+                            "goals": {
+                                "total": 16,
+                                "conceded": null,
+                                "assists": null,
+                                "saves": null
+                            },
+                            "passes": {
+                                "total": null,
+                                "key": null,
+                                "accuracy": null
+                            },
+                            "tackles": {
+                                "total": null,
+                                "blocks": null,
+                                "interceptions": null
+                            },
+                            "duels": {
+                                "total": null,
+                                "won": null
+                            },
+                            "dribbles": {
+                                "attempts": null,
+                                "success": null,
+                                "past": null
+                            },
+                            "fouls": {
+                                "drawn": null,
+                                "committed": null
+                            },
+                            "cards": {
+                                "yellow": 2,
+                                "yellowred": 0,
+                                "red": 0
+                            },
+                            "penalty": {
+                                "won": null,
+                                "commited": null,
+                                "scored": null,
+                                "missed": null,
+                                "saved": null
+                            }
+                        }
+                    ]
+                },
+                {
+                    "player": {
+                        "id": 96335,
+                        "name": "Jo\u00e3o Magno",
+                        "firstname": "Jo\u00e3o Victo",
+                        "lastname": "Magno de Souza Machado",
+                        "age": 26,
+                        "birth": {
+                            "date": "1997-02-15",
+                            "place": null,
+                            "country": "Brazil"
+                        },
+                        "nationality": "Brazil",
+                        "height": "195 cm",
+                        "weight": "80 kg",
+                        "injured": false,
+                        "photo": "https://media-1.api-sports.io/football/players/96335.png"
+                    },
+                    "statistics": [
+                        {
+                            "team": {
+                                "id": 578,
+                                "name": "F91 Dudelange",
+                                "logo": "https://media-1.api-sports.io/football/teams/578.png"
+                            },
+                            "league": {
+                                "id": 261,
+                                "name": "National Division",
+                                "country": "Luxembourg",
+                                "logo": "https://media-1.api-sports.io/football/leagues/261.png",
+                                "flag": "https://media-1.api-sports.io/flags/lu.svg",
+                                "season": 2022
+                            },
+                            "games": {
+                                "appearences": 24,
+                                "lineups": 23,
+                                "minutes": 1868,
+                                "number": null,
+                                "position": "Attacker",
+                                "rating": null,
+                                "captain": false
+                            },
+                            "substitutes": {
+                                "in": 1,
+                                "out": 15,
+                                "bench": 0
+                            },
+                            "shots": {
+                                "total": null,
+                                "on": null
+                            },
+                            "goals": {
+                                "total": 15,
+                                "conceded": null,
+                                "assists": null,
+                                "saves": null
+                            },
+                            "passes": {
+                                "total": null,
+                                "key": null,
+                                "accuracy": null
+                            },
+                            "tackles": {
+                                "total": null,
+                                "blocks": null,
+                                "interceptions": null
+                            },
+                            "duels": {
+                                "total": null,
+                                "won": null
+                            },
+                            "dribbles": {
+                                "attempts": null,
+                                "success": null,
+                                "past": null
+                            },
+                            "fouls": {
+                                "drawn": null,
+                                "committed": null
+                            },
+                            "cards": {
+                                "yellow": 10,
+                                "yellowred": 0,
+                                "red": 0
+                            },
+                            "penalty": {
+                                "won": null,
+                                "commited": null,
+                                "scored": null,
+                                "missed": null,
+                                "saved": null
+                            }
+                        }
+                    ]
+                },
+                {
+                    "player": {
+                        "id": 23883,
+                        "name": "E. M&apos;Barki",
+                        "firstname": "El Hassane",
+                        "lastname": "M'Barki",
+                        "age": 36,
+                        "birth": {
+                            "date": "1987-05-08",
+                            "place": null,
+                            "country": "Morocco"
+                        },
+                        "nationality": "Morocco",
+                        "height": null,
+                        "weight": null,
+                        "injured": false,
+                        "photo": "https://media-3.api-sports.io/football/players/23883.png"
+                    },
+                    "statistics": [
+                        {
+                            "team": {
+                                "id": 15886,
+                                "name": "Mondercange",
+                                "logo": "https://media-1.api-sports.io/football/teams/15886.png"
+                            },
+                            "league": {
+                                "id": 261,
+                                "name": "National Division",
+                                "country": "Luxembourg",
+                                "logo": "https://media-1.api-sports.io/football/leagues/261.png",
+                                "flag": "https://media-1.api-sports.io/flags/lu.svg",
+                                "season": 2022
+                            },
+                            "games": {
+                                "appearences": 25,
+                                "lineups": 23,
+                                "minutes": 1996,
+                                "number": null,
+                                "position": "Attacker",
+                                "rating": null,
+                                "captain": false
+                            },
+                            "substitutes": {
+                                "in": 2,
+                                "out": 7,
+                                "bench": 0
+                            },
+                            "shots": {
+                                "total": null,
+                                "on": null
+                            },
+                            "goals": {
+                                "total": 14,
+                                "conceded": null,
+                                "assists": null,
+                                "saves": null
+                            },
+                            "passes": {
+                                "total": null,
+                                "key": null,
+                                "accuracy": null
+                            },
+                            "tackles": {
+                                "total": null,
+                                "blocks": null,
+                                "interceptions": null
+                            },
+                            "duels": {
+                                "total": null,
+                                "won": null
+                            },
+                            "dribbles": {
+                                "attempts": null,
+                                "success": null,
+                                "past": null
+                            },
+                            "fouls": {
+                                "drawn": null,
+                                "committed": null
+                            },
+                            "cards": {
+                                "yellow": 1,
+                                "yellowred": 0,
+                                "red": 0
+                            },
+                            "penalty": {
+                                "won": null,
+                                "commited": null,
+                                "scored": null,
+                                "missed": null,
+                                "saved": null
+                            }
+                        }
+                    ]
+                },
+                {
+                    "player": {
+                        "id": 119032,
+                        "name": "K. Tekiela",
+                        "firstname": "Kempes Waldemar",
+                        "lastname": "Tekiela",
+                        "age": 26,
+                        "birth": {
+                            "date": "1997-10-15",
+                            "place": "Iserlohn",
+                            "country": "Germany"
+                        },
+                        "nationality": "Germany",
+                        "height": "187 cm",
+                        "weight": "83 kg",
+                        "injured": false,
+                        "photo": "https://media-3.api-sports.io/football/players/119032.png"
+                    },
+                    "statistics": [
+                        {
+                            "team": {
+                                "id": 2032,
+                                "name": "Union Titus Petange",
+                                "logo": "https://media-3.api-sports.io/football/teams/2032.png"
+                            },
+                            "league": {
+                                "id": 261,
+                                "name": "National Division",
+                                "country": "Luxembourg",
+                                "logo": "https://media-2.api-sports.io/football/leagues/261.png",
+                                "flag": "https://media-3.api-sports.io/flags/lu.svg",
+                                "season": 2022
+                            },
+                            "games": {
+                                "appearences": 23,
+                                "lineups": 22,
+                                "minutes": 1984,
+                                "number": null,
+                                "position": "Midfielder",
+                                "rating": null,
+                                "captain": false
+                            },
+                            "substitutes": {
+                                "in": 1,
+                                "out": 2,
+                                "bench": 0
+                            },
+                            "shots": {
+                                "total": null,
+                                "on": null
+                            },
+                            "goals": {
+                                "total": 14,
+                                "conceded": null,
+                                "assists": null,
+                                "saves": null
+                            },
+                            "passes": {
+                                "total": null,
+                                "key": null,
+                                "accuracy": null
+                            },
+                            "tackles": {
+                                "total": null,
+                                "blocks": null,
+                                "interceptions": null
+                            },
+                            "duels": {
+                                "total": null,
+                                "won": null
+                            },
+                            "dribbles": {
+                                "attempts": null,
+                                "success": null,
+                                "past": null
+                            },
+                            "fouls": {
+                                "drawn": null,
+                                "committed": null
+                            },
+                            "cards": {
+                                "yellow": 2,
+                                "yellowred": 0,
+                                "red": 0
+                            },
+                            "penalty": {
+                                "won": null,
+                                "commited": null,
+                                "scored": null,
+                                "missed": null,
+                                "saved": null
+                            }
+                        }
+                    ]
+                },
+                {
+                    "player": {
+                        "id": 96391,
+                        "name": "A. Abreu",
+                        "firstname": "Artur",
+                        "lastname": "Abreu Pereira",
+                        "age": 29,
+                        "birth": {
+                            "date": "1994-08-11",
+                            "place": "Niederkorn",
+                            "country": "Luxembourg"
+                        },
+                        "nationality": "Luxembourg",
+                        "height": "182 cm",
+                        "weight": "74 kg",
+                        "injured": false,
+                        "photo": "https://media-1.api-sports.io/football/players/96391.png"
+                    },
+                    "statistics": [
+                        {
+                            "team": {
+                                "id": 2032,
+                                "name": "Union Titus Petange",
+                                "logo": "https://media-1.api-sports.io/football/teams/2032.png"
+                            },
+                            "league": {
+                                "id": 261,
+                                "name": "National Division",
+                                "country": "Luxembourg",
+                                "logo": "https://media-1.api-sports.io/football/leagues/261.png",
+                                "flag": "https://media-2.api-sports.io/flags/lu.svg",
+                                "season": 2022
+                            },
+                            "games": {
+                                "appearences": 22,
+                                "lineups": 19,
+                                "minutes": 1679,
+                                "number": null,
+                                "position": "Attacker",
+                                "rating": null,
+                                "captain": false
+                            },
+                            "substitutes": {
+                                "in": 3,
+                                "out": 6,
+                                "bench": 0
+                            },
+                            "shots": {
+                                "total": null,
+                                "on": null
+                            },
+                            "goals": {
+                                "total": 13,
+                                "conceded": null,
+                                "assists": null,
+                                "saves": null
+                            },
+                            "passes": {
+                                "total": null,
+                                "key": null,
+                                "accuracy": null
+                            },
+                            "tackles": {
+                                "total": null,
+                                "blocks": null,
+                                "interceptions": null
+                            },
+                            "duels": {
+                                "total": null,
+                                "won": null
+                            },
+                            "dribbles": {
+                                "attempts": null,
+                                "success": null,
+                                "past": null
+                            },
+                            "fouls": {
+                                "drawn": null,
+                                "committed": null
+                            },
+                            "cards": {
+                                "yellow": 7,
+                                "yellowred": 0,
+                                "red": 0
+                            },
+                            "penalty": {
+                                "won": null,
+                                "commited": null,
+                                "scored": null,
+                                "missed": null,
+                                "saved": null
+                            }
+                        }
+                    ]
+                },
+                {
+                    "player": {
+                        "id": 331079,
+                        "name": "B. Romeyns",
+                        "firstname": "Benjamin",
+                        "lastname": "Romeyns",
+                        "age": 22,
+                        "birth": {
+                            "date": "2001-05-27",
+                            "place": null,
+                            "country": "Belgium"
+                        },
+                        "nationality": "Belgium",
+                        "height": "185 cm",
+                        "weight": null,
+                        "injured": false,
+                        "photo": "https://media-2.api-sports.io/football/players/331079.png"
+                    },
+                    "statistics": [
+                        {
+                            "team": {
+                                "id": 11906,
+                                "name": "Wiltz",
+                                "logo": "https://media-2.api-sports.io/football/teams/11906.png"
+                            },
+                            "league": {
+                                "id": 261,
+                                "name": "National Division",
+                                "country": "Luxembourg",
+                                "logo": "https://media-1.api-sports.io/football/leagues/261.png",
+                                "flag": "https://media-2.api-sports.io/flags/lu.svg",
+                                "season": 2022
+                            },
+                            "games": {
+                                "appearences": 24,
+                                "lineups": 22,
+                                "minutes": 1983,
+                                "number": null,
+                                "position": "Attacker",
+                                "rating": null,
+                                "captain": false
+                            },
+                            "substitutes": {
+                                "in": 2,
+                                "out": 7,
+                                "bench": 0
+                            },
+                            "shots": {
+                                "total": null,
+                                "on": null
+                            },
+                            "goals": {
+                                "total": 11,
+                                "conceded": null,
+                                "assists": null,
+                                "saves": null
+                            },
+                            "passes": {
+                                "total": null,
+                                "key": null,
+                                "accuracy": null
+                            },
+                            "tackles": {
+                                "total": null,
+                                "blocks": null,
+                                "interceptions": null
+                            },
+                            "duels": {
+                                "total": null,
+                                "won": null
+                            },
+                            "dribbles": {
+                                "attempts": null,
+                                "success": null,
+                                "past": null
+                            },
+                            "fouls": {
+                                "drawn": null,
+                                "committed": null
+                            },
+                            "cards": {
+                                "yellow": 2,
+                                "yellowred": 0,
+                                "red": 0
+                            },
+                            "penalty": {
+                                "won": null,
+                                "commited": null,
+                                "scored": null,
+                                "missed": null,
+                                "saved": null
+                            }
+                        }
+                    ]
+                },
+                {
+                    "player": {
+                        "id": 25722,
+                        "name": "K. Merk",
+                        "firstname": "Kai",
+                        "lastname": "Merk",
+                        "age": 25,
+                        "birth": {
+                            "date": "1998-08-28",
+                            "place": "Dahn",
+                            "country": "Germany"
+                        },
+                        "nationality": "Kyrgyz Republic",
+                        "height": "178 cm",
+                        "weight": null,
+                        "injured": false,
+                        "photo": "https://media-1.api-sports.io/football/players/25722.png"
+                    },
+                    "statistics": [
+                        {
+                            "team": {
+                                "id": 2032,
+                                "name": "Union Titus Petange",
+                                "logo": "https://media-2.api-sports.io/football/teams/2032.png"
+                            },
+                            "league": {
+                                "id": 261,
+                                "name": "National Division",
+                                "country": "Luxembourg",
+                                "logo": "https://media-1.api-sports.io/football/leagues/261.png",
+                                "flag": "https://media-3.api-sports.io/flags/lu.svg",
+                                "season": 2022
+                            },
+                            "games": {
+                                "appearences": 20,
+                                "lineups": 18,
+                                "minutes": 1540,
+                                "number": null,
+                                "position": "Attacker",
+                                "rating": null,
+                                "captain": false
+                            },
+                            "substitutes": {
+                                "in": 2,
+                                "out": 9,
+                                "bench": 0
+                            },
+                            "shots": {
+                                "total": null,
+                                "on": null
+                            },
+                            "goals": {
+                                "total": 11,
+                                "conceded": null,
+                                "assists": null,
+                                "saves": null
+                            },
+                            "passes": {
+                                "total": null,
+                                "key": null,
+                                "accuracy": null
+                            },
+                            "tackles": {
+                                "total": null,
+                                "blocks": null,
+                                "interceptions": null
+                            },
+                            "duels": {
+                                "total": null,
+                                "won": null
+                            },
+                            "dribbles": {
+                                "attempts": null,
+                                "success": null,
+                                "past": null
+                            },
+                            "fouls": {
+                                "drawn": null,
+                                "committed": null
+                            },
+                            "cards": {
+                                "yellow": 1,
+                                "yellowred": 0,
+                                "red": 0
+                            },
+                            "penalty": {
+                                "won": null,
+                                "commited": null,
+                                "scored": null,
+                                "missed": null,
+                                "saved": null
+                            }
+                        }
+                    ]
+                },
+                {
+                    "player": {
+                        "id": 142585,
+                        "name": "\u00c9rico Castro",
+                        "firstname": "\u00c9rico Roberto",
+                        "lastname": "Mendes Alves Castro",
+                        "age": 31,
+                        "birth": {
+                            "date": "1992-09-21",
+                            "place": "Oeiras",
+                            "country": "Portugal"
+                        },
+                        "nationality": "Angola",
+                        "height": "185 cm",
+                        "weight": "80 kg",
+                        "injured": false,
+                        "photo": "https://media-1.api-sports.io/football/players/142585.png"
+                    },
+                    "statistics": [
+                        {
+                            "team": {
+                                "id": 684,
+                                "name": "FC Differdange 03",
+                                "logo": "https://media-3.api-sports.io/football/teams/684.png"
+                            },
+                            "league": {
+                                "id": 261,
+                                "name": "National Division",
+                                "country": "Luxembourg",
+                                "logo": "https://media-2.api-sports.io/football/leagues/261.png",
+                                "flag": "https://media-1.api-sports.io/flags/lu.svg",
+                                "season": 2022
+                            },
+                            "games": {
+                                "appearences": 17,
+                                "lineups": 14,
+                                "minutes": 1231,
+                                "number": null,
+                                "position": "Attacker",
+                                "rating": null,
+                                "captain": false
+                            },
+                            "substitutes": {
+                                "in": 3,
+                                "out": 5,
+                                "bench": 0
+                            },
+                            "shots": {
+                                "total": null,
+                                "on": null
+                            },
+                            "goals": {
+                                "total": 11,
+                                "conceded": null,
+                                "assists": null,
+                                "saves": null
+                            },
+                            "passes": {
+                                "total": null,
+                                "key": null,
+                                "accuracy": null
+                            },
+                            "tackles": {
+                                "total": null,
+                                "blocks": null,
+                                "interceptions": null
+                            },
+                            "duels": {
+                                "total": null,
+                                "won": null
+                            },
+                            "dribbles": {
+                                "attempts": null,
+                                "success": null,
+                                "past": null
+                            },
+                            "fouls": {
+                                "drawn": null,
+                                "committed": null
+                            },
+                            "cards": {
+                                "yellow": 6,
+                                "yellowred": 0,
+                                "red": 1
+                            },
+                            "penalty": {
+                                "won": null,
+                                "commited": null,
+                                "scored": null,
+                                "missed": null,
+                                "saved": null
+                            }
+                        }
+                    ]
+                },
+                {
+                    "player": {
+                        "id": 86827,
+                        "name": "M. De Almeida",
+                        "firstname": "Mayron",
+                        "lastname": "De Almeida",
+                        "age": 28,
+                        "birth": {
+                            "date": "1995-11-22",
+                            "place": null,
+                            "country": "Belgium"
+                        },
+                        "nationality": "Belgium",
+                        "height": "179 cm",
+                        "weight": null,
+                        "injured": false,
+                        "photo": "https://media-3.api-sports.io/football/players/86827.png"
+                    },
+                    "statistics": [
+                        {
+                            "team": {
+                                "id": 658,
+                                "name": "Progres Niederkorn",
+                                "logo": "https://media-2.api-sports.io/football/teams/658.png"
+                            },
+                            "league": {
+                                "id": 261,
+                                "name": "National Division",
+                                "country": "Luxembourg",
+                                "logo": "https://media-1.api-sports.io/football/leagues/261.png",
+                                "flag": "https://media-3.api-sports.io/flags/lu.svg",
+                                "season": 2022
+                            },
+                            "games": {
+                                "appearences": 24,
+                                "lineups": 22,
+                                "minutes": 1963,
+                                "number": null,
+                                "position": "Midfielder",
+                                "rating": null,
+                                "captain": false
+                            },
+                            "substitutes": {
+                                "in": 2,
+                                "out": 7,
+                                "bench": 0
+                            },
+                            "shots": {
+                                "total": null,
+                                "on": null
+                            },
+                            "goals": {
+                                "total": 8,
+                                "conceded": null,
+                                "assists": null,
+                                "saves": null
+                            },
+                            "passes": {
+                                "total": null,
+                                "key": null,
+                                "accuracy": null
+                            },
+                            "tackles": {
+                                "total": null,
+                                "blocks": null,
+                                "interceptions": null
+                            },
+                            "duels": {
+                                "total": null,
+                                "won": null
+                            },
+                            "dribbles": {
+                                "attempts": null,
+                                "success": null,
+                                "past": null
+                            },
+                            "fouls": {
+                                "drawn": null,
+                                "committed": null
+                            },
+                            "cards": {
+                                "yellow": 7,
+                                "yellowred": 0,
+                                "red": 0
+                            },
+                            "penalty": {
+                                "won": null,
+                                "commited": null,
+                                "scored": null,
+                                "missed": null,
+                                "saved": null
+                            }
+                        }
+                    ]
+                },
+                {
+                    "player": {
+                        "id": 379886,
+                        "name": "Jo\u00e3o Sim\u00f5es",
+                        "firstname": "Jo\u00e3o Paulo",
+                        "lastname": "Ambr\u00f3sio Sim\u00f5es",
+                        "age": 21,
+                        "birth": {
+                            "date": "2002-05-28",
+                            "place": null,
+                            "country": "Portugal"
+                        },
+                        "nationality": "Portugal",
+                        "height": "165 cm",
+                        "weight": null,
+                        "injured": false,
+                        "photo": "https://media-2.api-sports.io/football/players/379886.png"
+                    },
+                    "statistics": [
+                        {
+                            "team": {
+                                "id": 684,
+                                "name": "FC Differdange 03",
+                                "logo": "https://media-2.api-sports.io/football/teams/684.png"
+                            },
+                            "league": {
+                                "id": 261,
+                                "name": "National Division",
+                                "country": "Luxembourg",
+                                "logo": "https://media-1.api-sports.io/football/leagues/261.png",
+                                "flag": "https://media-3.api-sports.io/flags/lu.svg",
+                                "season": 2022
+                            },
+                            "games": {
+                                "appearences": 23,
+                                "lineups": 14,
+                                "minutes": 1251,
+                                "number": null,
+                                "position": "Attacker",
+                                "rating": null,
+                                "captain": false
+                            },
+                            "substitutes": {
+                                "in": 9,
+                                "out": 6,
+                                "bench": 0
+                            },
+                            "shots": {
+                                "total": null,
+                                "on": null
+                            },
+                            "goals": {
+                                "total": 8,
+                                "conceded": null,
+                                "assists": null,
+                                "saves": null
+                            },
+                            "passes": {
+                                "total": null,
+                                "key": null,
+                                "accuracy": null
+                            },
+                            "tackles": {
+                                "total": null,
+                                "blocks": null,
+                                "interceptions": null
+                            },
+                            "duels": {
+                                "total": null,
+                                "won": null
+                            },
+                            "dribbles": {
+                                "attempts": null,
+                                "success": null,
+                                "past": null
+                            },
+                            "fouls": {
+                                "drawn": null,
+                                "committed": null
+                            },
+                            "cards": {
+                                "yellow": 3,
+                                "yellowred": 0,
+                                "red": 0
+                            },
+                            "penalty": {
+                                "won": null,
+                                "commited": null,
+                                "scored": null,
+                                "missed": null,
+                                "saved": null
+                            }
+                        }
+                    ]
+                },
+                {
+                    "player": {
+                        "id": 126950,
+                        "name": "E. Carratala-Jim\u00e9nez",
+                        "firstname": "Ernesto Jos\u00e9",
+                        "lastname": "Carratala-Jim\u00e9nez",
+                        "age": 24,
+                        "birth": {
+                            "date": "1999-11-10",
+                            "place": "Halle",
+                            "country": "Germany"
+                        },
+                        "nationality": "Germany",
+                        "height": null,
+                        "weight": null,
+                        "injured": false,
+                        "photo": "https://media-3.api-sports.io/football/players/126950.png"
+                    },
+                    "statistics": [
+                        {
+                            "team": {
+                                "id": 2038,
+                                "name": "Victoria Rosport",
+                                "logo": "https://media-3.api-sports.io/football/teams/2038.png"
+                            },
+                            "league": {
+                                "id": 261,
+                                "name": "National Division",
+                                "country": "Luxembourg",
+                                "logo": "https://media-2.api-sports.io/football/leagues/261.png",
+                                "flag": "https://media-2.api-sports.io/flags/lu.svg",
+                                "season": 2022
+                            },
+                            "games": {
+                                "appearences": 22,
+                                "lineups": 13,
+                                "minutes": 1051,
+                                "number": null,
+                                "position": "Midfielder",
+                                "rating": null,
+                                "captain": false
+                            },
+                            "substitutes": {
+                                "in": 9,
+                                "out": 9,
+                                "bench": 0
+                            },
+                            "shots": {
+                                "total": null,
+                                "on": null
+                            },
+                            "goals": {
+                                "total": 8,
+                                "conceded": null,
+                                "assists": null,
+                                "saves": null
+                            },
+                            "passes": {
+                                "total": null,
+                                "key": null,
+                                "accuracy": null
+                            },
+                            "tackles": {
+                                "total": null,
+                                "blocks": null,
+                                "interceptions": null
+                            },
+                            "duels": {
+                                "total": null,
+                                "won": null
+                            },
+                            "dribbles": {
+                                "attempts": null,
+                                "success": null,
+                                "past": null
+                            },
+                            "fouls": {
+                                "drawn": null,
+                                "committed": null
+                            },
+                            "cards": {
+                                "yellow": 2,
+                                "yellowred": 0,
+                                "red": 0
+                            },
+                            "penalty": {
+                                "won": null,
+                                "commited": null,
+                                "scored": null,
+                                "missed": null,
+                                "saved": null
+                            }
+                        }
+                    ]
+                },
+                {
+                    "player": {
+                        "id": 178534,
+                        "name": "B. Hend",
+                        "firstname": "Bilal Ali",
+                        "lastname": "Hend",
+                        "age": 23,
+                        "birth": {
+                            "date": "2000-01-18",
+                            "place": null,
+                            "country": "France"
+                        },
+                        "nationality": "France",
+                        "height": null,
+                        "weight": null,
+                        "injured": false,
+                        "photo": "https://media-1.api-sports.io/football/players/178534.png"
+                    },
+                    "statistics": [
+                        {
+                            "team": {
+                                "id": 658,
+                                "name": "Progres Niederkorn",
+                                "logo": "https://media-1.api-sports.io/football/teams/658.png"
+                            },
+                            "league": {
+                                "id": 261,
+                                "name": "National Division",
+                                "country": "Luxembourg",
+                                "logo": "https://media-2.api-sports.io/football/leagues/261.png",
+                                "flag": "https://media-3.api-sports.io/flags/lu.svg",
+                                "season": 2022
+                            },
+                            "games": {
+                                "appearences": 20,
+                                "lineups": 17,
+                                "minutes": 1476,
+                                "number": null,
+                                "position": "Midfielder",
+                                "rating": null,
+                                "captain": false
+                            },
+                            "substitutes": {
+                                "in": 3,
+                                "out": 9,
+                                "bench": 0
+                            },
+                            "shots": {
+                                "total": null,
+                                "on": null
+                            },
+                            "goals": {
+                                "total": 8,
+                                "conceded": null,
+                                "assists": null,
+                                "saves": null
+                            },
+                            "passes": {
+                                "total": null,
+                                "key": null,
+                                "accuracy": null
+                            },
+                            "tackles": {
+                                "total": null,
+                                "blocks": null,
+                                "interceptions": null
+                            },
+                            "duels": {
+                                "total": null,
+                                "won": null
+                            },
+                            "dribbles": {
+                                "attempts": null,
+                                "success": null,
+                                "past": null
+                            },
+                            "fouls": {
+                                "drawn": null,
+                                "committed": null
+                            },
+                            "cards": {
+                                "yellow": 4,
+                                "yellowred": 0,
+                                "red": 0
+                            },
+                            "penalty": {
+                                "won": null,
+                                "commited": null,
+                                "scored": null,
+                                "missed": null,
+                                "saved": null
+                            }
+                        }
+                    ]
+                },
+                {
+                    "player": {
+                        "id": 41255,
+                        "name": "A. Keita",
+                        "firstname": "Alhassane",
+                        "lastname": "Keita",
+                        "age": 31,
+                        "birth": {
+                            "date": "1992-04-16",
+                            "place": "Conakry",
+                            "country": "Guinea"
+                        },
+                        "nationality": "Guinea",
+                        "height": "183 cm",
+                        "weight": null,
+                        "injured": false,
+                        "photo": "https://media-1.api-sports.io/football/players/41255.png"
+                    },
+                    "statistics": [
+                        {
+                            "team": {
+                                "id": 2037,
+                                "name": "US Mondorf-les-bains",
+                                "logo": "https://media-2.api-sports.io/football/teams/2037.png"
+                            },
+                            "league": {
+                                "id": 261,
+                                "name": "National Division",
+                                "country": "Luxembourg",
+                                "logo": "https://media-1.api-sports.io/football/leagues/261.png",
+                                "flag": "https://media-3.api-sports.io/flags/lu.svg",
+                                "season": 2022
+                            },
+                            "games": {
+                                "appearences": 15,
+                                "lineups": 9,
+                                "minutes": 846,
+                                "number": null,
+                                "position": "Attacker",
+                                "rating": null,
+                                "captain": false
+                            },
+                            "substitutes": {
+                                "in": 6,
+                                "out": 4,
+                                "bench": 0
+                            },
+                            "shots": {
+                                "total": null,
+                                "on": null
+                            },
+                            "goals": {
+                                "total": 8,
+                                "conceded": null,
+                                "assists": null,
+                                "saves": null
+                            },
+                            "passes": {
+                                "total": null,
+                                "key": null,
+                                "accuracy": null
+                            },
+                            "tackles": {
+                                "total": null,
+                                "blocks": null,
+                                "interceptions": null
+                            },
+                            "duels": {
+                                "total": null,
+                                "won": null
+                            },
+                            "dribbles": {
+                                "attempts": null,
+                                "success": null,
+                                "past": null
+                            },
+                            "fouls": {
+                                "drawn": null,
+                                "committed": null
+                            },
+                            "cards": {
+                                "yellow": 3,
+                                "yellowred": 0,
+                                "red": 0
+                            },
+                            "penalty": {
+                                "won": null,
+                                "commited": null,
+                                "scored": null,
+                                "missed": null,
+                                "saved": null
+                            }
+                        }
+                    ]
+                },
+                {
+                    "player": {
+                        "id": 105626,
+                        "name": "Bertino Jo\u00e3o Cabral Barbosa",
+                        "firstname": "Bertino Jo\u00e3o",
+                        "lastname": "Cabral Barbosa",
+                        "age": 31,
+                        "birth": {
+                            "date": "1992-05-06",
+                            "place": "Oeiras",
+                            "country": "Portugal"
+                        },
+                        "nationality": "Portugal",
+                        "height": "188 cm",
+                        "weight": "79 kg",
+                        "injured": false,
+                        "photo": "https://media-2.api-sports.io/football/players/105626.png"
+                    },
+                    "statistics": [
+                        {
+                            "team": {
+                                "id": 684,
+                                "name": "FC Differdange 03",
+                                "logo": "https://media-3.api-sports.io/football/teams/684.png"
+                            },
+                            "league": {
+                                "id": 261,
+                                "name": "National Division",
+                                "country": "Luxembourg",
+                                "logo": "https://media-2.api-sports.io/football/leagues/261.png",
+                                "flag": "https://media-2.api-sports.io/flags/lu.svg",
+                                "season": 2022
+                            },
+                            "games": {
+                                "appearences": 14,
+                                "lineups": 8,
+                                "minutes": 855,
+                                "number": null,
+                                "position": "Attacker",
+                                "rating": null,
+                                "captain": false
+                            },
+                            "substitutes": {
+                                "in": 6,
+                                "out": 1,
+                                "bench": 0
+                            },
+                            "shots": {
+                                "total": null,
+                                "on": null
+                            },
+                            "goals": {
+                                "total": 8,
+                                "conceded": null,
+                                "assists": null,
+                                "saves": null
+                            },
+                            "passes": {
+                                "total": null,
+                                "key": null,
+                                "accuracy": null
+                            },
+                            "tackles": {
+                                "total": null,
+                                "blocks": null,
+                                "interceptions": null
+                            },
+                            "duels": {
+                                "total": null,
+                                "won": null
+                            },
+                            "dribbles": {
+                                "attempts": null,
+                                "success": null,
+                                "past": null
+                            },
+                            "fouls": {
+                                "drawn": null,
+                                "committed": null
+                            },
+                            "cards": {
+                                "yellow": 2,
+                                "yellowred": 0,
+                                "red": 0
+                            },
+                            "penalty": {
+                                "won": null,
+                                "commited": null,
+                                "scored": null,
+                                "missed": null,
+                                "saved": null
+                            }
+                        }
+                    ]
+                },
+                {
+                    "player": {
+                        "id": 117190,
+                        "name": "J. Steinbach",
+                        "firstname": "Johannes",
+                        "lastname": "Steinbach",
+                        "age": 31,
+                        "birth": {
+                            "date": "1992-07-02",
+                            "place": null,
+                            "country": "Germany"
+                        },
+                        "nationality": "Germany",
+                        "height": null,
+                        "weight": null,
+                        "injured": false,
+                        "photo": "https://media-2.api-sports.io/football/players/117190.png"
+                    },
+                    "statistics": [
+                        {
+                            "team": {
+                                "id": 2038,
+                                "name": "Victoria Rosport",
+                                "logo": "https://media-1.api-sports.io/football/teams/2038.png"
+                            },
+                            "league": {
+                                "id": 261,
+                                "name": "National Division",
+                                "country": "Luxembourg",
+                                "logo": "https://media-2.api-sports.io/football/leagues/261.png",
+                                "flag": "https://media-1.api-sports.io/flags/lu.svg",
+                                "season": 2022
+                            },
+                            "games": {
+                                "appearences": 23,
+                                "lineups": 23,
+                                "minutes": 2059,
+                                "number": null,
+                                "position": "Defender",
+                                "rating": null,
+                                "captain": false
+                            },
+                            "substitutes": {
+                                "in": 0,
+                                "out": 1,
+                                "bench": 0
+                            },
+                            "shots": {
+                                "total": null,
+                                "on": null
+                            },
+                            "goals": {
+                                "total": 7,
+                                "conceded": null,
+                                "assists": null,
+                                "saves": null
+                            },
+                            "passes": {
+                                "total": null,
+                                "key": null,
+                                "accuracy": null
+                            },
+                            "tackles": {
+                                "total": null,
+                                "blocks": null,
+                                "interceptions": null
+                            },
+                            "duels": {
+                                "total": null,
+                                "won": null
+                            },
+                            "dribbles": {
+                                "attempts": null,
+                                "success": null,
+                                "past": null
+                            },
+                            "fouls": {
+                                "drawn": null,
+                                "committed": null
+                            },
+                            "cards": {
+                                "yellow": 0,
+                                "yellowred": 0,
+                                "red": 0
+                            },
+                            "penalty": {
+                                "won": null,
+                                "commited": null,
+                                "scored": null,
+                                "missed": null,
+                                "saved": null
+                            }
+                        }
+                    ]
+                },
+                {
+                    "player": {
+                        "id": 203715,
+                        "name": "G. Almeida",
+                        "firstname": "Gon\u00e7alo Jorge",
+                        "lastname": "Almeida da Silva",
+                        "age": 33,
+                        "birth": {
+                            "date": "1990-11-26",
+                            "place": "Vila Real",
+                            "country": "Portugal"
+                        },
+                        "nationality": "Luxembourg",
+                        "height": "181 cm",
+                        "weight": null,
+                        "injured": false,
+                        "photo": "https://media-1.api-sports.io/football/players/203715.png"
+                    },
+                    "statistics": [
+                        {
+                            "team": {
+                                "id": 684,
+                                "name": "FC Differdange 03",
+                                "logo": "https://media-2.api-sports.io/football/teams/684.png"
+                            },
+                            "league": {
+                                "id": 261,
+                                "name": "National Division",
+                                "country": "Luxembourg",
+                                "logo": "https://media-2.api-sports.io/football/leagues/261.png",
+                                "flag": "https://media-1.api-sports.io/flags/lu.svg",
+                                "season": 2022
+                            },
+                            "games": {
+                                "appearences": 22,
+                                "lineups": 14,
+                                "minutes": 1207,
+                                "number": null,
+                                "position": "Attacker",
+                                "rating": null,
+                                "captain": false
+                            },
+                            "substitutes": {
+                                "in": 8,
+                                "out": 10,
+                                "bench": 0
+                            },
+                            "shots": {
+                                "total": null,
+                                "on": null
+                            },
+                            "goals": {
+                                "total": 7,
+                                "conceded": null,
+                                "assists": null,
+                                "saves": null
+                            },
+                            "passes": {
+                                "total": null,
+                                "key": null,
+                                "accuracy": null
+                            },
+                            "tackles": {
+                                "total": null,
+                                "blocks": null,
+                                "interceptions": null
+                            },
+                            "duels": {
+                                "total": null,
+                                "won": null
+                            },
+                            "dribbles": {
+                                "attempts": null,
+                                "success": null,
+                                "past": null
+                            },
+                            "fouls": {
+                                "drawn": null,
+                                "committed": null
+                            },
+                            "cards": {
+                                "yellow": 3,
+                                "yellowred": 0,
+                                "red": 0
+                            },
+                            "penalty": {
+                                "won": null,
+                                "commited": null,
+                                "scored": null,
+                                "missed": null,
+                                "saved": null
+                            }
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
 }

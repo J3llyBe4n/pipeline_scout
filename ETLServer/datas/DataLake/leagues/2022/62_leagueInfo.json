@@ -36,6 +36,43 @@
                     }
                 }
             ]
+        },
+        {
+            "league": {
+                "id": 62,
+                "name": "Ligue 2",
+                "type": "League",
+                "logo": "https://media-3.api-sports.io/football/leagues/62.png"
+            },
+            "country": {
+                "name": "France",
+                "code": "FR",
+                "flag": "https://media-2.api-sports.io/flags/fr.svg"
+            },
+            "seasons": [
+                {
+                    "year": 2022,
+                    "start": "2022-07-30",
+                    "end": "2023-06-02",
+                    "current": true,
+                    "coverage": {
+                        "fixtures": {
+                            "events": true,
+                            "lineups": true,
+                            "statistics_fixtures": true,
+                            "statistics_players": true
+                        },
+                        "standings": true,
+                        "players": true,
+                        "top_scorers": true,
+                        "top_assists": true,
+                        "top_cards": true,
+                        "injuries": false,
+                        "predictions": true,
+                        "odds": true
+                    }
+                }
+            ]
         }
     ]
 }

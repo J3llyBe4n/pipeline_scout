@@ -13,6 +13,6 @@ db_func.connect_SQL()
 gmt_nowDate = datetime.datetime.utcnow().date().strftime('%Y-%m-%d')
 fixture_id = db_func.read_fixtureId(gmt_nowDate)
 
-api_func.load_fixtureTStatsJson(fixture_id,api_keys)
+api_func.load_fixtureTStatsJson(fixture_id, api_keys)
 
 db_func.close_SQL()

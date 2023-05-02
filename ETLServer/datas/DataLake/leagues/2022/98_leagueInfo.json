@@ -36,6 +36,43 @@
                     }
                 }
             ]
+        },
+        {
+            "league": {
+                "id": 98,
+                "name": "J1 League",
+                "type": "League",
+                "logo": "https://media-1.api-sports.io/football/leagues/98.png"
+            },
+            "country": {
+                "name": "Japan",
+                "code": "JP",
+                "flag": "https://media-3.api-sports.io/flags/jp.svg"
+            },
+            "seasons": [
+                {
+                    "year": 2022,
+                    "start": "2022-02-18",
+                    "end": "2022-11-05",
+                    "current": false,
+                    "coverage": {
+                        "fixtures": {
+                            "events": true,
+                            "lineups": true,
+                            "statistics_fixtures": true,
+                            "statistics_players": true
+                        },
+                        "standings": true,
+                        "players": true,
+                        "top_scorers": true,
+                        "top_assists": true,
+                        "top_cards": true,
+                        "injuries": false,
+                        "predictions": true,
+                        "odds": false
+                    }
+                }
+            ]
         }
     ]
 }

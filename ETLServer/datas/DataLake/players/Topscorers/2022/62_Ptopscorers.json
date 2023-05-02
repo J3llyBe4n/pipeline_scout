@@ -1,3 +1,1909 @@
 {
-    "data": []
+    "data": [
+        {
+            "id": 62,
+            "data": [
+                {
+                    "player": {
+                        "id": 180496,
+                        "name": "G. Mikautadze",
+                        "firstname": "Georges",
+                        "lastname": "Mikautadze",
+                        "age": 23,
+                        "birth": {
+                            "date": "2000-10-31",
+                            "place": "Lyon",
+                            "country": "France"
+                        },
+                        "nationality": "Georgia",
+                        "height": "176 cm",
+                        "weight": "71 kg",
+                        "injured": false,
+                        "photo": "https://media-2.api-sports.io/football/players/180496.png"
+                    },
+                    "statistics": [
+                        {
+                            "team": {
+                                "id": 112,
+                                "name": "Metz",
+                                "logo": "https://media-3.api-sports.io/football/teams/112.png"
+                            },
+                            "league": {
+                                "id": 62,
+                                "name": "Ligue 2",
+                                "country": "France",
+                                "logo": "https://media-3.api-sports.io/football/leagues/62.png",
+                                "flag": "https://media-2.api-sports.io/flags/fr.svg",
+                                "season": 2022
+                            },
+                            "games": {
+                                "appearences": 31,
+                                "lineups": 29,
+                                "minutes": 2550,
+                                "number": null,
+                                "position": "Attacker",
+                                "rating": "7.229032",
+                                "captain": false
+                            },
+                            "substitutes": {
+                                "in": 2,
+                                "out": 17,
+                                "bench": 2
+                            },
+                            "shots": {
+                                "total": 60,
+                                "on": 32
+                            },
+                            "goals": {
+                                "total": 19,
+                                "conceded": 0,
+                                "assists": 7,
+                                "saves": null
+                            },
+                            "passes": {
+                                "total": 709,
+                                "key": 46,
+                                "accuracy": 18
+                            },
+                            "tackles": {
+                                "total": 5,
+                                "blocks": 3,
+                                "interceptions": 8
+                            },
+                            "duels": {
+                                "total": 330,
+                                "won": 120
+                            },
+                            "dribbles": {
+                                "attempts": 118,
+                                "success": 48,
+                                "past": null
+                            },
+                            "fouls": {
+                                "drawn": 50,
+                                "committed": 22
+                            },
+                            "cards": {
+                                "yellow": 4,
+                                "yellowred": 0,
+                                "red": 0
+                            },
+                            "penalty": {
+                                "won": null,
+                                "commited": null,
+                                "scored": 4,
+                                "missed": 0,
+                                "saved": null
+                            }
+                        }
+                    ]
+                },
+                {
+                    "player": {
+                        "id": 22842,
+                        "name": "J. Krasso",
+                        "firstname": "Jean-Philippe",
+                        "lastname": "Krasso",
+                        "age": 26,
+                        "birth": {
+                            "date": "1997-07-17",
+                            "place": "Stuttgart",
+                            "country": "Germany"
+                        },
+                        "nationality": "C\u00f4te d'Ivoire",
+                        "height": "187 cm",
+                        "weight": "80 kg",
+                        "injured": false,
+                        "photo": "https://media-1.api-sports.io/football/players/22842.png"
+                    },
+                    "statistics": [
+                        {
+                            "team": {
+                                "id": 1063,
+                                "name": "Saint Etienne",
+                                "logo": "https://media-1.api-sports.io/football/teams/1063.png"
+                            },
+                            "league": {
+                                "id": 62,
+                                "name": "Ligue 2",
+                                "country": "France",
+                                "logo": "https://media-1.api-sports.io/football/leagues/62.png",
+                                "flag": "https://media-3.api-sports.io/flags/fr.svg",
+                                "season": 2022
+                            },
+                            "games": {
+                                "appearences": 29,
+                                "lineups": 27,
+                                "minutes": 2451,
+                                "number": null,
+                                "position": "Attacker",
+                                "rating": "7.221428",
+                                "captain": false
+                            },
+                            "substitutes": {
+                                "in": 2,
+                                "out": 5,
+                                "bench": 2
+                            },
+                            "shots": {
+                                "total": 52,
+                                "on": 30
+                            },
+                            "goals": {
+                                "total": 16,
+                                "conceded": 0,
+                                "assists": 8,
+                                "saves": null
+                            },
+                            "passes": {
+                                "total": 727,
+                                "key": 47,
+                                "accuracy": 18
+                            },
+                            "tackles": {
+                                "total": 46,
+                                "blocks": 3,
+                                "interceptions": 6
+                            },
+                            "duels": {
+                                "total": 502,
+                                "won": 216
+                            },
+                            "dribbles": {
+                                "attempts": 132,
+                                "success": 64,
+                                "past": null
+                            },
+                            "fouls": {
+                                "drawn": 56,
+                                "committed": 47
+                            },
+                            "cards": {
+                                "yellow": 5,
+                                "yellowred": 0,
+                                "red": 1
+                            },
+                            "penalty": {
+                                "won": null,
+                                "commited": null,
+                                "scored": 7,
+                                "missed": 1,
+                                "saved": null
+                            }
+                        }
+                    ]
+                },
+                {
+                    "player": {
+                        "id": 21506,
+                        "name": "Alexandre Mendy",
+                        "firstname": "Alexandre",
+                        "lastname": "Mendy",
+                        "age": 29,
+                        "birth": {
+                            "date": "1994-03-20",
+                            "place": "Toulon",
+                            "country": "France"
+                        },
+                        "nationality": "Guinea-Bissau",
+                        "height": "184 cm",
+                        "weight": "94 kg",
+                        "injured": false,
+                        "photo": "https://media-2.api-sports.io/football/players/21506.png"
+                    },
+                    "statistics": [
+                        {
+                            "team": {
+                                "id": 88,
+                                "name": "Caen",
+                                "logo": "https://media-2.api-sports.io/football/teams/88.png"
+                            },
+                            "league": {
+                                "id": 62,
+                                "name": "Ligue 2",
+                                "country": "France",
+                                "logo": "https://media-2.api-sports.io/football/leagues/62.png",
+                                "flag": "https://media-2.api-sports.io/flags/fr.svg",
+                                "season": 2022
+                            },
+                            "games": {
+                                "appearences": 31,
+                                "lineups": 31,
+                                "minutes": 2495,
+                                "number": null,
+                                "position": "Attacker",
+                                "rating": "6.990322",
+                                "captain": false
+                            },
+                            "substitutes": {
+                                "in": 0,
+                                "out": 17,
+                                "bench": 0
+                            },
+                            "shots": {
+                                "total": 56,
+                                "on": 23
+                            },
+                            "goals": {
+                                "total": 15,
+                                "conceded": 0,
+                                "assists": 4,
+                                "saves": null
+                            },
+                            "passes": {
+                                "total": 597,
+                                "key": 29,
+                                "accuracy": 12
+                            },
+                            "tackles": {
+                                "total": 13,
+                                "blocks": 2,
+                                "interceptions": 1
+                            },
+                            "duels": {
+                                "total": 379,
+                                "won": 183
+                            },
+                            "dribbles": {
+                                "attempts": 30,
+                                "success": 15,
+                                "past": null
+                            },
+                            "fouls": {
+                                "drawn": 37,
+                                "committed": 44
+                            },
+                            "cards": {
+                                "yellow": 7,
+                                "yellowred": 0,
+                                "red": 0
+                            },
+                            "penalty": {
+                                "won": null,
+                                "commited": null,
+                                "scored": 5,
+                                "missed": 0,
+                                "saved": null
+                            }
+                        }
+                    ]
+                },
+                {
+                    "player": {
+                        "id": 1279,
+                        "name": "J. Maja",
+                        "firstname": "Joshua",
+                        "lastname": "Erowoli Orisunmihare Oluwaseun",
+                        "age": 25,
+                        "birth": {
+                            "date": "1998-12-27",
+                            "place": "London",
+                            "country": "England"
+                        },
+                        "nationality": "Nigeria",
+                        "height": "181 cm",
+                        "weight": "78 kg",
+                        "injured": false,
+                        "photo": "https://media-3.api-sports.io/football/players/1279.png"
+                    },
+                    "statistics": [
+                        {
+                            "team": {
+                                "id": 78,
+                                "name": "Bordeaux",
+                                "logo": "https://media-1.api-sports.io/football/teams/78.png"
+                            },
+                            "league": {
+                                "id": 62,
+                                "name": "Ligue 2",
+                                "country": "France",
+                                "logo": "https://media-3.api-sports.io/football/leagues/62.png",
+                                "flag": "https://media-2.api-sports.io/flags/fr.svg",
+                                "season": 2022
+                            },
+                            "games": {
+                                "appearences": 32,
+                                "lineups": 29,
+                                "minutes": 2405,
+                                "number": null,
+                                "position": "Attacker",
+                                "rating": "7.084375",
+                                "captain": false
+                            },
+                            "substitutes": {
+                                "in": 3,
+                                "out": 22,
+                                "bench": 3
+                            },
+                            "shots": {
+                                "total": 52,
+                                "on": 32
+                            },
+                            "goals": {
+                                "total": 15,
+                                "conceded": 0,
+                                "assists": 5,
+                                "saves": null
+                            },
+                            "passes": {
+                                "total": 680,
+                                "key": 38,
+                                "accuracy": 16
+                            },
+                            "tackles": {
+                                "total": 20,
+                                "blocks": 2,
+                                "interceptions": 19
+                            },
+                            "duels": {
+                                "total": 233,
+                                "won": 101
+                            },
+                            "dribbles": {
+                                "attempts": 36,
+                                "success": 19,
+                                "past": null
+                            },
+                            "fouls": {
+                                "drawn": 26,
+                                "committed": 25
+                            },
+                            "cards": {
+                                "yellow": 2,
+                                "yellowred": 0,
+                                "red": 0
+                            },
+                            "penalty": {
+                                "won": null,
+                                "commited": null,
+                                "scored": 7,
+                                "missed": 0,
+                                "saved": null
+                            }
+                        }
+                    ]
+                },
+                {
+                    "player": {
+                        "id": 23643,
+                        "name": "M. Guilavogui",
+                        "firstname": "Morgan Bono",
+                        "lastname": "Guilavogui",
+                        "age": 25,
+                        "birth": {
+                            "date": "1998-03-10",
+                            "place": null,
+                            "country": "France"
+                        },
+                        "nationality": "Guinea",
+                        "height": "188 cm",
+                        "weight": "81 kg",
+                        "injured": false,
+                        "photo": "https://media-3.api-sports.io/football/players/23643.png"
+                    },
+                    "statistics": [
+                        {
+                            "team": {
+                                "id": 114,
+                                "name": "Paris FC",
+                                "logo": "https://media-1.api-sports.io/football/teams/114.png"
+                            },
+                            "league": {
+                                "id": 62,
+                                "name": "Ligue 2",
+                                "country": "France",
+                                "logo": "https://media-1.api-sports.io/football/leagues/62.png",
+                                "flag": "https://media-2.api-sports.io/flags/fr.svg",
+                                "season": 2022
+                            },
+                            "games": {
+                                "appearences": 27,
+                                "lineups": 19,
+                                "minutes": 1777,
+                                "number": null,
+                                "position": "Attacker",
+                                "rating": "7.192592",
+                                "captain": false
+                            },
+                            "substitutes": {
+                                "in": 8,
+                                "out": 12,
+                                "bench": 8
+                            },
+                            "shots": {
+                                "total": 54,
+                                "on": 30
+                            },
+                            "goals": {
+                                "total": 13,
+                                "conceded": 0,
+                                "assists": 3,
+                                "saves": null
+                            },
+                            "passes": {
+                                "total": 649,
+                                "key": 38,
+                                "accuracy": 17
+                            },
+                            "tackles": {
+                                "total": 31,
+                                "blocks": null,
+                                "interceptions": 8
+                            },
+                            "duels": {
+                                "total": 300,
+                                "won": 130
+                            },
+                            "dribbles": {
+                                "attempts": 41,
+                                "success": 17,
+                                "past": null
+                            },
+                            "fouls": {
+                                "drawn": 25,
+                                "committed": 47
+                            },
+                            "cards": {
+                                "yellow": 5,
+                                "yellowred": 0,
+                                "red": 0
+                            },
+                            "penalty": {
+                                "won": null,
+                                "commited": null,
+                                "scored": 2,
+                                "missed": 0,
+                                "saved": null
+                            }
+                        }
+                    ]
+                },
+                {
+                    "player": {
+                        "id": 309920,
+                        "name": "M. Sahi",
+                        "firstname": "Mo\u00efse Orell",
+                        "lastname": "Dion Sahi",
+                        "age": 22,
+                        "birth": {
+                            "date": "2001-12-20",
+                            "place": "Abidjan",
+                            "country": "C\u00f4te d'Ivoire"
+                        },
+                        "nationality": "C\u00f4te d'Ivoire",
+                        "height": "175 cm",
+                        "weight": "70 kg",
+                        "injured": false,
+                        "photo": "https://media-1.api-sports.io/football/players/309920.png"
+                    },
+                    "statistics": [
+                        {
+                            "team": {
+                                "id": 3012,
+                                "name": "Annecy",
+                                "logo": "https://media-1.api-sports.io/football/teams/3012.png"
+                            },
+                            "league": {
+                                "id": 62,
+                                "name": "Ligue 2",
+                                "country": "France",
+                                "logo": "https://media-2.api-sports.io/football/leagues/62.png",
+                                "flag": "https://media-2.api-sports.io/flags/fr.svg",
+                                "season": 2022
+                            },
+                            "games": {
+                                "appearences": 30,
+                                "lineups": 22,
+                                "minutes": 1792,
+                                "number": null,
+                                "position": "Attacker",
+                                "rating": "6.813333",
+                                "captain": false
+                            },
+                            "substitutes": {
+                                "in": 8,
+                                "out": 21,
+                                "bench": 8
+                            },
+                            "shots": {
+                                "total": 37,
+                                "on": 23
+                            },
+                            "goals": {
+                                "total": 12,
+                                "conceded": 0,
+                                "assists": 1,
+                                "saves": null
+                            },
+                            "passes": {
+                                "total": 382,
+                                "key": 6,
+                                "accuracy": 8
+                            },
+                            "tackles": {
+                                "total": 14,
+                                "blocks": 1,
+                                "interceptions": 2
+                            },
+                            "duels": {
+                                "total": 193,
+                                "won": 76
+                            },
+                            "dribbles": {
+                                "attempts": 46,
+                                "success": 25,
+                                "past": null
+                            },
+                            "fouls": {
+                                "drawn": 21,
+                                "committed": 15
+                            },
+                            "cards": {
+                                "yellow": 0,
+                                "yellowred": 0,
+                                "red": 0
+                            },
+                            "penalty": {
+                                "won": null,
+                                "commited": null,
+                                "scored": 2,
+                                "missed": 0,
+                                "saved": null
+                            }
+                        }
+                    ]
+                },
+                {
+                    "player": {
+                        "id": 20648,
+                        "name": "I. Sissoko",
+                        "firstname": "Ibrahim",
+                        "lastname": "Sissoko",
+                        "age": 28,
+                        "birth": {
+                            "date": "1995-11-27",
+                            "place": "Cr\u00e9teil",
+                            "country": "France"
+                        },
+                        "nationality": "Mali",
+                        "height": "192 cm",
+                        "weight": "89 kg",
+                        "injured": false,
+                        "photo": "https://media-3.api-sports.io/football/players/20648.png"
+                    },
+                    "statistics": [
+                        {
+                            "team": {
+                                "id": 115,
+                                "name": "Sochaux",
+                                "logo": "https://media-2.api-sports.io/football/teams/115.png"
+                            },
+                            "league": {
+                                "id": 62,
+                                "name": "Ligue 2",
+                                "country": "France",
+                                "logo": "https://media-2.api-sports.io/football/leagues/62.png",
+                                "flag": "https://media-1.api-sports.io/flags/fr.svg",
+                                "season": 2022
+                            },
+                            "games": {
+                                "appearences": 29,
+                                "lineups": 23,
+                                "minutes": 2013,
+                                "number": null,
+                                "position": "Attacker",
+                                "rating": "6.893103",
+                                "captain": false
+                            },
+                            "substitutes": {
+                                "in": 6,
+                                "out": 15,
+                                "bench": 6
+                            },
+                            "shots": {
+                                "total": 66,
+                                "on": 30
+                            },
+                            "goals": {
+                                "total": 12,
+                                "conceded": 0,
+                                "assists": 4,
+                                "saves": null
+                            },
+                            "passes": {
+                                "total": 404,
+                                "key": 21,
+                                "accuracy": 9
+                            },
+                            "tackles": {
+                                "total": 7,
+                                "blocks": 1,
+                                "interceptions": null
+                            },
+                            "duels": {
+                                "total": 299,
+                                "won": 116
+                            },
+                            "dribbles": {
+                                "attempts": 23,
+                                "success": 12,
+                                "past": null
+                            },
+                            "fouls": {
+                                "drawn": 34,
+                                "committed": 50
+                            },
+                            "cards": {
+                                "yellow": 5,
+                                "yellowred": 0,
+                                "red": 1
+                            },
+                            "penalty": {
+                                "won": null,
+                                "commited": null,
+                                "scored": 4,
+                                "missed": 0,
+                                "saved": null
+                            }
+                        }
+                    ]
+                },
+                {
+                    "player": {
+                        "id": 3340,
+                        "name": "M. Doumbia",
+                        "firstname": "Moussa",
+                        "lastname": "Doumbia",
+                        "age": 29,
+                        "birth": {
+                            "date": "1994-08-15",
+                            "place": "Bamako",
+                            "country": "Mali"
+                        },
+                        "nationality": "Mali",
+                        "height": "173 cm",
+                        "weight": "68 kg",
+                        "injured": false,
+                        "photo": "https://media-1.api-sports.io/football/players/3340.png"
+                    },
+                    "statistics": [
+                        {
+                            "team": {
+                                "id": 115,
+                                "name": "Sochaux",
+                                "logo": "https://media-1.api-sports.io/football/teams/115.png"
+                            },
+                            "league": {
+                                "id": 62,
+                                "name": "Ligue 2",
+                                "country": "France",
+                                "logo": "https://media-2.api-sports.io/football/leagues/62.png",
+                                "flag": "https://media-1.api-sports.io/flags/fr.svg",
+                                "season": 2022
+                            },
+                            "games": {
+                                "appearences": 30,
+                                "lineups": 24,
+                                "minutes": 1967,
+                                "number": null,
+                                "position": "Attacker",
+                                "rating": "7.216666",
+                                "captain": false
+                            },
+                            "substitutes": {
+                                "in": 6,
+                                "out": 18,
+                                "bench": 6
+                            },
+                            "shots": {
+                                "total": 44,
+                                "on": 22
+                            },
+                            "goals": {
+                                "total": 11,
+                                "conceded": 0,
+                                "assists": 5,
+                                "saves": null
+                            },
+                            "passes": {
+                                "total": 896,
+                                "key": 37,
+                                "accuracy": 25
+                            },
+                            "tackles": {
+                                "total": 20,
+                                "blocks": 2,
+                                "interceptions": 20
+                            },
+                            "duels": {
+                                "total": 246,
+                                "won": 145
+                            },
+                            "dribbles": {
+                                "attempts": 65,
+                                "success": 40,
+                                "past": null
+                            },
+                            "fouls": {
+                                "drawn": 76,
+                                "committed": 28
+                            },
+                            "cards": {
+                                "yellow": 5,
+                                "yellowred": 0,
+                                "red": 0
+                            },
+                            "penalty": {
+                                "won": null,
+                                "commited": null,
+                                "scored": 1,
+                                "missed": 0,
+                                "saved": null
+                            }
+                        }
+                    ]
+                },
+                {
+                    "player": {
+                        "id": 22178,
+                        "name": "M. Le Bihan",
+                        "firstname": "Micka\u00ebl",
+                        "lastname": "Le Bihan",
+                        "age": 33,
+                        "birth": {
+                            "date": "1990-05-16",
+                            "place": "Ploemeur",
+                            "country": "France"
+                        },
+                        "nationality": "France",
+                        "height": "185 cm",
+                        "weight": "85 kg",
+                        "injured": false,
+                        "photo": "https://media-3.api-sports.io/football/players/22178.png"
+                    },
+                    "statistics": [
+                        {
+                            "team": {
+                                "id": 89,
+                                "name": "Dijon",
+                                "logo": "https://media-3.api-sports.io/football/teams/89.png"
+                            },
+                            "league": {
+                                "id": 62,
+                                "name": "Ligue 2",
+                                "country": "France",
+                                "logo": "https://media-1.api-sports.io/football/leagues/62.png",
+                                "flag": "https://media-1.api-sports.io/flags/fr.svg",
+                                "season": 2022
+                            },
+                            "games": {
+                                "appearences": 31,
+                                "lineups": 31,
+                                "minutes": 2695,
+                                "number": null,
+                                "position": "Attacker",
+                                "rating": "6.945161",
+                                "captain": false
+                            },
+                            "substitutes": {
+                                "in": 0,
+                                "out": 12,
+                                "bench": 0
+                            },
+                            "shots": {
+                                "total": 57,
+                                "on": 26
+                            },
+                            "goals": {
+                                "total": 10,
+                                "conceded": 0,
+                                "assists": 3,
+                                "saves": null
+                            },
+                            "passes": {
+                                "total": 742,
+                                "key": 29,
+                                "accuracy": 17
+                            },
+                            "tackles": {
+                                "total": 35,
+                                "blocks": 4,
+                                "interceptions": 16
+                            },
+                            "duels": {
+                                "total": 358,
+                                "won": 150
+                            },
+                            "dribbles": {
+                                "attempts": 107,
+                                "success": 44,
+                                "past": null
+                            },
+                            "fouls": {
+                                "drawn": 53,
+                                "committed": 36
+                            },
+                            "cards": {
+                                "yellow": 7,
+                                "yellowred": 0,
+                                "red": 0
+                            },
+                            "penalty": {
+                                "won": null,
+                                "commited": null,
+                                "scored": 0,
+                                "missed": 1,
+                                "saved": null
+                            }
+                        }
+                    ]
+                },
+                {
+                    "player": {
+                        "id": 21653,
+                        "name": "M. Tchokount\u00e9",
+                        "firstname": "Malik",
+                        "lastname": "Tchokount\u00e9",
+                        "age": 35,
+                        "birth": {
+                            "date": "1988-09-11",
+                            "place": "Nice",
+                            "country": "France"
+                        },
+                        "nationality": "France",
+                        "height": "186 cm",
+                        "weight": "80 kg",
+                        "injured": false,
+                        "photo": "https://media-3.api-sports.io/football/players/21653.png"
+                    },
+                    "statistics": [
+                        {
+                            "team": {
+                                "id": 92,
+                                "name": "Nimes",
+                                "logo": "https://media-1.api-sports.io/football/teams/92.png"
+                            },
+                            "league": {
+                                "id": 62,
+                                "name": "Ligue 2",
+                                "country": "France",
+                                "logo": "https://media-1.api-sports.io/football/leagues/62.png",
+                                "flag": "https://media-2.api-sports.io/flags/fr.svg",
+                                "season": 2022
+                            },
+                            "games": {
+                                "appearences": 32,
+                                "lineups": 23,
+                                "minutes": 1988,
+                                "number": null,
+                                "position": "Attacker",
+                                "rating": "6.780645",
+                                "captain": false
+                            },
+                            "substitutes": {
+                                "in": 9,
+                                "out": 17,
+                                "bench": 9
+                            },
+                            "shots": {
+                                "total": 36,
+                                "on": 21
+                            },
+                            "goals": {
+                                "total": 10,
+                                "conceded": 0,
+                                "assists": 2,
+                                "saves": null
+                            },
+                            "passes": {
+                                "total": 546,
+                                "key": 25,
+                                "accuracy": 12
+                            },
+                            "tackles": {
+                                "total": 15,
+                                "blocks": 1,
+                                "interceptions": 2
+                            },
+                            "duels": {
+                                "total": 342,
+                                "won": 148
+                            },
+                            "dribbles": {
+                                "attempts": 29,
+                                "success": 14,
+                                "past": null
+                            },
+                            "fouls": {
+                                "drawn": 43,
+                                "committed": 51
+                            },
+                            "cards": {
+                                "yellow": 3,
+                                "yellowred": 0,
+                                "red": 0
+                            },
+                            "penalty": {
+                                "won": null,
+                                "commited": null,
+                                "scored": 4,
+                                "missed": 0,
+                                "saved": null
+                            }
+                        }
+                    ]
+                },
+                {
+                    "player": {
+                        "id": 21589,
+                        "name": "B. Boutobba",
+                        "firstname": "Bilal",
+                        "lastname": "Boutobba",
+                        "age": 25,
+                        "birth": {
+                            "date": "1998-08-29",
+                            "place": "Marseille",
+                            "country": "France"
+                        },
+                        "nationality": "France",
+                        "height": "172 cm",
+                        "weight": "65 kg",
+                        "injured": false,
+                        "photo": "https://media-3.api-sports.io/football/players/21589.png"
+                    },
+                    "statistics": [
+                        {
+                            "team": {
+                                "id": 113,
+                                "name": "Niort",
+                                "logo": "https://media-2.api-sports.io/football/teams/113.png"
+                            },
+                            "league": {
+                                "id": 62,
+                                "name": "Ligue 2",
+                                "country": "France",
+                                "logo": "https://media-2.api-sports.io/football/leagues/62.png",
+                                "flag": "https://media-1.api-sports.io/flags/fr.svg",
+                                "season": 2022
+                            },
+                            "games": {
+                                "appearences": 29,
+                                "lineups": 29,
+                                "minutes": 2510,
+                                "number": null,
+                                "position": "Midfielder",
+                                "rating": "7.055172",
+                                "captain": false
+                            },
+                            "substitutes": {
+                                "in": 0,
+                                "out": 7,
+                                "bench": 0
+                            },
+                            "shots": {
+                                "total": 51,
+                                "on": 32
+                            },
+                            "goals": {
+                                "total": 10,
+                                "conceded": 0,
+                                "assists": 2,
+                                "saves": null
+                            },
+                            "passes": {
+                                "total": 992,
+                                "key": 61,
+                                "accuracy": 26
+                            },
+                            "tackles": {
+                                "total": 27,
+                                "blocks": null,
+                                "interceptions": 12
+                            },
+                            "duels": {
+                                "total": 403,
+                                "won": 183
+                            },
+                            "dribbles": {
+                                "attempts": 141,
+                                "success": 64,
+                                "past": null
+                            },
+                            "fouls": {
+                                "drawn": 72,
+                                "committed": 22
+                            },
+                            "cards": {
+                                "yellow": 6,
+                                "yellowred": 0,
+                                "red": 0
+                            },
+                            "penalty": {
+                                "won": null,
+                                "commited": null,
+                                "scored": 4,
+                                "missed": 2,
+                                "saved": null
+                            }
+                        }
+                    ]
+                },
+                {
+                    "player": {
+                        "id": 174724,
+                        "name": "F. Magri",
+                        "firstname": "Frank",
+                        "lastname": "Magri",
+                        "age": 24,
+                        "birth": {
+                            "date": "1999-09-04",
+                            "place": null,
+                            "country": "France"
+                        },
+                        "nationality": "France",
+                        "height": "178 cm",
+                        "weight": "75 kg",
+                        "injured": false,
+                        "photo": "https://media-2.api-sports.io/football/players/174724.png"
+                    },
+                    "statistics": [
+                        {
+                            "team": {
+                                "id": 1305,
+                                "name": "Bastia",
+                                "logo": "https://media-1.api-sports.io/football/teams/1305.png"
+                            },
+                            "league": {
+                                "id": 62,
+                                "name": "Ligue 2",
+                                "country": "France",
+                                "logo": "https://media-2.api-sports.io/football/leagues/62.png",
+                                "flag": "https://media-2.api-sports.io/flags/fr.svg",
+                                "season": 2022
+                            },
+                            "games": {
+                                "appearences": 20,
+                                "lineups": 14,
+                                "minutes": 1325,
+                                "number": null,
+                                "position": "Attacker",
+                                "rating": "7.115000",
+                                "captain": false
+                            },
+                            "substitutes": {
+                                "in": 6,
+                                "out": 9,
+                                "bench": 6
+                            },
+                            "shots": {
+                                "total": 48,
+                                "on": 27
+                            },
+                            "goals": {
+                                "total": 9,
+                                "conceded": 0,
+                                "assists": 3,
+                                "saves": null
+                            },
+                            "passes": {
+                                "total": 274,
+                                "key": 19,
+                                "accuracy": 9
+                            },
+                            "tackles": {
+                                "total": 12,
+                                "blocks": 1,
+                                "interceptions": 5
+                            },
+                            "duels": {
+                                "total": 259,
+                                "won": 104
+                            },
+                            "dribbles": {
+                                "attempts": 37,
+                                "success": 9,
+                                "past": null
+                            },
+                            "fouls": {
+                                "drawn": 33,
+                                "committed": 49
+                            },
+                            "cards": {
+                                "yellow": 5,
+                                "yellowred": 0,
+                                "red": 1
+                            },
+                            "penalty": {
+                                "won": null,
+                                "commited": null,
+                                "scored": 0,
+                                "missed": 0,
+                                "saved": null
+                            }
+                        }
+                    ]
+                },
+                {
+                    "player": {
+                        "id": 87308,
+                        "name": "M. Pha\u00ebton",
+                        "firstname": "Matthias Jean",
+                        "lastname": "Pha\u00ebton",
+                        "age": 23,
+                        "birth": {
+                            "date": "2000-01-08",
+                            "place": "Colombes",
+                            "country": "France"
+                        },
+                        "nationality": "Guadeloupe",
+                        "height": "185 cm",
+                        "weight": "75 kg",
+                        "injured": false,
+                        "photo": "https://media-3.api-sports.io/football/players/87308.png"
+                    },
+                    "statistics": [
+                        {
+                            "team": {
+                                "id": 101,
+                                "name": "Grenoble",
+                                "logo": "https://media-3.api-sports.io/football/teams/101.png"
+                            },
+                            "league": {
+                                "id": 62,
+                                "name": "Ligue 2",
+                                "country": "France",
+                                "logo": "https://media-3.api-sports.io/football/leagues/62.png",
+                                "flag": "https://media-3.api-sports.io/flags/fr.svg",
+                                "season": 2022
+                            },
+                            "games": {
+                                "appearences": 31,
+                                "lineups": 20,
+                                "minutes": 1907,
+                                "number": null,
+                                "position": "Attacker",
+                                "rating": "6.741935",
+                                "captain": false
+                            },
+                            "substitutes": {
+                                "in": 11,
+                                "out": 9,
+                                "bench": 11
+                            },
+                            "shots": {
+                                "total": 27,
+                                "on": 23
+                            },
+                            "goals": {
+                                "total": 9,
+                                "conceded": 0,
+                                "assists": null,
+                                "saves": null
+                            },
+                            "passes": {
+                                "total": 457,
+                                "key": 29,
+                                "accuracy": 11
+                            },
+                            "tackles": {
+                                "total": 17,
+                                "blocks": null,
+                                "interceptions": 11
+                            },
+                            "duels": {
+                                "total": 295,
+                                "won": 116
+                            },
+                            "dribbles": {
+                                "attempts": 91,
+                                "success": 36,
+                                "past": null
+                            },
+                            "fouls": {
+                                "drawn": 53,
+                                "committed": 32
+                            },
+                            "cards": {
+                                "yellow": 1,
+                                "yellowred": 0,
+                                "red": 1
+                            },
+                            "penalty": {
+                                "won": null,
+                                "commited": null,
+                                "scored": 0,
+                                "missed": 0,
+                                "saved": null
+                            }
+                        }
+                    ]
+                },
+                {
+                    "player": {
+                        "id": 85558,
+                        "name": "L. Mafouta",
+                        "firstname": "Louis",
+                        "lastname": "Didace Mafouta",
+                        "age": 29,
+                        "birth": {
+                            "date": "1994-07-02",
+                            "place": null,
+                            "country": "France"
+                        },
+                        "nationality": "Central African Republic",
+                        "height": "181 cm",
+                        "weight": "76 kg",
+                        "injured": false,
+                        "photo": "https://media-1.api-sports.io/football/players/85558.png"
+                    },
+                    "statistics": [
+                        {
+                            "team": {
+                                "id": 431,
+                                "name": "Quevilly",
+                                "logo": "https://media-1.api-sports.io/football/teams/431.png"
+                            },
+                            "league": {
+                                "id": 62,
+                                "name": "Ligue 2",
+                                "country": "France",
+                                "logo": "https://media-2.api-sports.io/football/leagues/62.png",
+                                "flag": "https://media-1.api-sports.io/flags/fr.svg",
+                                "season": 2022
+                            },
+                            "games": {
+                                "appearences": 29,
+                                "lineups": 26,
+                                "minutes": 2231,
+                                "number": null,
+                                "position": "Attacker",
+                                "rating": "6.741379",
+                                "captain": false
+                            },
+                            "substitutes": {
+                                "in": 3,
+                                "out": 15,
+                                "bench": 3
+                            },
+                            "shots": {
+                                "total": 47,
+                                "on": 25
+                            },
+                            "goals": {
+                                "total": 9,
+                                "conceded": 0,
+                                "assists": 1,
+                                "saves": null
+                            },
+                            "passes": {
+                                "total": 577,
+                                "key": 13,
+                                "accuracy": 14
+                            },
+                            "tackles": {
+                                "total": 5,
+                                "blocks": 2,
+                                "interceptions": 2
+                            },
+                            "duels": {
+                                "total": 212,
+                                "won": 80
+                            },
+                            "dribbles": {
+                                "attempts": 11,
+                                "success": 6,
+                                "past": null
+                            },
+                            "fouls": {
+                                "drawn": 32,
+                                "committed": 32
+                            },
+                            "cards": {
+                                "yellow": 1,
+                                "yellowred": 0,
+                                "red": 1
+                            },
+                            "penalty": {
+                                "won": null,
+                                "commited": null,
+                                "scored": 1,
+                                "missed": 0,
+                                "saved": null
+                            }
+                        }
+                    ]
+                },
+                {
+                    "player": {
+                        "id": 39248,
+                        "name": "I. Wadji",
+                        "firstname": "Ibrahima",
+                        "lastname": "Wadji",
+                        "age": 28,
+                        "birth": {
+                            "date": "1995-05-05",
+                            "place": "Bignona",
+                            "country": "Senegal"
+                        },
+                        "nationality": "Senegal",
+                        "height": "175 cm",
+                        "weight": "74 kg",
+                        "injured": false,
+                        "photo": "https://media-1.api-sports.io/football/players/39248.png"
+                    },
+                    "statistics": [
+                        {
+                            "team": {
+                                "id": 1063,
+                                "name": "Saint Etienne",
+                                "logo": "https://media-1.api-sports.io/football/teams/1063.png"
+                            },
+                            "league": {
+                                "id": 62,
+                                "name": "Ligue 2",
+                                "country": "France",
+                                "logo": "https://media-2.api-sports.io/football/leagues/62.png",
+                                "flag": "https://media-2.api-sports.io/flags/fr.svg",
+                                "season": 2022
+                            },
+                            "games": {
+                                "appearences": 25,
+                                "lineups": 18,
+                                "minutes": 1696,
+                                "number": null,
+                                "position": "Attacker",
+                                "rating": "6.656521",
+                                "captain": false
+                            },
+                            "substitutes": {
+                                "in": 7,
+                                "out": 10,
+                                "bench": 8
+                            },
+                            "shots": {
+                                "total": 49,
+                                "on": 24
+                            },
+                            "goals": {
+                                "total": 9,
+                                "conceded": 0,
+                                "assists": 1,
+                                "saves": null
+                            },
+                            "passes": {
+                                "total": 218,
+                                "key": 12,
+                                "accuracy": 8
+                            },
+                            "tackles": {
+                                "total": 11,
+                                "blocks": null,
+                                "interceptions": 3
+                            },
+                            "duels": {
+                                "total": 168,
+                                "won": 54
+                            },
+                            "dribbles": {
+                                "attempts": 42,
+                                "success": 14,
+                                "past": null
+                            },
+                            "fouls": {
+                                "drawn": 14,
+                                "committed": 34
+                            },
+                            "cards": {
+                                "yellow": 3,
+                                "yellowred": 0,
+                                "red": 0
+                            },
+                            "penalty": {
+                                "won": null,
+                                "commited": null,
+                                "scored": 1,
+                                "missed": 0,
+                                "saved": null
+                            }
+                        }
+                    ]
+                },
+                {
+                    "player": {
+                        "id": 20834,
+                        "name": "J. Livolant",
+                        "firstname": "J\u00e9r\u00e9my",
+                        "lastname": "Livolant",
+                        "age": 25,
+                        "birth": {
+                            "date": "1998-01-09",
+                            "place": "Morlaix",
+                            "country": "France"
+                        },
+                        "nationality": "France",
+                        "height": "175 cm",
+                        "weight": "70 kg",
+                        "injured": false,
+                        "photo": "https://media-3.api-sports.io/football/players/20834.png"
+                    },
+                    "statistics": [
+                        {
+                            "team": {
+                                "id": 90,
+                                "name": "Guingamp",
+                                "logo": "https://media-2.api-sports.io/football/teams/90.png"
+                            },
+                            "league": {
+                                "id": 62,
+                                "name": "Ligue 2",
+                                "country": "France",
+                                "logo": "https://media-1.api-sports.io/football/leagues/62.png",
+                                "flag": "https://media-2.api-sports.io/flags/fr.svg",
+                                "season": 2022
+                            },
+                            "games": {
+                                "appearences": 32,
+                                "lineups": 31,
+                                "minutes": 2731,
+                                "number": null,
+                                "position": "Midfielder",
+                                "rating": "7.056250",
+                                "captain": false
+                            },
+                            "substitutes": {
+                                "in": 1,
+                                "out": 13,
+                                "bench": 1
+                            },
+                            "shots": {
+                                "total": 42,
+                                "on": 25
+                            },
+                            "goals": {
+                                "total": 8,
+                                "conceded": 0,
+                                "assists": 6,
+                                "saves": null
+                            },
+                            "passes": {
+                                "total": 950,
+                                "key": 53,
+                                "accuracy": 21
+                            },
+                            "tackles": {
+                                "total": 46,
+                                "blocks": null,
+                                "interceptions": 14
+                            },
+                            "duels": {
+                                "total": 379,
+                                "won": 186
+                            },
+                            "dribbles": {
+                                "attempts": 68,
+                                "success": 22,
+                                "past": null
+                            },
+                            "fouls": {
+                                "drawn": 79,
+                                "committed": 42
+                            },
+                            "cards": {
+                                "yellow": 4,
+                                "yellowred": 0,
+                                "red": 0
+                            },
+                            "penalty": {
+                                "won": null,
+                                "commited": null,
+                                "scored": 2,
+                                "missed": 0,
+                                "saved": null
+                            }
+                        }
+                    ]
+                },
+                {
+                    "player": {
+                        "id": 21449,
+                        "name": "C. D\u00e9pres",
+                        "firstname": "Cl\u00e9ment",
+                        "lastname": "D\u00e9pres",
+                        "age": 29,
+                        "birth": {
+                            "date": "1994-11-25",
+                            "place": "N\u00eemes",
+                            "country": "France"
+                        },
+                        "nationality": "France",
+                        "height": "188 cm",
+                        "weight": "80 kg",
+                        "injured": false,
+                        "photo": "https://media-3.api-sports.io/football/players/21449.png"
+                    },
+                    "statistics": [
+                        {
+                            "team": {
+                                "id": 1301,
+                                "name": "Rodez",
+                                "logo": "https://media-3.api-sports.io/football/teams/1301.png"
+                            },
+                            "league": {
+                                "id": 62,
+                                "name": "Ligue 2",
+                                "country": "France",
+                                "logo": "https://media-2.api-sports.io/football/leagues/62.png",
+                                "flag": "https://media-3.api-sports.io/flags/fr.svg",
+                                "season": 2022
+                            },
+                            "games": {
+                                "appearences": 30,
+                                "lineups": 16,
+                                "minutes": 1236,
+                                "number": null,
+                                "position": "Attacker",
+                                "rating": "6.858620",
+                                "captain": false
+                            },
+                            "substitutes": {
+                                "in": 14,
+                                "out": 14,
+                                "bench": 15
+                            },
+                            "shots": {
+                                "total": 28,
+                                "on": 11
+                            },
+                            "goals": {
+                                "total": 7,
+                                "conceded": 0,
+                                "assists": 2,
+                                "saves": null
+                            },
+                            "passes": {
+                                "total": 336,
+                                "key": 14,
+                                "accuracy": 7
+                            },
+                            "tackles": {
+                                "total": 8,
+                                "blocks": 4,
+                                "interceptions": 3
+                            },
+                            "duels": {
+                                "total": 267,
+                                "won": 136
+                            },
+                            "dribbles": {
+                                "attempts": 7,
+                                "success": 3,
+                                "past": null
+                            },
+                            "fouls": {
+                                "drawn": 22,
+                                "committed": 42
+                            },
+                            "cards": {
+                                "yellow": 7,
+                                "yellowred": 0,
+                                "red": 1
+                            },
+                            "penalty": {
+                                "won": null,
+                                "commited": null,
+                                "scored": 1,
+                                "missed": 0,
+                                "saved": null
+                            }
+                        }
+                    ]
+                },
+                {
+                    "player": {
+                        "id": 85342,
+                        "name": "J. Maggiotti",
+                        "firstname": "Julien",
+                        "lastname": "Maggiotti",
+                        "age": 28,
+                        "birth": {
+                            "date": "1995-09-09",
+                            "place": null,
+                            "country": "France"
+                        },
+                        "nationality": "France",
+                        "height": "186 cm",
+                        "weight": "86 kg",
+                        "injured": false,
+                        "photo": "https://media-3.api-sports.io/football/players/85342.png"
+                    },
+                    "statistics": [
+                        {
+                            "team": {
+                                "id": 433,
+                                "name": "Laval",
+                                "logo": "https://media-3.api-sports.io/football/teams/433.png"
+                            },
+                            "league": {
+                                "id": 62,
+                                "name": "Ligue 2",
+                                "country": "France",
+                                "logo": "https://media-3.api-sports.io/football/leagues/62.png",
+                                "flag": "https://media-3.api-sports.io/flags/fr.svg",
+                                "season": 2022
+                            },
+                            "games": {
+                                "appearences": 15,
+                                "lineups": 15,
+                                "minutes": 1301,
+                                "number": null,
+                                "position": "Midfielder",
+                                "rating": "7.778571",
+                                "captain": false
+                            },
+                            "substitutes": {
+                                "in": 0,
+                                "out": 7,
+                                "bench": 0
+                            },
+                            "shots": {
+                                "total": 26,
+                                "on": 17
+                            },
+                            "goals": {
+                                "total": 7,
+                                "conceded": 0,
+                                "assists": 2,
+                                "saves": null
+                            },
+                            "passes": {
+                                "total": 562,
+                                "key": 38,
+                                "accuracy": 30
+                            },
+                            "tackles": {
+                                "total": 16,
+                                "blocks": 2,
+                                "interceptions": 1
+                            },
+                            "duels": {
+                                "total": 113,
+                                "won": 58
+                            },
+                            "dribbles": {
+                                "attempts": 34,
+                                "success": 24,
+                                "past": null
+                            },
+                            "fouls": {
+                                "drawn": 13,
+                                "committed": 8
+                            },
+                            "cards": {
+                                "yellow": 3,
+                                "yellowred": 0,
+                                "red": 0
+                            },
+                            "penalty": {
+                                "won": null,
+                                "commited": null,
+                                "scored": 1,
+                                "missed": 0,
+                                "saved": null
+                            }
+                        }
+                    ]
+                },
+                {
+                    "player": {
+                        "id": 49946,
+                        "name": "P. Ciss\u00e9",
+                        "firstname": "Papiss Demba",
+                        "lastname": "Ciss\u00e9",
+                        "age": 38,
+                        "birth": {
+                            "date": "1985-06-03",
+                            "place": "Dakar",
+                            "country": "Senegal"
+                        },
+                        "nationality": "Senegal",
+                        "height": "183 cm",
+                        "weight": "73 kg",
+                        "injured": false,
+                        "photo": "https://media-1.api-sports.io/football/players/49946.png"
+                    },
+                    "statistics": [
+                        {
+                            "team": {
+                                "id": 87,
+                                "name": "Amiens",
+                                "logo": "https://media-3.api-sports.io/football/teams/87.png"
+                            },
+                            "league": {
+                                "id": 62,
+                                "name": "Ligue 2",
+                                "country": "France",
+                                "logo": "https://media-3.api-sports.io/football/leagues/62.png",
+                                "flag": "https://media-3.api-sports.io/flags/fr.svg",
+                                "season": 2022
+                            },
+                            "games": {
+                                "appearences": 24,
+                                "lineups": 18,
+                                "minutes": 1457,
+                                "number": null,
+                                "position": "Attacker",
+                                "rating": "6.826086",
+                                "captain": false
+                            },
+                            "substitutes": {
+                                "in": 6,
+                                "out": 16,
+                                "bench": 6
+                            },
+                            "shots": {
+                                "total": 32,
+                                "on": 16
+                            },
+                            "goals": {
+                                "total": 7,
+                                "conceded": 0,
+                                "assists": 2,
+                                "saves": null
+                            },
+                            "passes": {
+                                "total": 407,
+                                "key": 10,
+                                "accuracy": 12
+                            },
+                            "tackles": {
+                                "total": 7,
+                                "blocks": null,
+                                "interceptions": 4
+                            },
+                            "duels": {
+                                "total": 148,
+                                "won": 57
+                            },
+                            "dribbles": {
+                                "attempts": 12,
+                                "success": 7,
+                                "past": null
+                            },
+                            "fouls": {
+                                "drawn": 5,
+                                "committed": 14
+                            },
+                            "cards": {
+                                "yellow": 0,
+                                "yellowred": 0,
+                                "red": 0
+                            },
+                            "penalty": {
+                                "won": null,
+                                "commited": null,
+                                "scored": 2,
+                                "missed": 0,
+                                "saved": null
+                            }
+                        }
+                    ]
+                },
+                {
+                    "player": {
+                        "id": 7693,
+                        "name": "A. Grbi\u0107",
+                        "firstname": "Adrian",
+                        "lastname": "Grbi\u0107",
+                        "age": 27,
+                        "birth": {
+                            "date": "1996-08-04",
+                            "place": "Wien",
+                            "country": "Austria"
+                        },
+                        "nationality": "Austria",
+                        "height": "188 cm",
+                        "weight": "82 kg",
+                        "injured": false,
+                        "photo": "https://media-3.api-sports.io/football/players/7693.png"
+                    },
+                    "statistics": [
+                        {
+                            "team": {
+                                "id": 105,
+                                "name": "Valenciennes",
+                                "logo": "https://media-3.api-sports.io/football/teams/105.png"
+                            },
+                            "league": {
+                                "id": 62,
+                                "name": "Ligue 2",
+                                "country": "France",
+                                "logo": "https://media-3.api-sports.io/football/leagues/62.png",
+                                "flag": "https://media-1.api-sports.io/flags/fr.svg",
+                                "season": 2022
+                            },
+                            "games": {
+                                "appearences": 10,
+                                "lineups": 10,
+                                "minutes": 849,
+                                "number": null,
+                                "position": "Attacker",
+                                "rating": "7.110000",
+                                "captain": false
+                            },
+                            "substitutes": {
+                                "in": 0,
+                                "out": 3,
+                                "bench": 0
+                            },
+                            "shots": {
+                                "total": 22,
+                                "on": 15
+                            },
+                            "goals": {
+                                "total": 7,
+                                "conceded": 0,
+                                "assists": null,
+                                "saves": null
+                            },
+                            "passes": {
+                                "total": 221,
+                                "key": 4,
+                                "accuracy": 14
+                            },
+                            "tackles": {
+                                "total": null,
+                                "blocks": 2,
+                                "interceptions": 4
+                            },
+                            "duels": {
+                                "total": 148,
+                                "won": 57
+                            },
+                            "dribbles": {
+                                "attempts": 3,
+                                "success": 1,
+                                "past": null
+                            },
+                            "fouls": {
+                                "drawn": 11,
+                                "committed": 13
+                            },
+                            "cards": {
+                                "yellow": 0,
+                                "yellowred": 0,
+                                "red": 0
+                            },
+                            "penalty": {
+                                "won": null,
+                                "commited": null,
+                                "scored": 2,
+                                "missed": 0,
+                                "saved": null
+                            }
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
 }

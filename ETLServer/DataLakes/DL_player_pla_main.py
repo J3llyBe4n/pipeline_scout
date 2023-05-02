@@ -8,7 +8,7 @@
 from ETLServer.Modules.db_function import * 
 from ETLServer.Modules.DL_api_function import * 
 
-api_keys = "a68636f8f2c18511179c56f15e95080c"
+api_keys = "a86d420d0d8840c8e722e16cf9742f7b"
 
 db_func = DBfunc()
 api_func = ApiPlayerPlayers()

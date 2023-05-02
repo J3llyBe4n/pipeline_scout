@@ -6,8 +6,8 @@ import sys
 sys.path.append('../')
 # visual code가 추가한 경로만 인식해서 모듈을 불러오기 위해 임의로 상위 폴더 경로를 박았어요
 
-from Modules.db_function import *
-from Modules.DL_api_function import * 
+from ETLServer.Modules.db_function import *
+from ETLServer.Modules.DL_api_function import *
 
 # from ETLServer.Modules.db_function import *
 # from ETLServer.Modules.DL_api_function import * 

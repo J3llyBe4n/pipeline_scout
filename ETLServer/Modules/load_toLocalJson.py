@@ -18,7 +18,8 @@ from datetime import datetime
 def load_standingJson(tmp_data): #
 
     now_year = datetime.utcnow().date().strftime("%Y") #
-    now_date = datetime.utcnow().date().strftime("%y_%m_%d") #
+    now_year = str(int(now_year) -1 )
+    now_date = datetime.utcnow().date().strftime("%y%m%d") #
     directory = os.path.join(os.path.dirname(__file__), "..", 'datas', 'DataLake', 'standings', now_year) #
 
     with open("%s/%s_standing.json" % (directory, now_date), "r") as json_file: #
@@ -60,19 +61,21 @@ def load_fixtureJson(tmp_data, league_id): #
 # [리그 ID]_Tstats.json
 # 변수로 리그ID 필요
 
-def load_TstatsJsonData(tmp_data, league_id): #
+def load_TstatsJsonData(tmp_data): #
 
-    now_year = datetime.utcnow().date().strftime("%Y") #    
+    now_year = datetime.utcnow().date().strftime("%Y") #
+    now_year = str(int(now_year) - 1)
+    now_date = datetime.utcnow().date().strftime("%y%m%d")
     directory = os.path.join(os.path.dirname(__file__), "..", 'datas', 'DataLake', 'teams', 'Statistics', now_year) #
 
-    with open("%s/%s_Tstats.json" % (directory, league_id), "r") as json_file: #
+    with open("%s/%s_Tstats.json" % (directory, now_date), "r") as json_file: #
         data = json.load(json_file)
      
     data['data'].append(tmp_data)
 
     # print(tmp_data)
 
-    with open("%s/%s_Tstats.json" % (directory, league_id), "w") as json_file: #
+    with open("%s/%s_Tstats.json" % (directory, now_date), "w") as json_file: #
         json.dump(data, json_file, indent=4)
         print("Load is done!")
 
@@ -85,6 +88,7 @@ def load_TstatsJsonData(tmp_data, league_id): #
 def load_TinfosJson(tmp_data, league_id): #
 
     now_year = datetime.utcnow().date().strftime("%Y") #
+    now_year = str(int(now_year) - 1)
     directory = os.path.join(os.path.dirname(__file__), "..", 'datas', 'DataLake', 'teams', 'teams_info', now_year) #
 
     with open("%s/%d_Tinfo.json" % (directory, league_id), "r") as json_file: #
@@ -146,6 +150,7 @@ def load_eventsJson(tmp_data):
 def load_fixtureTStatsJsonData(tmp_data, league_id):
 
     now_year = datetime.utcnow().date().strftime("%Y") #
+    now_year = str(int(now_year) - 1)
     directory = os.path.join(os.path.dirname(__file__), "..", 'datas', 'DataLake', 'fixtures', 'Tstatistics', now_year) #
 
     with open("%s/%s_Ftstats.json" % (directory, league_id), "r") as json_file: #
@@ -209,6 +214,7 @@ def load_lineUpsJson(tmp_data): #
 def load_leagueJson(tmp_data, league_id):
 
     now_year = datetime.utcnow().date().strftime("%Y") #
+    now_year = str(int(now_year) - 1)
     directory = os.path.join(os.path.dirname(__file__), "..", 'datas', 'DataLake', 'leagues', now_year) #
 
     with open("%s/%d_leagueInfo.json" % (directory, league_id), "r") as json_file: #
@@ -230,6 +236,8 @@ def load_leagueJson(tmp_data, league_id):
 def load_psquadJson(tmp_data, team_id): #
 
     now_year = datetime.utcnow().date().strftime("%Y") #
+    now_year = str(int(now_year) - 1)
+
     directory = os.path.join(os.path.dirname(__file__), "..", 'datas', 'DataLake', 'players', 'Squads', now_year) #
 
     with open("%s/%d_Psquad.json" % (directory, team_id), "r") as json_file: #
@@ -270,15 +278,17 @@ def load_pplayerJson(tmp_data, league_id): #
 
     now_year = datetime.utcnow().date().strftime("%Y") #
     now_week = datetime.utcnow().date().today().isocalendar()[1] #
+    now_year = str(int(now_year) -1)
+    now_week = str(now_week)
     directory = os.path.join(os.path.dirname(__file__), "..", 'datas', 'DataLake', 'players', 'Players', now_year, now_week) #
 
-    with open("%s/%d_players.json" % (directory, league_id), "r") as json_file: #
+    with open("%s/%s_players.json" % (directory, league_id), "r") as json_file: #
         data = json.load(json_file)
 
     data['data'].append(tmp_data)
     print(tmp_data)
 
-    with open("%s/%d_players.json" % (directory, league_id), "w") as json_file: #
+    with open("%s/%s_players.json" % (directory, league_id), "w") as json_file: #
         json.dump(data, json_file, indent=4)
         print("Load is done!")
 
@@ -293,6 +303,7 @@ y = 22
 def load_ptopscorersJson(tmp_data, league_id):
 
     now_year = datetime.utcnow().date().strftime("%Y")
+    now_year = str(int(now_year) - 1)
     directory = os.path.join(os.path.dirname(__file__), "..", 'datas', 'DataLake', 'players', 'Topscorers', now_year) #
 
     with open("%s/%d_Ptopscorers.json" % (directory, league_id), "r") as json_file: #
@@ -312,6 +323,7 @@ def load_ptopscorersJson(tmp_data, league_id):
 
 def load_predictionsJsonData(tmp_data):
     now_year = datetime.utcnow().date().strftime("%Y") #
+    now_year = str(int(now_year) - 1)
     now_date = datetime.utcnow().date().strftime("%y%m%d") #
     directory = os.path.join(os.path.dirname(__file__), "..", 'datas', 'DataLake', 'predictions', now_year) #
 

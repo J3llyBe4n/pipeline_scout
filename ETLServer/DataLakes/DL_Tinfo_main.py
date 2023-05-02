@@ -17,7 +17,7 @@ apiFunc = ApiTeams()
 dbFunc.connect_SQL()
 
 #db server에서 leauge_id 불러오기 
-tmp_teamId = dbFunc.read_teamId()
+tmp_leagueId = dbFunc.read_tmpLeagueId()
 
 #apiFunc 에서 req 함수 call
-apiFunc.load_teamJson(tmp_teamId, api_keys)
+apiFunc.load_teamJson(tmp_leagueId, api_keys)

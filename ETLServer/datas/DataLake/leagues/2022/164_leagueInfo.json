@@ -36,6 +36,43 @@
                     }
                 }
             ]
+        },
+        {
+            "league": {
+                "id": 164,
+                "name": "\u00darvalsdeild",
+                "type": "League",
+                "logo": "https://media-3.api-sports.io/football/leagues/164.png"
+            },
+            "country": {
+                "name": "Iceland",
+                "code": "IS",
+                "flag": "https://media-3.api-sports.io/flags/is.svg"
+            },
+            "seasons": [
+                {
+                    "year": 2022,
+                    "start": "2022-04-18",
+                    "end": "2022-10-29",
+                    "current": false,
+                    "coverage": {
+                        "fixtures": {
+                            "events": true,
+                            "lineups": true,
+                            "statistics_fixtures": false,
+                            "statistics_players": false
+                        },
+                        "standings": true,
+                        "players": true,
+                        "top_scorers": true,
+                        "top_assists": true,
+                        "top_cards": true,
+                        "injuries": false,
+                        "predictions": true,
+                        "odds": false
+                    }
+                }
+            ]
         }
     ]
 }
