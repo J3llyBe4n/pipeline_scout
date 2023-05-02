@@ -6,9 +6,13 @@
 
 from ETLServer.Modules.db_function import * 
 from ETLServer.Modules.DL_api_function import * 
-from datetime import datetime
+from datetime import datetime, timedelta
 
 now_date = datetime.utcnow().date().strftime("%Y-%m-%d")
+
+################## 테스트 블록 전날 데이터
+yesterday = (datetime.utcnow().date() - timedelta(days=1)).strftime("%Y_%m_%d")
+##############
 
 api_keys = "a68636f8f2c18511179c56f15e95080c"
 
@@ -17,6 +21,8 @@ api_func = ApiEvents()
 
 db_func.connect_SQL()
 
-fixture_id = db_func.read_fixtureId(now_date)
+#fixture_id = db_func.read_fixtureId(now_date)
+
+fixture_id = db_func.read_fixtureId(yesterday)
 
 api_func.load_eventsJson(fixture_id, api_keys)

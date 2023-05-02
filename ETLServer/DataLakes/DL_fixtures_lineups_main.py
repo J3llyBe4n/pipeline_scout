@@ -3,11 +3,15 @@
 #fixture 데이터 기반으로 api call
 #들어온 data 형태에 맞춰서 적재
 
-from datetime import datetime
+from datetime import datetime, timedelta
 from ETLServer.Modules.db_function import * 
 from ETLServer.Modules.DL_api_function import * 
 
 now_date = datetime.utcnow().date().strftime("%Y-%m-%d")
+
+################## 테스트 블록 전날 데이터
+yesterday = (datetime.utcnow().date() - timedelta(days=1)).strftime("%Y-%m-%d")
+##############
 
 api_keys = "a68636f8f2c18511179c56f15e95080c"
 
@@ -16,7 +20,9 @@ api_func = ApiFixtureLineups()
 
 db_func.connect_SQL()
 
-fixture_id = db_func.read_fixtureId(now_date)
-#print(fixture_id)
+fixture_id = db_func.read_fixtureId(yesterday)
+api_func.load_lineUpsJson(fixture_id, yesterday)
 
-api_func.load_lineUpsJson(fixture_id, now_date)
+#fixture_id = db_func.read_fixtureId(now_date)
+#print(fixture_id)
+#api_func.load_lineUpsJson(fixture_id, now_date)

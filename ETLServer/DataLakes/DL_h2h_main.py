@@ -7,7 +7,7 @@
 
 from ETLServer.Modules.db_function import * 
 from ETLServer.Modules.DL_api_function import * 
-from datetime import datetime
+from datetime import datetime, timedelta
 
 api_keys = "a68636f8f2c18511179c56f15e95080c"
 
@@ -17,20 +17,17 @@ api_func = ApiH2h()
 db_func.connect_SQL()
 
 now_date = datetime.utcnow().date().strftime("%Y_%m_%d")
+
+################## 테스트 블록 전날 데이터
+yesterday = (datetime.utcnow().date() - timedelta(days=1)).strftime("%Y_%m_%d")
+##############
+
+
 print(now_date)
 
-round_data = db_func.read_roundInfo(now_date)
+round_data = db_func.read_roundInfo(yesterday)
+
+#round_data = db_func.read_roundInfo(now_date)
 
 api_func.load_h2hJson(round_data, api_keys)
-
-
-
-
-
-
-
-
-
-
-
 
