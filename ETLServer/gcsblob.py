@@ -3,9 +3,10 @@ from google.cloud import storage
 import datetime
 import json
 
-nowDate = datetime.datetime.utcnow().date().strftime('%y%m%d')
+nowDate = datetime.datetime.utcnow().date().strftime('%Y_%m_%d')
+upload_time = datetime.datetime.utcnow()
 
-json_path = 'C:/Users/user/PycharmProjects/soccer_pipe_line/pipeline_scout/ETLServer/humming-bird-383304-263eaa656cba.json'
+json_path = 'C:/Users/user/PycharmProjects/soccer_pipe_line/pipeline_scout/humming-bird-383304-fa3fcb3047b6.json'
 # 환경변수 설정
 os.environ["GOOGLE_APPLICATION_CREDENTIALS"] = json_path
 # GCS 클라이언트 초기화
@@ -33,22 +34,16 @@ for dirpath, dirs, files in os.walk(local_directory):
         blob = bucket.blob(gcs_object_name)
         with open(local_file_path, 'rb') as file:
             load_blob = blob.upload_from_file(file)
-            load_blob
             print(f"{local_file_path} uploaded to gs://{bucket_name}/{gcs_object_name}")
         
-        # 업로드 시간
-        upload_time = datetime.datetime.utcnow()
         
-        # Blob upload한 Logs 떨구기
-        with open("%s/%s_blob_logs.json" %(log_local_directory, nowDate), "r") as json_file:
-            data = json.load(json_file)
-
-        data['id'].append(file_name)
-        data['time'].append(upload_time)
-        data['http_status'].append(load_blob.status_code)
-        data['from'].append("local_path:"+local_file_path)
-        data['to'].append("gcs_path:"+gcs_object_name)
-
-        with open("%s/%s_blob_logs.json" %(log_local_directory, nowDate), "w") as json_file:
-            json.dump(data, json_file, indent=4)        
-            print('blob logs recorded')
+        # # Blob upload한 Logs 떨구기
+        # tmp_dict = {'id': file_name, 'time': upload_time, 'http_status': load_blob.status_code}
+        # with open("%s/%s/%s_blob_logs.json" %(log_local_directory, nowDate, nowDate), "r") as json_file:
+        #     data = json.load(json_file)
+        #
+        # data['data'].append(tmp_dict)
+        #
+        # with open("%s/%s/%s_blob_logs.json" %(log_local_directory, nowDate, nowDate), "w") as json_file:
+        #     json.dump(data, json_file, indent=4)
+        #     print('blob logs recorded')
