@@ -6,7 +6,7 @@
 
 from ETLServer.Modules.db_function import * 
 from ETLServer.Modules.api_func import *
-from datetime import datetime
+from datetime import datetime, timedelta
 
 api_keys = "a68636f8f2c18511179c56f15e95080c"
 
@@ -16,8 +16,9 @@ api_func = ApiUpdateFixture()
 db_func.connect_SQL()
 
 today_date = datetime.utcnow().date().strftime('%Y-%m-%d')
+yesterday = (datetime.utcnow().date() - timedelta(days=1)).strftime("%Y-%m-%d")
 
-fixture_list = db_func.read_fixtureId(today_date)
+fixture_list = db_func.read_fixtureId(yesterday)
 
 update_data = api_func.update_todayRoundFixture(fixture_list, api_keys)
 

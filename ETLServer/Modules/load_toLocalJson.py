@@ -108,8 +108,8 @@ def load_TinfosJson(tmp_data, league_id): #
 def load_h2hJson(tmp_data): #
 
     now_year = datetime.utcnow().date().strftime("%Y") #
-    now_date = datetime.utcnow().date().strftime("%y%m%d")
-    # now_date = (datetime.utcnow().date()- timedelta(days=1)).strftime("%y%m%d") #
+    #now_date = datetime.utcnow().date().strftime("%y%m%d")
+    now_date = (datetime.utcnow().date()- timedelta(days=1)).strftime("%y%m%d") #
     now_year = str(int(now_year) - 1)
     directory = os.path.join(os.path.dirname(__file__), "..", 'datas', 'DataLake', 'fixtures', 'H2h', now_year) #
 
@@ -131,8 +131,8 @@ def load_eventsJson(tmp_data):
     
     now_year = datetime.utcnow().date().strftime("%Y") #
     now_year = str(int(now_year) -1)
-    now_date = datetime.utcnow().date().strftime("%y%m%d")
-    # now_date = (datetime.utcnow().date()- timedelta(days=1)).strftime("%y%m%d") #
+    #now_date = datetime.utcnow().date().strftime("%y%m%d")
+    now_date = (datetime.utcnow().date()- timedelta(days=1)).strftime("%y%m%d") #
     directory = os.path.join(os.path.dirname(__file__), "..", 'datas', 'DataLake', 'fixtures', 'events', now_year) #
 
     with open("%s/%s_events.json" %(directory, now_date), "r") as json_file: #
@@ -153,8 +153,8 @@ def load_fixtureTStatsJsonData(tmp_data):
 
     now_year = datetime.utcnow().date().strftime("%Y") #
     now_year = str(int(now_year) - 1)
-    now_date = datetime.utcnow().date().strftime("%y%m%d")
-    # now_date = (datetime.utcnow().date() - timedelta(days=1)).strftime("%y%m%d")  #
+    #now_date = datetime.utcnow().date().strftime("%y%m%d")
+    now_date = (datetime.utcnow().date() - timedelta(days=1)).strftime("%y%m%d")  #
     directory = os.path.join(os.path.dirname(__file__), "..", 'datas', 'DataLake', 'fixtures', 'Tstatistics', now_year) #
 
     with open("%s/%s_Ftstats.json" % (directory, now_date), "r") as json_file: #
@@ -177,8 +177,8 @@ def load_fixturePStatsJsonData(tmp_data): #
 
     now_year = datetime.utcnow().date().strftime("%Y") #
     now_year = str(int(now_year) - 1)
-    now_date = datetime.utcnow().date().strftime("%y%m%d")
-    # now_date = (datetime.utcnow().date()- timedelta(days=1)).strftime("%y%m%d") #
+    #now_date = datetime.utcnow().date().strftime("%y%m%d")
+    now_date = (datetime.utcnow().date()- timedelta(days=1)).strftime("%y%m%d") #
     directory = os.path.join(os.path.dirname(__file__), "..", 'datas', 'DataLake', 'fixtures', 'Pstatistics', now_year) #
 
     with open("%s/%s_Pstatistics.json" % (directory, now_date), "r") as json_file: #
@@ -201,8 +201,8 @@ def load_lineUpsJson(tmp_data): #
 
     now_year = datetime.utcnow().date().strftime("%Y") #
     now_year = str(int(now_year) - 1)
-    now_date = datetime.utcnow().date().strftime("%y%m%d")
-    # now_date = (datetime.utcnow().date()- timedelta(days=1)).strftime("%y%m%d") #
+    #now_date = datetime.utcnow().date().strftime("%y%m%d")
+    now_date = (datetime.utcnow().date()- timedelta(days=1)).strftime("%y%m%d") #
     directory = os.path.join(os.path.dirname(__file__), "..", 'datas', 'DataLake', 'fixtures', 'lineups', now_year) #
 
     with open("%s/%s_lineUps.json" %(directory, now_date), "r") as json_file:

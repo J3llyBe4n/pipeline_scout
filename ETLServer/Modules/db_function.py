@@ -177,7 +177,7 @@ class DBfunc:
 		for i in update_data:
 			query = 'update pipe_round set date = "%s" where api_fixture_id = %s' %(i[1], i[0])
 			self.cursor.execute(query)
-			self.cursor.commit()
+			self.conn.commit()
 			print("update %s compelete" %i[0])
 			
 

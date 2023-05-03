@@ -1,3 +1,616 @@
 {
-    "data": []
+    "data": [
+        {
+            "fixture": {
+                "id": 868277,
+                "referee": "Robert Jones, England",
+                "timezone": "europe/london",
+                "date": "2023-05-02T20:00:00+01:00",
+                "timestamp": 1683054000,
+                "periods": {
+                    "first": 1683054000,
+                    "second": 1683057600
+                },
+                "venue": {
+                    "id": 494,
+                    "name": "Emirates Stadium",
+                    "city": "London"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 39,
+                "name": "Premier League",
+                "country": "England",
+                "logo": "https://media-3.api-sports.io/football/leagues/39.png",
+                "flag": "https://media-1.api-sports.io/flags/gb.svg",
+                "season": 2022,
+                "round": "Regular Season - 34"
+            },
+            "teams": {
+                "home": {
+                    "id": 42,
+                    "name": "Arsenal",
+                    "logo": "https://media-1.api-sports.io/football/teams/42.png",
+                    "winner": true
+                },
+                "away": {
+                    "id": 49,
+                    "name": "Chelsea",
+                    "logo": "https://media-3.api-sports.io/football/teams/49.png",
+                    "winner": false
+                }
+            },
+            "goals": {
+                "home": 3,
+                "away": 1
+            },
+            "score": {
+                "halftime": {
+                    "home": 3,
+                    "away": 0
+                },
+                "fulltime": {
+                    "home": 3,
+                    "away": 1
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 871798,
+                "referee": "Bastien Dechepy, France",
+                "timezone": "europe/london",
+                "date": "2023-05-02T20:00:00+01:00",
+                "timestamp": 1683054000,
+                "periods": {
+                    "first": 1683054000,
+                    "second": 1683057600
+                },
+                "venue": {
+                    "id": 682,
+                    "name": "Stadium de Toulouse",
+                    "city": "Toulouse"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 61,
+                "name": "Ligue 1",
+                "country": "France",
+                "logo": "https://media-1.api-sports.io/football/leagues/61.png",
+                "flag": "https://media-3.api-sports.io/flags/fr.svg",
+                "season": 2022,
+                "round": "Regular Season - 33"
+            },
+            "teams": {
+                "home": {
+                    "id": 96,
+                    "name": "Toulouse",
+                    "logo": "https://media-1.api-sports.io/football/teams/96.png",
+                    "winner": false
+                },
+                "away": {
+                    "id": 116,
+                    "name": "Lens",
+                    "logo": "https://media-2.api-sports.io/football/teams/116.png",
+                    "winner": true
+                }
+            },
+            "goals": {
+                "home": 0,
+                "away": 1
+            },
+            "score": {
+                "halftime": {
+                    "home": 0,
+                    "away": 1
+                },
+                "fulltime": {
+                    "home": 0,
+                    "away": 1
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 878264,
+                "referee": "Javier Iglesias Villanueva, Spain",
+                "timezone": "europe/london",
+                "date": "2023-05-02T18:30:00+01:00",
+                "timestamp": 1683048600,
+                "periods": {
+                    "first": 1683048600,
+                    "second": 1683052200
+                },
+                "venue": {
+                    "id": 18630,
+                    "name": "Spotify Camp Nou",
+                    "city": "Barcelona"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 140,
+                "name": "La Liga",
+                "country": "Spain",
+                "logo": "https://media-1.api-sports.io/football/leagues/140.png",
+                "flag": "https://media-2.api-sports.io/flags/es.svg",
+                "season": 2022,
+                "round": "Regular Season - 33"
+            },
+            "teams": {
+                "home": {
+                    "id": 529,
+                    "name": "Barcelona",
+                    "logo": "https://media-1.api-sports.io/football/teams/529.png",
+                    "winner": true
+                },
+                "away": {
+                    "id": 727,
+                    "name": "Osasuna",
+                    "logo": "https://media-1.api-sports.io/football/teams/727.png",
+                    "winner": false
+                }
+            },
+            "goals": {
+                "home": 1,
+                "away": 0
+            },
+            "score": {
+                "halftime": {
+                    "home": 0,
+                    "away": 0
+                },
+                "fulltime": {
+                    "home": 1,
+                    "away": 0
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 878267,
+                "referee": "Alejandro Hernandez, Spain",
+                "timezone": "europe/london",
+                "date": "2023-05-02T18:30:00+01:00",
+                "timestamp": 1683048600,
+                "periods": {
+                    "first": 1683048600,
+                    "second": 1683052200
+                },
+                "venue": {
+                    "id": 19216,
+                    "name": "Power Horse Stadium \u2013 Estadio de los Juegos Mediterr\u00e1neos",
+                    "city": "Almer\u00eda"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 140,
+                "name": "La Liga",
+                "country": "Spain",
+                "logo": "https://media-1.api-sports.io/football/leagues/140.png",
+                "flag": "https://media-1.api-sports.io/flags/es.svg",
+                "season": 2022,
+                "round": "Regular Season - 33"
+            },
+            "teams": {
+                "home": {
+                    "id": 723,
+                    "name": "Almeria",
+                    "logo": "https://media-1.api-sports.io/football/teams/723.png",
+                    "winner": true
+                },
+                "away": {
+                    "id": 797,
+                    "name": "Elche",
+                    "logo": "https://media-1.api-sports.io/football/teams/797.png",
+                    "winner": false
+                }
+            },
+            "goals": {
+                "home": 2,
+                "away": 1
+            },
+            "score": {
+                "halftime": {
+                    "home": 1,
+                    "away": 0
+                },
+                "fulltime": {
+                    "home": 2,
+                    "away": 1
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 878271,
+                "referee": "Juan Luis Pulido Santana, Spain",
+                "timezone": "europe/london",
+                "date": "2023-05-02T21:00:00+01:00",
+                "timestamp": 1683057600,
+                "periods": {
+                    "first": 1683057600,
+                    "second": 1683061200
+                },
+                "venue": {
+                    "id": 1491,
+                    "name": "Reale Arena",
+                    "city": "Donostia-San Sebasti\u00e1n"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 140,
+                "name": "La Liga",
+                "country": "Spain",
+                "logo": "https://media-1.api-sports.io/football/leagues/140.png",
+                "flag": "https://media-2.api-sports.io/flags/es.svg",
+                "season": 2022,
+                "round": "Regular Season - 33"
+            },
+            "teams": {
+                "home": {
+                    "id": 548,
+                    "name": "Real Sociedad",
+                    "logo": "https://media-1.api-sports.io/football/teams/548.png",
+                    "winner": true
+                },
+                "away": {
+                    "id": 541,
+                    "name": "Real Madrid",
+                    "logo": "https://media-3.api-sports.io/football/teams/541.png",
+                    "winner": false
+                }
+            },
+            "goals": {
+                "home": 2,
+                "away": 0
+            },
+            "score": {
+                "halftime": {
+                    "home": 0,
+                    "away": 0
+                },
+                "fulltime": {
+                    "home": 2,
+                    "away": 0
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 976723,
+                "referee": null,
+                "timezone": "europe/london",
+                "date": "2023-05-02T17:00:00+01:00",
+                "timestamp": 1683043200,
+                "periods": {
+                    "first": 1683043200,
+                    "second": 1683046800
+                },
+                "venue": {
+                    "id": 10516,
+                    "name": "Prince Sultan bin Abdulaziz Sports City Stadium",
+                    "city": "Abha"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 307,
+                "name": "Pro League",
+                "country": "Saudi-Arabia",
+                "logo": "https://media-2.api-sports.io/football/leagues/307.png",
+                "flag": "https://media-1.api-sports.io/flags/sa.svg",
+                "season": 2022,
+                "round": "Regular Season - 25"
+            },
+            "teams": {
+                "home": {
+                    "id": 2951,
+                    "name": "Abha",
+                    "logo": "https://media-3.api-sports.io/football/teams/2951.png",
+                    "winner": true
+                },
+                "away": {
+                    "id": 2950,
+                    "name": "Al-Adalah",
+                    "logo": "https://media-3.api-sports.io/football/teams/2950.png",
+                    "winner": false
+                }
+            },
+            "goals": {
+                "home": 1,
+                "away": 0
+            },
+            "score": {
+                "halftime": {
+                    "home": 0,
+                    "away": 0
+                },
+                "fulltime": {
+                    "home": 1,
+                    "away": 0
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 976726,
+                "referee": null,
+                "timezone": "europe/london",
+                "date": "2023-05-02T17:00:00+01:00",
+                "timestamp": 1683043200,
+                "periods": {
+                    "first": 1683043200,
+                    "second": 1683046800
+                },
+                "venue": {
+                    "id": 1377,
+                    "name": "King Abdullah Sport City Stadium",
+                    "city": "Buraidah"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 307,
+                "name": "Pro League",
+                "country": "Saudi-Arabia",
+                "logo": "https://media-1.api-sports.io/football/leagues/307.png",
+                "flag": "https://media-3.api-sports.io/flags/sa.svg",
+                "season": 2022,
+                "round": "Regular Season - 25"
+            },
+            "teams": {
+                "home": {
+                    "id": 2935,
+                    "name": "Al-Raed",
+                    "logo": "https://media-3.api-sports.io/football/teams/2935.png",
+                    "winner": true
+                },
+                "away": {
+                    "id": 2926,
+                    "name": "Al Baten",
+                    "logo": "https://media-2.api-sports.io/football/teams/2926.png",
+                    "winner": false
+                }
+            },
+            "goals": {
+                "home": 3,
+                "away": 1
+            },
+            "score": {
+                "halftime": {
+                    "home": 3,
+                    "away": 1
+                },
+                "fulltime": {
+                    "home": 3,
+                    "away": 1
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 976727,
+                "referee": null,
+                "timezone": "europe/london",
+                "date": "2023-05-02T19:30:00+01:00",
+                "timestamp": 1683052200,
+                "periods": {
+                    "first": 1683052200,
+                    "second": 1683055800
+                },
+                "venue": {
+                    "id": 1371,
+                    "name": "Prince Abdul Aziz bin Musa'ed Stadium",
+                    "city": "Hail"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 307,
+                "name": "Pro League",
+                "country": "Saudi-Arabia",
+                "logo": "https://media-2.api-sports.io/football/leagues/307.png",
+                "flag": "https://media-2.api-sports.io/flags/sa.svg",
+                "season": 2022,
+                "round": "Regular Season - 25"
+            },
+            "teams": {
+                "home": {
+                    "id": 2942,
+                    "name": "Al Taee",
+                    "logo": "https://media-1.api-sports.io/football/teams/2942.png",
+                    "winner": true
+                },
+                "away": {
+                    "id": 2944,
+                    "name": "Al-Fayha",
+                    "logo": "https://media-1.api-sports.io/football/teams/2944.png",
+                    "winner": false
+                }
+            },
+            "goals": {
+                "home": 2,
+                "away": 1
+            },
+            "score": {
+                "halftime": {
+                    "home": 2,
+                    "away": 1
+                },
+                "fulltime": {
+                    "home": 2,
+                    "away": 1
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 976729,
+                "referee": null,
+                "timezone": "europe/london",
+                "date": "2023-05-02T19:30:00+01:00",
+                "timestamp": 1683052200,
+                "periods": {
+                    "first": 1683052200,
+                    "second": 1683055800
+                },
+                "venue": {
+                    "id": 1370,
+                    "name": "Prince Mohamed bin Fahd Stadium",
+                    "city": "Dammam"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 307,
+                "name": "Pro League",
+                "country": "Saudi-Arabia",
+                "logo": "https://media-1.api-sports.io/football/leagues/307.png",
+                "flag": "https://media-1.api-sports.io/flags/sa.svg",
+                "season": 2022,
+                "round": "Regular Season - 25"
+            },
+            "teams": {
+                "home": {
+                    "id": 2928,
+                    "name": "Al Khaleej Saihat",
+                    "logo": "https://media-1.api-sports.io/football/teams/2928.png",
+                    "winner": true
+                },
+                "away": {
+                    "id": 2934,
+                    "name": "Al-Ettifaq",
+                    "logo": "https://media-1.api-sports.io/football/teams/2934.png",
+                    "winner": false
+                }
+            },
+            "goals": {
+                "home": 2,
+                "away": 1
+            },
+            "score": {
+                "halftime": {
+                    "home": 1,
+                    "away": 1
+                },
+                "fulltime": {
+                    "home": 2,
+                    "away": 1
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        }
+    ]
 }
