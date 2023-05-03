@@ -64,7 +64,7 @@ def create_ptopscorersJson(tmp_leagueId):
 
     for i in tmp_leagueId:
         league_id = i
-        file_path = "%s/players/Topscorers/%s/%s_Ptopscorers.json" % (directory, seasons, league_id)
+        file_path = "%s/players/Topscorers/%s/%s_Ptopscorers.json" % (directory, seasons, now_date)
         data = {'data' : []}
             
         if os.path.exists(file_path):
