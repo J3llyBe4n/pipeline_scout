@@ -14,6 +14,7 @@ from ETLServer.Modules.load_toLocalJson import *
 import ETLServer.Modules.convert_toJson as conv		# js > conv
 import ETLServer.Modules.load_json as load
 import ETLServer.Modules.http_response as http 		# hf > http
+import datetime
 
 class ApiStandings:
 
@@ -55,12 +56,14 @@ class ApiFixtures:
 
 		print("run func load_fixtureJson")
 		season = 2022
+		now_date = datetime.datetime.utcnow().date().strftime('%Y-%m-%d')
+		timezone = 'Europe/London'
 		
 		for i in idList:
 			league_id = i
 			print("call api req -> params : %d" %league_id)
 
-			uri = "https://v3.football.api-sports.io/fixtures?league=%d&season=%d" %(league_id, season)
+			uri = "https://v3.football.api-sports.io/fixtures?league=%d&season=%d&date=%s&timezone=%s" %(league_id, season, now_date, timezone)
 
 			headers = {
                 'x-rapidapi-host': "v3.football.api-sports.io",
@@ -70,18 +73,21 @@ class ApiFixtures:
 			start_time = time.time()
 			response = requests.request("GET", uri, headers = headers)
 			response_time = http.get_responseTime(start_time)
-			data = response.json()['response']
-			status = response.headers
+			if response.json()['response'] == []:
+				continue
+			else :
+				data = response.json()['response'][0]
+				status = response.headers
 
-			uri_info = http.get_uriInfos(uri)
-			time_stamp = http.get_timeStamp(status)
-			crud_option = http.get_crudOption(status)
-			http_status = http.get_httpStatus(response)
+				uri_info = http.get_uriInfos(uri)
+				time_stamp = http.get_timeStamp(status)
+				crud_option = http.get_crudOption(status)
+				http_status = http.get_httpStatus(response)
 
-			tmp_dict = conv.convert_toJson(response_time, crud_option, uri_info, time_stamp, http_status)
-			load.load_json(tmp_dict)
+				tmp_dict = conv.convert_toJson(response_time, crud_option, uri_info, time_stamp, http_status)
+				load.load_json(tmp_dict)
 
-			loadL.load_fixtureJson(data)
+				loadL.load_fixtureJson(data)
 
 class ApiTeamStatistics:
 
