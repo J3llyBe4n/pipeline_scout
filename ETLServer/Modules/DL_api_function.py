@@ -81,7 +81,7 @@ class ApiFixtures:
 			tmp_dict = conv.convert_toJson(response_time, crud_option, uri_info, time_stamp, http_status)
 			load.load_json(tmp_dict)
 
-			loadL.load_fixtureJson(data, league_id)
+			loadL.load_fixtureJson(data)
 
 class ApiTeamStatistics:
 

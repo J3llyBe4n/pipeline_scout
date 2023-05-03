@@ -1,17 +1,18 @@
-#배치 주기 매일 
-#데이터 들어가기 전에 스크립트가 돌아가야함.
+#이놈은 배치 주기가 하루 입니다.
+#배치는 하루 데이터가 넣는 script 이전에 돌아야합니다.
+#00:00~00:30 내에 돌아야 합니다.
 
 import os
 import datetime
 import json
-from ETLServer.Modules.db_function import *
 
 directory = os.path.join(os.path.dirname(__file__), '../datas/DataLake/fixtures')
-nowYear = datetime.datetime.utcnow().date().strftime("%Y")
-nowDate = datetime.datetime.utcnow().date().strftime("%y%m%d")
-nowYear = int(nowYear) - 1
+now_Year = datetime.datetime.utcnow().date().strftime("%Y")
+now_Year = str(int(now_Year) - 1) #
+now_Date = datetime.datetime.utcnow().date().strftime("%y%m%d")
+# yesterday = (datetime.datetime.utcnow().date() - datetime.timedelta(days=1)).strftime("%y%m%d")
 
-
+# fixtures/H2h
 def create_h2hFolder():
     if not os.path.exists("%s/H2h" %directory):
         os.mkdir("%s/H2h" %directory)
@@ -19,17 +20,17 @@ def create_h2hFolder():
     else:
         print("already exists!")
 
-
-def create_seasonH2hFolder():
-    if not os.path.exists("%s/h2h/%s" %(directory, nowYear)):
-        os.mkdir("%s/h2h/%s" %(directory, nowYear))
-        print("folder created! : %s" %nowYear)
+# fixtures/H2h/YYYY
+def create_h2hSeasonFolder():
+    if not os.path.exists("%s/h2h/%s" %(directory, now_Year)):
+        os.mkdir("%s/h2h/%s" %(directory, now_Year))
+        print("folder created! : %s" %now_Year)
     else:
         print("already exists")
 
-
+# fixtures/H2h/YYYY/ymd_h2h.json
 def create_h2hJson():
-    file_path = "%s/h2h/%s/%s_h2h.json" % (directory,nowYear, nowDate)
+    file_path = "%s/h2h/%s/%s_h2h.json" % (directory, now_Year, now_Date)
     data = {'data' : []}
     
     if os.path.exists(file_path):
@@ -41,7 +42,7 @@ def create_h2hJson():
 
 
 create_h2hFolder()
-create_seasonH2hFolder()
+create_h2hSeasonFolder()
 create_h2hJson()
 
 

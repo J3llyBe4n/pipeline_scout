@@ -1,44 +1,48 @@
 # 배치 주기 일주일
 # 배치 아침에 돌아야함
+#
 
-import os, json, datetime
-from datetime import datetime
+import os
+import datetime
+import json
 from ETLServer.Modules.db_function import *
 
-directory = os.path.join(os.path.dirname(__file__), '../datas/DataLake')
+directory = os.path.join(os.path.dirname(__file__), '../datas/DataLake/players')
+now_Year = datetime.datetime.utcnow().date().strftime("%Y")
+now_Year = str(int(now_Year) - 1) #
+now_Date = datetime.datetime.utcnow().date().strftime("%y%m%d")
+# yesterday = (datetime.datetime.utcnow().date() - datetime.timedelta(days=1)).strftime("%y%m%d")
 
-now_year = datetime.utcnow().date().strftime("%Y")
-nowDate = datetime.utcnow().date().strftime("%y%m%d")
-now_year = int(now_year) - 1
 
-
-today = datetime.today()
+today = datetime.datetime.today()
 year, week_num, day_of_week = today.isocalendar()
 
-
-def create_pplayerFolder():
-    if not os.path.exists("%s/players/Players" % directory):
-        os.mkdir("%s/players/Players" % directory)
+# players/Players
+def create_pPlayersFolder():
+    if not os.path.exists("%s/Players" % directory):
+        os.mkdir("%s/Players" % directory)
         print("folder created")
     else:
         print("already exists!")
 
-def create_seasonpPlayerFolder():
-    if not os.path.exists("%s/players/Players/%s" %(directory, now_year)):
-        os.mkdir("%s/players/Players/%s" %(directory, now_year))
-        print("folder created : %s" %now_year)
+# players/Players/YYYY
+def create_pPlayersSeasonFolder():
+    if not os.path.exists("%s/Players/%s" %(directory, now_Year)):
+        os.mkdir("%s/Players/%s" %(directory, now_Year))
+        print("folder created : %s" %now_Year)
     else:
         print("already exists")
 
-def create_weekPlayerFolder():
-    if not os.path.exists("%s/players/Players/%s/%s" %(directory, now_year, week_num)):
-        os.mkdir("%s/players/Players/%s/%s" %(directory, now_year, week_num))
+# players/Players/YYYY/week_num
+def create_pPlayersWeekFolder():
+    if not os.path.exists("%s/Players/%s/%s" %(directory, now_Year, week_num)):
+        os.mkdir("%s/Players/%s/%s" %(directory, now_Year, week_num))
         print("folder created")
     else:
         print("alreday exists")
 
-
-def create_pplayerJson():
+# players/Players/YYYY/week_num/leagueId_players.json
+def create_pPlayersJson():
     db_func = DBfunc()
 
     #DB server연결 
@@ -51,7 +55,7 @@ def create_pplayerJson():
 
     for i in tmp_leagueId:
         leagueId = i 
-        file_path = "%s/players/players/%s/%s/%s_players.json" % (directory, now_year, week_num,leagueId)
+        file_path = "%s/Players/%s/%s/%s_players.json" % (directory, now_Year, week_num, leagueId)
         data = {'data' : []}
         
         if os.path.exists(file_path):
@@ -63,7 +67,7 @@ def create_pplayerJson():
 
 
 
-create_pplayerFolder()
-create_seasonpPlayerFolder()
-create_weekPlayerFolder()
-create_pplayerJson()
+create_pPlayersFolder()
+create_pPlayersSeasonFolder()
+create_pPlayersWeekFolder()
+create_pPlayersJson()

@@ -1,32 +1,28 @@
-# 배치 주기는 매일
-# 경기 전에 돌아야하기 때문에 아침에 돌아야함
+#이놈은 배치 주기가 하루 입니다.
+#배치는 하루 데이터가 넣는 script 이전에 돌아야합니다.
+#
 
 import os
 import datetime
 import json
-from ETLServer.Modules.db_function import *
 
-directory = os.path.join(os.path.dirname(__file__), '../datas/DataLake')
-now_date = datetime.datetime.utcnow().date().strftime("%y%m%d")
-now_year = datetime.datetime.utcnow().date().strftime("%Y")
-now_year = int(now_year) - 1
+directory = os.path.join(os.path.dirname(__file__), '../datas/DataLake/predictions')
+now_Year = datetime.datetime.utcnow().date().strftime("%Y")
+now_Year = str(int(now_Year) - 1) #
+now_Date = datetime.datetime.utcnow().date().strftime("%y%m%d")
+# yesterday = (datetime.datetime.utcnow().date() - datetime.timedelta(days=1)).strftime("%y%m%d")
 
-def create_predictionsFolder():
-    if not os.path.exists("%s/predictions" %directory):
-        os.mkdir("%s/predictions" %directory)
-        print("folder created")
-    else:
-        print("already exists!")
-
+# predictions/YYYY
 def create_predictionsSeasonFolder():
-    if not os.path.exists("%s/predictions/%s" %(directory, now_year)):
-        os.mkdir("%s/predictions/%s" %(directory, now_year))
-        print("folder created! : %s" %now_year)
+    if not os.path.exists("%s/%s" %(directory, now_Year)):
+        os.mkdir("%s/%s" %(directory, now_Year))
+        print("folder created! : %s" %now_Year)
     else:
         print("already exists")
 
+# predictions/YYYY/ymd_predictions.json
 def create_predictionsJson():
-    file_path = "%s/predictions/%s/%s_predictions.json" % (directory, now_year, now_date)
+    file_path = "%s/%s/%s_predictions.json" % (directory, now_Year, now_Date)
     data = {'data' : []}
     
     if os.path.exists(file_path):
@@ -36,6 +32,6 @@ def create_predictionsJson():
         with open(file_path, "w") as json_file:
             json.dump(data, json_file, indent=4)
 
-create_predictionsFolder()
+
 create_predictionsSeasonFolder()
 create_predictionsJson()

@@ -1,38 +1,35 @@
 #배치 주기 1년
 # 시즌 시작할떄 다 돌아가야함
-
+#
 
 import os
 import datetime
 import json
 from ETLServer.Modules.db_function import *
 
-directory = os.path.join(os.path.dirname(__file__), '../datas/DataLake')
-now_year = datetime.datetime.utcnow().date().strftime("%Y")
-nowDate = datetime.datetime.utcnow().date().strftime("%y%m%d")
-now_year = int(now_year) - 1
+directory = os.path.join(os.path.dirname(__file__), '../datas/DataLake/teams')
+now_Year = datetime.datetime.utcnow().date().strftime("%Y")
+now_Year = str(int(now_Year) - 1) #
+now_Date = datetime.datetime.utcnow().date().strftime("%y%m%d")
+# yesterday = (datetime.datetime.utcnow().date() - datetime.timedelta(days=1)).strftime("%y%m%d")
 
-def create_teamsFolder():
-    if not os.path.exists("%s/teams" % directory):
-        os.mkdir("%s/teams" % directory)
-        print("folder created")
-    else:
-        print("already exists!")
-
+# teams/Info
 def create_teamsInfoFolder():
-    if not os.path.exists("%s/teams/Teams_info" % directory):
+    if not os.path.exists("%s/Info" % directory):
         os.mkdir("%s/teams/Teams_info" % directory)
         print("folder created")
     else:
         print("already exists!")
 
-def create_seasonTeamFolder():
-    if not os.path.exists("%s/teams/Teams_info/%s" %(directory, now_year)):
-        os.mkdir("%s/teams/Teams_info/%s" %(directory, now_year))
+# teams/Info/YYYY
+def create_teamsInfoSeasonFolder():
+    if not os.path.exists("%s/Info/%s" %(directory, now_Year)):
+        os.mkdir("%s/Info/%s" %(directory, now_Year))
         print("folder created")
     else:
         print("already exists")
 
+# teams/Info/YYYY/leagueId_Tinfo.json
 def create_teamsInfoJson():
     db_func = DBfunc()
 
@@ -46,7 +43,7 @@ def create_teamsInfoJson():
 
     for i in tmp_leagueId:
         leagueId = i 
-        file_path = "%s/teams/teams_info/%s/%s_Tinfo.json" % (directory, now_year,leagueId)
+        file_path = "%s/Info/%s/%s_Tinfo.json" % (directory, now_Year, leagueId)
         data = {'data' : []}
         
         if os.path.exists(file_path):
@@ -56,9 +53,8 @@ def create_teamsInfoJson():
             with open(file_path, "w") as json_file:
                 json.dump(data, json_file, indent=4)
 
-# create_teamsFolder()
-if __name__ == "__main__":
-    create_teamsFolder()
-    create_teamsInfoFolder()
-    create_seasonTeamFolder()
-    create_teamsInfoJson()
+
+
+create_teamsInfoFolder()
+create_teamsInfoSeasonFolder()
+create_teamsInfoJson()

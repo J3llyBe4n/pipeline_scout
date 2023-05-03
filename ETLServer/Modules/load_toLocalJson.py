@@ -37,20 +37,21 @@ def load_standingJson(tmp_data): #
 # 시즌(22)_[리그 ID]_fixture.json
 # 변수로 리그ID 필요
 
-def load_fixtureJson(tmp_data, league_id): #
+def load_fixtureJson(tmp_data): #
 
     now_year = datetime.utcnow().date().strftime("%Y") #
     now_year = str(int(now_year) - 1)
+    now_date = datetime.utcnow().date().strftime("%y%m%d") #
     directory = os.path.join(os.path.dirname(__file__), "..", 'datas', 'DataLake', 'fixtures', 'fixtures', now_year) #
 
-    with open("%s/%s_%d_fixture.json" % (directory, str(now_year)[2:], league_id), "r") as json_file:
+    with open("%s/%s_fixture.json" % (directory, now_date), "r") as json_file:
         data = json.load(json_file)
      
     data['data'].append(tmp_data)
 
     print(tmp_data)
 
-    with open("%s/%s_%d_fixture.json" % (directory, now_year, league_id), "w") as json_file:
+    with open("%s/%s_fixture.json" % (directory, now_date), "w") as json_file:
         json.dump(data, json_file, indent=4)
         print("Load is done!")
 
@@ -89,7 +90,7 @@ def load_TinfosJson(tmp_data, league_id): #
 
     now_year = datetime.utcnow().date().strftime("%Y") #
     now_year = str(int(now_year) - 1)
-    directory = os.path.join(os.path.dirname(__file__), "..", 'datas', 'DataLake', 'teams', 'teams_info', now_year) #
+    directory = os.path.join(os.path.dirname(__file__), "..", 'datas', 'DataLake', 'teams', 'Info', now_year) #
 
     with open("%s/%d_Tinfo.json" % (directory, league_id), "r") as json_file: #
         data = json.load(json_file)
@@ -157,14 +158,14 @@ def load_fixtureTStatsJsonData(tmp_data):
     now_date = (datetime.utcnow().date() - timedelta(days=1)).strftime("%y%m%d")  #
     directory = os.path.join(os.path.dirname(__file__), "..", 'datas', 'DataLake', 'fixtures', 'Tstatistics', now_year) #
 
-    with open("%s/%s_Ftstats.json" % (directory, now_date), "r") as json_file: #
+    with open("%s/%s_Tstatisics.json" % (directory, now_date), "r") as json_file: #
         data = json.load(json_file)
      
     data['data'].append(tmp_data)
 
     # print(tmp_data)
 
-    with open("%s/%s_Ftstats.json" % (directory, now_date), "w") as json_file: #
+    with open("%s/%s_Tstatisics.json" % (directory, now_date), "w") as json_file: #
         json.dump(data, json_file, indent=4)
         print("Load is done!")
 
