@@ -8,7 +8,9 @@ from ETLServer.Modules.db_function import *
 from ETLServer.Modules.api_func import *
 from datetime import datetime, timedelta
 
-api_keys = "a68636f8f2c18511179c56f15e95080c"
+# api_keys = "a68636f8f2c18511179c56f15e95080c"
+api_keys = "a86d420d0d8840c8e722e16cf9742f7b"
+# api_keys = "e6b9fb7ce7a7ad7b239595f76e546384"
 
 db_func = DBfunc()
 api_func = ApiUpdateFixture()

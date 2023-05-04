@@ -107,7 +107,7 @@ class ApiTeamStatistics:
 			season = 2022
 			leagueId = idList[i][0]
 			teamId = idList[i][1]
-			print("call api req -> params : %d" % leagueId)
+			print("call api req -> params_league : %d, params_team : %d" %(leagueId, teamId))
 
 			uri = "https://v3.football.api-sports.io/teams/statistics?league=%d&season=%d&team=%d&date=%s" %(leagueId, season, teamId, round_date)
 			headers = {
@@ -229,7 +229,7 @@ class ApiEvents:
 			start_time = time.time()
 			response = requests.request("GET", uri, headers= headers)
 			response_time = http.get_responseTime(start_time)
-			data = response.json()['response'][0]
+			data = response.json()['response']
 			status = response.headers
 
 
@@ -304,7 +304,7 @@ class ApiFixturePStats:
 			http_status = http.get_httpStatus(response)
 
 			tmp_dict = conv.convert_toJson(response_time, crud_option, uri_info, time_stamp, http_status)
-			#load.load_json(tmp_dict)
+			load.load_json(tmp_dict)
 
 			final_dict = conv.convert_HomeAwayJson(data, fixture_id)
 			loadL.load_fixturePStatsJsonData(final_dict)
@@ -527,10 +527,11 @@ class ApiPtopscoreres:
 			http_status = http.get_httpStatus(response)
 
 			tmp_dict = conv.convert_toJson(response_time, crud_option, uri_info, time_stamp, http_status)
-			# load.load_json(tmp_dict)
+			load.load_json(tmp_dict)
+
 			final_dict = conv.convert_ptopscorersJson(data, league_id)
 			# 모듈의 load_toLocalJson에 함수 추가 > load_ptopscorersJson
-			loadL.load_ptopscorersJson(final_dict, league_id) 
+			loadL.load_ptopscorersJson(final_dict)
 
 class ApiPredictions:
 
@@ -563,7 +564,7 @@ class ApiPredictions:
 			http_status = http.get_httpStatus(response)
 
 			tmp_dict = conv.convert_toJson(response_time, crud_option, uri_info, time_stamp, http_status)
-			#load.load_json(tmp_dict)
+			load.load_json(tmp_dict)
 
 			final_dict = conv.convert_predictionsJson(data, fixture_id)
 			loadL.load_predictionsJsonData(final_dict)
