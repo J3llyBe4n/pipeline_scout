@@ -7,7 +7,7 @@ print(now_Date)
 directory = os.path.join(os.path.dirname(__file__), '..', 'datas', 'Logs')
 
 def createFolder():
-    os.mkdir("%s/%s" %(directory, nowDate))
+    os.mkdir("%s/%s" %(directory, now_Date))
     print("folder created")
 
 def createJsonFile():
@@ -24,4 +24,4 @@ def createBlobFile():
 
 createFolder()
 createJsonFile()
-createBlobFile()
+# createBlobFile()
