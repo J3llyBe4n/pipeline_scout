@@ -16,7 +16,7 @@ now_Date = datetime.datetime.utcnow().date().strftime("%y%m%d")
 # teams/Info
 def create_teamsInfoFolder():
     if not os.path.exists("%s/Info" % directory):
-        os.mkdir("%s/teams/Teams_info" % directory)
+        os.mkdir("%s/Info" % directory)
         print("folder created")
     else:
         print("already exists!")
