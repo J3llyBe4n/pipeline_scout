@@ -18,7 +18,7 @@ bucket = client.get_bucket(bucket_name)
 
 # 로컬 디렉토리 경로
 local_directory = 'C:/Users/user/PycharmProjects/soccer_pipe_line/pipeline_scout/ETLServer/datas/'
-log_local_directory = os.path.join(os.path.dirname(__file__), 'datas', 'Logs')
+# log_local_directory = os.path.join(os.path.dirname(__file__), 'datas', 'Logs')
 
 # 로컬 디렉토리의 모든 파일을 반복
 for dirpath, dirs, files in os.walk(local_directory):

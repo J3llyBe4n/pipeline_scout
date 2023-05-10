@@ -196,7 +196,8 @@ class ApiH2h:
 			start_time = time.time()
 			response = requests.request("GET", uri, headers = headers)
 			response_time = http.get_responseTime(start_time)
-			data = response.json()['response'][0]
+			try: data = response.json()['response'][0]
+			except: data = {f"{params}" : "Not supported"}
 			status = response.headers
 
 
