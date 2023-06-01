@@ -2,10 +2,10 @@
 
 import requests, time
 import sys
-sys.path.append("/etl/ETLServer_Re")
-import Modules.load_toLocalJson as loadL
-from Modules.load_toLocalJson import *
-import Modules.convert_toJson as conv
+sys.path.append("/etl")
+import ETLServer_Re.Modules.load_toLocalJson as loadL
+from ETLServer_Re.Modules.load_toLocalJson import *
+import ETLServer_Re.Modules.convert_toJson as conv
 
 
 class ApiStandings:
