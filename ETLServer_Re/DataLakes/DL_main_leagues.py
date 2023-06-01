@@ -11,7 +11,7 @@ api_keys = "e6b9fb7ce7a7ad7b239595f76e546384"
 db_func = DBfunc()
 db_func.connect_SQL()
 
-# # leagues
-# api_func = ApiLeagues(now_date, now_date_local)
-# tmp_leagueId = db_func.read_leagueId()
-# api_func.load_leagueJson(tmp_leagueId, api_keys)
+# leagues
+api_func = ApiLeagues(now_date, now_date_local)
+tmp_leagueId = db_func.read_leagueId()
+api_func.load_leagueJson(tmp_leagueId, api_keys)

@@ -11,8 +11,8 @@ api_keys = "e6b9fb7ce7a7ad7b239595f76e546384"
 db_func = DBfunc()
 db_func.connect_SQL()
 
-# # fixtures_lineups
-# api_func = ApiFixtureLineups(now_date, now_date_local)
-# fixture_id = db_func.read_fixtureId(now_date)
-# api_func.load_lineUpsJson(fixture_id, api_keys)
+# fixtures_lineups
+api_func = ApiFixtureLineups(now_date, now_date_local)
+fixture_id = db_func.read_fixtureId(now_date)
+api_func.load_lineUpsJson(fixture_id, api_keys)
 

@@ -11,7 +11,7 @@ api_keys = "e6b9fb7ce7a7ad7b239595f76e546384"
 db_func = DBfunc()
 db_func.connect_SQL()
 
-# # players/squads
-# api_func = ApiPsquad(now_date, now_date_local)
-# teamId = db_func.read_teamId()
-# api_func.load_psquadJson(teamId, api_keys)
+# players/squads
+api_func = ApiPsquad(now_date, now_date_local)
+teamId = db_func.read_teamId()
+api_func.load_psquadJson(teamId, api_keys)

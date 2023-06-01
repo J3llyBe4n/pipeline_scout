@@ -11,8 +11,8 @@ api_keys = "e6b9fb7ce7a7ad7b239595f76e546384"
 db_func = DBfunc()
 db_func.connect_SQL()
 
-# # events
-# api_func = ApiEvents(now_date, now_date_local)
-# fixture_id = db_func.read_fixtureId(now_date)
-# api_func.load_eventsJson(fixture_id, api_keys)
+# events
+api_func = ApiEvents(now_date, now_date_local)
+fixture_id = db_func.read_fixtureId(now_date)
+api_func.load_eventsJson(fixture_id, api_keys)
 

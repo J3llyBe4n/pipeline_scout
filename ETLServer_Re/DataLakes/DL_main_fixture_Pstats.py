@@ -11,7 +11,7 @@ api_keys = "e6b9fb7ce7a7ad7b239595f76e546384"
 db_func = DBfunc()
 db_func.connect_SQL()
 
-# # fixtures_Pstats
-# api_func = ApiFixturePStats(now_date,now_date_local)
-# fixture_id = db_func.read_fixtureId(now_date)
-# api_func.load_fixturePStatsJson(fixture_id,api_keys)
+# fixtures_Pstats
+api_func = ApiFixturePStats(now_date,now_date_local)
+fixture_id = db_func.read_fixtureId(now_date)
+api_func.load_fixturePStatsJson(fixture_id,api_keys)
