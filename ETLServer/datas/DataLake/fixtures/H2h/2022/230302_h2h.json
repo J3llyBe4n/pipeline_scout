@@ -1,0 +1,684 @@
+{
+    "data": [
+        {
+            "fixture": {
+                "id": 986015,
+                "referee": "Nawaf Alzeyouidi",
+                "timezone": "europe/london",
+                "date": "2023-03-02T13:30:00+00:00",
+                "timestamp": 1677763800,
+                "periods": {
+                    "first": 1677763800,
+                    "second": 1677767400
+                },
+                "venue": {
+                    "id": 1600,
+                    "name": "Hazza Bin Zayed Stadium",
+                    "city": "Al Ain"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 301,
+                "name": "Pro League",
+                "country": "United-Arab-Emirates",
+                "logo": "https://media-2.api-sports.io/football/leagues/301.png",
+                "flag": "https://media-2.api-sports.io/flags/ae.svg",
+                "season": 2022,
+                "round": "Regular Season - 18"
+            },
+            "teams": {
+                "home": {
+                    "id": 2865,
+                    "name": "Al Ain",
+                    "logo": "https://media-2.api-sports.io/football/teams/2865.png",
+                    "winner": true
+                },
+                "away": {
+                    "id": 2867,
+                    "name": "Dibba Al-Fujairah",
+                    "logo": "https://media-2.api-sports.io/football/teams/2867.png",
+                    "winner": false
+                }
+            },
+            "goals": {
+                "home": 3,
+                "away": 0
+            },
+            "score": {
+                "halftime": {
+                    "home": 1,
+                    "away": 0
+                },
+                "fulltime": {
+                    "home": 3,
+                    "away": 0
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 986016,
+                "referee": "Yousif Al Jasmi",
+                "timezone": "europe/london",
+                "date": "2023-03-02T13:30:00+00:00",
+                "timestamp": 1677763800,
+                "periods": {
+                    "first": 1677763800,
+                    "second": 1677767400
+                },
+                "venue": {
+                    "id": 19222,
+                    "name": "Dibba Stadium",
+                    "city": "Dibba Al Fujairah"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 301,
+                "name": "Pro League",
+                "country": "United-Arab-Emirates",
+                "logo": "https://media-3.api-sports.io/football/leagues/301.png",
+                "flag": "https://media-3.api-sports.io/flags/ae.svg",
+                "season": 2022,
+                "round": "Regular Season - 18"
+            },
+            "teams": {
+                "home": {
+                    "id": 9136,
+                    "name": "Al Bataeh",
+                    "logo": "https://media-3.api-sports.io/football/teams/9136.png",
+                    "winner": null
+                },
+                "away": {
+                    "id": 4912,
+                    "name": "Al Khaleej",
+                    "logo": "https://media-2.api-sports.io/football/teams/4912.png",
+                    "winner": null
+                }
+            },
+            "goals": {
+                "home": 2,
+                "away": 2
+            },
+            "score": {
+                "halftime": {
+                    "home": 1,
+                    "away": 0
+                },
+                "fulltime": {
+                    "home": 2,
+                    "away": 2
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 986017,
+                "referee": "Sultan Mohamed",
+                "timezone": "europe/london",
+                "date": "2023-03-02T16:15:00+00:00",
+                "timestamp": 1677773700,
+                "periods": {
+                    "first": 1677773700,
+                    "second": 1677777300
+                },
+                "venue": {
+                    "id": 1606,
+                    "name": "Baniyas Stadium",
+                    "city": "Abu Dhabi"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 301,
+                "name": "Pro League",
+                "country": "United-Arab-Emirates",
+                "logo": "https://media-1.api-sports.io/football/leagues/301.png",
+                "flag": "https://media-1.api-sports.io/flags/ae.svg",
+                "season": 2022,
+                "round": "Regular Season - 18"
+            },
+            "teams": {
+                "home": {
+                    "id": 2877,
+                    "name": "Baniyas SC",
+                    "logo": "https://media-1.api-sports.io/football/teams/2877.png",
+                    "winner": false
+                },
+                "away": {
+                    "id": 2879,
+                    "name": "Ajman",
+                    "logo": "https://media-1.api-sports.io/football/teams/2879.png",
+                    "winner": true
+                }
+            },
+            "goals": {
+                "home": 2,
+                "away": 3
+            },
+            "score": {
+                "halftime": {
+                    "home": 0,
+                    "away": 3
+                },
+                "fulltime": {
+                    "home": 2,
+                    "away": 3
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 986018,
+                "referee": "Sultan Abdurazzaq",
+                "timezone": "europe/london",
+                "date": "2023-03-02T16:15:00+00:00",
+                "timestamp": 1677773700,
+                "periods": {
+                    "first": 1677773700,
+                    "second": 1677777300
+                },
+                "venue": {
+                    "id": 1603,
+                    "name": "Ittihad Kalba Club Stadium",
+                    "city": "Kalba"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 301,
+                "name": "Pro League",
+                "country": "United-Arab-Emirates",
+                "logo": "https://media-3.api-sports.io/football/leagues/301.png",
+                "flag": "https://media-2.api-sports.io/flags/ae.svg",
+                "season": 2022,
+                "round": "Regular Season - 18"
+            },
+            "teams": {
+                "home": {
+                    "id": 2876,
+                    "name": "Al-Ittihad Kalba",
+                    "logo": "https://media-3.api-sports.io/football/teams/2876.png",
+                    "winner": false
+                },
+                "away": {
+                    "id": 2870,
+                    "name": "Shabab Al Ahli Dubai",
+                    "logo": "https://media-1.api-sports.io/football/teams/2870.png",
+                    "winner": true
+                }
+            },
+            "goals": {
+                "home": 1,
+                "away": 2
+            },
+            "score": {
+                "halftime": {
+                    "home": 0,
+                    "away": 1
+                },
+                "fulltime": {
+                    "home": 1,
+                    "away": 2
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 980358,
+                "referee": "Abdulrahman Al Jassim",
+                "timezone": "europe/london",
+                "date": "2023-03-02T13:55:00+00:00",
+                "timestamp": 1677765300,
+                "periods": {
+                    "first": 1677765300,
+                    "second": 1677768900
+                },
+                "venue": {
+                    "id": null,
+                    "name": "Jassim Bin Hamad Stadium",
+                    "city": "Doha"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 305,
+                "name": "Stars League",
+                "country": "Qatar",
+                "logo": "https://media-1.api-sports.io/football/leagues/305.png",
+                "flag": "https://media-3.api-sports.io/flags/qa.svg",
+                "season": 2022,
+                "round": "Regular Season - 16"
+            },
+            "teams": {
+                "home": {
+                    "id": 2897,
+                    "name": "Al-Rayyan SC",
+                    "logo": "https://media-2.api-sports.io/football/teams/2897.png",
+                    "winner": null
+                },
+                "away": {
+                    "id": 2899,
+                    "name": "UMM Salal",
+                    "logo": "https://media-3.api-sports.io/football/teams/2899.png",
+                    "winner": null
+                }
+            },
+            "goals": {
+                "home": 1,
+                "away": 1
+            },
+            "score": {
+                "halftime": {
+                    "home": 1,
+                    "away": 0
+                },
+                "fulltime": {
+                    "home": 1,
+                    "away": 1
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 980359,
+                "referee": "Abdulhadi Al Ruaile",
+                "timezone": "europe/london",
+                "date": "2023-03-02T13:55:00+00:00",
+                "timestamp": 1677765300,
+                "periods": {
+                    "first": 1677765300,
+                    "second": 1677768900
+                },
+                "venue": {
+                    "id": 1304,
+                    "name": "Abdullah bin Nasser bin Khalifa Stadium",
+                    "city": "Doha"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 305,
+                "name": "Stars League",
+                "country": "Qatar",
+                "logo": "https://media-2.api-sports.io/football/leagues/305.png",
+                "flag": "https://media-1.api-sports.io/flags/qa.svg",
+                "season": 2022,
+                "round": "Regular Season - 16"
+            },
+            "teams": {
+                "home": {
+                    "id": 2916,
+                    "name": "Al Shamal",
+                    "logo": "https://media-3.api-sports.io/football/teams/2916.png",
+                    "winner": true
+                },
+                "away": {
+                    "id": 2907,
+                    "name": "Qatar SC",
+                    "logo": "https://media-1.api-sports.io/football/teams/2907.png",
+                    "winner": false
+                }
+            },
+            "goals": {
+                "home": 3,
+                "away": 0
+            },
+            "score": {
+                "halftime": {
+                    "home": 1,
+                    "away": 0
+                },
+                "fulltime": {
+                    "home": 3,
+                    "away": 0
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 980360,
+                "referee": "Salman Ahmad Falahi",
+                "timezone": "europe/london",
+                "date": "2023-03-02T16:30:00+00:00",
+                "timestamp": 1677774600,
+                "periods": {
+                    "first": 1677774600,
+                    "second": 1677778200
+                },
+                "venue": {
+                    "id": 1304,
+                    "name": "Abdullah bin Nasser bin Khalifa Stadium",
+                    "city": "Doha"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 305,
+                "name": "Stars League",
+                "country": "Qatar",
+                "logo": "https://media-1.api-sports.io/football/leagues/305.png",
+                "flag": "https://media-1.api-sports.io/flags/qa.svg",
+                "season": 2022,
+                "round": "Regular Season - 16"
+            },
+            "teams": {
+                "home": {
+                    "id": 2904,
+                    "name": "Al-Duhail SC",
+                    "logo": "https://media-2.api-sports.io/football/teams/2904.png",
+                    "winner": true
+                },
+                "away": {
+                    "id": 2905,
+                    "name": "Al-Arabi SC",
+                    "logo": "https://media-2.api-sports.io/football/teams/2905.png",
+                    "winner": false
+                }
+            },
+            "goals": {
+                "home": 3,
+                "away": 1
+            },
+            "score": {
+                "halftime": {
+                    "home": 2,
+                    "away": 1
+                },
+                "fulltime": {
+                    "home": 3,
+                    "away": 1
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 976676,
+                "referee": "Sultan Sughayyir",
+                "timezone": "europe/london",
+                "date": "2023-03-02T13:00:00+00:00",
+                "timestamp": 1677762000,
+                "periods": {
+                    "first": 1677762000,
+                    "second": 1677765600
+                },
+                "venue": {
+                    "id": 1363,
+                    "name": "Prince Abdullah bin Jalawi Sports City Stadium",
+                    "city": "Al-Hasa"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 307,
+                "name": "Pro League",
+                "country": "Saudi-Arabia",
+                "logo": "https://media-2.api-sports.io/football/leagues/307.png",
+                "flag": "https://media-2.api-sports.io/flags/sa.svg",
+                "season": 2022,
+                "round": "Regular Season - 19"
+            },
+            "teams": {
+                "home": {
+                    "id": 2931,
+                    "name": "Al-Fateh",
+                    "logo": "https://media-1.api-sports.io/football/teams/2931.png",
+                    "winner": false
+                },
+                "away": {
+                    "id": 2942,
+                    "name": "Al Taee",
+                    "logo": "https://media-3.api-sports.io/football/teams/2942.png",
+                    "winner": true
+                }
+            },
+            "goals": {
+                "home": 2,
+                "away": 3
+            },
+            "score": {
+                "halftime": {
+                    "home": 1,
+                    "away": 2
+                },
+                "fulltime": {
+                    "home": 2,
+                    "away": 3
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 976677,
+                "referee": "Mohammed Al-Daqqash",
+                "timezone": "europe/london",
+                "date": "2023-03-02T13:00:00+00:00",
+                "timestamp": 1677762000,
+                "periods": {
+                    "first": 1677762000,
+                    "second": 1677765600
+                },
+                "venue": {
+                    "id": 1367,
+                    "name": "Al Majma'ah Sports City Stadium",
+                    "city": "Al Majma'ah"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 307,
+                "name": "Pro League",
+                "country": "Saudi-Arabia",
+                "logo": "https://media-1.api-sports.io/football/leagues/307.png",
+                "flag": "https://media-3.api-sports.io/flags/sa.svg",
+                "season": 2022,
+                "round": "Regular Season - 19"
+            },
+            "teams": {
+                "home": {
+                    "id": 2944,
+                    "name": "Al-Fayha",
+                    "logo": "https://media-2.api-sports.io/football/teams/2944.png",
+                    "winner": true
+                },
+                "away": {
+                    "id": 2951,
+                    "name": "Abha",
+                    "logo": "https://media-1.api-sports.io/football/teams/2951.png",
+                    "winner": false
+                }
+            },
+            "goals": {
+                "home": 2,
+                "away": 0
+            },
+            "score": {
+                "halftime": {
+                    "home": 1,
+                    "away": 0
+                },
+                "fulltime": {
+                    "home": 2,
+                    "away": 0
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 976682,
+                "referee": "Faisal Alblwi",
+                "timezone": "europe/london",
+                "date": "2023-03-02T17:30:00+00:00",
+                "timestamp": 1677778200,
+                "periods": {
+                    "first": 1677778200,
+                    "second": 1677781800
+                },
+                "venue": {
+                    "id": 10518,
+                    "name": "King Abdulaziz Sports City Stadium",
+                    "city": "Mecca"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 307,
+                "name": "Pro League",
+                "country": "Saudi-Arabia",
+                "logo": "https://media-1.api-sports.io/football/leagues/307.png",
+                "flag": "https://media-3.api-sports.io/flags/sa.svg",
+                "season": 2022,
+                "round": "Regular Season - 19"
+            },
+            "teams": {
+                "home": {
+                    "id": 2937,
+                    "name": "Al Wehda Club",
+                    "logo": "https://media-2.api-sports.io/football/teams/2937.png",
+                    "winner": null
+                },
+                "away": {
+                    "id": 2932,
+                    "name": "Al-Hilal Saudi FC",
+                    "logo": "https://media-2.api-sports.io/football/teams/2932.png",
+                    "winner": null
+                }
+            },
+            "goals": {
+                "home": 3,
+                "away": 3
+            },
+            "score": {
+                "halftime": {
+                    "home": 1,
+                    "away": 1
+                },
+                "fulltime": {
+                    "home": 3,
+                    "away": 3
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        }
+    ]
+}

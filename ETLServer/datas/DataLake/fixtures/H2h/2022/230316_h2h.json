@@ -1,0 +1,72 @@
+{
+    "data": [
+        {
+            "fixture": {
+                "id": 976691,
+                "referee": "Mamdouh Al Shahdan",
+                "timezone": "europe/london",
+                "date": "2023-03-16T13:00:00+00:00",
+                "timestamp": 1678971600,
+                "periods": {
+                    "first": 1678971600,
+                    "second": 1678975200
+                },
+                "venue": {
+                    "id": 1370,
+                    "name": "Prince Mohamed bin Fahd Stadium",
+                    "city": "Dammam"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 307,
+                "name": "Pro League",
+                "country": "Saudi-Arabia",
+                "logo": "https://media-3.api-sports.io/football/leagues/307.png",
+                "flag": "https://media-3.api-sports.io/flags/sa.svg",
+                "season": 2022,
+                "round": "Regular Season - 21"
+            },
+            "teams": {
+                "home": {
+                    "id": 2928,
+                    "name": "Al Khaleej Saihat",
+                    "logo": "https://media-1.api-sports.io/football/teams/2928.png",
+                    "winner": null
+                },
+                "away": {
+                    "id": 2942,
+                    "name": "Al Taee",
+                    "logo": "https://media-2.api-sports.io/football/teams/2942.png",
+                    "winner": null
+                }
+            },
+            "goals": {
+                "home": 2,
+                "away": 2
+            },
+            "score": {
+                "halftime": {
+                    "home": 2,
+                    "away": 0
+                },
+                "fulltime": {
+                    "home": 2,
+                    "away": 2
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        }
+    ]
+}

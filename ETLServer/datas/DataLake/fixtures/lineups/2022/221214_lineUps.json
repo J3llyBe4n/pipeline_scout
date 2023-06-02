@@ -1,0 +1,1357 @@
+{
+    "data": [
+        {
+            "fixture": 927024,
+            "home": {
+                "team": {
+                    "id": 838,
+                    "name": "Guangzhou R&F",
+                    "logo": "https://media-2.api-sports.io/football/teams/838.png",
+                    "colors": {
+                        "player": {
+                            "primary": "0e0e81",
+                            "number": "e6b93d",
+                            "border": "0e0e81"
+                        },
+                        "goalkeeper": {
+                            "primary": "ffff00",
+                            "number": "000000",
+                            "border": "ffff00"
+                        }
+                    }
+                },
+                "coach": {
+                    "id": 18189,
+                    "name": "Li Weifeng",
+                    "photo": "https://media-2.api-sports.io/football/coachs/18189.png"
+                },
+                "formation": "5-4-1",
+                "startXI": [
+                    {
+                        "player": {
+                            "id": 12922,
+                            "name": "Han Jiaqi",
+                            "number": 22,
+                            "pos": "G",
+                            "grid": "1:1"
+                        }
+                    },
+                    {
+                        "player": {
+                            "id": 12925,
+                            "name": "Jiang Jihong",
+                            "number": 19,
+                            "pos": "D",
+                            "grid": "2:5"
+                        }
+                    },
+                    {
+                        "player": {
+                            "id": 12927,
+                            "name": "Tang Miao",
+                            "number": 20,
+                            "pos": "D",
+                            "grid": "2:4"
+                        }
+                    },
+                    {
+                        "player": {
+                            "id": 12929,
+                            "name": "Yi Teng",
+                            "number": 18,
+                            "pos": "D",
+                            "grid": "2:3"
+                        }
+                    },
+                    {
+                        "player": {
+                            "id": 266497,
+                            "name": "Fu Yuncheng",
+                            "number": 17,
+                            "pos": "D",
+                            "grid": "2:2"
+                        }
+                    },
+                    {
+                        "player": {
+                            "id": 49908,
+                            "name": "Guilherme",
+                            "number": 12,
+                            "pos": "M",
+                            "grid": "2:1"
+                        }
+                    },
+                    {
+                        "player": {
+                            "id": 12935,
+                            "name": "Li Tixiang",
+                            "number": 10,
+                            "pos": "M",
+                            "grid": "3:4"
+                        }
+                    },
+                    {
+                        "player": {
+                            "id": 12945,
+                            "name": "Zhang Gong",
+                            "number": 4,
+                            "pos": "M",
+                            "grid": "3:3"
+                        }
+                    },
+                    {
+                        "player": {
+                            "id": 266500,
+                            "name": "Wen Yongjun",
+                            "number": 37,
+                            "pos": "D",
+                            "grid": "3:2"
+                        }
+                    },
+                    {
+                        "player": {
+                            "id": 368477,
+                            "name": "Li Yongjia",
+                            "number": 38,
+                            "pos": "M",
+                            "grid": "3:1"
+                        }
+                    },
+                    {
+                        "player": {
+                            "id": 12766,
+                            "name": "Song Wenjie",
+                            "number": 29,
+                            "pos": "F",
+                            "grid": "4:1"
+                        }
+                    }
+                ],
+                "substitutes": [
+                    {
+                        "player": {
+                            "id": 12942,
+                            "name": "Ye Chugui",
+                            "number": 11,
+                            "pos": "F",
+                            "grid": null
+                        }
+                    },
+                    {
+                        "player": {
+                            "id": 341009,
+                            "name": "Liao Jiajun",
+                            "number": 35,
+                            "pos": "D",
+                            "grid": null
+                        }
+                    },
+                    {
+                        "player": {
+                            "id": 12947,
+                            "name": "Gui Hong",
+                            "number": 9,
+                            "pos": "F",
+                            "grid": null
+                        }
+                    },
+                    {
+                        "player": {
+                            "id": 13047,
+                            "name": "Chang Feiya",
+                            "number": 21,
+                            "pos": "M",
+                            "grid": null
+                        }
+                    },
+                    {
+                        "player": {
+                            "id": 10291,
+                            "name": "J. Cardona",
+                            "number": 7,
+                            "pos": "M",
+                            "grid": null
+                        }
+                    },
+                    {
+                        "player": {
+                            "id": 12932,
+                            "name": "Chen Zhizhao",
+                            "number": 32,
+                            "pos": "M",
+                            "grid": null
+                        }
+                    },
+                    {
+                        "player": {
+                            "id": 266498,
+                            "name": "Zhang Jinliang",
+                            "number": 31,
+                            "pos": "D",
+                            "grid": null
+                        }
+                    },
+                    {
+                        "player": {
+                            "id": 12941,
+                            "name": "Wang Peng",
+                            "number": 15,
+                            "pos": "M",
+                            "grid": null
+                        }
+                    },
+                    {
+                        "player": {
+                            "id": 386755,
+                            "name": "Yikai Huang",
+                            "number": 44,
+                            "pos": "D",
+                            "grid": null
+                        }
+                    },
+                    {
+                        "player": {
+                            "id": 341383,
+                            "name": "Liu Jiqiang",
+                            "number": 43,
+                            "pos": "M",
+                            "grid": null
+                        }
+                    },
+                    {
+                        "player": {
+                            "id": 12920,
+                            "name": "Cheng Yuelei",
+                            "number": 1,
+                            "pos": "G",
+                            "grid": null
+                        }
+                    },
+                    {
+                        "player": {
+                            "id": 266499,
+                            "name": "Wu Chengru",
+                            "number": 28,
+                            "pos": "M",
+                            "grid": null
+                        }
+                    }
+                ]
+            },
+            "away": {
+                "team": {
+                    "id": 833,
+                    "name": "Shanghai Shenhua",
+                    "logo": "https://media-3.api-sports.io/football/teams/833.png",
+                    "colors": {
+                        "player": {
+                            "primary": "f7f7f7",
+                            "number": "1c4fe9",
+                            "border": "f7f7f7"
+                        },
+                        "goalkeeper": {
+                            "primary": "ffff00",
+                            "number": "000000",
+                            "border": "ffff00"
+                        }
+                    }
+                },
+                "coach": {
+                    "id": 3201,
+                    "name": "Wu Jingui",
+                    "photo": "https://media-3.api-sports.io/football/coachs/3201.png"
+                },
+                "formation": "4-1-4-1",
+                "startXI": [
+                    {
+                        "player": {
+                            "id": 117155,
+                            "name": "Ma Zhen",
+                            "number": 1,
+                            "pos": "G",
+                            "grid": "1:1"
+                        }
+                    },
+                    {
+                        "player": {
+                            "id": 13108,
+                            "name": "Zhu Baojie",
+                            "number": 21,
+                            "pos": "M",
+                            "grid": "2:4"
+                        }
+                    },
+                    {
+                        "player": {
+                            "id": 13072,
+                            "name": "Jin Yangyang",
+                            "number": 22,
+                            "pos": "D",
+                            "grid": "2:3"
+                        }
+                    },
+                    {
+                        "player": {
+                            "id": 12953,
+                            "name": "Bai Jiajun",
+                            "number": 23,
+                            "pos": "D",
+                            "grid": "2:2"
+                        }
+                    },
+                    {
+                        "player": {
+                            "id": 12955,
+                            "name": "Fulangxisi Aidi",
+                            "number": 32,
+                            "pos": "D",
+                            "grid": "2:1"
+                        }
+                    },
+                    {
+                        "player": {
+                            "id": 310224,
+                            "name": "D. Wang Yi",
+                            "number": 18,
+                            "pos": "D",
+                            "grid": "3:1"
+                        }
+                    },
+                    {
+                        "player": {
+                            "id": 12819,
+                            "name": "Peng Xinli",
+                            "number": 25,
+                            "pos": "M",
+                            "grid": "4:4"
+                        }
+                    },
+                    {
+                        "player": {
+                            "id": 12963,
+                            "name": "Cao Yunding",
+                            "number": 28,
+                            "pos": "M",
+                            "grid": "4:3"
+                        }
+                    },
+                    {
+                        "player": {
+                            "id": 12968,
+                            "name": "Sun Shilin",
+                            "number": 37,
+                            "pos": "M",
+                            "grid": "4:2"
+                        }
+                    },
+                    {
+                        "player": {
+                            "id": 12969,
+                            "name": "Wang Haijian",
+                            "number": 33,
+                            "pos": "M",
+                            "grid": "4:1"
+                        }
+                    },
+                    {
+                        "player": {
+                            "id": 12978,
+                            "name": "Zhu Jianrong",
+                            "number": 27,
+                            "pos": "F",
+                            "grid": "5:1"
+                        }
+                    }
+                ],
+                "substitutes": [
+                    {
+                        "player": {
+                            "id": 12976,
+                            "name": "Liu Ruofan",
+                            "number": 36,
+                            "pos": "F",
+                            "grid": null
+                        }
+                    },
+                    {
+                        "player": {
+                            "id": 12960,
+                            "name": "Xu Yougang",
+                            "number": 24,
+                            "pos": "M",
+                            "grid": null
+                        }
+                    },
+                    {
+                        "player": {
+                            "id": 12967,
+                            "name": "A. N'Doumbou",
+                            "number": 7,
+                            "pos": "M",
+                            "grid": null
+                        }
+                    },
+                    {
+                        "player": {
+                            "id": 12956,
+                            "name": "Jiang Shenglong",
+                            "number": 4,
+                            "pos": "D",
+                            "grid": null
+                        }
+                    },
+                    {
+                        "player": {
+                            "id": 12977,
+                            "name": "Zhou Junchen",
+                            "number": 29,
+                            "pos": "M",
+                            "grid": null
+                        }
+                    },
+                    {
+                        "player": {
+                            "id": 12791,
+                            "name": "Wu Xi",
+                            "number": 12,
+                            "pos": "M",
+                            "grid": null
+                        }
+                    },
+                    {
+                        "player": {
+                            "id": 12964,
+                            "name": "Cong Zhen",
+                            "number": 39,
+                            "pos": "M",
+                            "grid": null
+                        }
+                    },
+                    {
+                        "player": {
+                            "id": 12708,
+                            "name": "Zeng Cheng",
+                            "number": 19,
+                            "pos": "G",
+                            "grid": null
+                        }
+                    },
+                    {
+                        "player": {
+                            "id": 80866,
+                            "name": "Wen Jiabao",
+                            "number": 38,
+                            "pos": "D",
+                            "grid": null
+                        }
+                    },
+                    {
+                        "player": {
+                            "id": 78975,
+                            "name": "Yang Zexiang",
+                            "number": 34,
+                            "pos": "M",
+                            "grid": null
+                        }
+                    },
+                    {
+                        "player": {
+                            "id": 12973,
+                            "name": "Zhang Lu",
+                            "number": 8,
+                            "pos": "M",
+                            "grid": null
+                        }
+                    },
+                    {
+                        "player": {
+                            "id": 310225,
+                            "name": "He Longhai",
+                            "number": 30,
+                            "pos": "M",
+                            "grid": null
+                        }
+                    }
+                ]
+            }
+        },
+        {
+            "fixture": 927026,
+            "home": {
+                "team": {
+                    "id": 1434,
+                    "name": "Wuhan Zall",
+                    "logo": "https://media-1.api-sports.io/football/teams/1434.png",
+                    "colors": {
+                        "player": {
+                            "primary": "f37d3f",
+                            "number": "ffffff",
+                            "border": "f37d3f"
+                        },
+                        "goalkeeper": {
+                            "primary": "00ff00",
+                            "number": "000000",
+                            "border": "00ff00"
+                        }
+                    }
+                },
+                "coach": {
+                    "id": 10457,
+                    "name": "Li Jinyu",
+                    "photo": "https://media-3.api-sports.io/football/coachs/10457.png"
+                },
+                "formation": "5-3-2",
+                "startXI": [
+                    {
+                        "player": {
+                            "id": 311727,
+                            "name": "Gao Xiang",
+                            "number": 23,
+                            "pos": "G",
+                            "grid": "1:1"
+                        }
+                    },
+                    {
+                        "player": {
+                            "id": 41100,
+                            "name": "Bruno Viana",
+                            "number": 5,
+                            "pos": "D",
+                            "grid": "2:5"
+                        }
+                    },
+                    {
+                        "player": {
+                            "id": 366283,
+                            "name": "Nihmat Nihat",
+                            "number": 39,
+                            "pos": "M",
+                            "grid": "2:4"
+                        }
+                    },
+                    {
+                        "player": {
+                            "id": 366282,
+                            "name": "Li Da",
+                            "number": 42,
+                            "pos": "D",
+                            "grid": "2:3"
+                        }
+                    },
+                    {
+                        "player": {
+                            "id": 368498,
+                            "name": "Cao Xiaoyi",
+                            "number": 31,
+                            "pos": "D",
+                            "grid": "2:2"
+                        }
+                    },
+                    {
+                        "player": {
+                            "id": 368499,
+                            "name": "Huang Xuheng",
+                            "number": 36,
+                            "pos": "D",
+                            "grid": "2:1"
+                        }
+                    },
+                    {
+                        "player": {
+                            "id": 368500,
+                            "name": "Pi Ziyang",
+                            "number": 40,
+                            "pos": "M",
+                            "grid": "3:3"
+                        }
+                    },
+                    {
+                        "player": {
+                            "id": 402223,
+                            "name": "Liu Baochuan",
+                            "number": 66,
+                            "pos": "M",
+                            "grid": "3:2"
+                        }
+                    },
+                    {
+                        "player": {
+                            "id": 40206,
+                            "name": "F. Brown Forbes",
+                            "number": 10,
+                            "pos": "F",
+                            "grid": "3:1"
+                        }
+                    },
+                    {
+                        "player": {
+                            "id": 12672,
+                            "name": "Wen Da",
+                            "number": 29,
+                            "pos": "D",
+                            "grid": "4:2"
+                        }
+                    },
+                    {
+                        "player": {
+                            "id": 402285,
+                            "name": "Luo Zhixiang",
+                            "number": 70,
+                            "pos": "F",
+                            "grid": "4:1"
+                        }
+                    }
+                ],
+                "substitutes": [
+                    {
+                        "player": {
+                            "id": 402288,
+                            "name": "Pei Chengjie",
+                            "number": 50,
+                            "pos": "M",
+                            "grid": null
+                        }
+                    },
+                    {
+                        "player": {
+                            "id": 402287,
+                            "name": "Chen Zhen",
+                            "number": 56,
+                            "pos": "D",
+                            "grid": null
+                        }
+                    },
+                    {
+                        "player": {
+                            "id": 402286,
+                            "name": "Wang Fuxiang",
+                            "number": 68,
+                            "pos": "D",
+                            "grid": null
+                        }
+                    },
+                    {
+                        "player": {
+                            "id": 278254,
+                            "name": "Liu Junxian",
+                            "number": 37,
+                            "pos": "F",
+                            "grid": null
+                        }
+                    },
+                    {
+                        "player": {
+                            "id": 402290,
+                            "name": "Tang Jin",
+                            "number": 63,
+                            "pos": "D",
+                            "grid": null
+                        }
+                    },
+                    {
+                        "player": {
+                            "id": 368501,
+                            "name": "Ren Kangkang",
+                            "number": 35,
+                            "pos": "M",
+                            "grid": null
+                        }
+                    },
+                    {
+                        "player": {
+                            "id": 402289,
+                            "name": "Zhang Mingkai",
+                            "number": 61,
+                            "pos": "G",
+                            "grid": null
+                        }
+                    }
+                ]
+            },
+            "away": {
+                "team": {
+                    "id": 837,
+                    "name": "Tianjin Teda",
+                    "logo": "https://media-2.api-sports.io/football/teams/837.png",
+                    "colors": {
+                        "player": {
+                            "primary": "ffffff",
+                            "number": "0000e1",
+                            "border": "ffffff"
+                        },
+                        "goalkeeper": {
+                            "primary": "ffff00",
+                            "number": "000000",
+                            "border": "ffff00"
+                        }
+                    }
+                },
+                "coach": {
+                    "id": 14508,
+                    "name": "Yu Genwei",
+                    "photo": "https://media-3.api-sports.io/football/coachs/14508.png"
+                },
+                "formation": "4-2-3-1",
+                "startXI": [
+                    {
+                        "player": {
+                            "id": 78871,
+                            "name": "Xu Jiamin",
+                            "number": 26,
+                            "pos": "G",
+                            "grid": "1:1"
+                        }
+                    },
+                    {
+                        "player": {
+                            "id": 80923,
+                            "name": "Qian Yumiao",
+                            "number": 23,
+                            "pos": "D",
+                            "grid": "2:4"
+                        }
+                    },
+                    {
+                        "player": {
+                            "id": 47099,
+                            "name": "David And\u00fajar",
+                            "number": 2,
+                            "pos": "D",
+                            "grid": "2:3"
+                        }
+                    },
+                    {
+                        "player": {
+                            "id": 12843,
+                            "name": "Yang Fan",
+                            "number": 4,
+                            "pos": "D",
+                            "grid": "2:2"
+                        }
+                    },
+                    {
+                        "player": {
+                            "id": 46661,
+                            "name": "Fran M\u00e9rida",
+                            "number": 38,
+                            "pos": "M",
+                            "grid": "2:1"
+                        }
+                    },
+                    {
+                        "player": {
+                            "id": 12844,
+                            "name": "Zhao Yingjie",
+                            "number": 8,
+                            "pos": "M",
+                            "grid": "3:2"
+                        }
+                    },
+                    {
+                        "player": {
+                            "id": 44582,
+                            "name": "Farley Rosa",
+                            "number": 18,
+                            "pos": "M",
+                            "grid": "3:1"
+                        }
+                    },
+                    {
+                        "player": {
+                            "id": 13083,
+                            "name": "Wang Qiuming",
+                            "number": 30,
+                            "pos": "M",
+                            "grid": "4:3"
+                        }
+                    },
+                    {
+                        "player": {
+                            "id": 12858,
+                            "name": "Su Yuanjie",
+                            "number": 32,
+                            "pos": "D",
+                            "grid": "4:2"
+                        }
+                    },
+                    {
+                        "player": {
+                            "id": 322100,
+                            "name": "Shi Yan",
+                            "number": 40,
+                            "pos": "M",
+                            "grid": "4:1"
+                        }
+                    },
+                    {
+                        "player": {
+                            "id": 12860,
+                            "name": "Xie Weijun",
+                            "number": 11,
+                            "pos": "F",
+                            "grid": "5:1"
+                        }
+                    }
+                ],
+                "substitutes": [
+                    {
+                        "player": {
+                            "id": 311718,
+                            "name": "Yang Zihao",
+                            "number": 16,
+                            "pos": "D",
+                            "grid": null
+                        }
+                    },
+                    {
+                        "player": {
+                            "id": 22099,
+                            "name": "R. Beri\u010d",
+                            "number": 9,
+                            "pos": "F",
+                            "grid": null
+                        }
+                    },
+                    {
+                        "player": {
+                            "id": 208849,
+                            "name": "Sun Xuelong",
+                            "number": 37,
+                            "pos": "M",
+                            "grid": null
+                        }
+                    },
+                    {
+                        "player": {
+                            "id": 34621,
+                            "name": "Eder",
+                            "number": 10,
+                            "pos": "F",
+                            "grid": null
+                        }
+                    },
+                    {
+                        "player": {
+                            "id": 13061,
+                            "name": "Zhou Tong",
+                            "number": 7,
+                            "pos": "M",
+                            "grid": null
+                        }
+                    },
+                    {
+                        "player": {
+                            "id": 78883,
+                            "name": "Song Yue",
+                            "number": 33,
+                            "pos": "D",
+                            "grid": null
+                        }
+                    },
+                    {
+                        "player": {
+                            "id": 12846,
+                            "name": "Gao Jiarun",
+                            "number": 6,
+                            "pos": "D",
+                            "grid": null
+                        }
+                    },
+                    {
+                        "player": {
+                            "id": 12789,
+                            "name": "Tian Yinong",
+                            "number": 31,
+                            "pos": "M",
+                            "grid": null
+                        }
+                    },
+                    {
+                        "player": {
+                            "id": 79039,
+                            "name": "Fang Jingqi",
+                            "number": 22,
+                            "pos": "G",
+                            "grid": null
+                        }
+                    },
+                    {
+                        "player": {
+                            "id": 277593,
+                            "name": "Zhou Zheng",
+                            "number": 17,
+                            "pos": "M",
+                            "grid": null
+                        }
+                    },
+                    {
+                        "player": {
+                            "id": 12842,
+                            "name": "Wang Zhenghao",
+                            "number": 3,
+                            "pos": "D",
+                            "grid": null
+                        }
+                    },
+                    {
+                        "player": {
+                            "id": 12940,
+                            "name": "Wang Jia'nan",
+                            "number": 20,
+                            "pos": "M",
+                            "grid": null
+                        }
+                    }
+                ]
+            }
+        },
+        {
+            "fixture": 927030,
+            "home": {
+                "team": {
+                    "id": 831,
+                    "name": "Dalian Aerbin",
+                    "logo": "https://media-3.api-sports.io/football/teams/831.png",
+                    "colors": {
+                        "player": {
+                            "primary": "ffffff",
+                            "number": "6caae4",
+                            "border": "ffffff"
+                        },
+                        "goalkeeper": {
+                            "primary": "6600ff",
+                            "number": "ffffff",
+                            "border": "6600ff"
+                        }
+                    }
+                },
+                "coach": {
+                    "id": 12602,
+                    "name": "Xie Hui",
+                    "photo": "https://media-3.api-sports.io/football/coachs/12602.png"
+                },
+                "formation": "4-3-3",
+                "startXI": [
+                    {
+                        "player": {
+                            "id": 279195,
+                            "name": "Kudirat Ablet",
+                            "number": 32,
+                            "pos": "G",
+                            "grid": "1:1"
+                        }
+                    },
+                    {
+                        "player": {
+                            "id": 12444,
+                            "name": "Lin Longchang",
+                            "number": 2,
+                            "pos": "D",
+                            "grid": "2:4"
+                        }
+                    },
+                    {
+                        "player": {
+                            "id": 12983,
+                            "name": "He Yupeng",
+                            "number": 18,
+                            "pos": "D",
+                            "grid": "2:3"
+                        }
+                    },
+                    {
+                        "player": {
+                            "id": 12984,
+                            "name": "Huang Jiahui",
+                            "number": 14,
+                            "pos": "M",
+                            "grid": "2:2"
+                        }
+                    },
+                    {
+                        "player": {
+                            "id": 12664,
+                            "name": "L\u00fc Peng",
+                            "number": 31,
+                            "pos": "M",
+                            "grid": "2:1"
+                        }
+                    },
+                    {
+                        "player": {
+                            "id": 12997,
+                            "name": "Sun Guowen",
+                            "number": 11,
+                            "pos": "D",
+                            "grid": "3:3"
+                        }
+                    },
+                    {
+                        "player": {
+                            "id": 78799,
+                            "name": "Fei Yu",
+                            "number": 28,
+                            "pos": "M",
+                            "grid": "3:2"
+                        }
+                    },
+                    {
+                        "player": {
+                            "id": 266711,
+                            "name": "Wang Xianjun",
+                            "number": 6,
+                            "pos": "D",
+                            "grid": "3:1"
+                        }
+                    },
+                    {
+                        "player": {
+                            "id": 277831,
+                            "name": "Gui Zihan",
+                            "number": 21,
+                            "pos": "F",
+                            "grid": "4:3"
+                        }
+                    },
+                    {
+                        "player": {
+                            "id": 369726,
+                            "name": "L\u00fc Zhuoyi",
+                            "number": 38,
+                            "pos": "F",
+                            "grid": "4:2"
+                        }
+                    },
+                    {
+                        "player": {
+                            "id": 271887,
+                            "name": "Zhao Jianbo",
+                            "number": 15,
+                            "pos": "F",
+                            "grid": "4:1"
+                        }
+                    }
+                ],
+                "substitutes": [
+                    {
+                        "player": {
+                            "id": 46932,
+                            "name": "Lin Liangming",
+                            "number": 7,
+                            "pos": "M",
+                            "grid": null
+                        }
+                    },
+                    {
+                        "player": {
+                            "id": 45391,
+                            "name": "N. Bosan\u010di\u0107",
+                            "number": 40,
+                            "pos": "D",
+                            "grid": null
+                        }
+                    },
+                    {
+                        "player": {
+                            "id": 311730,
+                            "name": "Wang Jinshuai",
+                            "number": 36,
+                            "pos": "G",
+                            "grid": null
+                        }
+                    },
+                    {
+                        "player": {
+                            "id": 13056,
+                            "name": "Song Zhiwei",
+                            "number": 33,
+                            "pos": "M",
+                            "grid": null
+                        }
+                    },
+                    {
+                        "player": {
+                            "id": 12993,
+                            "name": "Cui Ming'an",
+                            "number": 26,
+                            "pos": "M",
+                            "grid": null
+                        }
+                    },
+                    {
+                        "player": {
+                            "id": 277805,
+                            "name": "Ning Hao",
+                            "number": 37,
+                            "pos": "F",
+                            "grid": null
+                        }
+                    },
+                    {
+                        "player": {
+                            "id": 369727,
+                            "name": "Feng Zeyuan",
+                            "number": 25,
+                            "pos": "F",
+                            "grid": null
+                        }
+                    },
+                    {
+                        "player": {
+                            "id": 12515,
+                            "name": "Yan Xiangchuang",
+                            "number": 39,
+                            "pos": "M",
+                            "grid": null
+                        }
+                    },
+                    {
+                        "player": {
+                            "id": 12987,
+                            "name": "Shan Pengfei",
+                            "number": 3,
+                            "pos": "D",
+                            "grid": null
+                        }
+                    },
+                    {
+                        "player": {
+                            "id": 12992,
+                            "name": "Zhu Ting",
+                            "number": 8,
+                            "pos": "D",
+                            "grid": null
+                        }
+                    },
+                    {
+                        "player": {
+                            "id": 14460,
+                            "name": "B. Tsonev",
+                            "number": 10,
+                            "pos": "M",
+                            "grid": null
+                        }
+                    },
+                    {
+                        "player": {
+                            "id": 12807,
+                            "name": "Liu Le",
+                            "number": 24,
+                            "pos": "D",
+                            "grid": null
+                        }
+                    }
+                ]
+            },
+            "away": {
+                "team": {
+                    "id": 5695,
+                    "name": "Wuhan Three Towns",
+                    "logo": "https://media-3.api-sports.io/football/teams/5695.png",
+                    "colors": {
+                        "player": {
+                            "primary": "0000ff",
+                            "number": "ffffff",
+                            "border": "0000ff"
+                        },
+                        "goalkeeper": {
+                            "primary": "fafb00",
+                            "number": "000000",
+                            "border": "fafb00"
+                        }
+                    }
+                },
+                "coach": {
+                    "id": 10294,
+                    "name": "Pedro Morilla",
+                    "photo": "https://media-3.api-sports.io/football/coachs/10294.png"
+                },
+                "formation": "3-4-3",
+                "startXI": [
+                    {
+                        "player": {
+                            "id": 12706,
+                            "name": "Liu Dianzuo",
+                            "number": 22,
+                            "pos": "G",
+                            "grid": "1:1"
+                        }
+                    },
+                    {
+                        "player": {
+                            "id": 12565,
+                            "name": "Xiong Fei",
+                            "number": 2,
+                            "pos": "D",
+                            "grid": "2:3"
+                        }
+                    },
+                    {
+                        "player": {
+                            "id": 12712,
+                            "name": "Gao Zhunyi",
+                            "number": 20,
+                            "pos": "D",
+                            "grid": "2:2"
+                        }
+                    },
+                    {
+                        "player": {
+                            "id": 78775,
+                            "name": "Yaki Yen",
+                            "number": 4,
+                            "pos": "D",
+                            "grid": "2:1"
+                        }
+                    },
+                    {
+                        "player": {
+                            "id": 12867,
+                            "name": "L\u00fc Haidong",
+                            "number": 32,
+                            "pos": "M",
+                            "grid": "3:4"
+                        }
+                    },
+                    {
+                        "player": {
+                            "id": 44439,
+                            "name": "N. Stanciu",
+                            "number": 43,
+                            "pos": "M",
+                            "grid": "3:3"
+                        }
+                    },
+                    {
+                        "player": {
+                            "id": 12792,
+                            "name": "Xie Pengfei",
+                            "number": 30,
+                            "pos": "M",
+                            "grid": "3:2"
+                        }
+                    },
+                    {
+                        "player": {
+                            "id": 126055,
+                            "name": "He Tongshuai",
+                            "number": 33,
+                            "pos": "M",
+                            "grid": "3:1"
+                        }
+                    },
+                    {
+                        "player": {
+                            "id": 33319,
+                            "name": "Ademilson",
+                            "number": 7,
+                            "pos": "F",
+                            "grid": "4:3"
+                        }
+                    },
+                    {
+                        "player": {
+                            "id": 13089,
+                            "name": "Marc\u00e3o",
+                            "number": 13,
+                            "pos": "F",
+                            "grid": "4:2"
+                        }
+                    },
+                    {
+                        "player": {
+                            "id": 41161,
+                            "name": "Davidson",
+                            "number": 11,
+                            "pos": "F",
+                            "grid": "4:1"
+                        }
+                    }
+                ],
+                "substitutes": [
+                    {
+                        "player": {
+                            "id": 12572,
+                            "name": "Sang Yifei",
+                            "number": 10,
+                            "pos": "M",
+                            "grid": null
+                        }
+                    },
+                    {
+                        "player": {
+                            "id": 311736,
+                            "name": "Zhang Hui",
+                            "number": 40,
+                            "pos": "M",
+                            "grid": null
+                        }
+                    },
+                    {
+                        "player": {
+                            "id": 1840,
+                            "name": "Wallace",
+                            "number": 3,
+                            "pos": "D",
+                            "grid": null
+                        }
+                    },
+                    {
+                        "player": {
+                            "id": 12900,
+                            "name": "Yang Kuo",
+                            "number": 16,
+                            "pos": "D",
+                            "grid": null
+                        }
+                    },
+                    {
+                        "player": {
+                            "id": 12710,
+                            "name": "Deng Hanwen",
+                            "number": 25,
+                            "pos": "D",
+                            "grid": null
+                        }
+                    },
+                    {
+                        "player": {
+                            "id": 368514,
+                            "name": "Lin Kejun",
+                            "number": 39,
+                            "pos": "D",
+                            "grid": null
+                        }
+                    },
+                    {
+                        "player": {
+                            "id": 13095,
+                            "name": "Tao Qianglong",
+                            "number": 29,
+                            "pos": "F",
+                            "grid": null
+                        }
+                    },
+                    {
+                        "player": {
+                            "id": 312136,
+                            "name": "Wu Fei",
+                            "number": 1,
+                            "pos": "G",
+                            "grid": null
+                        }
+                    },
+                    {
+                        "player": {
+                            "id": 265501,
+                            "name": "Wang Xiao Feng",
+                            "number": 34,
+                            "pos": "G",
+                            "grid": null
+                        }
+                    }
+                ]
+            }
+        }
+    ]
+}

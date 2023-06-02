@@ -1,0 +1,412 @@
+{
+    "data": [
+        {
+            "fixture": {
+                "id": 868008,
+                "referee": "R. Jones",
+                "timezone": "europe/london",
+                "date": "2023-01-18T20:00:00+00:00",
+                "timestamp": 1674072000,
+                "periods": {
+                    "first": 1674072000,
+                    "second": 1674075600
+                },
+                "venue": {
+                    "id": 525,
+                    "name": "Selhurst Park",
+                    "city": "London"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 39,
+                "name": "Premier League",
+                "country": "England",
+                "logo": "https://media-3.api-sports.io/football/leagues/39.png",
+                "flag": "https://media-1.api-sports.io/flags/gb.svg",
+                "season": 2022,
+                "round": "Regular Season - 7"
+            },
+            "teams": {
+                "home": {
+                    "id": 52,
+                    "name": "Crystal Palace",
+                    "logo": "https://media-2.api-sports.io/football/teams/52.png",
+                    "winner": null
+                },
+                "away": {
+                    "id": 33,
+                    "name": "Manchester United",
+                    "logo": "https://media-3.api-sports.io/football/teams/33.png",
+                    "winner": null
+                }
+            },
+            "goals": {
+                "home": 1,
+                "away": 1
+            },
+            "score": {
+                "halftime": {
+                    "home": 0,
+                    "away": 1
+                },
+                "fulltime": {
+                    "home": 1,
+                    "away": 1
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 874908,
+                "referee": "Wesli De Cremer, Belgium",
+                "timezone": "europe/london",
+                "date": "2023-01-18T19:45:00+00:00",
+                "timestamp": 1674071100,
+                "periods": {
+                    "first": 1674071100,
+                    "second": 1674074700
+                },
+                "venue": {
+                    "id": 174,
+                    "name": "Lotto Park",
+                    "city": "Brussel"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 144,
+                "name": "Jupiler Pro League",
+                "country": "Belgium",
+                "logo": "https://media-1.api-sports.io/football/leagues/144.png",
+                "flag": "https://media-1.api-sports.io/flags/be.svg",
+                "season": 2022,
+                "round": "Regular Season - 21"
+            },
+            "teams": {
+                "home": {
+                    "id": 554,
+                    "name": "Anderlecht",
+                    "logo": "https://media-3.api-sports.io/football/teams/554.png",
+                    "winner": false
+                },
+                "away": {
+                    "id": 600,
+                    "name": "Zulte Waregem",
+                    "logo": "https://media-3.api-sports.io/football/teams/600.png",
+                    "winner": true
+                }
+            },
+            "goals": {
+                "home": 2,
+                "away": 3
+            },
+            "score": {
+                "halftime": {
+                    "home": 2,
+                    "away": 1
+                },
+                "fulltime": {
+                    "home": 2,
+                    "away": 3
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 874912,
+                "referee": "Brent Staessens, Belgium",
+                "timezone": "europe/london",
+                "date": "2023-01-18T19:45:00+00:00",
+                "timestamp": 1674071100,
+                "periods": {
+                    "first": 1674071100,
+                    "second": 1674074700
+                },
+                "venue": {
+                    "id": 182,
+                    "name": "Guldensporenstadion",
+                    "city": "Kortrijk"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 144,
+                "name": "Jupiler Pro League",
+                "country": "Belgium",
+                "logo": "https://media-3.api-sports.io/football/leagues/144.png",
+                "flag": "https://media-1.api-sports.io/flags/be.svg",
+                "season": 2022,
+                "round": "Regular Season - 21"
+            },
+            "teams": {
+                "home": {
+                    "id": 734,
+                    "name": "Kortrijk",
+                    "logo": "https://media-1.api-sports.io/football/teams/734.png",
+                    "winner": true
+                },
+                "away": {
+                    "id": 10244,
+                    "name": "Seraing United",
+                    "logo": "https://media-3.api-sports.io/football/teams/10244.png",
+                    "winner": false
+                }
+            },
+            "goals": {
+                "home": 3,
+                "away": 2
+            },
+            "score": {
+                "halftime": {
+                    "home": 2,
+                    "away": 1
+                },
+                "fulltime": {
+                    "home": 3,
+                    "away": 2
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 874913,
+                "referee": "Jasper Vergoote, Belgium",
+                "timezone": "europe/london",
+                "date": "2023-01-18T17:30:00+00:00",
+                "timestamp": 1674063000,
+                "periods": {
+                    "first": 1674063000,
+                    "second": 1674066600
+                },
+                "venue": {
+                    "id": 176,
+                    "name": "Jan Breydelstadion",
+                    "city": "Brugge"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 144,
+                "name": "Jupiler Pro League",
+                "country": "Belgium",
+                "logo": "https://media-2.api-sports.io/football/leagues/144.png",
+                "flag": "https://media-3.api-sports.io/flags/be.svg",
+                "season": 2022,
+                "round": "Regular Season - 21"
+            },
+            "teams": {
+                "home": {
+                    "id": 741,
+                    "name": "Cercle Brugge",
+                    "logo": "https://media-3.api-sports.io/football/teams/741.png",
+                    "winner": null
+                },
+                "away": {
+                    "id": 1393,
+                    "name": "Union St. Gilloise",
+                    "logo": "https://media-2.api-sports.io/football/teams/1393.png",
+                    "winner": null
+                }
+            },
+            "goals": {
+                "home": 1,
+                "away": 1
+            },
+            "score": {
+                "halftime": {
+                    "home": 0,
+                    "away": 0
+                },
+                "fulltime": {
+                    "home": 1,
+                    "away": 1
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 874916,
+                "referee": "Wim Smet, Belgium",
+                "timezone": "europe/london",
+                "date": "2023-01-18T17:30:00+00:00",
+                "timestamp": 1674063000,
+                "periods": {
+                    "first": 1674063000,
+                    "second": 1674066600
+                },
+                "venue": {
+                    "id": 10509,
+                    "name": "Diaz Arena",
+                    "city": "Oostende"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 144,
+                "name": "Jupiler Pro League",
+                "country": "Belgium",
+                "logo": "https://media-3.api-sports.io/football/leagues/144.png",
+                "flag": "https://media-1.api-sports.io/flags/be.svg",
+                "season": 2022,
+                "round": "Regular Season - 21"
+            },
+            "teams": {
+                "home": {
+                    "id": 624,
+                    "name": "Oostende",
+                    "logo": "https://media-3.api-sports.io/football/teams/624.png",
+                    "winner": false
+                },
+                "away": {
+                    "id": 740,
+                    "name": "Antwerp",
+                    "logo": "https://media-2.api-sports.io/football/teams/740.png",
+                    "winner": true
+                }
+            },
+            "goals": {
+                "home": 0,
+                "away": 3
+            },
+            "score": {
+                "halftime": {
+                    "home": 0,
+                    "away": 2
+                },
+                "fulltime": {
+                    "home": 0,
+                    "away": 3
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 866457,
+                "referee": "Z. Lovri\u0107",
+                "timezone": "europe/london",
+                "date": "2023-01-18T14:00:00+00:00",
+                "timestamp": 1674050400,
+                "periods": {
+                    "first": 1674050400,
+                    "second": 1674054000
+                },
+                "venue": {
+                    "id": 421,
+                    "name": "\u0160RC Velika Gorica",
+                    "city": "Velika Gorica"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 210,
+                "name": "HNL",
+                "country": "Croatia",
+                "logo": "https://media-2.api-sports.io/football/leagues/210.png",
+                "flag": "https://media-3.api-sports.io/flags/hr.svg",
+                "season": 2022,
+                "round": "Regular Season - 17"
+            },
+            "teams": {
+                "home": {
+                    "id": 1068,
+                    "name": "HNK Gorica",
+                    "logo": "https://media-3.api-sports.io/football/teams/1068.png",
+                    "winner": null
+                },
+                "away": {
+                    "id": 1483,
+                    "name": "NK Varazdin",
+                    "logo": "https://media-2.api-sports.io/football/teams/1483.png",
+                    "winner": null
+                }
+            },
+            "goals": {
+                "home": 0,
+                "away": 0
+            },
+            "score": {
+                "halftime": {
+                    "home": 0,
+                    "away": 0
+                },
+                "fulltime": {
+                    "home": 0,
+                    "away": 0
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        }
+    ]
+}

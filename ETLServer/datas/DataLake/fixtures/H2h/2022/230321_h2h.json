@@ -1,0 +1,72 @@
+{
+    "data": [
+        {
+            "fixture": {
+                "id": 873457,
+                "referee": "S. Kirkland",
+                "timezone": "europe/london",
+                "date": "2023-03-21T19:45:00+00:00",
+                "timestamp": 1679427900,
+                "periods": {
+                    "first": 1679427900,
+                    "second": 1679431500
+                },
+                "venue": {
+                    "id": 1387,
+                    "name": "Kilmac Stadium at Dens Park",
+                    "city": "Dundee"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 180,
+                "name": "Championship",
+                "country": "Scotland",
+                "logo": "https://media-2.api-sports.io/football/leagues/180.png",
+                "flag": "https://media-3.api-sports.io/flags/gb.svg",
+                "season": 2022,
+                "round": "Regular Season - 28"
+            },
+            "teams": {
+                "home": {
+                    "id": 253,
+                    "name": "Dundee",
+                    "logo": "https://media-1.api-sports.io/football/teams/253.png",
+                    "winner": true
+                },
+                "away": {
+                    "id": 1387,
+                    "name": "Ayr Utd",
+                    "logo": "https://media-2.api-sports.io/football/teams/1387.png",
+                    "winner": false
+                }
+            },
+            "goals": {
+                "home": 3,
+                "away": 1
+            },
+            "score": {
+                "halftime": {
+                    "home": 1,
+                    "away": 1
+                },
+                "fulltime": {
+                    "home": 3,
+                    "away": 1
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        }
+    ]
+}

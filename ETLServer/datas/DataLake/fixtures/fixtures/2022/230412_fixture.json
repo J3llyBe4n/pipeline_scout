@@ -1,0 +1,746 @@
+{
+    "data": [
+        {
+            "fixture": {
+                "id": 1018511,
+                "referee": "T. Clarke",
+                "timezone": "Europe/London",
+                "date": "2023-04-12T19:45:00+01:00",
+                "timestamp": 1681325100,
+                "periods": {
+                    "first": 1681325100,
+                    "second": 1681328700
+                },
+                "venue": {
+                    "id": 1971,
+                    "name": "Windsor Park",
+                    "city": "Belfast"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 408,
+                "name": "Premiership",
+                "country": "Northern-Ireland",
+                "logo": "https://media-2.api-sports.io/football/leagues/408.png",
+                "flag": "https://media-3.api-sports.io/flags/gb.svg",
+                "season": 2022,
+                "round": "Championship Round - 2"
+            },
+            "teams": {
+                "home": {
+                    "id": 583,
+                    "name": "Linfield",
+                    "logo": "https://media-2.api-sports.io/football/teams/583.png",
+                    "winner": null
+                },
+                "away": {
+                    "id": 5352,
+                    "name": "Glentoran",
+                    "logo": "https://media-3.api-sports.io/football/teams/5352.png",
+                    "winner": null
+                }
+            },
+            "goals": {
+                "home": 1,
+                "away": 1
+            },
+            "score": {
+                "halftime": {
+                    "home": 1,
+                    "away": 0
+                },
+                "fulltime": {
+                    "home": 1,
+                    "away": 1
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            },
+            "events": [
+                {
+                    "time": {
+                        "elapsed": 18,
+                        "extra": null
+                    },
+                    "team": {
+                        "id": 5352,
+                        "name": "Glentoran",
+                        "logo": "https://media-2.api-sports.io/football/teams/5352.png"
+                    },
+                    "player": {
+                        "id": 14650,
+                        "name": "H. Plum"
+                    },
+                    "assist": {
+                        "id": null,
+                        "name": null
+                    },
+                    "type": "Card",
+                    "detail": "Yellow Card",
+                    "comments": null
+                },
+                {
+                    "time": {
+                        "elapsed": 29,
+                        "extra": null
+                    },
+                    "team": {
+                        "id": 583,
+                        "name": "Linfield",
+                        "logo": "https://media-1.api-sports.io/football/teams/583.png"
+                    },
+                    "player": {
+                        "id": 105647,
+                        "name": "J. Mulgrew"
+                    },
+                    "assist": {
+                        "id": null,
+                        "name": null
+                    },
+                    "type": "Card",
+                    "detail": "Yellow Card",
+                    "comments": null
+                },
+                {
+                    "time": {
+                        "elapsed": 40,
+                        "extra": null
+                    },
+                    "team": {
+                        "id": 583,
+                        "name": "Linfield",
+                        "logo": "https://media-2.api-sports.io/football/teams/583.png"
+                    },
+                    "player": {
+                        "id": 45268,
+                        "name": "S. Roscoe-Byrne"
+                    },
+                    "assist": {
+                        "id": null,
+                        "name": null
+                    },
+                    "type": "Goal",
+                    "detail": "Normal Goal",
+                    "comments": null
+                },
+                {
+                    "time": {
+                        "elapsed": 71,
+                        "extra": null
+                    },
+                    "team": {
+                        "id": 5352,
+                        "name": "Glentoran",
+                        "logo": "https://media-1.api-sports.io/football/teams/5352.png"
+                    },
+                    "player": {
+                        "id": 69334,
+                        "name": "J. Ogedi-Uzokwe"
+                    },
+                    "assist": {
+                        "id": 194544,
+                        "name": "D. Purkis"
+                    },
+                    "type": "subst",
+                    "detail": "Substitution 1",
+                    "comments": null
+                },
+                {
+                    "time": {
+                        "elapsed": 75,
+                        "extra": null
+                    },
+                    "team": {
+                        "id": 583,
+                        "name": "Linfield",
+                        "logo": "https://media-3.api-sports.io/football/teams/583.png"
+                    },
+                    "player": {
+                        "id": 105651,
+                        "name": "K. Millar"
+                    },
+                    "assist": {
+                        "id": null,
+                        "name": null
+                    },
+                    "type": "Card",
+                    "detail": "Yellow Card",
+                    "comments": null
+                },
+                {
+                    "time": {
+                        "elapsed": 75,
+                        "extra": null
+                    },
+                    "team": {
+                        "id": 583,
+                        "name": "Linfield",
+                        "logo": "https://media-1.api-sports.io/football/teams/583.png"
+                    },
+                    "player": {
+                        "id": 117202,
+                        "name": "S. Fallon"
+                    },
+                    "assist": {
+                        "id": 70520,
+                        "name": "K. McClean"
+                    },
+                    "type": "subst",
+                    "detail": "Substitution 1",
+                    "comments": null
+                },
+                {
+                    "time": {
+                        "elapsed": 75,
+                        "extra": null
+                    },
+                    "team": {
+                        "id": 583,
+                        "name": "Linfield",
+                        "logo": "https://media-1.api-sports.io/football/teams/583.png"
+                    },
+                    "player": {
+                        "id": 161815,
+                        "name": "C. McKee"
+                    },
+                    "assist": {
+                        "id": 1759,
+                        "name": "K. Lafferty"
+                    },
+                    "type": "subst",
+                    "detail": "Substitution 2",
+                    "comments": null
+                },
+                {
+                    "time": {
+                        "elapsed": 75,
+                        "extra": null
+                    },
+                    "team": {
+                        "id": 5352,
+                        "name": "Glentoran",
+                        "logo": "https://media-3.api-sports.io/football/teams/5352.png"
+                    },
+                    "player": {
+                        "id": 14650,
+                        "name": "H. Plum"
+                    },
+                    "assist": {
+                        "id": 17383,
+                        "name": "S. McCartan"
+                    },
+                    "type": "subst",
+                    "detail": "Substitution 2",
+                    "comments": null
+                },
+                {
+                    "time": {
+                        "elapsed": 81,
+                        "extra": null
+                    },
+                    "team": {
+                        "id": 5352,
+                        "name": "Glentoran",
+                        "logo": "https://media-1.api-sports.io/football/teams/5352.png"
+                    },
+                    "player": {
+                        "id": 127550,
+                        "name": "R. Marshall"
+                    },
+                    "assist": {
+                        "id": null,
+                        "name": null
+                    },
+                    "type": "Card",
+                    "detail": "Yellow Card",
+                    "comments": null
+                },
+                {
+                    "time": {
+                        "elapsed": 84,
+                        "extra": null
+                    },
+                    "team": {
+                        "id": 583,
+                        "name": "Linfield",
+                        "logo": "https://media-3.api-sports.io/football/teams/583.png"
+                    },
+                    "player": {
+                        "id": 1759,
+                        "name": "K. Lafferty"
+                    },
+                    "assist": {
+                        "id": null,
+                        "name": null
+                    },
+                    "type": "Card",
+                    "detail": "Yellow Card",
+                    "comments": null
+                },
+                {
+                    "time": {
+                        "elapsed": 85,
+                        "extra": null
+                    },
+                    "team": {
+                        "id": 5352,
+                        "name": "Glentoran",
+                        "logo": "https://media-1.api-sports.io/football/teams/5352.png"
+                    },
+                    "player": {
+                        "id": 44817,
+                        "name": "N. McGinn"
+                    },
+                    "assist": {
+                        "id": 87876,
+                        "name": "R. Donnelly"
+                    },
+                    "type": "subst",
+                    "detail": "Substitution 3",
+                    "comments": null
+                },
+                {
+                    "time": {
+                        "elapsed": 85,
+                        "extra": null
+                    },
+                    "team": {
+                        "id": 5352,
+                        "name": "Glentoran",
+                        "logo": "https://media-2.api-sports.io/football/teams/5352.png"
+                    },
+                    "player": {
+                        "id": 301469,
+                        "name": "H. Murphy"
+                    },
+                    "assist": {
+                        "id": 316083,
+                        "name": "A. Wightman"
+                    },
+                    "type": "subst",
+                    "detail": "Substitution 4",
+                    "comments": null
+                },
+                {
+                    "time": {
+                        "elapsed": 89,
+                        "extra": null
+                    },
+                    "team": {
+                        "id": 583,
+                        "name": "Linfield",
+                        "logo": "https://media-3.api-sports.io/football/teams/583.png"
+                    },
+                    "player": {
+                        "id": 119986,
+                        "name": "J. Cooper"
+                    },
+                    "assist": {
+                        "id": 105644,
+                        "name": "N. Quinn"
+                    },
+                    "type": "subst",
+                    "detail": "Substitution 3",
+                    "comments": null
+                },
+                {
+                    "time": {
+                        "elapsed": 90,
+                        "extra": 1
+                    },
+                    "team": {
+                        "id": 5352,
+                        "name": "Glentoran",
+                        "logo": "https://media-1.api-sports.io/football/teams/5352.png"
+                    },
+                    "player": {
+                        "id": 44867,
+                        "name": "B. Burns"
+                    },
+                    "assist": {
+                        "id": null,
+                        "name": null
+                    },
+                    "type": "Goal",
+                    "detail": "Normal Goal",
+                    "comments": null
+                }
+            ],
+            "lineups": [
+                {
+                    "team": {
+                        "id": 583,
+                        "name": "Linfield",
+                        "logo": "https://media-3.api-sports.io/football/teams/583.png",
+                        "colors": null
+                    },
+                    "coach": {
+                        "id": 1578,
+                        "name": "D. Healy",
+                        "photo": "https://media-1.api-sports.io/football/coachs/1578.png"
+                    },
+                    "formation": null,
+                    "startXI": [
+                        {
+                            "player": {
+                                "id": 105925,
+                                "name": "C. Johns",
+                                "number": 1,
+                                "pos": null,
+                                "grid": null
+                            }
+                        },
+                        {
+                            "player": {
+                                "id": 117198,
+                                "name": "J. Callacher",
+                                "number": 6,
+                                "pos": null,
+                                "grid": null
+                            }
+                        },
+                        {
+                            "player": {
+                                "id": 105514,
+                                "name": "M. Clarke",
+                                "number": 16,
+                                "pos": null,
+                                "grid": null
+                            }
+                        },
+                        {
+                            "player": {
+                                "id": 45268,
+                                "name": "S. Roscoe-Byrne",
+                                "number": 2,
+                                "pos": null,
+                                "grid": null
+                            }
+                        },
+                        {
+                            "player": {
+                                "id": 138416,
+                                "name": "D. Finlayson",
+                                "number": 18,
+                                "pos": null,
+                                "grid": null
+                            }
+                        },
+                        {
+                            "player": {
+                                "id": 105647,
+                                "name": "J. Mulgrew",
+                                "number": 22,
+                                "pos": null,
+                                "grid": null
+                            }
+                        },
+                        {
+                            "player": {
+                                "id": 69246,
+                                "name": "C. Shields",
+                                "number": 5,
+                                "pos": null,
+                                "grid": null
+                            }
+                        },
+                        {
+                            "player": {
+                                "id": 105651,
+                                "name": "K. Millar",
+                                "number": 7,
+                                "pos": null,
+                                "grid": null
+                            }
+                        },
+                        {
+                            "player": {
+                                "id": 117202,
+                                "name": "S. Fallon",
+                                "number": 20,
+                                "pos": null,
+                                "grid": null
+                            }
+                        },
+                        {
+                            "player": {
+                                "id": 119986,
+                                "name": "J. Cooper",
+                                "number": 9,
+                                "pos": null,
+                                "grid": null
+                            }
+                        },
+                        {
+                            "player": {
+                                "id": 161815,
+                                "name": "C. McKee",
+                                "number": 17,
+                                "pos": null,
+                                "grid": null
+                            }
+                        }
+                    ],
+                    "substitutes": [
+                        {
+                            "player": {
+                                "id": 70520,
+                                "name": "K. McClean",
+                                "number": 8,
+                                "pos": null,
+                                "grid": null
+                            }
+                        },
+                        {
+                            "player": {
+                                "id": 1759,
+                                "name": "K. Lafferty",
+                                "number": 28,
+                                "pos": null,
+                                "grid": null
+                            }
+                        },
+                        {
+                            "player": {
+                                "id": 105644,
+                                "name": "N. Quinn",
+                                "number": 31,
+                                "pos": null,
+                                "grid": null
+                            }
+                        },
+                        {
+                            "player": {
+                                "id": 283050,
+                                "name": "E. Devine",
+                                "number": 19,
+                                "pos": null,
+                                "grid": null
+                            }
+                        },
+                        {
+                            "player": {
+                                "id": 55414,
+                                "name": "E. Vertainen",
+                                "number": 23,
+                                "pos": null,
+                                "grid": null
+                            }
+                        },
+                        {
+                            "player": {
+                                "id": 127402,
+                                "name": "C. Palmer",
+                                "number": 35,
+                                "pos": null,
+                                "grid": null
+                            }
+                        },
+                        {
+                            "player": {
+                                "id": 131274,
+                                "name": "D. Walsh",
+                                "number": 51,
+                                "pos": null,
+                                "grid": null
+                            }
+                        }
+                    ]
+                },
+                {
+                    "team": {
+                        "id": 5352,
+                        "name": "Glentoran",
+                        "logo": "https://media-2.api-sports.io/football/teams/5352.png",
+                        "colors": null
+                    },
+                    "coach": {
+                        "id": 9175,
+                        "name": "R. McAree",
+                        "photo": "https://media-1.api-sports.io/football/coachs/9175.png"
+                    },
+                    "formation": null,
+                    "startXI": [
+                        {
+                            "player": {
+                                "id": 69226,
+                                "name": "A. McCarey",
+                                "number": 37,
+                                "pos": null,
+                                "grid": null
+                            }
+                        },
+                        {
+                            "player": {
+                                "id": 128066,
+                                "name": "J. Singleton",
+                                "number": 12,
+                                "pos": null,
+                                "grid": null
+                            }
+                        },
+                        {
+                            "player": {
+                                "id": 17508,
+                                "name": "L. McCullough",
+                                "number": 4,
+                                "pos": null,
+                                "grid": null
+                            }
+                        },
+                        {
+                            "player": {
+                                "id": 127550,
+                                "name": "R. Marshall",
+                                "number": 8,
+                                "pos": null,
+                                "grid": null
+                            }
+                        },
+                        {
+                            "player": {
+                                "id": 44867,
+                                "name": "B. Burns",
+                                "number": 6,
+                                "pos": null,
+                                "grid": null
+                            }
+                        },
+                        {
+                            "player": {
+                                "id": 301469,
+                                "name": "H. Murphy",
+                                "number": 18,
+                                "pos": null,
+                                "grid": null
+                            }
+                        },
+                        {
+                            "player": {
+                                "id": 14650,
+                                "name": "H. Plum",
+                                "number": 27,
+                                "pos": null,
+                                "grid": null
+                            }
+                        },
+                        {
+                            "player": {
+                                "id": 106074,
+                                "name": "C. McMenamin",
+                                "number": 24,
+                                "pos": null,
+                                "grid": null
+                            }
+                        },
+                        {
+                            "player": {
+                                "id": 131258,
+                                "name": "T. Devlin",
+                                "number": 17,
+                                "pos": null,
+                                "grid": null
+                            }
+                        },
+                        {
+                            "player": {
+                                "id": 44817,
+                                "name": "N. McGinn",
+                                "number": 38,
+                                "pos": null,
+                                "grid": null
+                            }
+                        },
+                        {
+                            "player": {
+                                "id": 69334,
+                                "name": "J. Ogedi-Uzokwe",
+                                "number": 40,
+                                "pos": null,
+                                "grid": null
+                            }
+                        }
+                    ],
+                    "substitutes": [
+                        {
+                            "player": {
+                                "id": 194544,
+                                "name": "D. Purkis",
+                                "number": 22,
+                                "pos": null,
+                                "grid": null
+                            }
+                        },
+                        {
+                            "player": {
+                                "id": 17383,
+                                "name": "S. McCartan",
+                                "number": 7,
+                                "pos": null,
+                                "grid": null
+                            }
+                        },
+                        {
+                            "player": {
+                                "id": 87876,
+                                "name": "R. Donnelly",
+                                "number": 10,
+                                "pos": null,
+                                "grid": null
+                            }
+                        },
+                        {
+                            "player": {
+                                "id": 316083,
+                                "name": "A. Wightman",
+                                "number": 29,
+                                "pos": null,
+                                "grid": null
+                            }
+                        },
+                        {
+                            "player": {
+                                "id": 128070,
+                                "name": "J. Crowe",
+                                "number": 21,
+                                "pos": null,
+                                "grid": null
+                            }
+                        },
+                        {
+                            "player": {
+                                "id": 204177,
+                                "name": "O. Webber",
+                                "number": 25,
+                                "pos": null,
+                                "grid": null
+                            }
+                        },
+                        {
+                            "player": {
+                                "id": 394687,
+                                "name": "R. Walsh",
+                                "number": 35,
+                                "pos": null,
+                                "grid": null
+                            }
+                        }
+                    ]
+                }
+            ],
+            "statistics": [],
+            "players": []
+        }
+    ]
+}

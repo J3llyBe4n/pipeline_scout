@@ -1,0 +1,888 @@
+{
+    "data": [
+        {
+            "fixture": {
+                "id": 868266,
+                "referee": "Andre Marriner, England",
+                "timezone": "europe/london",
+                "date": "2023-04-27T19:45:00+01:00",
+                "timestamp": 1682621100,
+                "periods": {
+                    "first": 1682621100,
+                    "second": 1682624700
+                },
+                "venue": {
+                    "id": 8560,
+                    "name": "Goodison Park",
+                    "city": "Liverpool"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 39,
+                "name": "Premier League",
+                "country": "England",
+                "logo": "https://media-2.api-sports.io/football/leagues/39.png",
+                "flag": "https://media-3.api-sports.io/flags/gb.svg",
+                "season": 2022,
+                "round": "Regular Season - 33"
+            },
+            "teams": {
+                "home": {
+                    "id": 45,
+                    "name": "Everton",
+                    "logo": "https://media-3.api-sports.io/football/teams/45.png",
+                    "winner": false
+                },
+                "away": {
+                    "id": 34,
+                    "name": "Newcastle",
+                    "logo": "https://media-2.api-sports.io/football/teams/34.png",
+                    "winner": true
+                }
+            },
+            "goals": {
+                "home": 1,
+                "away": 4
+            },
+            "score": {
+                "halftime": {
+                    "home": 0,
+                    "away": 1
+                },
+                "fulltime": {
+                    "home": 1,
+                    "away": 4
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 868269,
+                "referee": "Anthony Taylor, England",
+                "timezone": "europe/london",
+                "date": "2023-04-27T20:15:00+01:00",
+                "timestamp": 1682622900,
+                "periods": {
+                    "first": 1682622900,
+                    "second": 1682626500
+                },
+                "venue": {
+                    "id": 593,
+                    "name": "Tottenham Hotspur Stadium",
+                    "city": "London"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 39,
+                "name": "Premier League",
+                "country": "England",
+                "logo": "https://media-2.api-sports.io/football/leagues/39.png",
+                "flag": "https://media-3.api-sports.io/flags/gb.svg",
+                "season": 2022,
+                "round": "Regular Season - 33"
+            },
+            "teams": {
+                "home": {
+                    "id": 47,
+                    "name": "Tottenham",
+                    "logo": "https://media-3.api-sports.io/football/teams/47.png",
+                    "winner": null
+                },
+                "away": {
+                    "id": 33,
+                    "name": "Manchester United",
+                    "logo": "https://media-3.api-sports.io/football/teams/33.png",
+                    "winner": null
+                }
+            },
+            "goals": {
+                "home": 2,
+                "away": 2
+            },
+            "score": {
+                "halftime": {
+                    "home": 0,
+                    "away": 2
+                },
+                "fulltime": {
+                    "home": 2,
+                    "away": 2
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 868274,
+                "referee": "England Darren, England",
+                "timezone": "europe/london",
+                "date": "2023-04-27T19:45:00+01:00",
+                "timestamp": 1682621100,
+                "periods": {
+                    "first": 1682621100,
+                    "second": 1682624700
+                },
+                "venue": {
+                    "id": 585,
+                    "name": "St. Mary's Stadium",
+                    "city": "Southampton, Hampshire"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 39,
+                "name": "Premier League",
+                "country": "England",
+                "logo": "https://media-2.api-sports.io/football/leagues/39.png",
+                "flag": "https://media-2.api-sports.io/flags/gb.svg",
+                "season": 2022,
+                "round": "Regular Season - 33"
+            },
+            "teams": {
+                "home": {
+                    "id": 41,
+                    "name": "Southampton",
+                    "logo": "https://media-1.api-sports.io/football/teams/41.png",
+                    "winner": false
+                },
+                "away": {
+                    "id": 35,
+                    "name": "Bournemouth",
+                    "logo": "https://media-3.api-sports.io/football/teams/35.png",
+                    "winner": true
+                }
+            },
+            "goals": {
+                "home": 0,
+                "away": 1
+            },
+            "score": {
+                "halftime": {
+                    "home": 0,
+                    "away": 0
+                },
+                "fulltime": {
+                    "home": 0,
+                    "away": 1
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 881169,
+                "referee": "Oliver Langford, England",
+                "timezone": "europe/london",
+                "date": "2023-04-27T20:00:00+01:00",
+                "timestamp": 1682622000,
+                "periods": {
+                    "first": 1682622000,
+                    "second": 1682625600
+                },
+                "venue": {
+                    "id": 578,
+                    "name": "AESSEAL New York Stadium",
+                    "city": "Rotherham, South Yorkshire"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 40,
+                "name": "Championship",
+                "country": "England",
+                "logo": "https://media-1.api-sports.io/football/leagues/40.png",
+                "flag": "https://media-2.api-sports.io/flags/gb.svg",
+                "season": 2022,
+                "round": "Regular Season - 38"
+            },
+            "teams": {
+                "home": {
+                    "id": 73,
+                    "name": "Rotherham",
+                    "logo": "https://media-3.api-sports.io/football/teams/73.png",
+                    "winner": false
+                },
+                "away": {
+                    "id": 43,
+                    "name": "Cardiff",
+                    "logo": "https://media-2.api-sports.io/football/teams/43.png",
+                    "winner": true
+                }
+            },
+            "goals": {
+                "home": 1,
+                "away": 2
+            },
+            "score": {
+                "halftime": {
+                    "home": 1,
+                    "away": 1
+                },
+                "fulltime": {
+                    "home": 1,
+                    "away": 2
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 878242,
+                "referee": "Alejandro Hernandez, Spain",
+                "timezone": "europe/london",
+                "date": "2023-04-27T21:00:00+01:00",
+                "timestamp": 1682625600,
+                "periods": {
+                    "first": 1682625600,
+                    "second": 1682629200
+                },
+                "venue": {
+                    "id": 1460,
+                    "name": "San Mam\u00e9s Barria",
+                    "city": "Bilbao"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 140,
+                "name": "La Liga",
+                "country": "Spain",
+                "logo": "https://media-2.api-sports.io/football/leagues/140.png",
+                "flag": "https://media-2.api-sports.io/flags/es.svg",
+                "season": 2022,
+                "round": "Regular Season - 31"
+            },
+            "teams": {
+                "home": {
+                    "id": 531,
+                    "name": "Athletic Club",
+                    "logo": "https://media-3.api-sports.io/football/teams/531.png",
+                    "winner": false
+                },
+                "away": {
+                    "id": 536,
+                    "name": "Sevilla",
+                    "logo": "https://media-1.api-sports.io/football/teams/536.png",
+                    "winner": true
+                }
+            },
+            "goals": {
+                "home": 0,
+                "away": 1
+            },
+            "score": {
+                "halftime": {
+                    "home": 0,
+                    "away": 0
+                },
+                "fulltime": {
+                    "home": 0,
+                    "away": 1
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 878247,
+                "referee": "Jos\u00e9 Luis Munuera Montero, Spain",
+                "timezone": "europe/london",
+                "date": "2023-04-27T18:30:00+01:00",
+                "timestamp": 1682616600,
+                "periods": {
+                    "first": 1682616600,
+                    "second": 1682620200
+                },
+                "venue": {
+                    "id": 1497,
+                    "name": "Estadio de Mestalla",
+                    "city": "Valencia"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 140,
+                "name": "La Liga",
+                "country": "Spain",
+                "logo": "https://media-1.api-sports.io/football/leagues/140.png",
+                "flag": "https://media-1.api-sports.io/flags/es.svg",
+                "season": 2022,
+                "round": "Regular Season - 31"
+            },
+            "teams": {
+                "home": {
+                    "id": 532,
+                    "name": "Valencia",
+                    "logo": "https://media-1.api-sports.io/football/teams/532.png",
+                    "winner": true
+                },
+                "away": {
+                    "id": 720,
+                    "name": "Valladolid",
+                    "logo": "https://media-3.api-sports.io/football/teams/720.png",
+                    "winner": false
+                }
+            },
+            "goals": {
+                "home": 2,
+                "away": 1
+            },
+            "score": {
+                "halftime": {
+                    "home": 0,
+                    "away": 1
+                },
+                "fulltime": {
+                    "home": 2,
+                    "away": 1
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 878250,
+                "referee": "Cesar Soto Grado, Spain",
+                "timezone": "europe/london",
+                "date": "2023-04-27T18:30:00+01:00",
+                "timestamp": 1682616600,
+                "periods": {
+                    "first": 1682616600,
+                    "second": 1682620200
+                },
+                "venue": {
+                    "id": 1498,
+                    "name": "Estadio de la Cer\u00e1mica",
+                    "city": "Villarreal"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 140,
+                "name": "La Liga",
+                "country": "Spain",
+                "logo": "https://media-3.api-sports.io/football/leagues/140.png",
+                "flag": "https://media-2.api-sports.io/flags/es.svg",
+                "season": 2022,
+                "round": "Regular Season - 31"
+            },
+            "teams": {
+                "home": {
+                    "id": 533,
+                    "name": "Villarreal",
+                    "logo": "https://media-2.api-sports.io/football/teams/533.png",
+                    "winner": true
+                },
+                "away": {
+                    "id": 540,
+                    "name": "Espanyol",
+                    "logo": "https://media-2.api-sports.io/football/teams/540.png",
+                    "winner": false
+                }
+            },
+            "goals": {
+                "home": 4,
+                "away": 2
+            },
+            "score": {
+                "halftime": {
+                    "home": 0,
+                    "away": 1
+                },
+                "fulltime": {
+                    "home": 4,
+                    "away": 2
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 872676,
+                "referee": "Luca Piccolo, Switzerland",
+                "timezone": "europe/london",
+                "date": "2023-04-27T19:30:00+01:00",
+                "timestamp": 1682620200,
+                "periods": {
+                    "first": 1682620200,
+                    "second": 1682623800
+                },
+                "venue": {
+                    "id": 1537,
+                    "name": "swissporarena",
+                    "city": "Luzern"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 207,
+                "name": "Super League",
+                "country": "Switzerland",
+                "logo": "https://media-3.api-sports.io/football/leagues/207.png",
+                "flag": "https://media-1.api-sports.io/flags/ch.svg",
+                "season": 2022,
+                "round": "Regular Season - 30"
+            },
+            "teams": {
+                "home": {
+                    "id": 644,
+                    "name": "FC Luzern",
+                    "logo": "https://media-1.api-sports.io/football/teams/644.png",
+                    "winner": true
+                },
+                "away": {
+                    "id": 2180,
+                    "name": "FC Winterthur",
+                    "logo": "https://media-2.api-sports.io/football/teams/2180.png",
+                    "winner": false
+                }
+            },
+            "goals": {
+                "home": 3,
+                "away": 1
+            },
+            "score": {
+                "halftime": {
+                    "home": 1,
+                    "away": 1
+                },
+                "fulltime": {
+                    "home": 3,
+                    "away": 1
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 872678,
+                "referee": "Lukas Fahndrich, Switzerland",
+                "timezone": "europe/london",
+                "date": "2023-04-27T19:30:00+01:00",
+                "timestamp": 1682620200,
+                "periods": {
+                    "first": 1682620200,
+                    "second": 1682623800
+                },
+                "venue": {
+                    "id": 1542,
+                    "name": "Stade de Tourbillon",
+                    "city": "Sion"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 207,
+                "name": "Super League",
+                "country": "Switzerland",
+                "logo": "https://media-2.api-sports.io/football/leagues/207.png",
+                "flag": "https://media-3.api-sports.io/flags/ch.svg",
+                "season": 2022,
+                "round": "Regular Season - 30"
+            },
+            "teams": {
+                "home": {
+                    "id": 630,
+                    "name": "FC Sion",
+                    "logo": "https://media-3.api-sports.io/football/teams/630.png",
+                    "winner": false
+                },
+                "away": {
+                    "id": 551,
+                    "name": "FC Basel 1893",
+                    "logo": "https://media-2.api-sports.io/football/teams/551.png",
+                    "winner": true
+                }
+            },
+            "goals": {
+                "home": 1,
+                "away": 2
+            },
+            "score": {
+                "halftime": {
+                    "home": 1,
+                    "away": 2
+                },
+                "fulltime": {
+                    "home": 1,
+                    "away": 2
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 866525,
+                "referee": "Duje Strukan, Croatia",
+                "timezone": "europe/london",
+                "date": "2023-04-27T17:00:00+01:00",
+                "timestamp": 1682611200,
+                "periods": {
+                    "first": 1682611200,
+                    "second": 1682614800
+                },
+                "venue": {
+                    "id": 423,
+                    "name": "Stadion HNK Rijeka",
+                    "city": "Rijeka"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 210,
+                "name": "HNL",
+                "country": "Croatia",
+                "logo": "https://media-2.api-sports.io/football/leagues/210.png",
+                "flag": "https://media-1.api-sports.io/flags/hr.svg",
+                "season": 2022,
+                "round": "Regular Season - 31"
+            },
+            "teams": {
+                "home": {
+                    "id": 561,
+                    "name": "HNK Rijeka",
+                    "logo": "https://media-1.api-sports.io/football/teams/561.png",
+                    "winner": true
+                },
+                "away": {
+                    "id": 1017,
+                    "name": "NK Lokomotiva Zagreb",
+                    "logo": "https://media-3.api-sports.io/football/teams/1017.png",
+                    "winner": false
+                }
+            },
+            "goals": {
+                "home": 2,
+                "away": 0
+            },
+            "score": {
+                "halftime": {
+                    "home": 0,
+                    "away": 0
+                },
+                "fulltime": {
+                    "home": 2,
+                    "away": 0
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 976718,
+                "referee": "Sultan Alharbi",
+                "timezone": "europe/london",
+                "date": "2023-04-27T17:00:00+01:00",
+                "timestamp": 1682611200,
+                "periods": {
+                    "first": 1682611200,
+                    "second": 1682614800
+                },
+                "venue": {
+                    "id": 1363,
+                    "name": "Prince Abdullah bin Jalawi Sports City Stadium",
+                    "city": "Al-Hasa"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 307,
+                "name": "Pro League",
+                "country": "Saudi-Arabia",
+                "logo": "https://media-2.api-sports.io/football/leagues/307.png",
+                "flag": "https://media-3.api-sports.io/flags/sa.svg",
+                "season": 2022,
+                "round": "Regular Season - 24"
+            },
+            "teams": {
+                "home": {
+                    "id": 2950,
+                    "name": "Al-Adalah",
+                    "logo": "https://media-2.api-sports.io/football/teams/2950.png",
+                    "winner": true
+                },
+                "away": {
+                    "id": 2936,
+                    "name": "Al Taawon",
+                    "logo": "https://media-3.api-sports.io/football/teams/2936.png",
+                    "winner": false
+                }
+            },
+            "goals": {
+                "home": 2,
+                "away": 1
+            },
+            "score": {
+                "halftime": {
+                    "home": 2,
+                    "away": 0
+                },
+                "fulltime": {
+                    "home": 2,
+                    "away": 1
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 976720,
+                "referee": "S. Jovanovi\u0107",
+                "timezone": "europe/london",
+                "date": "2023-04-27T19:30:00+01:00",
+                "timestamp": 1682620200,
+                "periods": {
+                    "first": 1682620200,
+                    "second": 1682623800
+                },
+                "venue": {
+                    "id": 1364,
+                    "name": "King Abdullah Sports City",
+                    "city": "Jeddah"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 307,
+                "name": "Pro League",
+                "country": "Saudi-Arabia",
+                "logo": "https://media-1.api-sports.io/football/leagues/307.png",
+                "flag": "https://media-2.api-sports.io/flags/sa.svg",
+                "season": 2022,
+                "round": "Regular Season - 24"
+            },
+            "teams": {
+                "home": {
+                    "id": 2938,
+                    "name": "Al-Ittihad FC",
+                    "logo": "https://media-1.api-sports.io/football/teams/2938.png",
+                    "winner": true
+                },
+                "away": {
+                    "id": 2940,
+                    "name": "Al Shabab",
+                    "logo": "https://media-3.api-sports.io/football/teams/2940.png",
+                    "winner": false
+                }
+            },
+            "goals": {
+                "home": 2,
+                "away": 1
+            },
+            "score": {
+                "halftime": {
+                    "home": 1,
+                    "away": 0
+                },
+                "fulltime": {
+                    "home": 2,
+                    "away": 1
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 976722,
+                "referee": "Mohammed Al-Daqqash",
+                "timezone": "europe/london",
+                "date": "2023-04-27T17:00:00+01:00",
+                "timestamp": 1682611200,
+                "periods": {
+                    "first": 1682611200,
+                    "second": 1682614800
+                },
+                "venue": {
+                    "id": 1371,
+                    "name": "Prince Abdul Aziz bin Musa'ed Stadium",
+                    "city": "Hail"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 307,
+                "name": "Pro League",
+                "country": "Saudi-Arabia",
+                "logo": "https://media-1.api-sports.io/football/leagues/307.png",
+                "flag": "https://media-2.api-sports.io/flags/sa.svg",
+                "season": 2022,
+                "round": "Regular Season - 24"
+            },
+            "teams": {
+                "home": {
+                    "id": 2942,
+                    "name": "Al Taee",
+                    "logo": "https://media-2.api-sports.io/football/teams/2942.png",
+                    "winner": true
+                },
+                "away": {
+                    "id": 2951,
+                    "name": "Abha",
+                    "logo": "https://media-1.api-sports.io/football/teams/2951.png",
+                    "winner": false
+                }
+            },
+            "goals": {
+                "home": 1,
+                "away": 0
+            },
+            "score": {
+                "halftime": {
+                    "home": 1,
+                    "away": 0
+                },
+                "fulltime": {
+                    "home": 1,
+                    "away": 0
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        }
+    ]
+}

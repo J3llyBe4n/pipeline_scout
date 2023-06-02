@@ -1,0 +1,72 @@
+{
+    "data": [
+        {
+            "fixture": {
+                "id": 878681,
+                "referee": "Saul Ais Reig, Spain",
+                "timezone": "europe/london",
+                "date": "2023-03-27T20:00:00+01:00",
+                "timestamp": 1679943600,
+                "periods": {
+                    "first": 1679943600,
+                    "second": 1679947200
+                },
+                "venue": {
+                    "id": 1483,
+                    "name": "Estadio La Rosaleda",
+                    "city": "M\u00e1laga"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 141,
+                "name": "Segunda Divisi\u00f3n",
+                "country": "Spain",
+                "logo": "https://media-3.api-sports.io/football/leagues/141.png",
+                "flag": "https://media-3.api-sports.io/flags/es.svg",
+                "season": 2022,
+                "round": "Regular Season - 33"
+            },
+            "teams": {
+                "home": {
+                    "id": 535,
+                    "name": "Malaga",
+                    "logo": "https://media-1.api-sports.io/football/teams/535.png",
+                    "winner": true
+                },
+                "away": {
+                    "id": 537,
+                    "name": "Leganes",
+                    "logo": "https://media-2.api-sports.io/football/teams/537.png",
+                    "winner": false
+                }
+            },
+            "goals": {
+                "home": 2,
+                "away": 0
+            },
+            "score": {
+                "halftime": {
+                    "home": 0,
+                    "away": 0
+                },
+                "fulltime": {
+                    "home": 2,
+                    "away": 0
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        }
+    ]
+}

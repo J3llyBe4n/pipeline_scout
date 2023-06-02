@@ -1,0 +1,2044 @@
+{
+    "data": [
+        {
+            "fixture": {
+                "id": 867741,
+                "referee": "R. Dieperink",
+                "timezone": "europe/london",
+                "date": "2023-01-30T19:00:00+00:00",
+                "timestamp": 1675105200,
+                "periods": {
+                    "first": 1675105200,
+                    "second": 1675108800
+                },
+                "venue": {
+                    "id": 1146,
+                    "name": "Parkstad Limburg Stadion",
+                    "city": "Kerkrade"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 89,
+                "name": "Eerste Divisie",
+                "country": "Netherlands",
+                "logo": "https://media-2.api-sports.io/football/leagues/89.png",
+                "flag": "https://media-3.api-sports.io/flags/nl.svg",
+                "season": 2022,
+                "round": "Regular Season - 18"
+            },
+            "teams": {
+                "home": {
+                    "id": 414,
+                    "name": "Roda",
+                    "logo": "https://media-1.api-sports.io/football/teams/414.png",
+                    "winner": false
+                },
+                "away": {
+                    "id": 193,
+                    "name": "PEC Zwolle",
+                    "logo": "https://media-3.api-sports.io/football/teams/193.png",
+                    "winner": true
+                }
+            },
+            "goals": {
+                "home": 1,
+                "away": 2
+            },
+            "score": {
+                "halftime": {
+                    "home": 0,
+                    "away": 2
+                },
+                "fulltime": {
+                    "home": 1,
+                    "away": 2
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 867782,
+                "referee": "E. Blank",
+                "timezone": "europe/london",
+                "date": "2023-01-30T19:00:00+00:00",
+                "timestamp": 1675105200,
+                "periods": {
+                    "first": 1675105200,
+                    "second": 1675108800
+                },
+                "venue": {
+                    "id": 12681,
+                    "name": "PSV Campus De Herdgang",
+                    "city": "Eindhoven"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 89,
+                "name": "Eerste Divisie",
+                "country": "Netherlands",
+                "logo": "https://media-3.api-sports.io/football/leagues/89.png",
+                "flag": "https://media-1.api-sports.io/flags/nl.svg",
+                "season": 2022,
+                "round": "Regular Season - 22"
+            },
+            "teams": {
+                "home": {
+                    "id": 411,
+                    "name": "Jong PSV",
+                    "logo": "https://media-2.api-sports.io/football/teams/411.png",
+                    "winner": true
+                },
+                "away": {
+                    "id": 195,
+                    "name": "Willem II",
+                    "logo": "https://media-1.api-sports.io/football/teams/195.png",
+                    "winner": false
+                }
+            },
+            "goals": {
+                "home": 3,
+                "away": 2
+            },
+            "score": {
+                "halftime": {
+                    "home": 0,
+                    "away": 1
+                },
+                "fulltime": {
+                    "home": 3,
+                    "away": 2
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 867783,
+                "referee": "M. Vos",
+                "timezone": "europe/london",
+                "date": "2023-01-30T19:00:00+00:00",
+                "timestamp": 1675105200,
+                "periods": {
+                    "first": 1675105200,
+                    "second": 1675108800
+                },
+                "venue": {
+                    "id": 12600,
+                    "name": "Sportcomplex Zoudenbalch",
+                    "city": "Utrecht"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 89,
+                "name": "Eerste Divisie",
+                "country": "Netherlands",
+                "logo": "https://media-2.api-sports.io/football/leagues/89.png",
+                "flag": "https://media-3.api-sports.io/flags/nl.svg",
+                "season": 2022,
+                "round": "Regular Season - 22"
+            },
+            "teams": {
+                "home": {
+                    "id": 428,
+                    "name": "Jong Utrecht",
+                    "logo": "https://media-3.api-sports.io/football/teams/428.png",
+                    "winner": null
+                },
+                "away": {
+                    "id": 199,
+                    "name": "De Graafschap",
+                    "logo": "https://media-3.api-sports.io/football/teams/199.png",
+                    "winner": null
+                }
+            },
+            "goals": {
+                "home": 1,
+                "away": 1
+            },
+            "score": {
+                "halftime": {
+                    "home": 1,
+                    "away": 0
+                },
+                "fulltime": {
+                    "home": 1,
+                    "away": 1
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 898761,
+                "referee": "Helder Malheiro, Portugal",
+                "timezone": "europe/london",
+                "date": "2023-01-30T20:15:00+00:00",
+                "timestamp": 1675109700,
+                "periods": {
+                    "first": 1675109700,
+                    "second": 1675113300
+                },
+                "venue": {
+                    "id": 1295,
+                    "name": "Est\u00e1dio Dom Afonso Henriques",
+                    "city": "Guimar\u00e3es"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 94,
+                "name": "Primeira Liga",
+                "country": "Portugal",
+                "logo": "https://media-3.api-sports.io/football/leagues/94.png",
+                "flag": "https://media-3.api-sports.io/flags/pt.svg",
+                "season": 2022,
+                "round": "Regular Season - 18"
+            },
+            "teams": {
+                "home": {
+                    "id": 224,
+                    "name": "Guimaraes",
+                    "logo": "https://media-1.api-sports.io/football/teams/224.png",
+                    "winner": true
+                },
+                "away": {
+                    "id": 223,
+                    "name": "Chaves",
+                    "logo": "https://media-2.api-sports.io/football/teams/223.png",
+                    "winner": false
+                }
+            },
+            "goals": {
+                "home": 2,
+                "away": 1
+            },
+            "score": {
+                "halftime": {
+                    "home": 1,
+                    "away": 0
+                },
+                "fulltime": {
+                    "home": 2,
+                    "away": 1
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 881979,
+                "referee": "Luca J. Pairetto, Italy",
+                "timezone": "europe/london",
+                "date": "2023-01-30T19:45:00+00:00",
+                "timestamp": 1675107900,
+                "periods": {
+                    "first": 1675107900,
+                    "second": 1675111500
+                },
+                "venue": {
+                    "id": 928,
+                    "name": "Dacia Arena",
+                    "city": "Udine"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 135,
+                "name": "Serie A",
+                "country": "Italy",
+                "logo": "https://media-3.api-sports.io/football/leagues/135.png",
+                "flag": "https://media-3.api-sports.io/flags/it.svg",
+                "season": 2022,
+                "round": "Regular Season - 20"
+            },
+            "teams": {
+                "home": {
+                    "id": 494,
+                    "name": "Udinese",
+                    "logo": "https://media-1.api-sports.io/football/teams/494.png",
+                    "winner": null
+                },
+                "away": {
+                    "id": 504,
+                    "name": "Verona",
+                    "logo": "https://media-2.api-sports.io/football/teams/504.png",
+                    "winner": null
+                }
+            },
+            "goals": {
+                "home": 1,
+                "away": 1
+            },
+            "score": {
+                "halftime": {
+                    "home": 1,
+                    "away": 1
+                },
+                "fulltime": {
+                    "home": 1,
+                    "away": 1
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 878131,
+                "referee": "Juan Luis Pulido Santana, Spain",
+                "timezone": "europe/london",
+                "date": "2023-01-30T20:00:00+00:00",
+                "timestamp": 1675108800,
+                "periods": {
+                    "first": 1675108800,
+                    "second": 1675112400
+                },
+                "venue": {
+                    "id": 1498,
+                    "name": "Estadio de la Cer\u00e1mica",
+                    "city": "Villarreal"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 140,
+                "name": "La Liga",
+                "country": "Spain",
+                "logo": "https://media-3.api-sports.io/football/leagues/140.png",
+                "flag": "https://media-1.api-sports.io/flags/es.svg",
+                "season": 2022,
+                "round": "Regular Season - 19"
+            },
+            "teams": {
+                "home": {
+                    "id": 533,
+                    "name": "Villarreal",
+                    "logo": "https://media-1.api-sports.io/football/teams/533.png",
+                    "winner": false
+                },
+                "away": {
+                    "id": 728,
+                    "name": "Rayo Vallecano",
+                    "logo": "https://media-2.api-sports.io/football/teams/728.png",
+                    "winner": true
+                }
+            },
+            "goals": {
+                "home": 0,
+                "away": 1
+            },
+            "score": {
+                "halftime": {
+                    "home": 0,
+                    "away": 0
+                },
+                "fulltime": {
+                    "home": 0,
+                    "away": 1
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 878596,
+                "referee": "Jon Ander Gonzalez Esteban, Spain",
+                "timezone": "europe/london",
+                "date": "2023-01-30T20:00:00+00:00",
+                "timestamp": 1675108800,
+                "periods": {
+                    "first": 1675108800,
+                    "second": 1675112400
+                },
+                "venue": {
+                    "id": 1493,
+                    "name": "Estadio de la Romareda",
+                    "city": "Zaragoza"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 141,
+                "name": "Segunda Divisi\u00f3n",
+                "country": "Spain",
+                "logo": "https://media-1.api-sports.io/football/leagues/141.png",
+                "flag": "https://media-2.api-sports.io/flags/es.svg",
+                "season": 2022,
+                "round": "Regular Season - 25"
+            },
+            "teams": {
+                "home": {
+                    "id": 732,
+                    "name": "Zaragoza",
+                    "logo": "https://media-2.api-sports.io/football/teams/732.png",
+                    "winner": null
+                },
+                "away": {
+                    "id": 4907,
+                    "name": "Ponferradina",
+                    "logo": "https://media-3.api-sports.io/football/teams/4907.png",
+                    "winner": null
+                }
+            },
+            "goals": {
+                "home": 0,
+                "away": 0
+            },
+            "score": {
+                "halftime": {
+                    "home": 0,
+                    "away": 0
+                },
+                "fulltime": {
+                    "home": 0,
+                    "away": 0
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 923832,
+                "referee": "Athanasios Tzilos, Greece",
+                "timezone": "europe/london",
+                "date": "2023-01-30T19:00:00+00:00",
+                "timestamp": 1675105200,
+                "periods": {
+                    "first": 1675105200,
+                    "second": 1675108800
+                },
+                "venue": {
+                    "id": 766,
+                    "name": "Stadio Theodoros Kolokotronis",
+                    "city": "Tripoli"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 197,
+                "name": "Super League 1",
+                "country": "Greece",
+                "logo": "https://media-1.api-sports.io/football/leagues/197.png",
+                "flag": "https://media-3.api-sports.io/flags/gr.svg",
+                "season": 2022,
+                "round": "Regular Season - 20"
+            },
+            "teams": {
+                "home": {
+                    "id": 955,
+                    "name": "Asteras Tripolis",
+                    "logo": "https://media-3.api-sports.io/football/teams/955.png",
+                    "winner": true
+                },
+                "away": {
+                    "id": 617,
+                    "name": "Panathinaikos",
+                    "logo": "https://media-1.api-sports.io/football/teams/617.png",
+                    "winner": false
+                }
+            },
+            "goals": {
+                "home": 1,
+                "away": 0
+            },
+            "score": {
+                "halftime": {
+                    "home": 0,
+                    "away": 0
+                },
+                "fulltime": {
+                    "home": 1,
+                    "away": 0
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 923835,
+                "referee": "Aristotelis Diamantopoulos, Greece",
+                "timezone": "europe/london",
+                "date": "2023-01-30T16:00:00+00:00",
+                "timestamp": 1675094400,
+                "periods": {
+                    "first": 1675094400,
+                    "second": 1675098000
+                },
+                "venue": {
+                    "id": 780,
+                    "name": "Stadio Toumbas",
+                    "city": "Thessalon\u00edki"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 197,
+                "name": "Super League 1",
+                "country": "Greece",
+                "logo": "https://media-3.api-sports.io/football/leagues/197.png",
+                "flag": "https://media-1.api-sports.io/flags/gr.svg",
+                "season": 2022,
+                "round": "Regular Season - 20"
+            },
+            "teams": {
+                "home": {
+                    "id": 619,
+                    "name": "PAOK",
+                    "logo": "https://media-1.api-sports.io/football/teams/619.png",
+                    "winner": true
+                },
+                "away": {
+                    "id": 957,
+                    "name": "Levadiakos",
+                    "logo": "https://media-1.api-sports.io/football/teams/957.png",
+                    "winner": false
+                }
+            },
+            "goals": {
+                "home": 3,
+                "away": 2
+            },
+            "score": {
+                "halftime": {
+                    "home": 2,
+                    "away": 1
+                },
+                "fulltime": {
+                    "home": 3,
+                    "away": 2
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 923837,
+                "referee": "Christos Vergetis, Greece",
+                "timezone": "europe/london",
+                "date": "2023-01-30T17:30:00+00:00",
+                "timestamp": 1675099800,
+                "periods": {
+                    "first": 1675099800,
+                    "second": 1675103400
+                },
+                "venue": {
+                    "id": 771,
+                    "name": "Dimotiko Athlitiko Kentro Lamias",
+                    "city": "Lamia"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 197,
+                "name": "Super League 1",
+                "country": "Greece",
+                "logo": "https://media-1.api-sports.io/football/leagues/197.png",
+                "flag": "https://media-1.api-sports.io/flags/gr.svg",
+                "season": 2022,
+                "round": "Regular Season - 20"
+            },
+            "teams": {
+                "home": {
+                    "id": 956,
+                    "name": "Lamia",
+                    "logo": "https://media-3.api-sports.io/football/teams/956.png",
+                    "winner": false
+                },
+                "away": {
+                    "id": 7513,
+                    "name": "Ionikos",
+                    "logo": "https://media-1.api-sports.io/football/teams/7513.png",
+                    "winner": true
+                }
+            },
+            "goals": {
+                "home": 0,
+                "away": 2
+            },
+            "score": {
+                "halftime": {
+                    "home": 0,
+                    "away": 2
+                },
+                "fulltime": {
+                    "home": 0,
+                    "away": 2
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 974340,
+                "referee": "Victor Alfonso Caceres Hernandez, Mexico",
+                "timezone": "europe/london",
+                "date": "2023-01-30T01:00:00+00:00",
+                "timestamp": 1675040400,
+                "periods": {
+                    "first": 1675040400,
+                    "second": 1675044000
+                },
+                "venue": {
+                    "id": 1081,
+                    "name": "Estadio Hidalgo",
+                    "city": "Pachuca de Soto"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 262,
+                "name": "Liga MX",
+                "country": "Mexico",
+                "logo": "https://media-1.api-sports.io/football/leagues/262.png",
+                "flag": "https://media-2.api-sports.io/flags/mx.svg",
+                "season": 2022,
+                "round": "Clausura - 4"
+            },
+            "teams": {
+                "home": {
+                    "id": 2292,
+                    "name": "Pachuca",
+                    "logo": "https://media-2.api-sports.io/football/teams/2292.png",
+                    "winner": true
+                },
+                "away": {
+                    "id": 2288,
+                    "name": "Necaxa",
+                    "logo": "https://media-2.api-sports.io/football/teams/2288.png",
+                    "winner": false
+                }
+            },
+            "goals": {
+                "home": 2,
+                "away": 1
+            },
+            "score": {
+                "halftime": {
+                    "home": 1,
+                    "away": 0
+                },
+                "fulltime": {
+                    "home": 2,
+                    "away": 1
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 980337,
+                "referee": "Abdulhadi Al Ruaile",
+                "timezone": "europe/london",
+                "date": "2023-01-30T13:35:00+00:00",
+                "timestamp": 1675085700,
+                "periods": {
+                    "first": 1675085700,
+                    "second": 1675089300
+                },
+                "venue": {
+                    "id": null,
+                    "name": "Saoud Bin Abdulrahman Stadium",
+                    "city": "Al-Wakra"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 305,
+                "name": "Stars League",
+                "country": "Qatar",
+                "logo": "https://media-2.api-sports.io/football/leagues/305.png",
+                "flag": "https://media-3.api-sports.io/flags/qa.svg",
+                "season": 2022,
+                "round": "Regular Season - 12"
+            },
+            "teams": {
+                "home": {
+                    "id": 2900,
+                    "name": "Al Wakrah",
+                    "logo": "https://media-1.api-sports.io/football/teams/2900.png",
+                    "winner": false
+                },
+                "away": {
+                    "id": 2904,
+                    "name": "Al-Duhail SC",
+                    "logo": "https://media-2.api-sports.io/football/teams/2904.png",
+                    "winner": true
+                }
+            },
+            "goals": {
+                "home": 0,
+                "away": 1
+            },
+            "score": {
+                "halftime": {
+                    "home": 0,
+                    "away": 1
+                },
+                "fulltime": {
+                    "home": 0,
+                    "away": 1
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 980338,
+                "referee": "Hamad Al Subaie",
+                "timezone": "europe/london",
+                "date": "2023-01-30T13:35:00+00:00",
+                "timestamp": 1675085700,
+                "periods": {
+                    "first": 1675085700,
+                    "second": 1675089300
+                },
+                "venue": {
+                    "id": null,
+                    "name": "Suheim Bin Hamad Stadium",
+                    "city": "Doha"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 305,
+                "name": "Stars League",
+                "country": "Qatar",
+                "logo": "https://media-2.api-sports.io/football/leagues/305.png",
+                "flag": "https://media-1.api-sports.io/flags/qa.svg",
+                "season": 2022,
+                "round": "Regular Season - 12"
+            },
+            "teams": {
+                "home": {
+                    "id": 2916,
+                    "name": "Al Shamal",
+                    "logo": "https://media-3.api-sports.io/football/teams/2916.png",
+                    "winner": false
+                },
+                "away": {
+                    "id": 2897,
+                    "name": "Al-Rayyan SC",
+                    "logo": "https://media-2.api-sports.io/football/teams/2897.png",
+                    "winner": true
+                }
+            },
+            "goals": {
+                "home": 1,
+                "away": 2
+            },
+            "score": {
+                "halftime": {
+                    "home": 1,
+                    "away": 2
+                },
+                "fulltime": {
+                    "home": 1,
+                    "away": 2
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 980339,
+                "referee": "Khamis Al Marri",
+                "timezone": "europe/london",
+                "date": "2023-01-30T15:45:00+00:00",
+                "timestamp": 1675093500,
+                "periods": {
+                    "first": 1675093500,
+                    "second": 1675097100
+                },
+                "venue": {
+                    "id": null,
+                    "name": "Suheim Bin Hamad Stadium",
+                    "city": "Doha"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 305,
+                "name": "Stars League",
+                "country": "Qatar",
+                "logo": "https://media-2.api-sports.io/football/leagues/305.png",
+                "flag": "https://media-3.api-sports.io/flags/qa.svg",
+                "season": 2022,
+                "round": "Regular Season - 12"
+            },
+            "teams": {
+                "home": {
+                    "id": 2907,
+                    "name": "Qatar SC",
+                    "logo": "https://media-1.api-sports.io/football/teams/2907.png",
+                    "winner": true
+                },
+                "away": {
+                    "id": 2905,
+                    "name": "Al-Arabi SC",
+                    "logo": "https://media-3.api-sports.io/football/teams/2905.png",
+                    "winner": false
+                }
+            },
+            "goals": {
+                "home": 3,
+                "away": 2
+            },
+            "score": {
+                "halftime": {
+                    "home": 2,
+                    "away": 1
+                },
+                "fulltime": {
+                    "home": 3,
+                    "away": 2
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 877507,
+                "referee": "T. Clarke",
+                "timezone": "europe/london",
+                "date": "2023-01-30T19:45:00+00:00",
+                "timestamp": 1675107900,
+                "periods": {
+                    "first": 1675107900,
+                    "second": 1675111500
+                },
+                "venue": {
+                    "id": 18636,
+                    "name": "BetMcLean Oval",
+                    "city": "Belfast"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 408,
+                "name": "Premiership",
+                "country": "Northern-Ireland",
+                "logo": "https://media-1.api-sports.io/football/leagues/408.png",
+                "flag": "https://media-1.api-sports.io/flags/gb.svg",
+                "season": 2022,
+                "round": "Regular Season - 26"
+            },
+            "teams": {
+                "home": {
+                    "id": 5352,
+                    "name": "Glentoran",
+                    "logo": "https://media-3.api-sports.io/football/teams/5352.png",
+                    "winner": true
+                },
+                "away": {
+                    "id": 697,
+                    "name": "Crusaders FC",
+                    "logo": "https://media-2.api-sports.io/football/teams/697.png",
+                    "winner": false
+                }
+            },
+            "goals": {
+                "home": 2,
+                "away": 0
+            },
+            "score": {
+                "halftime": {
+                    "home": 0,
+                    "away": 0
+                },
+                "fulltime": {
+                    "home": 2,
+                    "away": 0
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 867741,
+                "referee": "R. Dieperink",
+                "timezone": "europe/london",
+                "date": "2023-01-30T19:00:00+00:00",
+                "timestamp": 1675105200,
+                "periods": {
+                    "first": 1675105200,
+                    "second": 1675108800
+                },
+                "venue": {
+                    "id": 1146,
+                    "name": "Parkstad Limburg Stadion",
+                    "city": "Kerkrade"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 89,
+                "name": "Eerste Divisie",
+                "country": "Netherlands",
+                "logo": "https://media-2.api-sports.io/football/leagues/89.png",
+                "flag": "https://media-2.api-sports.io/flags/nl.svg",
+                "season": 2022,
+                "round": "Regular Season - 18"
+            },
+            "teams": {
+                "home": {
+                    "id": 414,
+                    "name": "Roda",
+                    "logo": "https://media-2.api-sports.io/football/teams/414.png",
+                    "winner": false
+                },
+                "away": {
+                    "id": 193,
+                    "name": "PEC Zwolle",
+                    "logo": "https://media-2.api-sports.io/football/teams/193.png",
+                    "winner": true
+                }
+            },
+            "goals": {
+                "home": 1,
+                "away": 2
+            },
+            "score": {
+                "halftime": {
+                    "home": 0,
+                    "away": 2
+                },
+                "fulltime": {
+                    "home": 1,
+                    "away": 2
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 867782,
+                "referee": "E. Blank",
+                "timezone": "europe/london",
+                "date": "2023-01-30T19:00:00+00:00",
+                "timestamp": 1675105200,
+                "periods": {
+                    "first": 1675105200,
+                    "second": 1675108800
+                },
+                "venue": {
+                    "id": 12681,
+                    "name": "PSV Campus De Herdgang",
+                    "city": "Eindhoven"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 89,
+                "name": "Eerste Divisie",
+                "country": "Netherlands",
+                "logo": "https://media-1.api-sports.io/football/leagues/89.png",
+                "flag": "https://media-3.api-sports.io/flags/nl.svg",
+                "season": 2022,
+                "round": "Regular Season - 22"
+            },
+            "teams": {
+                "home": {
+                    "id": 411,
+                    "name": "Jong PSV",
+                    "logo": "https://media-2.api-sports.io/football/teams/411.png",
+                    "winner": true
+                },
+                "away": {
+                    "id": 195,
+                    "name": "Willem II",
+                    "logo": "https://media-3.api-sports.io/football/teams/195.png",
+                    "winner": false
+                }
+            },
+            "goals": {
+                "home": 3,
+                "away": 2
+            },
+            "score": {
+                "halftime": {
+                    "home": 0,
+                    "away": 1
+                },
+                "fulltime": {
+                    "home": 3,
+                    "away": 2
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 867783,
+                "referee": "M. Vos",
+                "timezone": "europe/london",
+                "date": "2023-01-30T19:00:00+00:00",
+                "timestamp": 1675105200,
+                "periods": {
+                    "first": 1675105200,
+                    "second": 1675108800
+                },
+                "venue": {
+                    "id": 12600,
+                    "name": "Sportcomplex Zoudenbalch",
+                    "city": "Utrecht"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 89,
+                "name": "Eerste Divisie",
+                "country": "Netherlands",
+                "logo": "https://media-1.api-sports.io/football/leagues/89.png",
+                "flag": "https://media-2.api-sports.io/flags/nl.svg",
+                "season": 2022,
+                "round": "Regular Season - 22"
+            },
+            "teams": {
+                "home": {
+                    "id": 428,
+                    "name": "Jong Utrecht",
+                    "logo": "https://media-3.api-sports.io/football/teams/428.png",
+                    "winner": null
+                },
+                "away": {
+                    "id": 199,
+                    "name": "De Graafschap",
+                    "logo": "https://media-2.api-sports.io/football/teams/199.png",
+                    "winner": null
+                }
+            },
+            "goals": {
+                "home": 1,
+                "away": 1
+            },
+            "score": {
+                "halftime": {
+                    "home": 1,
+                    "away": 0
+                },
+                "fulltime": {
+                    "home": 1,
+                    "away": 1
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 898761,
+                "referee": "Helder Malheiro, Portugal",
+                "timezone": "europe/london",
+                "date": "2023-01-30T20:15:00+00:00",
+                "timestamp": 1675109700,
+                "periods": {
+                    "first": 1675109700,
+                    "second": 1675113300
+                },
+                "venue": {
+                    "id": 1295,
+                    "name": "Est\u00e1dio Dom Afonso Henriques",
+                    "city": "Guimar\u00e3es"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 94,
+                "name": "Primeira Liga",
+                "country": "Portugal",
+                "logo": "https://media-1.api-sports.io/football/leagues/94.png",
+                "flag": "https://media-3.api-sports.io/flags/pt.svg",
+                "season": 2022,
+                "round": "Regular Season - 18"
+            },
+            "teams": {
+                "home": {
+                    "id": 224,
+                    "name": "Guimaraes",
+                    "logo": "https://media-2.api-sports.io/football/teams/224.png",
+                    "winner": true
+                },
+                "away": {
+                    "id": 223,
+                    "name": "Chaves",
+                    "logo": "https://media-2.api-sports.io/football/teams/223.png",
+                    "winner": false
+                }
+            },
+            "goals": {
+                "home": 2,
+                "away": 1
+            },
+            "score": {
+                "halftime": {
+                    "home": 1,
+                    "away": 0
+                },
+                "fulltime": {
+                    "home": 2,
+                    "away": 1
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 881979,
+                "referee": "L. Pairetto",
+                "timezone": "europe/london",
+                "date": "2023-01-30T19:45:00+00:00",
+                "timestamp": 1675107900,
+                "periods": {
+                    "first": 1675107900,
+                    "second": 1675111500
+                },
+                "venue": {
+                    "id": 928,
+                    "name": "Dacia Arena",
+                    "city": "Udine"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 135,
+                "name": "Serie A",
+                "country": "Italy",
+                "logo": "https://media-3.api-sports.io/football/leagues/135.png",
+                "flag": "https://media-3.api-sports.io/flags/it.svg",
+                "season": 2022,
+                "round": "Regular Season - 20"
+            },
+            "teams": {
+                "home": {
+                    "id": 494,
+                    "name": "Udinese",
+                    "logo": "https://media-2.api-sports.io/football/teams/494.png",
+                    "winner": null
+                },
+                "away": {
+                    "id": 504,
+                    "name": "Verona",
+                    "logo": "https://media-1.api-sports.io/football/teams/504.png",
+                    "winner": null
+                }
+            },
+            "goals": {
+                "home": 1,
+                "away": 1
+            },
+            "score": {
+                "halftime": {
+                    "home": 1,
+                    "away": 1
+                },
+                "fulltime": {
+                    "home": 1,
+                    "away": 1
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 878131,
+                "referee": "Juan Pulido",
+                "timezone": "europe/london",
+                "date": "2023-01-30T20:00:00+00:00",
+                "timestamp": 1675108800,
+                "periods": {
+                    "first": 1675108800,
+                    "second": 1675112400
+                },
+                "venue": {
+                    "id": 1498,
+                    "name": "Estadio de la Cer\u00e1mica",
+                    "city": "Villarreal"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 140,
+                "name": "La Liga",
+                "country": "Spain",
+                "logo": "https://media-1.api-sports.io/football/leagues/140.png",
+                "flag": "https://media-1.api-sports.io/flags/es.svg",
+                "season": 2022,
+                "round": "Regular Season - 19"
+            },
+            "teams": {
+                "home": {
+                    "id": 533,
+                    "name": "Villarreal",
+                    "logo": "https://media-2.api-sports.io/football/teams/533.png",
+                    "winner": false
+                },
+                "away": {
+                    "id": 728,
+                    "name": "Rayo Vallecano",
+                    "logo": "https://media-2.api-sports.io/football/teams/728.png",
+                    "winner": true
+                }
+            },
+            "goals": {
+                "home": 0,
+                "away": 1
+            },
+            "score": {
+                "halftime": {
+                    "home": 0,
+                    "away": 0
+                },
+                "fulltime": {
+                    "home": 0,
+                    "away": 1
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 878596,
+                "referee": "Jon Ander Gonzalez Esteban, Spain",
+                "timezone": "europe/london",
+                "date": "2023-01-30T20:00:00+00:00",
+                "timestamp": 1675108800,
+                "periods": {
+                    "first": 1675108800,
+                    "second": 1675112400
+                },
+                "venue": {
+                    "id": 1493,
+                    "name": "Estadio de la Romareda",
+                    "city": "Zaragoza"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 141,
+                "name": "Segunda Divisi\u00f3n",
+                "country": "Spain",
+                "logo": "https://media-2.api-sports.io/football/leagues/141.png",
+                "flag": "https://media-2.api-sports.io/flags/es.svg",
+                "season": 2022,
+                "round": "Regular Season - 25"
+            },
+            "teams": {
+                "home": {
+                    "id": 732,
+                    "name": "Zaragoza",
+                    "logo": "https://media-3.api-sports.io/football/teams/732.png",
+                    "winner": null
+                },
+                "away": {
+                    "id": 4907,
+                    "name": "Ponferradina",
+                    "logo": "https://media-2.api-sports.io/football/teams/4907.png",
+                    "winner": null
+                }
+            },
+            "goals": {
+                "home": 0,
+                "away": 0
+            },
+            "score": {
+                "halftime": {
+                    "home": 0,
+                    "away": 0
+                },
+                "fulltime": {
+                    "home": 0,
+                    "away": 0
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 923832,
+                "referee": "Athanasios Tzilos, Greece",
+                "timezone": "europe/london",
+                "date": "2023-01-30T19:00:00+00:00",
+                "timestamp": 1675105200,
+                "periods": {
+                    "first": 1675105200,
+                    "second": 1675108800
+                },
+                "venue": {
+                    "id": 766,
+                    "name": "Stadio Theodoros Kolokotronis",
+                    "city": "Tripoli"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 197,
+                "name": "Super League 1",
+                "country": "Greece",
+                "logo": "https://media-1.api-sports.io/football/leagues/197.png",
+                "flag": "https://media-1.api-sports.io/flags/gr.svg",
+                "season": 2022,
+                "round": "Regular Season - 20"
+            },
+            "teams": {
+                "home": {
+                    "id": 955,
+                    "name": "Asteras Tripolis",
+                    "logo": "https://media-1.api-sports.io/football/teams/955.png",
+                    "winner": true
+                },
+                "away": {
+                    "id": 617,
+                    "name": "Panathinaikos",
+                    "logo": "https://media-3.api-sports.io/football/teams/617.png",
+                    "winner": false
+                }
+            },
+            "goals": {
+                "home": 1,
+                "away": 0
+            },
+            "score": {
+                "halftime": {
+                    "home": 0,
+                    "away": 0
+                },
+                "fulltime": {
+                    "home": 1,
+                    "away": 0
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 923835,
+                "referee": "Aristotelis Diamantopoulos, Greece",
+                "timezone": "europe/london",
+                "date": "2023-01-30T16:00:00+00:00",
+                "timestamp": 1675094400,
+                "periods": {
+                    "first": 1675094400,
+                    "second": 1675098000
+                },
+                "venue": {
+                    "id": 780,
+                    "name": "Stadio Toumbas",
+                    "city": "Thessalon\u00edki"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 197,
+                "name": "Super League 1",
+                "country": "Greece",
+                "logo": "https://media-3.api-sports.io/football/leagues/197.png",
+                "flag": "https://media-3.api-sports.io/flags/gr.svg",
+                "season": 2022,
+                "round": "Regular Season - 20"
+            },
+            "teams": {
+                "home": {
+                    "id": 619,
+                    "name": "PAOK",
+                    "logo": "https://media-2.api-sports.io/football/teams/619.png",
+                    "winner": true
+                },
+                "away": {
+                    "id": 957,
+                    "name": "Levadiakos",
+                    "logo": "https://media-3.api-sports.io/football/teams/957.png",
+                    "winner": false
+                }
+            },
+            "goals": {
+                "home": 3,
+                "away": 2
+            },
+            "score": {
+                "halftime": {
+                    "home": 2,
+                    "away": 1
+                },
+                "fulltime": {
+                    "home": 3,
+                    "away": 2
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 923837,
+                "referee": "Christos Vergetis, Greece",
+                "timezone": "europe/london",
+                "date": "2023-01-30T17:30:00+00:00",
+                "timestamp": 1675099800,
+                "periods": {
+                    "first": 1675099800,
+                    "second": 1675103400
+                },
+                "venue": {
+                    "id": 771,
+                    "name": "Dimotiko Athlitiko Kentro Lamias",
+                    "city": "Lamia"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 197,
+                "name": "Super League 1",
+                "country": "Greece",
+                "logo": "https://media-3.api-sports.io/football/leagues/197.png",
+                "flag": "https://media-2.api-sports.io/flags/gr.svg",
+                "season": 2022,
+                "round": "Regular Season - 20"
+            },
+            "teams": {
+                "home": {
+                    "id": 956,
+                    "name": "Lamia",
+                    "logo": "https://media-1.api-sports.io/football/teams/956.png",
+                    "winner": false
+                },
+                "away": {
+                    "id": 7513,
+                    "name": "Ionikos",
+                    "logo": "https://media-1.api-sports.io/football/teams/7513.png",
+                    "winner": true
+                }
+            },
+            "goals": {
+                "home": 0,
+                "away": 2
+            },
+            "score": {
+                "halftime": {
+                    "home": 0,
+                    "away": 2
+                },
+                "fulltime": {
+                    "home": 0,
+                    "away": 2
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 974340,
+                "referee": "Victor Alfonso Caceres Hernandez, Mexico",
+                "timezone": "europe/london",
+                "date": "2023-01-30T01:00:00+00:00",
+                "timestamp": 1675040400,
+                "periods": {
+                    "first": 1675040400,
+                    "second": 1675044000
+                },
+                "venue": {
+                    "id": 1081,
+                    "name": "Estadio Hidalgo",
+                    "city": "Pachuca de Soto"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 262,
+                "name": "Liga MX",
+                "country": "Mexico",
+                "logo": "https://media-1.api-sports.io/football/leagues/262.png",
+                "flag": "https://media-2.api-sports.io/flags/mx.svg",
+                "season": 2022,
+                "round": "Clausura - 4"
+            },
+            "teams": {
+                "home": {
+                    "id": 2292,
+                    "name": "Pachuca",
+                    "logo": "https://media-3.api-sports.io/football/teams/2292.png",
+                    "winner": true
+                },
+                "away": {
+                    "id": 2288,
+                    "name": "Necaxa",
+                    "logo": "https://media-1.api-sports.io/football/teams/2288.png",
+                    "winner": false
+                }
+            },
+            "goals": {
+                "home": 2,
+                "away": 1
+            },
+            "score": {
+                "halftime": {
+                    "home": 1,
+                    "away": 0
+                },
+                "fulltime": {
+                    "home": 2,
+                    "away": 1
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 980337,
+                "referee": "Abdulhadi Al Ruaile",
+                "timezone": "europe/london",
+                "date": "2023-01-30T13:35:00+00:00",
+                "timestamp": 1675085700,
+                "periods": {
+                    "first": 1675085700,
+                    "second": 1675089300
+                },
+                "venue": {
+                    "id": null,
+                    "name": "Saoud Bin Abdulrahman Stadium",
+                    "city": "Al-Wakra"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 305,
+                "name": "Stars League",
+                "country": "Qatar",
+                "logo": "https://media-1.api-sports.io/football/leagues/305.png",
+                "flag": "https://media-1.api-sports.io/flags/qa.svg",
+                "season": 2022,
+                "round": "Regular Season - 12"
+            },
+            "teams": {
+                "home": {
+                    "id": 2900,
+                    "name": "Al Wakrah",
+                    "logo": "https://media-2.api-sports.io/football/teams/2900.png",
+                    "winner": false
+                },
+                "away": {
+                    "id": 2904,
+                    "name": "Al-Duhail SC",
+                    "logo": "https://media-3.api-sports.io/football/teams/2904.png",
+                    "winner": true
+                }
+            },
+            "goals": {
+                "home": 0,
+                "away": 1
+            },
+            "score": {
+                "halftime": {
+                    "home": 0,
+                    "away": 1
+                },
+                "fulltime": {
+                    "home": 0,
+                    "away": 1
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 980338,
+                "referee": "Hamad Al Subaie",
+                "timezone": "europe/london",
+                "date": "2023-01-30T13:35:00+00:00",
+                "timestamp": 1675085700,
+                "periods": {
+                    "first": 1675085700,
+                    "second": 1675089300
+                },
+                "venue": {
+                    "id": null,
+                    "name": "Suheim Bin Hamad Stadium",
+                    "city": "Doha"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 305,
+                "name": "Stars League",
+                "country": "Qatar",
+                "logo": "https://media-1.api-sports.io/football/leagues/305.png",
+                "flag": "https://media-3.api-sports.io/flags/qa.svg",
+                "season": 2022,
+                "round": "Regular Season - 12"
+            },
+            "teams": {
+                "home": {
+                    "id": 2916,
+                    "name": "Al Shamal",
+                    "logo": "https://media-1.api-sports.io/football/teams/2916.png",
+                    "winner": false
+                },
+                "away": {
+                    "id": 2897,
+                    "name": "Al-Rayyan SC",
+                    "logo": "https://media-2.api-sports.io/football/teams/2897.png",
+                    "winner": true
+                }
+            },
+            "goals": {
+                "home": 1,
+                "away": 2
+            },
+            "score": {
+                "halftime": {
+                    "home": 1,
+                    "away": 2
+                },
+                "fulltime": {
+                    "home": 1,
+                    "away": 2
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 980339,
+                "referee": "Khamis Al Marri",
+                "timezone": "europe/london",
+                "date": "2023-01-30T15:45:00+00:00",
+                "timestamp": 1675093500,
+                "periods": {
+                    "first": 1675093500,
+                    "second": 1675097100
+                },
+                "venue": {
+                    "id": null,
+                    "name": "Suheim Bin Hamad Stadium",
+                    "city": "Doha"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 305,
+                "name": "Stars League",
+                "country": "Qatar",
+                "logo": "https://media-2.api-sports.io/football/leagues/305.png",
+                "flag": "https://media-2.api-sports.io/flags/qa.svg",
+                "season": 2022,
+                "round": "Regular Season - 12"
+            },
+            "teams": {
+                "home": {
+                    "id": 2907,
+                    "name": "Qatar SC",
+                    "logo": "https://media-3.api-sports.io/football/teams/2907.png",
+                    "winner": true
+                },
+                "away": {
+                    "id": 2905,
+                    "name": "Al-Arabi SC",
+                    "logo": "https://media-3.api-sports.io/football/teams/2905.png",
+                    "winner": false
+                }
+            },
+            "goals": {
+                "home": 3,
+                "away": 2
+            },
+            "score": {
+                "halftime": {
+                    "home": 2,
+                    "away": 1
+                },
+                "fulltime": {
+                    "home": 3,
+                    "away": 2
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 877507,
+                "referee": "T. Clarke",
+                "timezone": "europe/london",
+                "date": "2023-01-30T19:45:00+00:00",
+                "timestamp": 1675107900,
+                "periods": {
+                    "first": 1675107900,
+                    "second": 1675111500
+                },
+                "venue": {
+                    "id": 18636,
+                    "name": "BetMcLean Oval",
+                    "city": "Belfast"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 408,
+                "name": "Premiership",
+                "country": "Northern-Ireland",
+                "logo": "https://media-3.api-sports.io/football/leagues/408.png",
+                "flag": "https://media-1.api-sports.io/flags/gb.svg",
+                "season": 2022,
+                "round": "Regular Season - 26"
+            },
+            "teams": {
+                "home": {
+                    "id": 5352,
+                    "name": "Glentoran",
+                    "logo": "https://media-1.api-sports.io/football/teams/5352.png",
+                    "winner": true
+                },
+                "away": {
+                    "id": 697,
+                    "name": "Crusaders FC",
+                    "logo": "https://media-3.api-sports.io/football/teams/697.png",
+                    "winner": false
+                }
+            },
+            "goals": {
+                "home": 2,
+                "away": 0
+            },
+            "score": {
+                "halftime": {
+                    "home": 0,
+                    "away": 0
+                },
+                "fulltime": {
+                    "home": 2,
+                    "away": 0
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        }
+    ]
+}

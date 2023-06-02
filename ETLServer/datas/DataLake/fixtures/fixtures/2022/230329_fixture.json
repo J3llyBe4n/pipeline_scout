@@ -1,0 +1,4113 @@
+{
+    "data": [
+        {
+            "fixture": {
+                "id": 899384,
+                "referee": "C. Biever",
+                "timezone": "Europe/London",
+                "date": "2023-03-29T19:00:00+01:00",
+                "timestamp": 1680112800,
+                "periods": {
+                    "first": 1680112800,
+                    "second": 1680116400
+                },
+                "venue": {
+                    "id": 1043,
+                    "name": "Stade John Gr\u00fcn",
+                    "city": "Mondorf-les-Bains"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 261,
+                "name": "National Division",
+                "country": "Luxembourg",
+                "logo": "https://media-2.api-sports.io/football/leagues/261.png",
+                "flag": "https://media-1.api-sports.io/flags/lu.svg",
+                "season": 2022,
+                "round": "Regular Season - 22"
+            },
+            "teams": {
+                "home": {
+                    "id": 2037,
+                    "name": "US Mondorf-les-bains",
+                    "logo": "https://media-1.api-sports.io/football/teams/2037.png",
+                    "winner": true
+                },
+                "away": {
+                    "id": 15886,
+                    "name": "Mondercange",
+                    "logo": "https://media-2.api-sports.io/football/teams/15886.png",
+                    "winner": false
+                }
+            },
+            "goals": {
+                "home": 4,
+                "away": 1
+            },
+            "score": {
+                "halftime": {
+                    "home": 1,
+                    "away": 1
+                },
+                "fulltime": {
+                    "home": 4,
+                    "away": 1
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            },
+            "events": [
+                {
+                    "time": {
+                        "elapsed": 20,
+                        "extra": null
+                    },
+                    "team": {
+                        "id": 15886,
+                        "name": "Mondercange",
+                        "logo": "https://media-3.api-sports.io/football/teams/15886.png"
+                    },
+                    "player": {
+                        "id": 274348,
+                        "name": "L. Fall"
+                    },
+                    "assist": {
+                        "id": null,
+                        "name": null
+                    },
+                    "type": "Goal",
+                    "detail": "Normal Goal",
+                    "comments": null
+                },
+                {
+                    "time": {
+                        "elapsed": 45,
+                        "extra": 4
+                    },
+                    "team": {
+                        "id": 2037,
+                        "name": "US Mondorf-les-bains",
+                        "logo": "https://media-2.api-sports.io/football/teams/2037.png"
+                    },
+                    "player": {
+                        "id": 22830,
+                        "name": "B. Abdelkadous"
+                    },
+                    "assist": {
+                        "id": null,
+                        "name": null
+                    },
+                    "type": "Goal",
+                    "detail": "Normal Goal",
+                    "comments": null
+                },
+                {
+                    "time": {
+                        "elapsed": 46,
+                        "extra": null
+                    },
+                    "team": {
+                        "id": 2037,
+                        "name": "US Mondorf-les-bains",
+                        "logo": "https://media-2.api-sports.io/football/teams/2037.png"
+                    },
+                    "player": {
+                        "id": 105833,
+                        "name": "D. Ramdedovi\u0107"
+                    },
+                    "assist": {
+                        "id": 327411,
+                        "name": "M. Mendes"
+                    },
+                    "type": "subst",
+                    "detail": "Substitution 1",
+                    "comments": null
+                },
+                {
+                    "time": {
+                        "elapsed": 62,
+                        "extra": null
+                    },
+                    "team": {
+                        "id": 15886,
+                        "name": "Mondercange",
+                        "logo": "https://media-1.api-sports.io/football/teams/15886.png"
+                    },
+                    "player": {
+                        "id": 377286,
+                        "name": "D. Myre"
+                    },
+                    "assist": {
+                        "id": 377287,
+                        "name": "J. Amadei"
+                    },
+                    "type": "subst",
+                    "detail": "Substitution 1",
+                    "comments": null
+                },
+                {
+                    "time": {
+                        "elapsed": 64,
+                        "extra": null
+                    },
+                    "team": {
+                        "id": 2037,
+                        "name": "US Mondorf-les-bains",
+                        "logo": "https://media-1.api-sports.io/football/teams/2037.png"
+                    },
+                    "player": {
+                        "id": 74703,
+                        "name": "M. Benamra"
+                    },
+                    "assist": {
+                        "id": 274272,
+                        "name": "D. Fernandes Lopes"
+                    },
+                    "type": "subst",
+                    "detail": "Substitution 2",
+                    "comments": null
+                },
+                {
+                    "time": {
+                        "elapsed": 78,
+                        "extra": null
+                    },
+                    "team": {
+                        "id": 15886,
+                        "name": "Mondercange",
+                        "logo": "https://media-3.api-sports.io/football/teams/15886.png"
+                    },
+                    "player": {
+                        "id": 117197,
+                        "name": "Brandon Soares Rosa"
+                    },
+                    "assist": {
+                        "id": 119064,
+                        "name": "D. De Sousa Xavier"
+                    },
+                    "type": "subst",
+                    "detail": "Substitution 2",
+                    "comments": null
+                },
+                {
+                    "time": {
+                        "elapsed": 81,
+                        "extra": null
+                    },
+                    "team": {
+                        "id": 2037,
+                        "name": "US Mondorf-les-bains",
+                        "logo": "https://media-3.api-sports.io/football/teams/2037.png"
+                    },
+                    "player": {
+                        "id": 203713,
+                        "name": "A. Benhemine"
+                    },
+                    "assist": {
+                        "id": null,
+                        "name": null
+                    },
+                    "type": "Goal",
+                    "detail": "Normal Goal",
+                    "comments": null
+                },
+                {
+                    "time": {
+                        "elapsed": 82,
+                        "extra": null
+                    },
+                    "team": {
+                        "id": 15886,
+                        "name": "Mondercange",
+                        "logo": "https://media-1.api-sports.io/football/teams/15886.png"
+                    },
+                    "player": {
+                        "id": 1658,
+                        "name": "C. Moreira"
+                    },
+                    "assist": {
+                        "id": 63041,
+                        "name": "O. Kaylesiz"
+                    },
+                    "type": "subst",
+                    "detail": "Substitution 3",
+                    "comments": null
+                },
+                {
+                    "time": {
+                        "elapsed": 83,
+                        "extra": null
+                    },
+                    "team": {
+                        "id": 2037,
+                        "name": "US Mondorf-les-bains",
+                        "logo": "https://media-3.api-sports.io/football/teams/2037.png"
+                    },
+                    "player": {
+                        "id": 119962,
+                        "name": "D. Holter"
+                    },
+                    "assist": {
+                        "id": null,
+                        "name": null
+                    },
+                    "type": "Goal",
+                    "detail": "Normal Goal",
+                    "comments": null
+                },
+                {
+                    "time": {
+                        "elapsed": 85,
+                        "extra": null
+                    },
+                    "team": {
+                        "id": 2037,
+                        "name": "US Mondorf-les-bains",
+                        "logo": "https://media-2.api-sports.io/football/teams/2037.png"
+                    },
+                    "player": {
+                        "id": 119962,
+                        "name": "D. Holter"
+                    },
+                    "assist": {
+                        "id": 203689,
+                        "name": "F. Eren"
+                    },
+                    "type": "subst",
+                    "detail": "Substitution 3",
+                    "comments": null
+                },
+                {
+                    "time": {
+                        "elapsed": 90,
+                        "extra": 3
+                    },
+                    "team": {
+                        "id": 2037,
+                        "name": "US Mondorf-les-bains",
+                        "logo": "https://media-1.api-sports.io/football/teams/2037.png"
+                    },
+                    "player": {
+                        "id": 87181,
+                        "name": "S. Bekkouche"
+                    },
+                    "assist": {
+                        "id": null,
+                        "name": null
+                    },
+                    "type": "Goal",
+                    "detail": "Penalty",
+                    "comments": null
+                }
+            ],
+            "lineups": [
+                {
+                    "team": {
+                        "id": 2037,
+                        "name": "US Mondorf-les-bains",
+                        "logo": "https://media-3.api-sports.io/football/teams/2037.png",
+                        "colors": null
+                    },
+                    "coach": {
+                        "id": 8233,
+                        "name": "Manuel Correia",
+                        "photo": "https://media-1.api-sports.io/football/coachs/8233.png"
+                    },
+                    "formation": null,
+                    "startXI": [
+                        {
+                            "player": {
+                                "id": 122214,
+                                "name": "J. Machado",
+                                "number": null,
+                                "pos": null,
+                                "grid": null
+                            }
+                        },
+                        {
+                            "player": {
+                                "id": 203713,
+                                "name": "A. Benhemine",
+                                "number": null,
+                                "pos": null,
+                                "grid": null
+                            }
+                        },
+                        {
+                            "player": {
+                                "id": 271522,
+                                "name": "Costinha",
+                                "number": null,
+                                "pos": null,
+                                "grid": null
+                            }
+                        },
+                        {
+                            "player": {
+                                "id": 393125,
+                                "name": "S. Foufou\u00e9",
+                                "number": null,
+                                "pos": null,
+                                "grid": null
+                            }
+                        },
+                        {
+                            "player": {
+                                "id": 105833,
+                                "name": "D. Ramdedovi\u0107",
+                                "number": null,
+                                "pos": null,
+                                "grid": null
+                            }
+                        },
+                        {
+                            "player": {
+                                "id": 119962,
+                                "name": "D. Holter",
+                                "number": null,
+                                "pos": null,
+                                "grid": null
+                            }
+                        },
+                        {
+                            "player": {
+                                "id": 22830,
+                                "name": "B. Abdelkadous",
+                                "number": null,
+                                "pos": null,
+                                "grid": null
+                            }
+                        },
+                        {
+                            "player": {
+                                "id": 74703,
+                                "name": "M. Benamra",
+                                "number": null,
+                                "pos": null,
+                                "grid": null
+                            }
+                        },
+                        {
+                            "player": {
+                                "id": 137462,
+                                "name": "B. Schmit",
+                                "number": null,
+                                "pos": null,
+                                "grid": null
+                            }
+                        },
+                        {
+                            "player": {
+                                "id": 41255,
+                                "name": "A. Keita",
+                                "number": null,
+                                "pos": null,
+                                "grid": null
+                            }
+                        },
+                        {
+                            "player": {
+                                "id": 87181,
+                                "name": "S. Bekkouche",
+                                "number": null,
+                                "pos": null,
+                                "grid": null
+                            }
+                        }
+                    ],
+                    "substitutes": [
+                        {
+                            "player": {
+                                "id": 327411,
+                                "name": "M. Mendes",
+                                "number": null,
+                                "pos": null,
+                                "grid": null
+                            }
+                        },
+                        {
+                            "player": {
+                                "id": 274272,
+                                "name": "D. Fernandes Lopes",
+                                "number": null,
+                                "pos": null,
+                                "grid": null
+                            }
+                        },
+                        {
+                            "player": {
+                                "id": 203689,
+                                "name": "F. Eren",
+                                "number": null,
+                                "pos": null,
+                                "grid": null
+                            }
+                        }
+                    ]
+                },
+                {
+                    "team": {
+                        "id": 15886,
+                        "name": "Mondercange",
+                        "logo": "https://media-1.api-sports.io/football/teams/15886.png",
+                        "colors": null
+                    },
+                    "coach": {
+                        "id": 19458,
+                        "name": "O. Ciancanelli",
+                        "photo": "https://media-2.api-sports.io/football/coachs/19458.png"
+                    },
+                    "formation": null,
+                    "startXI": [
+                        {
+                            "player": {
+                                "id": 377283,
+                                "name": "D. Husovic",
+                                "number": null,
+                                "pos": null,
+                                "grid": null
+                            }
+                        },
+                        {
+                            "player": {
+                                "id": 1658,
+                                "name": "C. Moreira",
+                                "number": null,
+                                "pos": null,
+                                "grid": null
+                            }
+                        },
+                        {
+                            "player": {
+                                "id": 105986,
+                                "name": "T. Laterza",
+                                "number": null,
+                                "pos": null,
+                                "grid": null
+                            }
+                        },
+                        {
+                            "player": {
+                                "id": 274348,
+                                "name": "L. Fall",
+                                "number": null,
+                                "pos": null,
+                                "grid": null
+                            }
+                        },
+                        {
+                            "player": {
+                                "id": 117197,
+                                "name": "Brandon Soares Rosa",
+                                "number": null,
+                                "pos": null,
+                                "grid": null
+                            }
+                        },
+                        {
+                            "player": {
+                                "id": 131922,
+                                "name": "J. Kerstenne",
+                                "number": null,
+                                "pos": null,
+                                "grid": null
+                            }
+                        },
+                        {
+                            "player": {
+                                "id": 377285,
+                                "name": "J. Caracciolo",
+                                "number": null,
+                                "pos": null,
+                                "grid": null
+                            }
+                        },
+                        {
+                            "player": {
+                                "id": 377286,
+                                "name": "D. Myre",
+                                "number": null,
+                                "pos": null,
+                                "grid": null
+                            }
+                        },
+                        {
+                            "player": {
+                                "id": 1671,
+                                "name": "St\u00e9lvio",
+                                "number": null,
+                                "pos": null,
+                                "grid": null
+                            }
+                        },
+                        {
+                            "player": {
+                                "id": 127947,
+                                "name": "K. Bourtal",
+                                "number": null,
+                                "pos": null,
+                                "grid": null
+                            }
+                        },
+                        {
+                            "player": {
+                                "id": 23883,
+                                "name": "E. M'Barki",
+                                "number": null,
+                                "pos": null,
+                                "grid": null
+                            }
+                        }
+                    ],
+                    "substitutes": [
+                        {
+                            "player": {
+                                "id": 377287,
+                                "name": "J. Amadei",
+                                "number": null,
+                                "pos": null,
+                                "grid": null
+                            }
+                        },
+                        {
+                            "player": {
+                                "id": 119064,
+                                "name": "D. De Sousa Xavier",
+                                "number": null,
+                                "pos": null,
+                                "grid": null
+                            }
+                        },
+                        {
+                            "player": {
+                                "id": 63041,
+                                "name": "O. Kaylesiz",
+                                "number": null,
+                                "pos": null,
+                                "grid": null
+                            }
+                        }
+                    ]
+                }
+            ],
+            "statistics": [],
+            "players": []
+        },
+        {
+            "fixture": {
+                "id": 899385,
+                "referee": "J. \u0160aboti\u0107",
+                "timezone": "Europe/London",
+                "date": "2023-03-29T19:00:00+01:00",
+                "timestamp": 1680112800,
+                "periods": {
+                    "first": 1680112800,
+                    "second": 1680116400
+                },
+                "venue": {
+                    "id": 7726,
+                    "name": "Stade Alphonse Theis",
+                    "city": "Hesperange"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 261,
+                "name": "National Division",
+                "country": "Luxembourg",
+                "logo": "https://media-3.api-sports.io/football/leagues/261.png",
+                "flag": "https://media-3.api-sports.io/flags/lu.svg",
+                "season": 2022,
+                "round": "Regular Season - 22"
+            },
+            "teams": {
+                "home": {
+                    "id": 11907,
+                    "name": "Swift Hesperange",
+                    "logo": "https://media-1.api-sports.io/football/teams/11907.png",
+                    "winner": true
+                },
+                "away": {
+                    "id": 684,
+                    "name": "FC Differdange 03",
+                    "logo": "https://media-2.api-sports.io/football/teams/684.png",
+                    "winner": false
+                }
+            },
+            "goals": {
+                "home": 4,
+                "away": 0
+            },
+            "score": {
+                "halftime": {
+                    "home": 0,
+                    "away": 0
+                },
+                "fulltime": {
+                    "home": 4,
+                    "away": 0
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            },
+            "events": [
+                {
+                    "time": {
+                        "elapsed": 33,
+                        "extra": null
+                    },
+                    "team": {
+                        "id": 11907,
+                        "name": "Swift Hesperange",
+                        "logo": "https://media-3.api-sports.io/football/teams/11907.png"
+                    },
+                    "player": {
+                        "id": 105899,
+                        "name": "C. Sacras"
+                    },
+                    "assist": {
+                        "id": 22912,
+                        "name": "T. Zeghdane"
+                    },
+                    "type": "subst",
+                    "detail": "Substitution 1",
+                    "comments": null
+                },
+                {
+                    "time": {
+                        "elapsed": 46,
+                        "extra": null
+                    },
+                    "team": {
+                        "id": 11907,
+                        "name": "Swift Hesperange",
+                        "logo": "https://media-3.api-sports.io/football/teams/11907.png"
+                    },
+                    "player": {
+                        "id": 105900,
+                        "name": "K. Corral"
+                    },
+                    "assist": {
+                        "id": 15461,
+                        "name": "E. Belameiri"
+                    },
+                    "type": "subst",
+                    "detail": "Substitution 2",
+                    "comments": null
+                },
+                {
+                    "time": {
+                        "elapsed": 48,
+                        "extra": null
+                    },
+                    "team": {
+                        "id": 11907,
+                        "name": "Swift Hesperange",
+                        "logo": "https://media-3.api-sports.io/football/teams/11907.png"
+                    },
+                    "player": {
+                        "id": 1664,
+                        "name": "C. Couturier"
+                    },
+                    "assist": {
+                        "id": null,
+                        "name": null
+                    },
+                    "type": "Goal",
+                    "detail": "Normal Goal",
+                    "comments": null
+                },
+                {
+                    "time": {
+                        "elapsed": 56,
+                        "extra": null
+                    },
+                    "team": {
+                        "id": 11907,
+                        "name": "Swift Hesperange",
+                        "logo": "https://media-2.api-sports.io/football/teams/11907.png"
+                    },
+                    "player": {
+                        "id": 129693,
+                        "name": "R. Philippe"
+                    },
+                    "assist": {
+                        "id": null,
+                        "name": null
+                    },
+                    "type": "Goal",
+                    "detail": "Normal Goal",
+                    "comments": null
+                },
+                {
+                    "time": {
+                        "elapsed": 67,
+                        "extra": null
+                    },
+                    "team": {
+                        "id": 684,
+                        "name": "FC Differdange 03",
+                        "logo": "https://media-1.api-sports.io/football/teams/684.png"
+                    },
+                    "player": {
+                        "id": 203715,
+                        "name": "G. Almeida"
+                    },
+                    "assist": {
+                        "id": 203733,
+                        "name": "G. Monteiro Lima"
+                    },
+                    "type": "subst",
+                    "detail": "Substitution 1",
+                    "comments": null
+                },
+                {
+                    "time": {
+                        "elapsed": 67,
+                        "extra": null
+                    },
+                    "team": {
+                        "id": 684,
+                        "name": "FC Differdange 03",
+                        "logo": "https://media-2.api-sports.io/football/teams/684.png"
+                    },
+                    "player": {
+                        "id": 85238,
+                        "name": "K. Gulluni"
+                    },
+                    "assist": {
+                        "id": 134278,
+                        "name": "M. Naifi"
+                    },
+                    "type": "subst",
+                    "detail": "Substitution 2",
+                    "comments": null
+                },
+                {
+                    "time": {
+                        "elapsed": 73,
+                        "extra": null
+                    },
+                    "team": {
+                        "id": 11907,
+                        "name": "Swift Hesperange",
+                        "logo": "https://media-2.api-sports.io/football/teams/11907.png"
+                    },
+                    "player": {
+                        "id": 8767,
+                        "name": "M. Terki"
+                    },
+                    "assist": {
+                        "id": null,
+                        "name": null
+                    },
+                    "type": "Goal",
+                    "detail": "Normal Goal",
+                    "comments": null
+                },
+                {
+                    "time": {
+                        "elapsed": 75,
+                        "extra": null
+                    },
+                    "team": {
+                        "id": 684,
+                        "name": "FC Differdange 03",
+                        "logo": "https://media-3.api-sports.io/football/teams/684.png"
+                    },
+                    "player": {
+                        "id": 379886,
+                        "name": "Jo\u00e3o Sim\u00f5es"
+                    },
+                    "assist": {
+                        "id": 84325,
+                        "name": "L. Pomponi"
+                    },
+                    "type": "subst",
+                    "detail": "Substitution 3",
+                    "comments": null
+                },
+                {
+                    "time": {
+                        "elapsed": 76,
+                        "extra": null
+                    },
+                    "team": {
+                        "id": 11907,
+                        "name": "Swift Hesperange",
+                        "logo": "https://media-1.api-sports.io/football/teams/11907.png"
+                    },
+                    "player": {
+                        "id": 1674,
+                        "name": "D. Stolz"
+                    },
+                    "assist": {
+                        "id": 316045,
+                        "name": "L. Akhalaia"
+                    },
+                    "type": "subst",
+                    "detail": "Substitution 3",
+                    "comments": null
+                },
+                {
+                    "time": {
+                        "elapsed": 85,
+                        "extra": null
+                    },
+                    "team": {
+                        "id": 11907,
+                        "name": "Swift Hesperange",
+                        "logo": "https://media-1.api-sports.io/football/teams/11907.png"
+                    },
+                    "player": {
+                        "id": 15461,
+                        "name": "E. Belameiri"
+                    },
+                    "assist": {
+                        "id": null,
+                        "name": null
+                    },
+                    "type": "Goal",
+                    "detail": "Normal Goal",
+                    "comments": null
+                }
+            ],
+            "lineups": [
+                {
+                    "team": {
+                        "id": 11907,
+                        "name": "Swift Hesperange",
+                        "logo": "https://media-3.api-sports.io/football/teams/11907.png",
+                        "colors": null
+                    },
+                    "coach": {
+                        "id": 8731,
+                        "name": "P. Carzaniga",
+                        "photo": "https://media-3.api-sports.io/football/coachs/8731.png"
+                    },
+                    "formation": null,
+                    "startXI": [
+                        {
+                            "player": {
+                                "id": 113828,
+                                "name": "G. Dupire",
+                                "number": null,
+                                "pos": null,
+                                "grid": null
+                            }
+                        },
+                        {
+                            "player": {
+                                "id": 1662,
+                                "name": "J. Prempeh",
+                                "number": null,
+                                "pos": null,
+                                "grid": null
+                            }
+                        },
+                        {
+                            "player": {
+                                "id": 117156,
+                                "name": "R. Delgado",
+                                "number": null,
+                                "pos": null,
+                                "grid": null
+                            }
+                        },
+                        {
+                            "player": {
+                                "id": 105899,
+                                "name": "C. Sacras",
+                                "number": null,
+                                "pos": null,
+                                "grid": null
+                            }
+                        },
+                        {
+                            "player": {
+                                "id": 8767,
+                                "name": "M. Terki",
+                                "number": null,
+                                "pos": null,
+                                "grid": null
+                            }
+                        },
+                        {
+                            "player": {
+                                "id": 1674,
+                                "name": "D. Stolz",
+                                "number": null,
+                                "pos": null,
+                                "grid": null
+                            }
+                        },
+                        {
+                            "player": {
+                                "id": 1664,
+                                "name": "C. Couturier",
+                                "number": null,
+                                "pos": null,
+                                "grid": null
+                            }
+                        },
+                        {
+                            "player": {
+                                "id": 43140,
+                                "name": "B. Nouvier",
+                                "number": null,
+                                "pos": null,
+                                "grid": null
+                            }
+                        },
+                        {
+                            "player": {
+                                "id": 105900,
+                                "name": "K. Corral",
+                                "number": null,
+                                "pos": null,
+                                "grid": null
+                            }
+                        },
+                        {
+                            "player": {
+                                "id": 87646,
+                                "name": "N. Ekofo",
+                                "number": null,
+                                "pos": null,
+                                "grid": null
+                            }
+                        },
+                        {
+                            "player": {
+                                "id": 129693,
+                                "name": "R. Philippe",
+                                "number": null,
+                                "pos": null,
+                                "grid": null
+                            }
+                        }
+                    ],
+                    "substitutes": [
+                        {
+                            "player": {
+                                "id": 22912,
+                                "name": "T. Zeghdane",
+                                "number": null,
+                                "pos": null,
+                                "grid": null
+                            }
+                        },
+                        {
+                            "player": {
+                                "id": 15461,
+                                "name": "E. Belameiri",
+                                "number": null,
+                                "pos": null,
+                                "grid": null
+                            }
+                        },
+                        {
+                            "player": {
+                                "id": 316045,
+                                "name": "L. Akhalaia",
+                                "number": null,
+                                "pos": null,
+                                "grid": null
+                            }
+                        }
+                    ]
+                },
+                {
+                    "team": {
+                        "id": 684,
+                        "name": "FC Differdange 03",
+                        "logo": "https://media-2.api-sports.io/football/teams/684.png",
+                        "colors": null
+                    },
+                    "coach": {
+                        "id": 19677,
+                        "name": "H\u00e9lder Dias",
+                        "photo": "https://media-2.api-sports.io/football/coachs/19677.png"
+                    },
+                    "formation": null,
+                    "startXI": [
+                        {
+                            "player": {
+                                "id": 23843,
+                                "name": "G. Cappa",
+                                "number": null,
+                                "pos": null,
+                                "grid": null
+                            }
+                        },
+                        {
+                            "player": {
+                                "id": 203712,
+                                "name": "G. Franzoni",
+                                "number": null,
+                                "pos": null,
+                                "grid": null
+                            }
+                        },
+                        {
+                            "player": {
+                                "id": 203736,
+                                "name": "G. Bei",
+                                "number": null,
+                                "pos": null,
+                                "grid": null
+                            }
+                        },
+                        {
+                            "player": {
+                                "id": 203724,
+                                "name": "T. Brusco",
+                                "number": null,
+                                "pos": null,
+                                "grid": null
+                            }
+                        },
+                        {
+                            "player": {
+                                "id": 325437,
+                                "name": "J. Bedouret",
+                                "number": null,
+                                "pos": null,
+                                "grid": null
+                            }
+                        },
+                        {
+                            "player": {
+                                "id": 114619,
+                                "name": "Ulisses Oliveira",
+                                "number": null,
+                                "pos": null,
+                                "grid": null
+                            }
+                        },
+                        {
+                            "player": {
+                                "id": 85238,
+                                "name": "K. Gulluni",
+                                "number": null,
+                                "pos": null,
+                                "grid": null
+                            }
+                        },
+                        {
+                            "player": {
+                                "id": 141963,
+                                "name": "Manuel Pami",
+                                "number": null,
+                                "pos": null,
+                                "grid": null
+                            }
+                        },
+                        {
+                            "player": {
+                                "id": 203715,
+                                "name": "G. Almeida",
+                                "number": null,
+                                "pos": null,
+                                "grid": null
+                            }
+                        },
+                        {
+                            "player": {
+                                "id": 129691,
+                                "name": "D. Tokpa",
+                                "number": null,
+                                "pos": null,
+                                "grid": null
+                            }
+                        },
+                        {
+                            "player": {
+                                "id": 379886,
+                                "name": "Jo\u00e3o Sim\u00f5es",
+                                "number": null,
+                                "pos": null,
+                                "grid": null
+                            }
+                        }
+                    ],
+                    "substitutes": [
+                        {
+                            "player": {
+                                "id": 203733,
+                                "name": "G. Monteiro Lima",
+                                "number": null,
+                                "pos": null,
+                                "grid": null
+                            }
+                        },
+                        {
+                            "player": {
+                                "id": 134278,
+                                "name": "M. Naifi",
+                                "number": null,
+                                "pos": null,
+                                "grid": null
+                            }
+                        },
+                        {
+                            "player": {
+                                "id": 84325,
+                                "name": "L. Pomponi",
+                                "number": null,
+                                "pos": null,
+                                "grid": null
+                            }
+                        }
+                    ]
+                }
+            ],
+            "statistics": [],
+            "players": []
+        },
+        {
+            "fixture": {
+                "id": 899386,
+                "referee": "A. Ferreira",
+                "timezone": "Europe/London",
+                "date": "2023-03-29T19:00:00+01:00",
+                "timestamp": 1680112800,
+                "periods": {
+                    "first": 1680112800,
+                    "second": 1680116400
+                },
+                "venue": {
+                    "id": 1033,
+                    "name": "Stade Jos Nosbaum",
+                    "city": "Dudelange"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 261,
+                "name": "National Division",
+                "country": "Luxembourg",
+                "logo": "https://media-1.api-sports.io/football/leagues/261.png",
+                "flag": "https://media-1.api-sports.io/flags/lu.svg",
+                "season": 2022,
+                "round": "Regular Season - 22"
+            },
+            "teams": {
+                "home": {
+                    "id": 578,
+                    "name": "F91 Dudelange",
+                    "logo": "https://media-1.api-sports.io/football/teams/578.png",
+                    "winner": true
+                },
+                "away": {
+                    "id": 626,
+                    "name": "Fola Esch",
+                    "logo": "https://media-3.api-sports.io/football/teams/626.png",
+                    "winner": false
+                }
+            },
+            "goals": {
+                "home": 2,
+                "away": 1
+            },
+            "score": {
+                "halftime": {
+                    "home": 1,
+                    "away": 0
+                },
+                "fulltime": {
+                    "home": 2,
+                    "away": 1
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            },
+            "events": [
+                {
+                    "time": {
+                        "elapsed": 3,
+                        "extra": null
+                    },
+                    "team": {
+                        "id": 578,
+                        "name": "F91 Dudelange",
+                        "logo": "https://media-3.api-sports.io/football/teams/578.png"
+                    },
+                    "player": {
+                        "id": 96335,
+                        "name": "Jo\u00e3o Magno"
+                    },
+                    "assist": {
+                        "id": null,
+                        "name": null
+                    },
+                    "type": "Goal",
+                    "detail": "Normal Goal",
+                    "comments": null
+                },
+                {
+                    "time": {
+                        "elapsed": 51,
+                        "extra": null
+                    },
+                    "team": {
+                        "id": 578,
+                        "name": "F91 Dudelange",
+                        "logo": "https://media-2.api-sports.io/football/teams/578.png"
+                    },
+                    "player": {
+                        "id": 96335,
+                        "name": "Jo\u00e3o Magno"
+                    },
+                    "assist": {
+                        "id": null,
+                        "name": null
+                    },
+                    "type": "Goal",
+                    "detail": "Normal Goal",
+                    "comments": null
+                },
+                {
+                    "time": {
+                        "elapsed": 53,
+                        "extra": null
+                    },
+                    "team": {
+                        "id": 626,
+                        "name": "Fola Esch",
+                        "logo": "https://media-2.api-sports.io/football/teams/626.png"
+                    },
+                    "player": {
+                        "id": 270629,
+                        "name": "F. Cerqueira"
+                    },
+                    "assist": {
+                        "id": 373450,
+                        "name": "M. Camara"
+                    },
+                    "type": "subst",
+                    "detail": "Substitution 1",
+                    "comments": null
+                },
+                {
+                    "time": {
+                        "elapsed": 60,
+                        "extra": null
+                    },
+                    "team": {
+                        "id": 626,
+                        "name": "Fola Esch",
+                        "logo": "https://media-3.api-sports.io/football/teams/626.png"
+                    },
+                    "player": {
+                        "id": 207401,
+                        "name": "J. Diallo"
+                    },
+                    "assist": {
+                        "id": null,
+                        "name": null
+                    },
+                    "type": "Goal",
+                    "detail": "Penalty",
+                    "comments": null
+                },
+                {
+                    "time": {
+                        "elapsed": 69,
+                        "extra": null
+                    },
+                    "team": {
+                        "id": 578,
+                        "name": "F91 Dudelange",
+                        "logo": "https://media-2.api-sports.io/football/teams/578.png"
+                    },
+                    "player": {
+                        "id": 119094,
+                        "name": "B. Frere"
+                    },
+                    "assist": {
+                        "id": 80209,
+                        "name": "F. Boji\u0107"
+                    },
+                    "type": "subst",
+                    "detail": "Substitution 1",
+                    "comments": null
+                },
+                {
+                    "time": {
+                        "elapsed": 73,
+                        "extra": null
+                    },
+                    "team": {
+                        "id": 626,
+                        "name": "Fola Esch",
+                        "logo": "https://media-3.api-sports.io/football/teams/626.png"
+                    },
+                    "player": {
+                        "id": 49705,
+                        "name": "I. Jridi"
+                    },
+                    "assist": {
+                        "id": 270632,
+                        "name": "R. Costa de Sousa"
+                    },
+                    "type": "subst",
+                    "detail": "Substitution 2",
+                    "comments": null
+                },
+                {
+                    "time": {
+                        "elapsed": 77,
+                        "extra": null
+                    },
+                    "team": {
+                        "id": 626,
+                        "name": "Fola Esch",
+                        "logo": "https://media-3.api-sports.io/football/teams/626.png"
+                    },
+                    "player": {
+                        "id": 407163,
+                        "name": "K. Quinol"
+                    },
+                    "assist": {
+                        "id": 409182,
+                        "name": "F. Paulus"
+                    },
+                    "type": "subst",
+                    "detail": "Substitution 3",
+                    "comments": null
+                },
+                {
+                    "time": {
+                        "elapsed": 79,
+                        "extra": null
+                    },
+                    "team": {
+                        "id": 578,
+                        "name": "F91 Dudelange",
+                        "logo": "https://media-2.api-sports.io/football/teams/578.png"
+                    },
+                    "player": {
+                        "id": 21661,
+                        "name": "V. Decker"
+                    },
+                    "assist": {
+                        "id": 96422,
+                        "name": "J. Diouf"
+                    },
+                    "type": "subst",
+                    "detail": "Substitution 2",
+                    "comments": null
+                },
+                {
+                    "time": {
+                        "elapsed": 88,
+                        "extra": null
+                    },
+                    "team": {
+                        "id": 578,
+                        "name": "F91 Dudelange",
+                        "logo": "https://media-3.api-sports.io/football/teams/578.png"
+                    },
+                    "player": {
+                        "id": 96335,
+                        "name": "Jo\u00e3o Magno"
+                    },
+                    "assist": {
+                        "id": 208014,
+                        "name": "M. Thomas"
+                    },
+                    "type": "subst",
+                    "detail": "Substitution 3",
+                    "comments": null
+                }
+            ],
+            "lineups": [
+                {
+                    "team": {
+                        "id": 578,
+                        "name": "F91 Dudelange",
+                        "logo": "https://media-3.api-sports.io/football/teams/578.png",
+                        "colors": null
+                    },
+                    "coach": {
+                        "id": 8237,
+                        "name": "Fangueiro",
+                        "photo": "https://media-1.api-sports.io/football/coachs/8237.png"
+                    },
+                    "formation": null,
+                    "startXI": [
+                        {
+                            "player": {
+                                "id": 1656,
+                                "name": "J. Joubert",
+                                "number": null,
+                                "pos": null,
+                                "grid": null
+                            }
+                        },
+                        {
+                            "player": {
+                                "id": 105896,
+                                "name": "M. Kirch",
+                                "number": null,
+                                "pos": null,
+                                "grid": null
+                            }
+                        },
+                        {
+                            "player": {
+                                "id": 23000,
+                                "name": "S. Ouassiero",
+                                "number": null,
+                                "pos": null,
+                                "grid": null
+                            }
+                        },
+                        {
+                            "player": {
+                                "id": 21661,
+                                "name": "V. Decker",
+                                "number": null,
+                                "pos": null,
+                                "grid": null
+                            }
+                        },
+                        {
+                            "player": {
+                                "id": 105901,
+                                "name": "D. Sinani",
+                                "number": null,
+                                "pos": null,
+                                "grid": null
+                            }
+                        },
+                        {
+                            "player": {
+                                "id": 25703,
+                                "name": "A. Skenderovic",
+                                "number": null,
+                                "pos": null,
+                                "grid": null
+                            }
+                        },
+                        {
+                            "player": {
+                                "id": 8963,
+                                "name": "C. Morren",
+                                "number": null,
+                                "pos": null,
+                                "grid": null
+                            }
+                        },
+                        {
+                            "player": {
+                                "id": 119094,
+                                "name": "B. Frere",
+                                "number": null,
+                                "pos": null,
+                                "grid": null
+                            }
+                        },
+                        {
+                            "player": {
+                                "id": 105902,
+                                "name": "S. Hadji",
+                                "number": null,
+                                "pos": null,
+                                "grid": null
+                            }
+                        },
+                        {
+                            "player": {
+                                "id": 1676,
+                                "name": "E. Agovi\u0107",
+                                "number": null,
+                                "pos": null,
+                                "grid": null
+                            }
+                        },
+                        {
+                            "player": {
+                                "id": 96335,
+                                "name": "Jo\u00e3o Magno",
+                                "number": null,
+                                "pos": null,
+                                "grid": null
+                            }
+                        }
+                    ],
+                    "substitutes": [
+                        {
+                            "player": {
+                                "id": 80209,
+                                "name": "F. Boji\u0107",
+                                "number": null,
+                                "pos": null,
+                                "grid": null
+                            }
+                        },
+                        {
+                            "player": {
+                                "id": 96422,
+                                "name": "J. Diouf",
+                                "number": null,
+                                "pos": null,
+                                "grid": null
+                            }
+                        },
+                        {
+                            "player": {
+                                "id": 208014,
+                                "name": "M. Thomas",
+                                "number": null,
+                                "pos": null,
+                                "grid": null
+                            }
+                        }
+                    ]
+                },
+                {
+                    "team": {
+                        "id": 626,
+                        "name": "Fola Esch",
+                        "logo": "https://media-3.api-sports.io/football/teams/626.png",
+                        "colors": null
+                    },
+                    "coach": {
+                        "id": 19230,
+                        "name": "S. Bensi",
+                        "photo": "https://media-1.api-sports.io/football/coachs/19230.png"
+                    },
+                    "formation": null,
+                    "startXI": [
+                        {
+                            "player": {
+                                "id": 207349,
+                                "name": "E. Da Costa",
+                                "number": null,
+                                "pos": null,
+                                "grid": null
+                            }
+                        },
+                        {
+                            "player": {
+                                "id": 105895,
+                                "name": "J. Klein",
+                                "number": null,
+                                "pos": null,
+                                "grid": null
+                            }
+                        },
+                        {
+                            "player": {
+                                "id": 85236,
+                                "name": "J. Tawaba",
+                                "number": null,
+                                "pos": null,
+                                "grid": null
+                            }
+                        },
+                        {
+                            "player": {
+                                "id": 270629,
+                                "name": "F. Cerqueira",
+                                "number": null,
+                                "pos": null,
+                                "grid": null
+                            }
+                        },
+                        {
+                            "player": {
+                                "id": 379884,
+                                "name": "L. Amou",
+                                "number": null,
+                                "pos": null,
+                                "grid": null
+                            }
+                        },
+                        {
+                            "player": {
+                                "id": 203650,
+                                "name": "Bruno Ram\u00edrez",
+                                "number": null,
+                                "pos": null,
+                                "grid": null
+                            }
+                        },
+                        {
+                            "player": {
+                                "id": 49705,
+                                "name": "I. Jridi",
+                                "number": null,
+                                "pos": null,
+                                "grid": null
+                            }
+                        },
+                        {
+                            "player": {
+                                "id": 207401,
+                                "name": "J. Diallo",
+                                "number": null,
+                                "pos": null,
+                                "grid": null
+                            }
+                        },
+                        {
+                            "player": {
+                                "id": 107845,
+                                "name": "Andr\u00e9 Ferreira",
+                                "number": null,
+                                "pos": null,
+                                "grid": null
+                            }
+                        },
+                        {
+                            "player": {
+                                "id": 270633,
+                                "name": "I. El Alami",
+                                "number": null,
+                                "pos": null,
+                                "grid": null
+                            }
+                        },
+                        {
+                            "player": {
+                                "id": 407163,
+                                "name": "K. Quinol",
+                                "number": null,
+                                "pos": null,
+                                "grid": null
+                            }
+                        }
+                    ],
+                    "substitutes": [
+                        {
+                            "player": {
+                                "id": 373450,
+                                "name": "M. Camara",
+                                "number": null,
+                                "pos": null,
+                                "grid": null
+                            }
+                        },
+                        {
+                            "player": {
+                                "id": 270632,
+                                "name": "R. Costa de Sousa",
+                                "number": null,
+                                "pos": null,
+                                "grid": null
+                            }
+                        },
+                        {
+                            "player": {
+                                "id": 409182,
+                                "name": "F. Paulus",
+                                "number": null,
+                                "pos": null,
+                                "grid": null
+                            }
+                        }
+                    ]
+                }
+            ],
+            "statistics": [],
+            "players": []
+        },
+        {
+            "fixture": {
+                "id": 899388,
+                "referee": "Laurent Wilmes",
+                "timezone": "Europe/London",
+                "date": "2023-03-29T19:00:00+01:00",
+                "timestamp": 1680112800,
+                "periods": {
+                    "first": 1680112800,
+                    "second": 1680116400
+                },
+                "venue": {
+                    "id": 1035,
+                    "name": "Party-Rent-Arena",
+                    "city": "Rosport"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 261,
+                "name": "National Division",
+                "country": "Luxembourg",
+                "logo": "https://media-2.api-sports.io/football/leagues/261.png",
+                "flag": "https://media-2.api-sports.io/flags/lu.svg",
+                "season": 2022,
+                "round": "Regular Season - 22"
+            },
+            "teams": {
+                "home": {
+                    "id": 2038,
+                    "name": "Victoria Rosport",
+                    "logo": "https://media-3.api-sports.io/football/teams/2038.png",
+                    "winner": false
+                },
+                "away": {
+                    "id": 2032,
+                    "name": "Union Titus Petange",
+                    "logo": "https://media-3.api-sports.io/football/teams/2032.png",
+                    "winner": true
+                }
+            },
+            "goals": {
+                "home": 0,
+                "away": 2
+            },
+            "score": {
+                "halftime": {
+                    "home": 0,
+                    "away": 2
+                },
+                "fulltime": {
+                    "home": 0,
+                    "away": 2
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            },
+            "events": [
+                {
+                    "time": {
+                        "elapsed": 6,
+                        "extra": null
+                    },
+                    "team": {
+                        "id": 2032,
+                        "name": "Union Titus Petange",
+                        "logo": "https://media-2.api-sports.io/football/teams/2032.png"
+                    },
+                    "player": {
+                        "id": 169296,
+                        "name": "D. Spr\u016bds"
+                    },
+                    "assist": {
+                        "id": null,
+                        "name": null
+                    },
+                    "type": "Goal",
+                    "detail": "Own Goal",
+                    "comments": null
+                },
+                {
+                    "time": {
+                        "elapsed": 45,
+                        "extra": null
+                    },
+                    "team": {
+                        "id": 2032,
+                        "name": "Union Titus Petange",
+                        "logo": "https://media-1.api-sports.io/football/teams/2032.png"
+                    },
+                    "player": {
+                        "id": 119032,
+                        "name": "K. Tekiela"
+                    },
+                    "assist": {
+                        "id": null,
+                        "name": null
+                    },
+                    "type": "Goal",
+                    "detail": "Normal Goal",
+                    "comments": null
+                },
+                {
+                    "time": {
+                        "elapsed": 48,
+                        "extra": null
+                    },
+                    "team": {
+                        "id": 2038,
+                        "name": "Victoria Rosport",
+                        "logo": "https://media-3.api-sports.io/football/teams/2038.png"
+                    },
+                    "player": {
+                        "id": null,
+                        "name": "D. Spruds"
+                    },
+                    "assist": {
+                        "id": null,
+                        "name": null
+                    },
+                    "type": "Card",
+                    "detail": "Yellow Card",
+                    "comments": null
+                },
+                {
+                    "time": {
+                        "elapsed": 48,
+                        "extra": null
+                    },
+                    "team": {
+                        "id": 2038,
+                        "name": "Victoria Rosport",
+                        "logo": "https://media-1.api-sports.io/football/teams/2038.png"
+                    },
+                    "player": {
+                        "id": null,
+                        "name": "D. Spruds"
+                    },
+                    "assist": {
+                        "id": null,
+                        "name": null
+                    },
+                    "type": "Card",
+                    "detail": "Red Card",
+                    "comments": null
+                },
+                {
+                    "time": {
+                        "elapsed": 51,
+                        "extra": null
+                    },
+                    "team": {
+                        "id": 2038,
+                        "name": "Victoria Rosport",
+                        "logo": "https://media-2.api-sports.io/football/teams/2038.png"
+                    },
+                    "player": {
+                        "id": 126950,
+                        "name": "E. Carratala-Jim\u00e9nez"
+                    },
+                    "assist": {
+                        "id": 24822,
+                        "name": "P. Tawiah"
+                    },
+                    "type": "subst",
+                    "detail": "Substitution 1",
+                    "comments": null
+                },
+                {
+                    "time": {
+                        "elapsed": 68,
+                        "extra": null
+                    },
+                    "team": {
+                        "id": 2032,
+                        "name": "Union Titus Petange",
+                        "logo": "https://media-3.api-sports.io/football/teams/2032.png"
+                    },
+                    "player": {
+                        "id": 203634,
+                        "name": "D. Stumpf"
+                    },
+                    "assist": {
+                        "id": 381026,
+                        "name": "G. Pitisci"
+                    },
+                    "type": "subst",
+                    "detail": "Substitution 1",
+                    "comments": null
+                },
+                {
+                    "time": {
+                        "elapsed": 73,
+                        "extra": null
+                    },
+                    "team": {
+                        "id": 2038,
+                        "name": "Victoria Rosport",
+                        "logo": "https://media-3.api-sports.io/football/teams/2038.png"
+                    },
+                    "player": {
+                        "id": 203656,
+                        "name": "Y. Bouch\u00e9"
+                    },
+                    "assist": {
+                        "id": 306442,
+                        "name": "J. Neves Araujo"
+                    },
+                    "type": "subst",
+                    "detail": "Substitution 2",
+                    "comments": null
+                },
+                {
+                    "time": {
+                        "elapsed": 76,
+                        "extra": null
+                    },
+                    "team": {
+                        "id": 2032,
+                        "name": "Union Titus Petange",
+                        "logo": "https://media-2.api-sports.io/football/teams/2032.png"
+                    },
+                    "player": {
+                        "id": 119032,
+                        "name": "K. Tekiela"
+                    },
+                    "assist": {
+                        "id": 326802,
+                        "name": "R. Gon\u00e7alves Matheus"
+                    },
+                    "type": "subst",
+                    "detail": "Substitution 2",
+                    "comments": null
+                },
+                {
+                    "time": {
+                        "elapsed": 80,
+                        "extra": null
+                    },
+                    "team": {
+                        "id": 2038,
+                        "name": "Victoria Rosport",
+                        "logo": "https://media-2.api-sports.io/football/teams/2038.png"
+                    },
+                    "player": {
+                        "id": 203678,
+                        "name": "K. Marques"
+                    },
+                    "assist": {
+                        "id": 203667,
+                        "name": "Gabriel Gaspar"
+                    },
+                    "type": "subst",
+                    "detail": "Substitution 3",
+                    "comments": null
+                },
+                {
+                    "time": {
+                        "elapsed": 82,
+                        "extra": null
+                    },
+                    "team": {
+                        "id": 2032,
+                        "name": "Union Titus Petange",
+                        "logo": "https://media-3.api-sports.io/football/teams/2032.png"
+                    },
+                    "player": {
+                        "id": 96391,
+                        "name": "A. Abreu"
+                    },
+                    "assist": {
+                        "id": 327640,
+                        "name": "E. Preljevi\u0107"
+                    },
+                    "type": "subst",
+                    "detail": "Substitution 3",
+                    "comments": null
+                },
+                {
+                    "time": {
+                        "elapsed": 83,
+                        "extra": null
+                    },
+                    "team": {
+                        "id": 2038,
+                        "name": "Victoria Rosport",
+                        "logo": "https://media-2.api-sports.io/football/teams/2038.png"
+                    },
+                    "player": {
+                        "id": 169240,
+                        "name": "E. Brandenburger"
+                    },
+                    "assist": {
+                        "id": null,
+                        "name": null
+                    },
+                    "type": "Card",
+                    "detail": "Yellow Card",
+                    "comments": null
+                },
+                {
+                    "time": {
+                        "elapsed": 83,
+                        "extra": null
+                    },
+                    "team": {
+                        "id": 2038,
+                        "name": "Victoria Rosport",
+                        "logo": "https://media-1.api-sports.io/football/teams/2038.png"
+                    },
+                    "player": {
+                        "id": 169240,
+                        "name": "E. Brandenburger"
+                    },
+                    "assist": {
+                        "id": null,
+                        "name": null
+                    },
+                    "type": "Card",
+                    "detail": "Red Card",
+                    "comments": null
+                },
+                {
+                    "time": {
+                        "elapsed": 87,
+                        "extra": null
+                    },
+                    "team": {
+                        "id": 2038,
+                        "name": "Victoria Rosport",
+                        "logo": "https://media-2.api-sports.io/football/teams/2038.png"
+                    },
+                    "player": {
+                        "id": null,
+                        "name": "M. Forkel"
+                    },
+                    "assist": {
+                        "id": null,
+                        "name": null
+                    },
+                    "type": "Card",
+                    "detail": "Yellow Card",
+                    "comments": null
+                },
+                {
+                    "time": {
+                        "elapsed": 87,
+                        "extra": null
+                    },
+                    "team": {
+                        "id": 2038,
+                        "name": "Victoria Rosport",
+                        "logo": "https://media-3.api-sports.io/football/teams/2038.png"
+                    },
+                    "player": {
+                        "id": null,
+                        "name": "M. Forkel"
+                    },
+                    "assist": {
+                        "id": null,
+                        "name": null
+                    },
+                    "type": "Card",
+                    "detail": "Red Card",
+                    "comments": null
+                }
+            ],
+            "lineups": [
+                {
+                    "team": {
+                        "id": 2038,
+                        "name": "Victoria Rosport",
+                        "logo": "https://media-3.api-sports.io/football/teams/2038.png",
+                        "colors": null
+                    },
+                    "coach": {
+                        "id": 17893,
+                        "name": "M. Forkel",
+                        "photo": "https://media-3.api-sports.io/football/coachs/17893.png"
+                    },
+                    "formation": null,
+                    "startXI": [
+                        {
+                            "player": {
+                                "id": 203740,
+                                "name": "N. B\u00fcrger",
+                                "number": null,
+                                "pos": null,
+                                "grid": null
+                            }
+                        },
+                        {
+                            "player": {
+                                "id": 169240,
+                                "name": "E. Brandenburger",
+                                "number": null,
+                                "pos": null,
+                                "grid": null
+                            }
+                        },
+                        {
+                            "player": {
+                                "id": 117190,
+                                "name": "J. Steinbach",
+                                "number": null,
+                                "pos": null,
+                                "grid": null
+                            }
+                        },
+                        {
+                            "player": {
+                                "id": 169296,
+                                "name": "D. Spr\u016bds",
+                                "number": null,
+                                "pos": null,
+                                "grid": null
+                            }
+                        },
+                        {
+                            "player": {
+                                "id": 136750,
+                                "name": "O. van Lingen",
+                                "number": null,
+                                "pos": null,
+                                "grid": null
+                            }
+                        },
+                        {
+                            "player": {
+                                "id": 106883,
+                                "name": "M. Bechtold",
+                                "number": null,
+                                "pos": null,
+                                "grid": null
+                            }
+                        },
+                        {
+                            "player": {
+                                "id": 203678,
+                                "name": "K. Marques",
+                                "number": null,
+                                "pos": null,
+                                "grid": null
+                            }
+                        },
+                        {
+                            "player": {
+                                "id": 203656,
+                                "name": "Y. Bouch\u00e9",
+                                "number": null,
+                                "pos": null,
+                                "grid": null
+                            }
+                        },
+                        {
+                            "player": {
+                                "id": 126950,
+                                "name": "E. Carratala-Jim\u00e9nez",
+                                "number": null,
+                                "pos": null,
+                                "grid": null
+                            }
+                        },
+                        {
+                            "player": {
+                                "id": 203727,
+                                "name": "G. Rodrigues Fernandes",
+                                "number": null,
+                                "pos": null,
+                                "grid": null
+                            }
+                        },
+                        {
+                            "player": {
+                                "id": 341872,
+                                "name": "A. Ferreira",
+                                "number": null,
+                                "pos": null,
+                                "grid": null
+                            }
+                        }
+                    ],
+                    "substitutes": [
+                        {
+                            "player": {
+                                "id": 24822,
+                                "name": "P. Tawiah",
+                                "number": null,
+                                "pos": null,
+                                "grid": null
+                            }
+                        },
+                        {
+                            "player": {
+                                "id": 306442,
+                                "name": "J. Neves Araujo",
+                                "number": null,
+                                "pos": null,
+                                "grid": null
+                            }
+                        },
+                        {
+                            "player": {
+                                "id": 203667,
+                                "name": "Gabriel Gaspar",
+                                "number": null,
+                                "pos": null,
+                                "grid": null
+                            }
+                        }
+                    ]
+                },
+                {
+                    "team": {
+                        "id": 2032,
+                        "name": "Union Titus Petange",
+                        "logo": "https://media-2.api-sports.io/football/teams/2032.png",
+                        "colors": null
+                    },
+                    "coach": {
+                        "id": 17857,
+                        "name": "Y. Kakoko",
+                        "photo": "https://media-3.api-sports.io/football/coachs/17857.png"
+                    },
+                    "formation": null,
+                    "startXI": [
+                        {
+                            "player": {
+                                "id": 203741,
+                                "name": "A. Barrela",
+                                "number": null,
+                                "pos": null,
+                                "grid": null
+                            }
+                        },
+                        {
+                            "player": {
+                                "id": 122210,
+                                "name": "M. Schneider",
+                                "number": null,
+                                "pos": null,
+                                "grid": null
+                            }
+                        },
+                        {
+                            "player": {
+                                "id": 8071,
+                                "name": "J. Mawatu",
+                                "number": null,
+                                "pos": null,
+                                "grid": null
+                            }
+                        },
+                        {
+                            "player": {
+                                "id": 178160,
+                                "name": "S. Heil",
+                                "number": null,
+                                "pos": null,
+                                "grid": null
+                            }
+                        },
+                        {
+                            "player": {
+                                "id": 350691,
+                                "name": "S. Sarr",
+                                "number": null,
+                                "pos": null,
+                                "grid": null
+                            }
+                        },
+                        {
+                            "player": {
+                                "id": 203634,
+                                "name": "D. Stumpf",
+                                "number": null,
+                                "pos": null,
+                                "grid": null
+                            }
+                        },
+                        {
+                            "player": {
+                                "id": 36841,
+                                "name": "A. Laukart",
+                                "number": null,
+                                "pos": null,
+                                "grid": null
+                            }
+                        },
+                        {
+                            "player": {
+                                "id": 119032,
+                                "name": "K. Tekiela",
+                                "number": null,
+                                "pos": null,
+                                "grid": null
+                            }
+                        },
+                        {
+                            "player": {
+                                "id": 21984,
+                                "name": "V. Steinmetz",
+                                "number": null,
+                                "pos": null,
+                                "grid": null
+                            }
+                        },
+                        {
+                            "player": {
+                                "id": 96391,
+                                "name": "A. Abreu",
+                                "number": null,
+                                "pos": null,
+                                "grid": null
+                            }
+                        },
+                        {
+                            "player": {
+                                "id": 204034,
+                                "name": "Ant\u00f3nio Gomes",
+                                "number": null,
+                                "pos": null,
+                                "grid": null
+                            }
+                        }
+                    ],
+                    "substitutes": [
+                        {
+                            "player": {
+                                "id": 381026,
+                                "name": "G. Pitisci",
+                                "number": null,
+                                "pos": null,
+                                "grid": null
+                            }
+                        },
+                        {
+                            "player": {
+                                "id": 326802,
+                                "name": "R. Gon\u00e7alves Matheus",
+                                "number": null,
+                                "pos": null,
+                                "grid": null
+                            }
+                        },
+                        {
+                            "player": {
+                                "id": 327640,
+                                "name": "E. Preljevi\u0107",
+                                "number": null,
+                                "pos": null,
+                                "grid": null
+                            }
+                        }
+                    ]
+                }
+            ],
+            "statistics": [],
+            "players": []
+        },
+        {
+            "fixture": {
+                "id": 899389,
+                "referee": "G. Becker",
+                "timezone": "Europe/London",
+                "date": "2023-03-29T19:00:00+01:00",
+                "timestamp": 1680112800,
+                "periods": {
+                    "first": 1680112800,
+                    "second": 1680116400
+                },
+                "venue": {
+                    "id": 7725,
+                    "name": "Stade am Petz",
+                    "city": "Weidingen"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 261,
+                "name": "National Division",
+                "country": "Luxembourg",
+                "logo": "https://media-1.api-sports.io/football/leagues/261.png",
+                "flag": "https://media-1.api-sports.io/flags/lu.svg",
+                "season": 2022,
+                "round": "Regular Season - 22"
+            },
+            "teams": {
+                "home": {
+                    "id": 11906,
+                    "name": "Wiltz",
+                    "logo": "https://media-2.api-sports.io/football/teams/11906.png",
+                    "winner": true
+                },
+                "away": {
+                    "id": 2036,
+                    "name": "UNA Strassen",
+                    "logo": "https://media-3.api-sports.io/football/teams/2036.png",
+                    "winner": false
+                }
+            },
+            "goals": {
+                "home": 2,
+                "away": 1
+            },
+            "score": {
+                "halftime": {
+                    "home": 1,
+                    "away": 0
+                },
+                "fulltime": {
+                    "home": 2,
+                    "away": 1
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            },
+            "events": [
+                {
+                    "time": {
+                        "elapsed": 6,
+                        "extra": null
+                    },
+                    "team": {
+                        "id": 11906,
+                        "name": "Wiltz",
+                        "logo": "https://media-2.api-sports.io/football/teams/11906.png"
+                    },
+                    "player": {
+                        "id": 331079,
+                        "name": "B. Romeyns"
+                    },
+                    "assist": {
+                        "id": null,
+                        "name": null
+                    },
+                    "type": "Goal",
+                    "detail": "Penalty",
+                    "comments": null
+                },
+                {
+                    "time": {
+                        "elapsed": 52,
+                        "extra": null
+                    },
+                    "team": {
+                        "id": 11906,
+                        "name": "Wiltz",
+                        "logo": "https://media-3.api-sports.io/football/teams/11906.png"
+                    },
+                    "player": {
+                        "id": 132524,
+                        "name": "D. Timmermans"
+                    },
+                    "assist": {
+                        "id": null,
+                        "name": null
+                    },
+                    "type": "Goal",
+                    "detail": "Normal Goal",
+                    "comments": null
+                },
+                {
+                    "time": {
+                        "elapsed": 54,
+                        "extra": null
+                    },
+                    "team": {
+                        "id": 2036,
+                        "name": "UNA Strassen",
+                        "logo": "https://media-3.api-sports.io/football/teams/2036.png"
+                    },
+                    "player": {
+                        "id": 203645,
+                        "name": "G. Bernardelli"
+                    },
+                    "assist": {
+                        "id": null,
+                        "name": null
+                    },
+                    "type": "Goal",
+                    "detail": "Normal Goal",
+                    "comments": null
+                },
+                {
+                    "time": {
+                        "elapsed": 62,
+                        "extra": null
+                    },
+                    "team": {
+                        "id": 11906,
+                        "name": "Wiltz",
+                        "logo": "https://media-1.api-sports.io/football/teams/11906.png"
+                    },
+                    "player": {
+                        "id": 204268,
+                        "name": "C. Schroeder"
+                    },
+                    "assist": {
+                        "id": 114029,
+                        "name": "L. Vaccaro"
+                    },
+                    "type": "subst",
+                    "detail": "Substitution 1",
+                    "comments": null
+                },
+                {
+                    "time": {
+                        "elapsed": 70,
+                        "extra": null
+                    },
+                    "team": {
+                        "id": 2036,
+                        "name": "UNA Strassen",
+                        "logo": "https://media-3.api-sports.io/football/teams/2036.png"
+                    },
+                    "player": {
+                        "id": 122179,
+                        "name": "T. Siebenaler"
+                    },
+                    "assist": {
+                        "id": 325434,
+                        "name": "B. Moding"
+                    },
+                    "type": "subst",
+                    "detail": "Substitution 1",
+                    "comments": null
+                },
+                {
+                    "time": {
+                        "elapsed": 70,
+                        "extra": null
+                    },
+                    "team": {
+                        "id": 2036,
+                        "name": "UNA Strassen",
+                        "logo": "https://media-3.api-sports.io/football/teams/2036.png"
+                    },
+                    "player": {
+                        "id": 170890,
+                        "name": "T. Mastrangelo"
+                    },
+                    "assist": {
+                        "id": 203670,
+                        "name": "A. Agovic"
+                    },
+                    "type": "subst",
+                    "detail": "Substitution 2",
+                    "comments": null
+                },
+                {
+                    "time": {
+                        "elapsed": 76,
+                        "extra": null
+                    },
+                    "team": {
+                        "id": 11906,
+                        "name": "Wiltz",
+                        "logo": "https://media-1.api-sports.io/football/teams/11906.png"
+                    },
+                    "player": {
+                        "id": 132524,
+                        "name": "D. Timmermans"
+                    },
+                    "assist": {
+                        "id": 90702,
+                        "name": "M. Ngwisani"
+                    },
+                    "type": "subst",
+                    "detail": "Substitution 2",
+                    "comments": null
+                },
+                {
+                    "time": {
+                        "elapsed": 76,
+                        "extra": null
+                    },
+                    "team": {
+                        "id": 2036,
+                        "name": "UNA Strassen",
+                        "logo": "https://media-3.api-sports.io/football/teams/2036.png"
+                    },
+                    "player": {
+                        "id": 86635,
+                        "name": "K. Bacconnier"
+                    },
+                    "assist": {
+                        "id": 271500,
+                        "name": "C. Baiverlin"
+                    },
+                    "type": "subst",
+                    "detail": "Substitution 3",
+                    "comments": null
+                },
+                {
+                    "time": {
+                        "elapsed": 83,
+                        "extra": null
+                    },
+                    "team": {
+                        "id": 11906,
+                        "name": "Wiltz",
+                        "logo": "https://media-2.api-sports.io/football/teams/11906.png"
+                    },
+                    "player": {
+                        "id": 331079,
+                        "name": "B. Romeyns"
+                    },
+                    "assist": {
+                        "id": 379894,
+                        "name": "K. Delgado"
+                    },
+                    "type": "subst",
+                    "detail": "Substitution 3",
+                    "comments": null
+                }
+            ],
+            "lineups": [
+                {
+                    "team": {
+                        "id": 11906,
+                        "name": "Wiltz",
+                        "logo": "https://media-3.api-sports.io/football/teams/11906.png",
+                        "colors": null
+                    },
+                    "coach": {
+                        "id": 17894,
+                        "name": "D. Vandenbroeck",
+                        "photo": "https://media-3.api-sports.io/football/coachs/17894.png"
+                    },
+                    "formation": null,
+                    "startXI": [
+                        {
+                            "player": {
+                                "id": 55879,
+                                "name": "R. Schon",
+                                "number": null,
+                                "pos": null,
+                                "grid": null
+                            }
+                        },
+                        {
+                            "player": {
+                                "id": 123431,
+                                "name": "R. Oliveira",
+                                "number": null,
+                                "pos": null,
+                                "grid": null
+                            }
+                        },
+                        {
+                            "player": {
+                                "id": 378349,
+                                "name": "D. Humblet",
+                                "number": null,
+                                "pos": null,
+                                "grid": null
+                            }
+                        },
+                        {
+                            "player": {
+                                "id": 379891,
+                                "name": "A. Rodriguez",
+                                "number": null,
+                                "pos": null,
+                                "grid": null
+                            }
+                        },
+                        {
+                            "player": {
+                                "id": 40398,
+                                "name": "C. Philipps",
+                                "number": null,
+                                "pos": null,
+                                "grid": null
+                            }
+                        },
+                        {
+                            "player": {
+                                "id": 114348,
+                                "name": "B. Yala Lusala",
+                                "number": null,
+                                "pos": null,
+                                "grid": null
+                            }
+                        },
+                        {
+                            "player": {
+                                "id": 204268,
+                                "name": "C. Schroeder",
+                                "number": null,
+                                "pos": null,
+                                "grid": null
+                            }
+                        },
+                        {
+                            "player": {
+                                "id": 286757,
+                                "name": "B. Jaiteh",
+                                "number": null,
+                                "pos": null,
+                                "grid": null
+                            }
+                        },
+                        {
+                            "player": {
+                                "id": 132524,
+                                "name": "D. Timmermans",
+                                "number": null,
+                                "pos": null,
+                                "grid": null
+                            }
+                        },
+                        {
+                            "player": {
+                                "id": 271716,
+                                "name": "B. Biver",
+                                "number": null,
+                                "pos": null,
+                                "grid": null
+                            }
+                        },
+                        {
+                            "player": {
+                                "id": 331079,
+                                "name": "B. Romeyns",
+                                "number": null,
+                                "pos": null,
+                                "grid": null
+                            }
+                        }
+                    ],
+                    "substitutes": [
+                        {
+                            "player": {
+                                "id": 114029,
+                                "name": "L. Vaccaro",
+                                "number": null,
+                                "pos": null,
+                                "grid": null
+                            }
+                        },
+                        {
+                            "player": {
+                                "id": 90702,
+                                "name": "M. Ngwisani",
+                                "number": null,
+                                "pos": null,
+                                "grid": null
+                            }
+                        },
+                        {
+                            "player": {
+                                "id": 379894,
+                                "name": "K. Delgado",
+                                "number": null,
+                                "pos": null,
+                                "grid": null
+                            }
+                        }
+                    ]
+                },
+                {
+                    "team": {
+                        "id": 2036,
+                        "name": "UNA Strassen",
+                        "logo": "https://media-2.api-sports.io/football/teams/2036.png",
+                        "colors": null
+                    },
+                    "coach": {
+                        "id": 8231,
+                        "name": "A. Bonvini",
+                        "photo": "https://media-2.api-sports.io/football/coachs/8231.png"
+                    },
+                    "formation": null,
+                    "startXI": [
+                        {
+                            "player": {
+                                "id": 203737,
+                                "name": "K. Ozcan",
+                                "number": null,
+                                "pos": null,
+                                "grid": null
+                            }
+                        },
+                        {
+                            "player": {
+                                "id": 122179,
+                                "name": "T. Siebenaler",
+                                "number": null,
+                                "pos": null,
+                                "grid": null
+                            }
+                        },
+                        {
+                            "player": {
+                                "id": 122192,
+                                "name": "A. Stulin",
+                                "number": null,
+                                "pos": null,
+                                "grid": null
+                            }
+                        },
+                        {
+                            "player": {
+                                "id": 203645,
+                                "name": "G. Bernardelli",
+                                "number": null,
+                                "pos": null,
+                                "grid": null
+                            }
+                        },
+                        {
+                            "player": {
+                                "id": 86635,
+                                "name": "K. Bacconnier",
+                                "number": null,
+                                "pos": null,
+                                "grid": null
+                            }
+                        },
+                        {
+                            "player": {
+                                "id": 174959,
+                                "name": "F. Fonrose",
+                                "number": null,
+                                "pos": null,
+                                "grid": null
+                            }
+                        },
+                        {
+                            "player": {
+                                "id": 170890,
+                                "name": "T. Mastrangelo",
+                                "number": null,
+                                "pos": null,
+                                "grid": null
+                            }
+                        },
+                        {
+                            "player": {
+                                "id": 88170,
+                                "name": "M. Andreas",
+                                "number": null,
+                                "pos": null,
+                                "grid": null
+                            }
+                        },
+                        {
+                            "player": {
+                                "id": 203697,
+                                "name": "D. Pimentel",
+                                "number": null,
+                                "pos": null,
+                                "grid": null
+                            }
+                        },
+                        {
+                            "player": {
+                                "id": 1679,
+                                "name": "N. Perez",
+                                "number": null,
+                                "pos": null,
+                                "grid": null
+                            }
+                        },
+                        {
+                            "player": {
+                                "id": 119012,
+                                "name": "B. Babit",
+                                "number": null,
+                                "pos": null,
+                                "grid": null
+                            }
+                        }
+                    ],
+                    "substitutes": [
+                        {
+                            "player": {
+                                "id": 325434,
+                                "name": "B. Moding",
+                                "number": null,
+                                "pos": null,
+                                "grid": null
+                            }
+                        },
+                        {
+                            "player": {
+                                "id": 203670,
+                                "name": "A. Agovic",
+                                "number": null,
+                                "pos": null,
+                                "grid": null
+                            }
+                        },
+                        {
+                            "player": {
+                                "id": 271500,
+                                "name": "C. Baiverlin",
+                                "number": null,
+                                "pos": null,
+                                "grid": null
+                            }
+                        }
+                    ]
+                }
+            ],
+            "statistics": [],
+            "players": []
+        },
+        {
+            "fixture": {
+                "id": 899390,
+                "referee": "R. Morais",
+                "timezone": "Europe/London",
+                "date": "2023-03-29T19:00:00+01:00",
+                "timestamp": 1680112800,
+                "periods": {
+                    "first": 1680112800,
+                    "second": 1680116400
+                },
+                "venue": {
+                    "id": 1037,
+                    "name": "Stade de la Fronti\u00e8re",
+                    "city": "Esch-sur-Alzette"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 261,
+                "name": "National Division",
+                "country": "Luxembourg",
+                "logo": "https://media-2.api-sports.io/football/leagues/261.png",
+                "flag": "https://media-2.api-sports.io/flags/lu.svg",
+                "season": 2022,
+                "round": "Regular Season - 22"
+            },
+            "teams": {
+                "home": {
+                    "id": 2034,
+                    "name": "AS Jeunesse Esch",
+                    "logo": "https://media-3.api-sports.io/football/teams/2034.png",
+                    "winner": null
+                },
+                "away": {
+                    "id": 2030,
+                    "name": "Racing FC Union Luxembourg",
+                    "logo": "https://media-2.api-sports.io/football/teams/2030.png",
+                    "winner": null
+                }
+            },
+            "goals": {
+                "home": 1,
+                "away": 1
+            },
+            "score": {
+                "halftime": {
+                    "home": 1,
+                    "away": 1
+                },
+                "fulltime": {
+                    "home": 1,
+                    "away": 1
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            },
+            "events": [
+                {
+                    "time": {
+                        "elapsed": 8,
+                        "extra": null
+                    },
+                    "team": {
+                        "id": 2034,
+                        "name": "AS Jeunesse Esch",
+                        "logo": "https://media-2.api-sports.io/football/teams/2034.png"
+                    },
+                    "player": {
+                        "id": 119026,
+                        "name": "D. De Sousa"
+                    },
+                    "assist": {
+                        "id": null,
+                        "name": null
+                    },
+                    "type": "Goal",
+                    "detail": "Normal Goal",
+                    "comments": null
+                },
+                {
+                    "time": {
+                        "elapsed": 13,
+                        "extra": null
+                    },
+                    "team": {
+                        "id": 2030,
+                        "name": "Racing FC Union Luxembourg",
+                        "logo": "https://media-1.api-sports.io/football/teams/2030.png"
+                    },
+                    "player": {
+                        "id": 106873,
+                        "name": "E. Muratovi\u0107"
+                    },
+                    "assist": {
+                        "id": null,
+                        "name": null
+                    },
+                    "type": "Goal",
+                    "detail": "Penalty",
+                    "comments": null
+                },
+                {
+                    "time": {
+                        "elapsed": 61,
+                        "extra": null
+                    },
+                    "team": {
+                        "id": 2030,
+                        "name": "Racing FC Union Luxembourg",
+                        "logo": "https://media-3.api-sports.io/football/teams/2030.png"
+                    },
+                    "player": {
+                        "id": 129153,
+                        "name": "Y. Schaus"
+                    },
+                    "assist": {
+                        "id": 128261,
+                        "name": "K. N'Goma"
+                    },
+                    "type": "subst",
+                    "detail": "Substitution 1",
+                    "comments": null
+                },
+                {
+                    "time": {
+                        "elapsed": 67,
+                        "extra": null
+                    },
+                    "team": {
+                        "id": 2034,
+                        "name": "AS Jeunesse Esch",
+                        "logo": "https://media-3.api-sports.io/football/teams/2034.png"
+                    },
+                    "player": {
+                        "id": 86278,
+                        "name": "M. Deruffe"
+                    },
+                    "assist": {
+                        "id": 283898,
+                        "name": "D. Seck"
+                    },
+                    "type": "subst",
+                    "detail": "Substitution 1",
+                    "comments": null
+                },
+                {
+                    "time": {
+                        "elapsed": 67,
+                        "extra": null
+                    },
+                    "team": {
+                        "id": 2034,
+                        "name": "AS Jeunesse Esch",
+                        "logo": "https://media-1.api-sports.io/football/teams/2034.png"
+                    },
+                    "player": {
+                        "id": 215953,
+                        "name": "I. Latic"
+                    },
+                    "assist": {
+                        "id": 117195,
+                        "name": "A. Deidda"
+                    },
+                    "type": "subst",
+                    "detail": "Substitution 2",
+                    "comments": null
+                },
+                {
+                    "time": {
+                        "elapsed": 75,
+                        "extra": null
+                    },
+                    "team": {
+                        "id": 2030,
+                        "name": "Racing FC Union Luxembourg",
+                        "logo": "https://media-1.api-sports.io/football/teams/2030.png"
+                    },
+                    "player": {
+                        "id": 88478,
+                        "name": "J. Simon"
+                    },
+                    "assist": {
+                        "id": 1670,
+                        "name": "M. Pokar"
+                    },
+                    "type": "subst",
+                    "detail": "Substitution 2",
+                    "comments": null
+                },
+                {
+                    "time": {
+                        "elapsed": 88,
+                        "extra": null
+                    },
+                    "team": {
+                        "id": 2030,
+                        "name": "Racing FC Union Luxembourg",
+                        "logo": "https://media-3.api-sports.io/football/teams/2030.png"
+                    },
+                    "player": {
+                        "id": 359587,
+                        "name": "J. Amijekori"
+                    },
+                    "assist": {
+                        "id": 105728,
+                        "name": "K. Nakache"
+                    },
+                    "type": "subst",
+                    "detail": "Substitution 3",
+                    "comments": null
+                }
+            ],
+            "lineups": [
+                {
+                    "team": {
+                        "id": 2034,
+                        "name": "AS Jeunesse Esch",
+                        "logo": "https://media-1.api-sports.io/football/teams/2034.png",
+                        "colors": null
+                    },
+                    "coach": {
+                        "id": 10827,
+                        "name": "Pedro Resende",
+                        "photo": "https://media-2.api-sports.io/football/coachs/10827.png"
+                    },
+                    "formation": null,
+                    "startXI": [
+                        {
+                            "player": {
+                                "id": 117187,
+                                "name": "K. Sommer",
+                                "number": null,
+                                "pos": null,
+                                "grid": null
+                            }
+                        },
+                        {
+                            "player": {
+                                "id": 117191,
+                                "name": "E. Lapierre",
+                                "number": null,
+                                "pos": null,
+                                "grid": null
+                            }
+                        },
+                        {
+                            "player": {
+                                "id": 26674,
+                                "name": "M. De Taddeo",
+                                "number": null,
+                                "pos": null,
+                                "grid": null
+                            }
+                        },
+                        {
+                            "player": {
+                                "id": 255050,
+                                "name": "D. Meireles",
+                                "number": null,
+                                "pos": null,
+                                "grid": null
+                            }
+                        },
+                        {
+                            "player": {
+                                "id": 86278,
+                                "name": "M. Deruffe",
+                                "number": null,
+                                "pos": null,
+                                "grid": null
+                            }
+                        },
+                        {
+                            "player": {
+                                "id": 117189,
+                                "name": "M. Todorovic",
+                                "number": null,
+                                "pos": null,
+                                "grid": null
+                            }
+                        },
+                        {
+                            "player": {
+                                "id": 119026,
+                                "name": "D. De Sousa",
+                                "number": null,
+                                "pos": null,
+                                "grid": null
+                            }
+                        },
+                        {
+                            "player": {
+                                "id": 86260,
+                                "name": "A. Larriere",
+                                "number": null,
+                                "pos": null,
+                                "grid": null
+                            }
+                        },
+                        {
+                            "player": {
+                                "id": 131649,
+                                "name": "A. Ar\u00e9nate",
+                                "number": null,
+                                "pos": null,
+                                "grid": null
+                            }
+                        },
+                        {
+                            "player": {
+                                "id": 106876,
+                                "name": "A. Klica",
+                                "number": null,
+                                "pos": null,
+                                "grid": null
+                            }
+                        },
+                        {
+                            "player": {
+                                "id": 215953,
+                                "name": "I. Latic",
+                                "number": null,
+                                "pos": null,
+                                "grid": null
+                            }
+                        }
+                    ],
+                    "substitutes": [
+                        {
+                            "player": {
+                                "id": 283898,
+                                "name": "D. Seck",
+                                "number": null,
+                                "pos": null,
+                                "grid": null
+                            }
+                        },
+                        {
+                            "player": {
+                                "id": 117195,
+                                "name": "A. Deidda",
+                                "number": null,
+                                "pos": null,
+                                "grid": null
+                            }
+                        }
+                    ]
+                },
+                {
+                    "team": {
+                        "id": 2030,
+                        "name": "Racing FC Union Luxembourg",
+                        "logo": "https://media-2.api-sports.io/football/teams/2030.png",
+                        "colors": null
+                    },
+                    "coach": {
+                        "id": 17684,
+                        "name": "F. Kuduzovi\u0107",
+                        "photo": "https://media-1.api-sports.io/football/coachs/17684.png"
+                    },
+                    "formation": null,
+                    "startXI": [
+                        {
+                            "player": {
+                                "id": 157225,
+                                "name": "R. Ruffier",
+                                "number": null,
+                                "pos": null,
+                                "grid": null
+                            }
+                        },
+                        {
+                            "player": {
+                                "id": 105628,
+                                "name": "A. Laurient\u00e9",
+                                "number": null,
+                                "pos": null,
+                                "grid": null
+                            }
+                        },
+                        {
+                            "player": {
+                                "id": 157229,
+                                "name": "J. Hennetier",
+                                "number": null,
+                                "pos": null,
+                                "grid": null
+                            }
+                        },
+                        {
+                            "player": {
+                                "id": 175103,
+                                "name": "J. Kada",
+                                "number": null,
+                                "pos": null,
+                                "grid": null
+                            }
+                        },
+                        {
+                            "player": {
+                                "id": 359587,
+                                "name": "J. Amijekori",
+                                "number": null,
+                                "pos": null,
+                                "grid": null
+                            }
+                        },
+                        {
+                            "player": {
+                                "id": 105627,
+                                "name": "M. Garos",
+                                "number": null,
+                                "pos": null,
+                                "grid": null
+                            }
+                        },
+                        {
+                            "player": {
+                                "id": 88478,
+                                "name": "J. Simon",
+                                "number": null,
+                                "pos": null,
+                                "grid": null
+                            }
+                        },
+                        {
+                            "player": {
+                                "id": 129153,
+                                "name": "Y. Schaus",
+                                "number": null,
+                                "pos": null,
+                                "grid": null
+                            }
+                        },
+                        {
+                            "player": {
+                                "id": 105886,
+                                "name": "F. Ikene",
+                                "number": null,
+                                "pos": null,
+                                "grid": null
+                            }
+                        },
+                        {
+                            "player": {
+                                "id": 106873,
+                                "name": "E. Muratovi\u0107",
+                                "number": null,
+                                "pos": null,
+                                "grid": null
+                            }
+                        },
+                        {
+                            "player": {
+                                "id": 203663,
+                                "name": "A. Buch",
+                                "number": null,
+                                "pos": null,
+                                "grid": null
+                            }
+                        }
+                    ],
+                    "substitutes": [
+                        {
+                            "player": {
+                                "id": 128261,
+                                "name": "K. N'Goma",
+                                "number": null,
+                                "pos": null,
+                                "grid": null
+                            }
+                        },
+                        {
+                            "player": {
+                                "id": 1670,
+                                "name": "M. Pokar",
+                                "number": null,
+                                "pos": null,
+                                "grid": null
+                            }
+                        },
+                        {
+                            "player": {
+                                "id": 105728,
+                                "name": "K. Nakache",
+                                "number": null,
+                                "pos": null,
+                                "grid": null
+                            }
+                        }
+                    ]
+                }
+            ],
+            "statistics": [],
+            "players": []
+        },
+        {
+            "fixture": {
+                "id": 899391,
+                "referee": "M. Bourgnon",
+                "timezone": "Europe/London",
+                "date": "2023-03-29T19:00:00+01:00",
+                "timestamp": 1680112800,
+                "periods": {
+                    "first": 1680112800,
+                    "second": 1680116400
+                },
+                "venue": {
+                    "id": 1039,
+                    "name": "Stade Jos Haupert",
+                    "city": "Niedercorn"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 261,
+                "name": "National Division",
+                "country": "Luxembourg",
+                "logo": "https://media-1.api-sports.io/football/leagues/261.png",
+                "flag": "https://media-3.api-sports.io/flags/lu.svg",
+                "season": 2022,
+                "round": "Regular Season - 22"
+            },
+            "teams": {
+                "home": {
+                    "id": 658,
+                    "name": "Progres Niederkorn",
+                    "logo": "https://media-3.api-sports.io/football/teams/658.png",
+                    "winner": true
+                },
+                "away": {
+                    "id": 2040,
+                    "name": "US Hostert",
+                    "logo": "https://media-2.api-sports.io/football/teams/2040.png",
+                    "winner": false
+                }
+            },
+            "goals": {
+                "home": 6,
+                "away": 0
+            },
+            "score": {
+                "halftime": {
+                    "home": 3,
+                    "away": 0
+                },
+                "fulltime": {
+                    "home": 6,
+                    "away": 0
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            },
+            "events": [
+                {
+                    "time": {
+                        "elapsed": 4,
+                        "extra": null
+                    },
+                    "team": {
+                        "id": 658,
+                        "name": "Progres Niederkorn",
+                        "logo": "https://media-1.api-sports.io/football/teams/658.png"
+                    },
+                    "player": {
+                        "id": 178534,
+                        "name": "B. Hend"
+                    },
+                    "assist": {
+                        "id": null,
+                        "name": null
+                    },
+                    "type": "Goal",
+                    "detail": "Penalty",
+                    "comments": null
+                },
+                {
+                    "time": {
+                        "elapsed": 33,
+                        "extra": null
+                    },
+                    "team": {
+                        "id": 658,
+                        "name": "Progres Niederkorn",
+                        "logo": "https://media-1.api-sports.io/football/teams/658.png"
+                    },
+                    "player": {
+                        "id": 333082,
+                        "name": "E. Filet"
+                    },
+                    "assist": {
+                        "id": null,
+                        "name": null
+                    },
+                    "type": "Goal",
+                    "detail": "Normal Goal",
+                    "comments": null
+                },
+                {
+                    "time": {
+                        "elapsed": 39,
+                        "extra": null
+                    },
+                    "team": {
+                        "id": 658,
+                        "name": "Progres Niederkorn",
+                        "logo": "https://media-3.api-sports.io/football/teams/658.png"
+                    },
+                    "player": {
+                        "id": 333082,
+                        "name": "E. Filet"
+                    },
+                    "assist": {
+                        "id": null,
+                        "name": null
+                    },
+                    "type": "Goal",
+                    "detail": "Normal Goal",
+                    "comments": null
+                },
+                {
+                    "time": {
+                        "elapsed": 45,
+                        "extra": 4
+                    },
+                    "team": {
+                        "id": 2040,
+                        "name": "US Hostert",
+                        "logo": "https://media-3.api-sports.io/football/teams/2040.png"
+                    },
+                    "player": {
+                        "id": 193136,
+                        "name": "D. Bonet"
+                    },
+                    "assist": {
+                        "id": 203658,
+                        "name": "E. Gashi"
+                    },
+                    "type": "subst",
+                    "detail": "Substitution 1",
+                    "comments": null
+                },
+                {
+                    "time": {
+                        "elapsed": 54,
+                        "extra": null
+                    },
+                    "team": {
+                        "id": 658,
+                        "name": "Progres Niederkorn",
+                        "logo": "https://media-3.api-sports.io/football/teams/658.png"
+                    },
+                    "player": {
+                        "id": 178534,
+                        "name": "B. Hend"
+                    },
+                    "assist": {
+                        "id": null,
+                        "name": null
+                    },
+                    "type": "Goal",
+                    "detail": "Normal Goal",
+                    "comments": null
+                },
+                {
+                    "time": {
+                        "elapsed": 62,
+                        "extra": null
+                    },
+                    "team": {
+                        "id": 658,
+                        "name": "Progres Niederkorn",
+                        "logo": "https://media-3.api-sports.io/football/teams/658.png"
+                    },
+                    "player": {
+                        "id": 178534,
+                        "name": "B. Hend"
+                    },
+                    "assist": {
+                        "id": 106878,
+                        "name": "A. Luisi"
+                    },
+                    "type": "subst",
+                    "detail": "Substitution 1",
+                    "comments": null
+                },
+                {
+                    "time": {
+                        "elapsed": 63,
+                        "extra": null
+                    },
+                    "team": {
+                        "id": 2040,
+                        "name": "US Hostert",
+                        "logo": "https://media-2.api-sports.io/football/teams/2040.png"
+                    },
+                    "player": {
+                        "id": 207413,
+                        "name": "T. Ewert"
+                    },
+                    "assist": {
+                        "id": 314680,
+                        "name": "Y. Ferreira"
+                    },
+                    "type": "subst",
+                    "detail": "Substitution 2",
+                    "comments": null
+                },
+                {
+                    "time": {
+                        "elapsed": 70,
+                        "extra": null
+                    },
+                    "team": {
+                        "id": 658,
+                        "name": "Progres Niederkorn",
+                        "logo": "https://media-2.api-sports.io/football/teams/658.png"
+                    },
+                    "player": {
+                        "id": 22072,
+                        "name": "A. Hanus"
+                    },
+                    "assist": {
+                        "id": 260369,
+                        "name": "C. Azong"
+                    },
+                    "type": "subst",
+                    "detail": "Substitution 2",
+                    "comments": null
+                },
+                {
+                    "time": {
+                        "elapsed": 74,
+                        "extra": null
+                    },
+                    "team": {
+                        "id": 658,
+                        "name": "Progres Niederkorn",
+                        "logo": "https://media-2.api-sports.io/football/teams/658.png"
+                    },
+                    "player": {
+                        "id": 260369,
+                        "name": "C. Azong"
+                    },
+                    "assist": {
+                        "id": null,
+                        "name": null
+                    },
+                    "type": "Goal",
+                    "detail": "Normal Goal",
+                    "comments": null
+                },
+                {
+                    "time": {
+                        "elapsed": 76,
+                        "extra": null
+                    },
+                    "team": {
+                        "id": 658,
+                        "name": "Progres Niederkorn",
+                        "logo": "https://media-3.api-sports.io/football/teams/658.png"
+                    },
+                    "player": {
+                        "id": 105830,
+                        "name": "Y. Bastos"
+                    },
+                    "assist": {
+                        "id": 105834,
+                        "name": "B. Vogel"
+                    },
+                    "type": "subst",
+                    "detail": "Substitution 3",
+                    "comments": null
+                },
+                {
+                    "time": {
+                        "elapsed": 82,
+                        "extra": null
+                    },
+                    "team": {
+                        "id": 2040,
+                        "name": "US Hostert",
+                        "logo": "https://media-3.api-sports.io/football/teams/2040.png"
+                    },
+                    "player": {
+                        "id": 251348,
+                        "name": "S. Coulibaly"
+                    },
+                    "assist": {
+                        "id": 127880,
+                        "name": "L. Benz"
+                    },
+                    "type": "subst",
+                    "detail": "Substitution 3",
+                    "comments": null
+                },
+                {
+                    "time": {
+                        "elapsed": 87,
+                        "extra": null
+                    },
+                    "team": {
+                        "id": 658,
+                        "name": "Progres Niederkorn",
+                        "logo": "https://media-2.api-sports.io/football/teams/658.png"
+                    },
+                    "player": {
+                        "id": 333082,
+                        "name": "E. Filet"
+                    },
+                    "assist": {
+                        "id": null,
+                        "name": null
+                    },
+                    "type": "Goal",
+                    "detail": "Normal Goal",
+                    "comments": null
+                }
+            ],
+            "lineups": [
+                {
+                    "team": {
+                        "id": 658,
+                        "name": "Progres Niederkorn",
+                        "logo": "https://media-3.api-sports.io/football/teams/658.png",
+                        "colors": null
+                    },
+                    "coach": {
+                        "id": 6494,
+                        "name": "J. Strasser",
+                        "photo": "https://media-2.api-sports.io/football/coachs/6494.png"
+                    },
+                    "formation": null,
+                    "startXI": [
+                        {
+                            "player": {
+                                "id": 204338,
+                                "name": "E. Latik",
+                                "number": null,
+                                "pos": null,
+                                "grid": null
+                            }
+                        },
+                        {
+                            "player": {
+                                "id": 21277,
+                                "name": "B. Amofa",
+                                "number": null,
+                                "pos": null,
+                                "grid": null
+                            }
+                        },
+                        {
+                            "player": {
+                                "id": 22987,
+                                "name": "H. Karamoko",
+                                "number": null,
+                                "pos": null,
+                                "grid": null
+                            }
+                        },
+                        {
+                            "player": {
+                                "id": 87173,
+                                "name": "M. Karayer",
+                                "number": null,
+                                "pos": null,
+                                "grid": null
+                            }
+                        },
+                        {
+                            "player": {
+                                "id": 85745,
+                                "name": "V. Peugnet",
+                                "number": null,
+                                "pos": null,
+                                "grid": null
+                            }
+                        },
+                        {
+                            "player": {
+                                "id": 333080,
+                                "name": "A. Guett Guett",
+                                "number": null,
+                                "pos": null,
+                                "grid": null
+                            }
+                        },
+                        {
+                            "player": {
+                                "id": 105830,
+                                "name": "Y. Bastos",
+                                "number": null,
+                                "pos": null,
+                                "grid": null
+                            }
+                        },
+                        {
+                            "player": {
+                                "id": 86827,
+                                "name": "M. De Almeida",
+                                "number": null,
+                                "pos": null,
+                                "grid": null
+                            }
+                        },
+                        {
+                            "player": {
+                                "id": 178534,
+                                "name": "B. Hend",
+                                "number": null,
+                                "pos": null,
+                                "grid": null
+                            }
+                        },
+                        {
+                            "player": {
+                                "id": 22072,
+                                "name": "A. Hanus",
+                                "number": null,
+                                "pos": null,
+                                "grid": null
+                            }
+                        },
+                        {
+                            "player": {
+                                "id": 333082,
+                                "name": "E. Filet",
+                                "number": null,
+                                "pos": null,
+                                "grid": null
+                            }
+                        }
+                    ],
+                    "substitutes": [
+                        {
+                            "player": {
+                                "id": 106878,
+                                "name": "A. Luisi",
+                                "number": null,
+                                "pos": null,
+                                "grid": null
+                            }
+                        },
+                        {
+                            "player": {
+                                "id": 260369,
+                                "name": "C. Azong",
+                                "number": null,
+                                "pos": null,
+                                "grid": null
+                            }
+                        },
+                        {
+                            "player": {
+                                "id": 105834,
+                                "name": "B. Vogel",
+                                "number": null,
+                                "pos": null,
+                                "grid": null
+                            }
+                        }
+                    ]
+                },
+                {
+                    "team": {
+                        "id": 2040,
+                        "name": "US Hostert",
+                        "logo": "https://media-2.api-sports.io/football/teams/2040.png",
+                        "colors": null
+                    },
+                    "coach": {
+                        "id": 2482,
+                        "name": "H. Bossi",
+                        "photo": "https://media-1.api-sports.io/football/coachs/2482.png"
+                    },
+                    "formation": null,
+                    "startXI": [
+                        {
+                            "player": {
+                                "id": 203744,
+                                "name": "S. Grub",
+                                "number": null,
+                                "pos": null,
+                                "grid": null
+                            }
+                        },
+                        {
+                            "player": {
+                                "id": 86154,
+                                "name": "H. Meddour",
+                                "number": null,
+                                "pos": null,
+                                "grid": null
+                            }
+                        },
+                        {
+                            "player": {
+                                "id": 169247,
+                                "name": "L. Bernardy",
+                                "number": null,
+                                "pos": null,
+                                "grid": null
+                            }
+                        },
+                        {
+                            "player": {
+                                "id": 207451,
+                                "name": "T. Maquart",
+                                "number": null,
+                                "pos": null,
+                                "grid": null
+                            }
+                        },
+                        {
+                            "player": {
+                                "id": 207413,
+                                "name": "T. Ewert",
+                                "number": null,
+                                "pos": null,
+                                "grid": null
+                            }
+                        },
+                        {
+                            "player": {
+                                "id": 193136,
+                                "name": "D. Bonet",
+                                "number": null,
+                                "pos": null,
+                                "grid": null
+                            }
+                        },
+                        {
+                            "player": {
+                                "id": 251348,
+                                "name": "S. Coulibaly",
+                                "number": null,
+                                "pos": null,
+                                "grid": null
+                            }
+                        },
+                        {
+                            "player": {
+                                "id": 112467,
+                                "name": "K. Amehi",
+                                "number": null,
+                                "pos": null,
+                                "grid": null
+                            }
+                        },
+                        {
+                            "player": {
+                                "id": 203643,
+                                "name": "Q. Zilli",
+                                "number": null,
+                                "pos": null,
+                                "grid": null
+                            }
+                        },
+                        {
+                            "player": {
+                                "id": 203665,
+                                "name": "C. Steinmetz",
+                                "number": null,
+                                "pos": null,
+                                "grid": null
+                            }
+                        },
+                        {
+                            "player": {
+                                "id": 378348,
+                                "name": "K. Agovic",
+                                "number": null,
+                                "pos": null,
+                                "grid": null
+                            }
+                        }
+                    ],
+                    "substitutes": [
+                        {
+                            "player": {
+                                "id": 203658,
+                                "name": "E. Gashi",
+                                "number": null,
+                                "pos": null,
+                                "grid": null
+                            }
+                        },
+                        {
+                            "player": {
+                                "id": 314680,
+                                "name": "Y. Ferreira",
+                                "number": null,
+                                "pos": null,
+                                "grid": null
+                            }
+                        },
+                        {
+                            "player": {
+                                "id": 127880,
+                                "name": "L. Benz",
+                                "number": null,
+                                "pos": null,
+                                "grid": null
+                            }
+                        }
+                    ]
+                }
+            ],
+            "statistics": [],
+            "players": []
+        }
+    ]
+}

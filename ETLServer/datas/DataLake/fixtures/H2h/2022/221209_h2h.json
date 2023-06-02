@@ -1,0 +1,344 @@
+{
+    "data": [
+        {
+            "fixture": {
+                "id": 927015,
+                "referee": "Zhang Long",
+                "timezone": "europe/london",
+                "date": "2022-12-09T11:30:00+00:00",
+                "timestamp": 1670585400,
+                "periods": {
+                    "first": 1670585400,
+                    "second": 1670589000
+                },
+                "venue": {
+                    "id": null,
+                    "name": "Jinjiang Sports Center",
+                    "city": "Jinjiang"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 169,
+                "name": "Super League",
+                "country": "China",
+                "logo": "https://media-3.api-sports.io/football/leagues/169.png",
+                "flag": "https://media-1.api-sports.io/flags/cn.svg",
+                "season": 2022,
+                "round": "Regular Season - 30"
+            },
+            "teams": {
+                "home": {
+                    "id": 833,
+                    "name": "Shanghai Shenhua",
+                    "logo": "https://media-3.api-sports.io/football/teams/833.png",
+                    "winner": false
+                },
+                "away": {
+                    "id": 831,
+                    "name": "Dalian Aerbin",
+                    "logo": "https://media-2.api-sports.io/football/teams/831.png",
+                    "winner": true
+                }
+            },
+            "goals": {
+                "home": 1,
+                "away": 2
+            },
+            "score": {
+                "halftime": {
+                    "home": 0,
+                    "away": 0
+                },
+                "fulltime": {
+                    "home": 1,
+                    "away": 2
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 927016,
+                "referee": "Li Haixin",
+                "timezone": "europe/london",
+                "date": "2022-12-09T11:30:00+00:00",
+                "timestamp": 1670585400,
+                "periods": {
+                    "first": 1670585400,
+                    "second": 1670589000
+                },
+                "venue": {
+                    "id": 11560,
+                    "name": "Wuhan Sports Center Stadium",
+                    "city": "Wuhan"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 169,
+                "name": "Super League",
+                "country": "China",
+                "logo": "https://media-2.api-sports.io/football/leagues/169.png",
+                "flag": "https://media-3.api-sports.io/flags/cn.svg",
+                "season": 2022,
+                "round": "Regular Season - 30"
+            },
+            "teams": {
+                "home": {
+                    "id": 5695,
+                    "name": "Wuhan Three Towns",
+                    "logo": "https://media-2.api-sports.io/football/teams/5695.png",
+                    "winner": null
+                },
+                "away": {
+                    "id": 844,
+                    "name": "Shandong Luneng",
+                    "logo": "https://media-2.api-sports.io/football/teams/844.png",
+                    "winner": null
+                }
+            },
+            "goals": {
+                "home": 1,
+                "away": 1
+            },
+            "score": {
+                "halftime": {
+                    "home": 1,
+                    "away": 1
+                },
+                "fulltime": {
+                    "home": 1,
+                    "away": 1
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 927023,
+                "referee": "Du Jianxin",
+                "timezone": "europe/london",
+                "date": "2022-12-09T11:00:00+00:00",
+                "timestamp": 1670583600,
+                "periods": {
+                    "first": 1670583600,
+                    "second": 1670587200
+                },
+                "venue": {
+                    "id": null,
+                    "name": "Wuyuan River Stadium Field 2",
+                    "city": "Haikou"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 169,
+                "name": "Super League",
+                "country": "China",
+                "logo": "https://media-3.api-sports.io/football/leagues/169.png",
+                "flag": "https://media-1.api-sports.io/flags/cn.svg",
+                "season": 2022,
+                "round": "Regular Season - 30"
+            },
+            "teams": {
+                "home": {
+                    "id": 849,
+                    "name": "Shijiazhuang Y. J.",
+                    "logo": "https://media-3.api-sports.io/football/teams/849.png",
+                    "winner": true
+                },
+                "away": {
+                    "id": 1434,
+                    "name": "Wuhan Zall",
+                    "logo": "https://media-2.api-sports.io/football/teams/1434.png",
+                    "winner": false
+                }
+            },
+            "goals": {
+                "home": 1,
+                "away": 0
+            },
+            "score": {
+                "halftime": {
+                    "home": 1,
+                    "away": 0
+                },
+                "fulltime": {
+                    "home": 1,
+                    "away": 0
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 924551,
+                "referee": "Alexander King, Australia",
+                "timezone": "europe/london",
+                "date": "2022-12-09T08:45:00+00:00",
+                "timestamp": 1670575500,
+                "periods": {
+                    "first": 1670575500,
+                    "second": 1670579100
+                },
+                "venue": {
+                    "id": 124,
+                    "name": "Kayo Stadium",
+                    "city": "Brisbane"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 188,
+                "name": "A-League",
+                "country": "Australia",
+                "logo": "https://media-1.api-sports.io/football/leagues/188.png",
+                "flag": "https://media-3.api-sports.io/flags/au.svg",
+                "season": 2022,
+                "round": "Regular Season - 7"
+            },
+            "teams": {
+                "home": {
+                    "id": 947,
+                    "name": "Brisbane Roar",
+                    "logo": "https://media-3.api-sports.io/football/teams/947.png",
+                    "winner": null
+                },
+                "away": {
+                    "id": 948,
+                    "name": "Adelaide United",
+                    "logo": "https://media-2.api-sports.io/football/teams/948.png",
+                    "winner": null
+                }
+            },
+            "goals": {
+                "home": 1,
+                "away": 1
+            },
+            "score": {
+                "halftime": {
+                    "home": 0,
+                    "away": 0
+                },
+                "fulltime": {
+                    "home": 1,
+                    "away": 1
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 877463,
+                "referee": "E. Boyce",
+                "timezone": "europe/london",
+                "date": "2022-12-09T19:45:00+00:00",
+                "timestamp": 1670615100,
+                "periods": {
+                    "first": 1670615100,
+                    "second": 1670618700
+                },
+                "venue": {
+                    "id": 1170,
+                    "name": "The Showgrounds",
+                    "city": "Coleraine"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 408,
+                "name": "Premiership",
+                "country": "Northern-Ireland",
+                "logo": "https://media-3.api-sports.io/football/leagues/408.png",
+                "flag": "https://media-2.api-sports.io/flags/gb.svg",
+                "season": 2022,
+                "round": "Regular Season - 19"
+            },
+            "teams": {
+                "home": {
+                    "id": 669,
+                    "name": "Coleraine FC",
+                    "logo": "https://media-2.api-sports.io/football/teams/669.png",
+                    "winner": true
+                },
+                "away": {
+                    "id": 697,
+                    "name": "Crusaders FC",
+                    "logo": "https://media-1.api-sports.io/football/teams/697.png",
+                    "winner": false
+                }
+            },
+            "goals": {
+                "home": 2,
+                "away": 0
+            },
+            "score": {
+                "halftime": {
+                    "home": 1,
+                    "away": 0
+                },
+                "fulltime": {
+                    "home": 2,
+                    "away": 0
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        }
+    ]
+}

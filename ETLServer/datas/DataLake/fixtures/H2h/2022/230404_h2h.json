@@ -1,0 +1,820 @@
+{
+    "data": [
+        {
+            "fixture": {
+                "id": 868006,
+                "referee": "Darren Bond, England",
+                "timezone": "europe/london",
+                "date": "2023-04-04T19:45:00+01:00",
+                "timestamp": 1680633900,
+                "periods": {
+                    "first": 1680633900,
+                    "second": 1680637500
+                },
+                "venue": {
+                    "id": 504,
+                    "name": "Vitality Stadium",
+                    "city": "Bournemouth, Dorset"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 39,
+                "name": "Premier League",
+                "country": "England",
+                "logo": "https://media-1.api-sports.io/football/leagues/39.png",
+                "flag": "https://media-3.api-sports.io/flags/gb.svg",
+                "season": 2022,
+                "round": "Regular Season - 7"
+            },
+            "teams": {
+                "home": {
+                    "id": 35,
+                    "name": "Bournemouth",
+                    "logo": "https://media-2.api-sports.io/football/teams/35.png",
+                    "winner": false
+                },
+                "away": {
+                    "id": 51,
+                    "name": "Brighton",
+                    "logo": "https://media-1.api-sports.io/football/teams/51.png",
+                    "winner": true
+                }
+            },
+            "goals": {
+                "home": 0,
+                "away": 2
+            },
+            "score": {
+                "halftime": {
+                    "home": 0,
+                    "away": 1
+                },
+                "fulltime": {
+                    "home": 0,
+                    "away": 2
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 868010,
+                "referee": "Robert Jones, England",
+                "timezone": "europe/london",
+                "date": "2023-04-04T19:45:00+01:00",
+                "timestamp": 1680633900,
+                "periods": {
+                    "first": 1680633900,
+                    "second": 1680637500
+                },
+                "venue": {
+                    "id": 546,
+                    "name": "Elland Road",
+                    "city": "Leeds, West Yorkshire"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 39,
+                "name": "Premier League",
+                "country": "England",
+                "logo": "https://media-2.api-sports.io/football/leagues/39.png",
+                "flag": "https://media-3.api-sports.io/flags/gb.svg",
+                "season": 2022,
+                "round": "Regular Season - 7"
+            },
+            "teams": {
+                "home": {
+                    "id": 63,
+                    "name": "Leeds",
+                    "logo": "https://media-1.api-sports.io/football/teams/63.png",
+                    "winner": true
+                },
+                "away": {
+                    "id": 65,
+                    "name": "Nottingham Forest",
+                    "logo": "https://media-1.api-sports.io/football/teams/65.png",
+                    "winner": false
+                }
+            },
+            "goals": {
+                "home": 2,
+                "away": 1
+            },
+            "score": {
+                "halftime": {
+                    "home": 2,
+                    "away": 1
+                },
+                "fulltime": {
+                    "home": 2,
+                    "away": 1
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 868011,
+                "referee": "Graham Scott, England",
+                "timezone": "europe/london",
+                "date": "2023-04-04T19:45:00+01:00",
+                "timestamp": 1680633900,
+                "periods": {
+                    "first": 1680633900,
+                    "second": 1680637500
+                },
+                "venue": {
+                    "id": 547,
+                    "name": "King Power Stadium",
+                    "city": "Leicester, Leicestershire"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 39,
+                "name": "Premier League",
+                "country": "England",
+                "logo": "https://media-2.api-sports.io/football/leagues/39.png",
+                "flag": "https://media-3.api-sports.io/flags/gb.svg",
+                "season": 2022,
+                "round": "Regular Season - 7"
+            },
+            "teams": {
+                "home": {
+                    "id": 46,
+                    "name": "Leicester",
+                    "logo": "https://media-2.api-sports.io/football/teams/46.png",
+                    "winner": false
+                },
+                "away": {
+                    "id": 66,
+                    "name": "Aston Villa",
+                    "logo": "https://media-2.api-sports.io/football/teams/66.png",
+                    "winner": true
+                }
+            },
+            "goals": {
+                "home": 1,
+                "away": 2
+            },
+            "score": {
+                "halftime": {
+                    "home": 1,
+                    "away": 1
+                },
+                "fulltime": {
+                    "home": 1,
+                    "away": 2
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 868019,
+                "referee": "Anthony Taylor, England",
+                "timezone": "europe/london",
+                "date": "2023-04-04T20:00:00+01:00",
+                "timestamp": 1680634800,
+                "periods": {
+                    "first": 1680634800,
+                    "second": 1680638400
+                },
+                "venue": {
+                    "id": 519,
+                    "name": "Stamford Bridge",
+                    "city": "London"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 39,
+                "name": "Premier League",
+                "country": "England",
+                "logo": "https://media-3.api-sports.io/football/leagues/39.png",
+                "flag": "https://media-2.api-sports.io/flags/gb.svg",
+                "season": 2022,
+                "round": "Regular Season - 8"
+            },
+            "teams": {
+                "home": {
+                    "id": 49,
+                    "name": "Chelsea",
+                    "logo": "https://media-2.api-sports.io/football/teams/49.png",
+                    "winner": null
+                },
+                "away": {
+                    "id": 40,
+                    "name": "Liverpool",
+                    "logo": "https://media-3.api-sports.io/football/teams/40.png",
+                    "winner": null
+                }
+            },
+            "goals": {
+                "home": 0,
+                "away": 0
+            },
+            "score": {
+                "halftime": {
+                    "home": 0,
+                    "away": 0
+                },
+                "fulltime": {
+                    "home": 0,
+                    "away": 0
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 873460,
+                "referee": "E. Anderson",
+                "timezone": "europe/london",
+                "date": "2023-04-04T19:45:00+01:00",
+                "timestamp": 1680633900,
+                "periods": {
+                    "first": 1680633900,
+                    "second": 1680637500
+                },
+                "venue": {
+                    "id": 2907,
+                    "name": "Stark's Park",
+                    "city": "Kirkcaldy"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 180,
+                "name": "Championship",
+                "country": "Scotland",
+                "logo": "https://media-2.api-sports.io/football/leagues/180.png",
+                "flag": "https://media-2.api-sports.io/flags/gb.svg",
+                "season": 2022,
+                "round": "Regular Season - 28"
+            },
+            "teams": {
+                "home": {
+                    "id": 1385,
+                    "name": "Raith Rovers",
+                    "logo": "https://media-3.api-sports.io/football/teams/1385.png",
+                    "winner": false
+                },
+                "away": {
+                    "id": 248,
+                    "name": "Hamilton Academical",
+                    "logo": "https://media-1.api-sports.io/football/teams/248.png",
+                    "winner": true
+                }
+            },
+            "goals": {
+                "home": 1,
+                "away": 2
+            },
+            "score": {
+                "halftime": {
+                    "home": 0,
+                    "away": 0
+                },
+                "fulltime": {
+                    "home": 1,
+                    "away": 2
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 974531,
+                "referee": "M. Pechsri",
+                "timezone": "europe/london",
+                "date": "2023-04-04T12:30:00+01:00",
+                "timestamp": 1680607800,
+                "periods": {
+                    "first": 1680607800,
+                    "second": 1680611400
+                },
+                "venue": {
+                    "id": 12709,
+                    "name": "Thunder Dome Stadium",
+                    "city": "Nonthaburi"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 296,
+                "name": "Thai League 1",
+                "country": "Thailand",
+                "logo": "https://media-3.api-sports.io/football/leagues/296.png",
+                "flag": "https://media-2.api-sports.io/flags/th.svg",
+                "season": 2022,
+                "round": "Regular Season - 25"
+            },
+            "teams": {
+                "home": {
+                    "id": 2786,
+                    "name": "Muangthong United",
+                    "logo": "https://media-1.api-sports.io/football/teams/2786.png",
+                    "winner": true
+                },
+                "away": {
+                    "id": 6572,
+                    "name": "Lamphun Warrior",
+                    "logo": "https://media-3.api-sports.io/football/teams/6572.png",
+                    "winner": false
+                }
+            },
+            "goals": {
+                "home": 3,
+                "away": 1
+            },
+            "score": {
+                "halftime": {
+                    "home": 2,
+                    "away": 0
+                },
+                "fulltime": {
+                    "home": 3,
+                    "away": 1
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 974533,
+                "referee": "N. Choosuwan",
+                "timezone": "europe/london",
+                "date": "2023-04-04T13:00:00+01:00",
+                "timestamp": 1680609600,
+                "periods": {
+                    "first": 1680609600,
+                    "second": 1680613200
+                },
+                "venue": {
+                    "id": 1553,
+                    "name": "Thammasat Stadium",
+                    "city": "Pathum Thani"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 296,
+                "name": "Thai League 1",
+                "country": "Thailand",
+                "logo": "https://media-2.api-sports.io/football/leagues/296.png",
+                "flag": "https://media-2.api-sports.io/flags/th.svg",
+                "season": 2022,
+                "round": "Regular Season - 25"
+            },
+            "teams": {
+                "home": {
+                    "id": 2770,
+                    "name": "Bangkok United",
+                    "logo": "https://media-2.api-sports.io/football/teams/2770.png",
+                    "winner": true
+                },
+                "away": {
+                    "id": 2780,
+                    "name": "Buriram United",
+                    "logo": "https://media-2.api-sports.io/football/teams/2780.png",
+                    "winner": false
+                }
+            },
+            "goals": {
+                "home": 4,
+                "away": 3
+            },
+            "score": {
+                "halftime": {
+                    "home": 1,
+                    "away": 2
+                },
+                "fulltime": {
+                    "home": 4,
+                    "away": 3
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 974535,
+                "referee": "W. Sassadee",
+                "timezone": "europe/london",
+                "date": "2023-04-04T12:00:00+01:00",
+                "timestamp": 1680606000,
+                "periods": {
+                    "first": 1680606000,
+                    "second": 1680609600
+                },
+                "venue": {
+                    "id": 12710,
+                    "name": "LEO Chiangrai Stadium",
+                    "city": "Chiang Rai"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 296,
+                "name": "Thai League 1",
+                "country": "Thailand",
+                "logo": "https://media-1.api-sports.io/football/leagues/296.png",
+                "flag": "https://media-1.api-sports.io/flags/th.svg",
+                "season": 2022,
+                "round": "Regular Season - 25"
+            },
+            "teams": {
+                "home": {
+                    "id": 2771,
+                    "name": "Chiangrai United",
+                    "logo": "https://media-1.api-sports.io/football/teams/2771.png",
+                    "winner": false
+                },
+                "away": {
+                    "id": 2789,
+                    "name": "Port FC",
+                    "logo": "https://media-1.api-sports.io/football/teams/2789.png",
+                    "winner": true
+                }
+            },
+            "goals": {
+                "home": 2,
+                "away": 3
+            },
+            "score": {
+                "halftime": {
+                    "home": 2,
+                    "away": 0
+                },
+                "fulltime": {
+                    "home": 2,
+                    "away": 3
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 974536,
+                "referee": "C. Moolmanee",
+                "timezone": "europe/london",
+                "date": "2023-04-04T12:00:00+01:00",
+                "timestamp": 1680606000,
+                "periods": {
+                    "first": 1680606000,
+                    "second": 1680609600
+                },
+                "venue": {
+                    "id": 1834,
+                    "name": "Thung Talay Luang Stadium",
+                    "city": "Sukhothai"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 296,
+                "name": "Thai League 1",
+                "country": "Thailand",
+                "logo": "https://media-3.api-sports.io/football/leagues/296.png",
+                "flag": "https://media-3.api-sports.io/flags/th.svg",
+                "season": 2022,
+                "round": "Regular Season - 25"
+            },
+            "teams": {
+                "home": {
+                    "id": 2783,
+                    "name": "Sukhothai FC",
+                    "logo": "https://media-3.api-sports.io/football/teams/2783.png",
+                    "winner": true
+                },
+                "away": {
+                    "id": 2772,
+                    "name": "Chonburi FC",
+                    "logo": "https://media-3.api-sports.io/football/teams/2772.png",
+                    "winner": false
+                }
+            },
+            "goals": {
+                "home": 1,
+                "away": 0
+            },
+            "score": {
+                "halftime": {
+                    "home": 0,
+                    "away": 0
+                },
+                "fulltime": {
+                    "home": 1,
+                    "away": 0
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 976664,
+                "referee": "Abdullah Al-Kharbosh",
+                "timezone": "europe/london",
+                "date": "2023-04-04T20:00:00+01:00",
+                "timestamp": 1680634800,
+                "periods": {
+                    "first": 1680634800,
+                    "second": 1680638400
+                },
+                "venue": {
+                    "id": 1367,
+                    "name": "Al Majma'ah Sports City Stadium",
+                    "city": "Al Majma'ah"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 307,
+                "name": "Pro League",
+                "country": "Saudi-Arabia",
+                "logo": "https://media-2.api-sports.io/football/leagues/307.png",
+                "flag": "https://media-1.api-sports.io/flags/sa.svg",
+                "season": 2022,
+                "round": "Regular Season - 17"
+            },
+            "teams": {
+                "home": {
+                    "id": 2944,
+                    "name": "Al-Fayha",
+                    "logo": "https://media-2.api-sports.io/football/teams/2944.png",
+                    "winner": false
+                },
+                "away": {
+                    "id": 2932,
+                    "name": "Al-Hilal Saudi FC",
+                    "logo": "https://media-1.api-sports.io/football/teams/2932.png",
+                    "winner": true
+                }
+            },
+            "goals": {
+                "home": 0,
+                "away": 2
+            },
+            "score": {
+                "halftime": {
+                    "home": 0,
+                    "away": 1
+                },
+                "fulltime": {
+                    "home": 0,
+                    "away": 2
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 976701,
+                "referee": "Abdullah Al-Harbi",
+                "timezone": "europe/london",
+                "date": "2023-04-04T20:00:00+01:00",
+                "timestamp": 1680634800,
+                "periods": {
+                    "first": 1680634800,
+                    "second": 1680638400
+                },
+                "venue": {
+                    "id": 1363,
+                    "name": "Prince Abdullah bin Jalawi Sports City Stadium",
+                    "city": "Al-Hasa"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 307,
+                "name": "Pro League",
+                "country": "Saudi-Arabia",
+                "logo": "https://media-1.api-sports.io/football/leagues/307.png",
+                "flag": "https://media-1.api-sports.io/flags/sa.svg",
+                "season": 2022,
+                "round": "Regular Season - 22"
+            },
+            "teams": {
+                "home": {
+                    "id": 2950,
+                    "name": "Al-Adalah",
+                    "logo": "https://media-3.api-sports.io/football/teams/2950.png",
+                    "winner": false
+                },
+                "away": {
+                    "id": 2939,
+                    "name": "Al-Nassr",
+                    "logo": "https://media-1.api-sports.io/football/teams/2939.png",
+                    "winner": true
+                }
+            },
+            "goals": {
+                "home": 0,
+                "away": 5
+            },
+            "score": {
+                "halftime": {
+                    "home": 0,
+                    "away": 1
+                },
+                "fulltime": {
+                    "home": 0,
+                    "away": 5
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 976704,
+                "referee": "I. Kovacs",
+                "timezone": "europe/london",
+                "date": "2023-04-04T20:00:00+01:00",
+                "timestamp": 1680634800,
+                "periods": {
+                    "first": 1680634800,
+                    "second": 1680638400
+                },
+                "venue": {
+                    "id": 1364,
+                    "name": "King Abdullah Sports City",
+                    "city": "Jeddah"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 307,
+                "name": "Pro League",
+                "country": "Saudi-Arabia",
+                "logo": "https://media-2.api-sports.io/football/leagues/307.png",
+                "flag": "https://media-2.api-sports.io/flags/sa.svg",
+                "season": 2022,
+                "round": "Regular Season - 22"
+            },
+            "teams": {
+                "home": {
+                    "id": 2938,
+                    "name": "Al-Ittihad FC",
+                    "logo": "https://media-3.api-sports.io/football/teams/2938.png",
+                    "winner": true
+                },
+                "away": {
+                    "id": 2956,
+                    "name": "Dhamk",
+                    "logo": "https://media-3.api-sports.io/football/teams/2956.png",
+                    "winner": false
+                }
+            },
+            "goals": {
+                "home": 3,
+                "away": 0
+            },
+            "score": {
+                "halftime": {
+                    "home": 2,
+                    "away": 0
+                },
+                "fulltime": {
+                    "home": 3,
+                    "away": 0
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        }
+    ]
+}

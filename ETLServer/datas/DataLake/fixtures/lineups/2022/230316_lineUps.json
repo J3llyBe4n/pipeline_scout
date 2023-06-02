@@ -1,0 +1,416 @@
+{
+    "data": [
+        {
+            "fixture": 976691,
+            "home": {
+                "team": {
+                    "id": 2928,
+                    "name": "Al Khaleej Saihat",
+                    "logo": "https://media-3.api-sports.io/football/teams/2928.png",
+                    "colors": {
+                        "player": {
+                            "primary": "ffff00",
+                            "number": "177245",
+                            "border": "222226"
+                        },
+                        "goalkeeper": {
+                            "primary": "177245",
+                            "number": "ffff00",
+                            "border": "222226"
+                        }
+                    }
+                },
+                "coach": {
+                    "id": 2106,
+                    "name": "Pedro Emanuel",
+                    "photo": "https://media-3.api-sports.io/football/coachs/2106.png"
+                },
+                "formation": "4-2-3-1",
+                "startXI": [
+                    {
+                        "player": {
+                            "id": 10012,
+                            "name": "Douglas Friedrich",
+                            "number": 1,
+                            "pos": "G",
+                            "grid": "1:1"
+                        }
+                    },
+                    {
+                        "player": {
+                            "id": 44649,
+                            "name": "Omar Al Oudah",
+                            "number": 2,
+                            "pos": "D",
+                            "grid": "2:4"
+                        }
+                    },
+                    {
+                        "player": {
+                            "id": 2627,
+                            "name": "Mohammed Al Khabrani",
+                            "number": 3,
+                            "pos": "D",
+                            "grid": "2:3"
+                        }
+                    },
+                    {
+                        "player": {
+                            "id": 57362,
+                            "name": "I. Anthony",
+                            "number": 25,
+                            "pos": "D",
+                            "grid": "2:2"
+                        }
+                    },
+                    {
+                        "player": {
+                            "id": 26767,
+                            "name": "Pedro Amaral",
+                            "number": 5,
+                            "pos": "D",
+                            "grid": "2:1"
+                        }
+                    },
+                    {
+                        "player": {
+                            "id": 15296,
+                            "name": "Lucas Souza",
+                            "number": 8,
+                            "pos": "M",
+                            "grid": "3:2"
+                        }
+                    },
+                    {
+                        "player": {
+                            "id": 50177,
+                            "name": "A. Biyogo Poko",
+                            "number": 15,
+                            "pos": "M",
+                            "grid": "3:1"
+                        }
+                    },
+                    {
+                        "player": {
+                            "id": 197963,
+                            "name": "Hamad Al Abdan",
+                            "number": 99,
+                            "pos": "M",
+                            "grid": "4:3"
+                        }
+                    },
+                    {
+                        "player": {
+                            "id": 41113,
+                            "name": "F\u00e1bio Martins",
+                            "number": 93,
+                            "pos": "M",
+                            "grid": "4:2"
+                        }
+                    },
+                    {
+                        "player": {
+                            "id": 2154,
+                            "name": "S. \u00c7ikalleshi",
+                            "number": 9,
+                            "pos": "F",
+                            "grid": "4:1"
+                        }
+                    }
+                ],
+                "substitutes": [
+                    {
+                        "player": {
+                            "id": 383179,
+                            "name": "Hassan Al Majhad",
+                            "number": 17,
+                            "pos": "M",
+                            "grid": null
+                        }
+                    },
+                    {
+                        "player": {
+                            "id": 134765,
+                            "name": "Ayman Al Hujaili",
+                            "number": 58,
+                            "pos": "M",
+                            "grid": null
+                        }
+                    },
+                    {
+                        "player": {
+                            "id": 288004,
+                            "name": "Abdullah Al Shanqiti",
+                            "number": 13,
+                            "pos": "D",
+                            "grid": null
+                        }
+                    },
+                    {
+                        "player": {
+                            "id": 44205,
+                            "name": "Mohammed Al Sahli",
+                            "number": 11,
+                            "pos": "F",
+                            "grid": null
+                        }
+                    },
+                    {
+                        "player": {
+                            "id": 44626,
+                            "name": "Abdullah Al Harbi",
+                            "number": 20,
+                            "pos": "D",
+                            "grid": null
+                        }
+                    },
+                    {
+                        "player": {
+                            "id": 134764,
+                            "name": "Saleh Al Abbas",
+                            "number": 14,
+                            "pos": "F",
+                            "grid": null
+                        }
+                    },
+                    {
+                        "player": {
+                            "id": 2640,
+                            "name": "Ahmed Al Zain",
+                            "number": 49,
+                            "pos": "F",
+                            "grid": null
+                        }
+                    },
+                    {
+                        "player": {
+                            "id": 44415,
+                            "name": "Hani Al Sebyani",
+                            "number": 24,
+                            "pos": "D",
+                            "grid": null
+                        }
+                    },
+                    {
+                        "player": {
+                            "id": 104726,
+                            "name": "Marwan Al Haidari",
+                            "number": 96,
+                            "pos": "G",
+                            "grid": null
+                        }
+                    }
+                ]
+            },
+            "away": {
+                "team": {
+                    "id": 2942,
+                    "name": "Al Taee",
+                    "logo": "https://media-3.api-sports.io/football/teams/2942.png",
+                    "colors": {
+                        "player": {
+                            "primary": "7790b9",
+                            "number": "ffffff",
+                            "border": "7790b9"
+                        },
+                        "goalkeeper": {
+                            "primary": "00ff00",
+                            "number": "000000",
+                            "border": "00ff00"
+                        }
+                    }
+                },
+                "coach": {
+                    "id": 5852,
+                    "name": "M. R\u0103doi",
+                    "photo": "https://media-3.api-sports.io/football/coachs/5852.png"
+                },
+                "formation": "4-2-3-1",
+                "startXI": [
+                    {
+                        "player": {
+                            "id": 96687,
+                            "name": "Victor Braga",
+                            "number": 1,
+                            "pos": "G",
+                            "grid": "1:1"
+                        }
+                    },
+                    {
+                        "player": {
+                            "id": 2100,
+                            "name": "C. Fai",
+                            "number": 40,
+                            "pos": "D",
+                            "grid": "2:4"
+                        }
+                    },
+                    {
+                        "player": {
+                            "id": 326652,
+                            "name": "Hassan Al Jubairi",
+                            "number": 19,
+                            "pos": "D",
+                            "grid": "2:3"
+                        }
+                    },
+                    {
+                        "player": {
+                            "id": 326651,
+                            "name": "Abdulkarim Sultan",
+                            "number": 4,
+                            "pos": "D",
+                            "grid": "2:2"
+                        }
+                    },
+                    {
+                        "player": {
+                            "id": 44571,
+                            "name": "Hussain Qasim",
+                            "number": 12,
+                            "pos": "D",
+                            "grid": "2:1"
+                        }
+                    },
+                    {
+                        "player": {
+                            "id": 47343,
+                            "name": "Alfa Semedo",
+                            "number": 30,
+                            "pos": "M",
+                            "grid": "3:2"
+                        }
+                    },
+                    {
+                        "player": {
+                            "id": 41363,
+                            "name": "Dener",
+                            "number": 8,
+                            "pos": "M",
+                            "grid": "3:1"
+                        }
+                    },
+                    {
+                        "player": {
+                            "id": 4609,
+                            "name": "A. Sayoud",
+                            "number": 10,
+                            "pos": "M",
+                            "grid": "4:3"
+                        }
+                    },
+                    {
+                        "player": {
+                            "id": 3081,
+                            "name": "K. Musona",
+                            "number": 11,
+                            "pos": "M",
+                            "grid": "4:2"
+                        }
+                    },
+                    {
+                        "player": {
+                            "id": 44637,
+                            "name": "Mohammed Harzan",
+                            "number": 75,
+                            "pos": "M",
+                            "grid": "4:1"
+                        }
+                    },
+                    {
+                        "player": {
+                            "id": 49713,
+                            "name": "G. Mbenza",
+                            "number": 9,
+                            "pos": "F",
+                            "grid": "5:1"
+                        }
+                    }
+                ],
+                "substitutes": [
+                    {
+                        "player": {
+                            "id": 197956,
+                            "name": "Khalil Al Absi",
+                            "number": 24,
+                            "pos": "M",
+                            "grid": null
+                        }
+                    },
+                    {
+                        "player": {
+                            "id": 383177,
+                            "name": "Nawaf Al Qamiri",
+                            "number": 23,
+                            "pos": "D",
+                            "grid": null
+                        }
+                    },
+                    {
+                        "player": {
+                            "id": 44730,
+                            "name": "Fahad Al Johani",
+                            "number": 32,
+                            "pos": "F",
+                            "grid": null
+                        }
+                    },
+                    {
+                        "player": {
+                            "id": 44346,
+                            "name": "Mohammed Al Qunaian",
+                            "number": 18,
+                            "pos": "M",
+                            "grid": null
+                        }
+                    },
+                    {
+                        "player": {
+                            "id": 44638,
+                            "name": "Abdul Wahab Jafar",
+                            "number": 15,
+                            "pos": "M",
+                            "grid": null
+                        }
+                    },
+                    {
+                        "player": {
+                            "id": 326654,
+                            "name": "Abdulaziz Al Harabi",
+                            "number": 6,
+                            "pos": "M",
+                            "grid": null
+                        }
+                    },
+                    {
+                        "player": {
+                            "id": 44608,
+                            "name": "Jamal Bajandouh",
+                            "number": 26,
+                            "pos": "M",
+                            "grid": null
+                        }
+                    },
+                    {
+                        "player": {
+                            "id": 44387,
+                            "name": "Moataz Al Baqaawi",
+                            "number": 44,
+                            "pos": "G",
+                            "grid": null
+                        }
+                    },
+                    {
+                        "player": {
+                            "id": 44400,
+                            "name": "Abdullah Al Joui",
+                            "number": 27,
+                            "pos": "M",
+                            "grid": null
+                        }
+                    }
+                ]
+            }
+        }
+    ]
+}

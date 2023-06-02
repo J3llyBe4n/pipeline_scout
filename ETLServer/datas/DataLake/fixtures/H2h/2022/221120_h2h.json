@@ -1,0 +1,820 @@
+{
+    "data": [
+        {
+            "fixture": {
+                "id": 867721,
+                "referee": "I. Oostrom",
+                "timezone": "europe/london",
+                "date": "2022-11-20T13:30:00+00:00",
+                "timestamp": 1668951000,
+                "periods": {
+                    "first": 1668951000,
+                    "second": 1668954600
+                },
+                "venue": {
+                    "id": 19213,
+                    "name": "Matchoholic Stadion",
+                    "city": "Dordrecht"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 89,
+                "name": "Eerste Divisie",
+                "country": "Netherlands",
+                "logo": "https://media-3.api-sports.io/football/leagues/89.png",
+                "flag": "https://media-3.api-sports.io/flags/nl.svg",
+                "season": 2022,
+                "round": "Regular Season - 16"
+            },
+            "teams": {
+                "home": {
+                    "id": 409,
+                    "name": "Dordrecht",
+                    "logo": "https://media-2.api-sports.io/football/teams/409.png",
+                    "winner": null
+                },
+                "away": {
+                    "id": 195,
+                    "name": "Willem II",
+                    "logo": "https://media-3.api-sports.io/football/teams/195.png",
+                    "winner": null
+                }
+            },
+            "goals": {
+                "home": 2,
+                "away": 2
+            },
+            "score": {
+                "halftime": {
+                    "home": 2,
+                    "away": 1
+                },
+                "fulltime": {
+                    "home": 2,
+                    "away": 2
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 878487,
+                "referee": "Oliver de la Fuente Ramos, Spain",
+                "timezone": "europe/london",
+                "date": "2022-11-20T15:15:00+00:00",
+                "timestamp": 1668957300,
+                "periods": {
+                    "first": 1668957300,
+                    "second": 1668960900
+                },
+                "venue": {
+                    "id": 2618,
+                    "name": "Estadi Nacional",
+                    "city": "Andorra la Vella"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 141,
+                "name": "Segunda Divisi\u00f3n",
+                "country": "Spain",
+                "logo": "https://media-1.api-sports.io/football/leagues/141.png",
+                "flag": "https://media-2.api-sports.io/flags/es.svg",
+                "season": 2022,
+                "round": "Regular Season - 16"
+            },
+            "teams": {
+                "home": {
+                    "id": 8157,
+                    "name": "FC Andorra",
+                    "logo": "https://media-2.api-sports.io/football/teams/8157.png",
+                    "winner": true
+                },
+                "away": {
+                    "id": 716,
+                    "name": "Lugo",
+                    "logo": "https://media-1.api-sports.io/football/teams/716.png",
+                    "winner": false
+                }
+            },
+            "goals": {
+                "home": 4,
+                "away": 0
+            },
+            "score": {
+                "halftime": {
+                    "home": 0,
+                    "away": 0
+                },
+                "fulltime": {
+                    "home": 4,
+                    "away": 0
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 878488,
+                "referee": "Alejandro Quintero Gonzalez, Spain",
+                "timezone": "europe/london",
+                "date": "2022-11-20T20:00:00+00:00",
+                "timestamp": 1668974400,
+                "periods": {
+                    "first": 1668974400,
+                    "second": 1668978000
+                },
+                "venue": {
+                    "id": 1482,
+                    "name": "Estadio Ciudad de Valencia",
+                    "city": "Valencia"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 141,
+                "name": "Segunda Divisi\u00f3n",
+                "country": "Spain",
+                "logo": "https://media-2.api-sports.io/football/leagues/141.png",
+                "flag": "https://media-3.api-sports.io/flags/es.svg",
+                "season": 2022,
+                "round": "Regular Season - 16"
+            },
+            "teams": {
+                "home": {
+                    "id": 539,
+                    "name": "Levante",
+                    "logo": "https://media-3.api-sports.io/football/teams/539.png",
+                    "winner": null
+                },
+                "away": {
+                    "id": 534,
+                    "name": "Las Palmas",
+                    "logo": "https://media-3.api-sports.io/football/teams/534.png",
+                    "winner": null
+                }
+            },
+            "goals": {
+                "home": 1,
+                "away": 1
+            },
+            "score": {
+                "halftime": {
+                    "home": 0,
+                    "away": 0
+                },
+                "fulltime": {
+                    "home": 1,
+                    "away": 1
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 878489,
+                "referee": "Damaso Arcediano Monescillo, Spain",
+                "timezone": "europe/london",
+                "date": "2022-11-20T18:00:00+00:00",
+                "timestamp": 1668967200,
+                "periods": {
+                    "first": 1668967200,
+                    "second": 1668970800
+                },
+                "venue": {
+                    "id": 1472,
+                    "name": "Estadio Municipal de Ipur\u00faa",
+                    "city": "Eibar"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 141,
+                "name": "Segunda Divisi\u00f3n",
+                "country": "Spain",
+                "logo": "https://media-3.api-sports.io/football/leagues/141.png",
+                "flag": "https://media-1.api-sports.io/flags/es.svg",
+                "season": 2022,
+                "round": "Regular Season - 16"
+            },
+            "teams": {
+                "home": {
+                    "id": 545,
+                    "name": "Eibar",
+                    "logo": "https://media-1.api-sports.io/football/teams/545.png",
+                    "winner": null
+                },
+                "away": {
+                    "id": 542,
+                    "name": "Alaves",
+                    "logo": "https://media-1.api-sports.io/football/teams/542.png",
+                    "winner": null
+                }
+            },
+            "goals": {
+                "home": 0,
+                "away": 0
+            },
+            "score": {
+                "halftime": {
+                    "home": 0,
+                    "away": 0
+                },
+                "fulltime": {
+                    "home": 0,
+                    "away": 0
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 878490,
+                "referee": "Luis Mario Milla Alvendiz, Spain",
+                "timezone": "europe/london",
+                "date": "2022-11-20T18:00:00+00:00",
+                "timestamp": 1668967200,
+                "periods": {
+                    "first": 1668967200,
+                    "second": 1668970800
+                },
+                "venue": {
+                    "id": 3516,
+                    "name": "Campos de Sport de El Sardinero",
+                    "city": "Santander"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 141,
+                "name": "Segunda Divisi\u00f3n",
+                "country": "Spain",
+                "logo": "https://media-2.api-sports.io/football/leagues/141.png",
+                "flag": "https://media-3.api-sports.io/flags/es.svg",
+                "season": 2022,
+                "round": "Regular Season - 16"
+            },
+            "teams": {
+                "home": {
+                    "id": 4665,
+                    "name": "Racing Santander",
+                    "logo": "https://media-2.api-sports.io/football/teams/4665.png",
+                    "winner": false
+                },
+                "away": {
+                    "id": 9580,
+                    "name": "Burgos",
+                    "logo": "https://media-1.api-sports.io/football/teams/9580.png",
+                    "winner": true
+                }
+            },
+            "goals": {
+                "home": 0,
+                "away": 1
+            },
+            "score": {
+                "halftime": {
+                    "home": 0,
+                    "away": 0
+                },
+                "fulltime": {
+                    "home": 0,
+                    "away": 1
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 878493,
+                "referee": "Rafael Sanchez Lopez, Spain",
+                "timezone": "europe/london",
+                "date": "2022-11-20T13:00:00+00:00",
+                "timestamp": 1668949200,
+                "periods": {
+                    "first": 1668949200,
+                    "second": 1668952800
+                },
+                "venue": {
+                    "id": 6688,
+                    "name": "Ciudad Deportiva del Villarreal",
+                    "city": "Villarreal"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 141,
+                "name": "Segunda Divisi\u00f3n",
+                "country": "Spain",
+                "logo": "https://media-3.api-sports.io/football/leagues/141.png",
+                "flag": "https://media-1.api-sports.io/flags/es.svg",
+                "season": 2022,
+                "round": "Regular Season - 16"
+            },
+            "teams": {
+                "home": {
+                    "id": 9595,
+                    "name": "Villarreal II",
+                    "logo": "https://media-2.api-sports.io/football/teams/9595.png",
+                    "winner": true
+                },
+                "away": {
+                    "id": 9390,
+                    "name": "Ibiza",
+                    "logo": "https://media-3.api-sports.io/football/teams/9390.png",
+                    "winner": false
+                }
+            },
+            "goals": {
+                "home": 1,
+                "away": 0
+            },
+            "score": {
+                "halftime": {
+                    "home": 0,
+                    "away": 0
+                },
+                "fulltime": {
+                    "home": 1,
+                    "away": 0
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 882268,
+                "referee": "T. Somsingha",
+                "timezone": "europe/london",
+                "date": "2022-11-20T12:00:00+00:00",
+                "timestamp": 1668945600,
+                "periods": {
+                    "first": 1668945600,
+                    "second": 1668949200
+                },
+                "venue": {
+                    "id": null,
+                    "name": "Dragon Solar Park",
+                    "city": "Ratchaburi"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 296,
+                "name": "Thai League 1",
+                "country": "Thailand",
+                "logo": "https://media-1.api-sports.io/football/leagues/296.png",
+                "flag": "https://media-3.api-sports.io/flags/th.svg",
+                "season": 2022,
+                "round": "Regular Season - 14"
+            },
+            "teams": {
+                "home": {
+                    "id": 2776,
+                    "name": "Ratchaburi",
+                    "logo": "https://media-3.api-sports.io/football/teams/2776.png",
+                    "winner": true
+                },
+                "away": {
+                    "id": 2769,
+                    "name": "Bangkok Glass",
+                    "logo": "https://media-3.api-sports.io/football/teams/2769.png",
+                    "winner": false
+                }
+            },
+            "goals": {
+                "home": 3,
+                "away": 0
+            },
+            "score": {
+                "halftime": {
+                    "home": 1,
+                    "away": 0
+                },
+                "fulltime": {
+                    "home": 3,
+                    "away": 0
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 882269,
+                "referee": "N. Insa-ard",
+                "timezone": "europe/london",
+                "date": "2022-11-20T10:30:00+00:00",
+                "timestamp": 1668940200,
+                "periods": {
+                    "first": 1668940200,
+                    "second": 1668943800
+                },
+                "venue": {
+                    "id": 1758,
+                    "name": "His Majesty the King's 80th Birthday Anniversary 5th December 2007 Stadium",
+                    "city": "Nakhon Ratchasima"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 296,
+                "name": "Thai League 1",
+                "country": "Thailand",
+                "logo": "https://media-1.api-sports.io/football/leagues/296.png",
+                "flag": "https://media-1.api-sports.io/flags/th.svg",
+                "season": 2022,
+                "round": "Regular Season - 14"
+            },
+            "teams": {
+                "home": {
+                    "id": 2773,
+                    "name": "Nakhon Ratchasima FC",
+                    "logo": "https://media-3.api-sports.io/football/teams/2773.png",
+                    "winner": true
+                },
+                "away": {
+                    "id": 2772,
+                    "name": "Chonburi FC",
+                    "logo": "https://media-3.api-sports.io/football/teams/2772.png",
+                    "winner": false
+                }
+            },
+            "goals": {
+                "home": 1,
+                "away": 0
+            },
+            "score": {
+                "halftime": {
+                    "home": 1,
+                    "away": 0
+                },
+                "fulltime": {
+                    "home": 1,
+                    "away": 0
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 882270,
+                "referee": "C. Ngamsom",
+                "timezone": "europe/london",
+                "date": "2022-11-20T11:00:00+00:00",
+                "timestamp": 1668942000,
+                "periods": {
+                    "first": 1668942000,
+                    "second": 1668945600
+                },
+                "venue": {
+                    "id": 1859,
+                    "name": "Lampang Provincial Stadium",
+                    "city": "Lampang"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 296,
+                "name": "Thai League 1",
+                "country": "Thailand",
+                "logo": "https://media-2.api-sports.io/football/leagues/296.png",
+                "flag": "https://media-1.api-sports.io/flags/th.svg",
+                "season": 2022,
+                "round": "Regular Season - 14"
+            },
+            "teams": {
+                "home": {
+                    "id": 2801,
+                    "name": "Lampang FC",
+                    "logo": "https://media-2.api-sports.io/football/teams/2801.png",
+                    "winner": false
+                },
+                "away": {
+                    "id": 6572,
+                    "name": "Lamphun Warrior",
+                    "logo": "https://media-3.api-sports.io/football/teams/6572.png",
+                    "winner": true
+                }
+            },
+            "goals": {
+                "home": 1,
+                "away": 2
+            },
+            "score": {
+                "halftime": {
+                    "home": 1,
+                    "away": 0
+                },
+                "fulltime": {
+                    "home": 1,
+                    "away": 2
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 882271,
+                "referee": "N. Choosuwan",
+                "timezone": "europe/london",
+                "date": "2022-11-20T11:00:00+00:00",
+                "timestamp": 1668942000,
+                "periods": {
+                    "first": 1668942000,
+                    "second": 1668945600
+                },
+                "venue": {
+                    "id": 1712,
+                    "name": "Khon Kaen Stadium",
+                    "city": "Khon Kaen"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 296,
+                "name": "Thai League 1",
+                "country": "Thailand",
+                "logo": "https://media-1.api-sports.io/football/leagues/296.png",
+                "flag": "https://media-3.api-sports.io/flags/th.svg",
+                "season": 2022,
+                "round": "Regular Season - 14"
+            },
+            "teams": {
+                "home": {
+                    "id": 10086,
+                    "name": "Khon Kaen United",
+                    "logo": "https://media-2.api-sports.io/football/teams/10086.png",
+                    "winner": null
+                },
+                "away": {
+                    "id": 2775,
+                    "name": "Police Tero",
+                    "logo": "https://media-1.api-sports.io/football/teams/2775.png",
+                    "winner": null
+                }
+            },
+            "goals": {
+                "home": 0,
+                "away": 0
+            },
+            "score": {
+                "halftime": {
+                    "home": 0,
+                    "away": 0
+                },
+                "fulltime": {
+                    "home": 0,
+                    "away": 0
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 866052,
+                "referee": "K. Bartu\u0161kevi\u010dius",
+                "timezone": "europe/london",
+                "date": "2022-11-20T15:55:00+00:00",
+                "timestamp": 1668959700,
+                "periods": {
+                    "first": 1668959700,
+                    "second": 1668963300
+                },
+                "venue": {
+                    "id": 1030,
+                    "name": "Vilniaus LFF stadionas",
+                    "city": "Vilnius"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 362,
+                "name": "A Lyga",
+                "country": "Lithuania",
+                "logo": "https://media-2.api-sports.io/football/leagues/362.png",
+                "flag": "https://media-2.api-sports.io/flags/lt.svg",
+                "season": 2022,
+                "round": "Regular Season - 26"
+            },
+            "teams": {
+                "home": {
+                    "id": 586,
+                    "name": "FK Zalgiris Vilnius",
+                    "logo": "https://media-2.api-sports.io/football/teams/586.png",
+                    "winner": true
+                },
+                "away": {
+                    "id": 3870,
+                    "name": "\u0160iauliai",
+                    "logo": "https://media-3.api-sports.io/football/teams/3870.png",
+                    "winner": false
+                }
+            },
+            "goals": {
+                "home": 5,
+                "away": 0
+            },
+            "score": {
+                "halftime": {
+                    "home": 3,
+                    "away": 0
+                },
+                "fulltime": {
+                    "home": 5,
+                    "away": 0
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 877448,
+                "referee": "L. Tavinder",
+                "timezone": "europe/london",
+                "date": "2022-11-20T12:30:00+00:00",
+                "timestamp": 1668947400,
+                "periods": {
+                    "first": 1668947400,
+                    "second": 1668951000
+                },
+                "venue": {
+                    "id": 18636,
+                    "name": "BetMcLean Oval",
+                    "city": "Belfast"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 408,
+                "name": "Premiership",
+                "country": "Northern-Ireland",
+                "logo": "https://media-3.api-sports.io/football/leagues/408.png",
+                "flag": "https://media-2.api-sports.io/flags/gb.svg",
+                "season": 2022,
+                "round": "Regular Season - 16"
+            },
+            "teams": {
+                "home": {
+                    "id": 5352,
+                    "name": "Glentoran",
+                    "logo": "https://media-2.api-sports.io/football/teams/5352.png",
+                    "winner": false
+                },
+                "away": {
+                    "id": 2266,
+                    "name": "Cliftonville FC",
+                    "logo": "https://media-1.api-sports.io/football/teams/2266.png",
+                    "winner": true
+                }
+            },
+            "goals": {
+                "home": 0,
+                "away": 1
+            },
+            "score": {
+                "halftime": {
+                    "home": 0,
+                    "away": 1
+                },
+                "fulltime": {
+                    "home": 0,
+                    "away": 1
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        }
+    ]
+}

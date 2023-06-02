@@ -1,0 +1,208 @@
+{
+    "data": [
+        {
+            "fixture": {
+                "id": 927024,
+                "referee": "Ma Li",
+                "timezone": "europe/london",
+                "date": "2022-12-14T11:30:00+00:00",
+                "timestamp": 1671017400,
+                "periods": {
+                    "first": 1671017400,
+                    "second": 1671021000
+                },
+                "venue": {
+                    "id": 351,
+                    "name": "Jinjiang Sports Center",
+                    "city": "Jinjiang"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 169,
+                "name": "Super League",
+                "country": "China",
+                "logo": "https://media-2.api-sports.io/football/leagues/169.png",
+                "flag": "https://media-2.api-sports.io/flags/cn.svg",
+                "season": 2022,
+                "round": "Regular Season - 31"
+            },
+            "teams": {
+                "home": {
+                    "id": 838,
+                    "name": "Guangzhou R&F",
+                    "logo": "https://media-2.api-sports.io/football/teams/838.png",
+                    "winner": null
+                },
+                "away": {
+                    "id": 833,
+                    "name": "Shanghai Shenhua",
+                    "logo": "https://media-3.api-sports.io/football/teams/833.png",
+                    "winner": null
+                }
+            },
+            "goals": {
+                "home": 1,
+                "away": 1
+            },
+            "score": {
+                "halftime": {
+                    "home": 0,
+                    "away": 1
+                },
+                "fulltime": {
+                    "home": 1,
+                    "away": 1
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 927026,
+                "referee": "Fu Ming",
+                "timezone": "europe/london",
+                "date": "2022-12-14T09:00:00+00:00",
+                "timestamp": 1671008400,
+                "periods": {
+                    "first": 1671008400,
+                    "second": 1671012000
+                },
+                "venue": {
+                    "id": 1693,
+                    "name": "Dongxihu Sports Centre",
+                    "city": "Wuhan"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 169,
+                "name": "Super League",
+                "country": "China",
+                "logo": "https://media-3.api-sports.io/football/leagues/169.png",
+                "flag": "https://media-2.api-sports.io/flags/cn.svg",
+                "season": 2022,
+                "round": "Regular Season - 31"
+            },
+            "teams": {
+                "home": {
+                    "id": 1434,
+                    "name": "Wuhan Zall",
+                    "logo": "https://media-2.api-sports.io/football/teams/1434.png",
+                    "winner": false
+                },
+                "away": {
+                    "id": 837,
+                    "name": "Tianjin Teda",
+                    "logo": "https://media-3.api-sports.io/football/teams/837.png",
+                    "winner": true
+                }
+            },
+            "goals": {
+                "home": 0,
+                "away": 3
+            },
+            "score": {
+                "halftime": {
+                    "home": 0,
+                    "away": 2
+                },
+                "fulltime": {
+                    "home": 0,
+                    "away": 3
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 927030,
+                "referee": "Huang Yi",
+                "timezone": "europe/london",
+                "date": "2022-12-14T07:00:00+00:00",
+                "timestamp": 1671001200,
+                "periods": {
+                    "first": 1671001200,
+                    "second": 1671004800
+                },
+                "venue": {
+                    "id": 1722,
+                    "name": "Dalian Sports Center",
+                    "city": "Dalian"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 169,
+                "name": "Super League",
+                "country": "China",
+                "logo": "https://media-1.api-sports.io/football/leagues/169.png",
+                "flag": "https://media-3.api-sports.io/flags/cn.svg",
+                "season": 2022,
+                "round": "Regular Season - 31"
+            },
+            "teams": {
+                "home": {
+                    "id": 831,
+                    "name": "Dalian Aerbin",
+                    "logo": "https://media-1.api-sports.io/football/teams/831.png",
+                    "winner": false
+                },
+                "away": {
+                    "id": 5695,
+                    "name": "Wuhan Three Towns",
+                    "logo": "https://media-1.api-sports.io/football/teams/5695.png",
+                    "winner": true
+                }
+            },
+            "goals": {
+                "home": 1,
+                "away": 2
+            },
+            "score": {
+                "halftime": {
+                    "home": 0,
+                    "away": 0
+                },
+                "fulltime": {
+                    "home": 1,
+                    "away": 2
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        }
+    ]
+}

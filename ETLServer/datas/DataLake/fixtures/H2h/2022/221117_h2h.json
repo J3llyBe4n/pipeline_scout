@@ -1,0 +1,208 @@
+{
+    "data": [
+        {
+            "fixture": {
+                "id": 867714,
+                "referee": "L. Timmer",
+                "timezone": "europe/london",
+                "date": "2022-11-17T17:45:00+00:00",
+                "timestamp": 1668707100,
+                "periods": {
+                    "first": 1668707100,
+                    "second": 1668710700
+                },
+                "venue": {
+                    "id": 12681,
+                    "name": "PSV Campus De Herdgang",
+                    "city": "Eindhoven"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 89,
+                "name": "Eerste Divisie",
+                "country": "Netherlands",
+                "logo": "https://media-2.api-sports.io/football/leagues/89.png",
+                "flag": "https://media-1.api-sports.io/flags/nl.svg",
+                "season": 2022,
+                "round": "Regular Season - 16"
+            },
+            "teams": {
+                "home": {
+                    "id": 411,
+                    "name": "Jong PSV",
+                    "logo": "https://media-3.api-sports.io/football/teams/411.png",
+                    "winner": true
+                },
+                "away": {
+                    "id": 428,
+                    "name": "Jong Utrecht",
+                    "logo": "https://media-3.api-sports.io/football/teams/428.png",
+                    "winner": false
+                }
+            },
+            "goals": {
+                "home": 2,
+                "away": 1
+            },
+            "score": {
+                "halftime": {
+                    "home": 0,
+                    "away": 1
+                },
+                "fulltime": {
+                    "home": 2,
+                    "away": 1
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 867715,
+                "referee": "C. Ruperti",
+                "timezone": "europe/london",
+                "date": "2022-11-17T20:00:00+00:00",
+                "timestamp": 1668715200,
+                "periods": {
+                    "first": 1668715200,
+                    "second": 1668718800
+                },
+                "venue": {
+                    "id": 1136,
+                    "name": "AFAS Trainingscomplex",
+                    "city": "Wijdewormer"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 89,
+                "name": "Eerste Divisie",
+                "country": "Netherlands",
+                "logo": "https://media-2.api-sports.io/football/leagues/89.png",
+                "flag": "https://media-1.api-sports.io/flags/nl.svg",
+                "season": 2022,
+                "round": "Regular Season - 16"
+            },
+            "teams": {
+                "home": {
+                    "id": 418,
+                    "name": "Jong AZ",
+                    "logo": "https://media-2.api-sports.io/football/teams/418.png",
+                    "winner": null
+                },
+                "away": {
+                    "id": 425,
+                    "name": "Jong Ajax",
+                    "logo": "https://media-3.api-sports.io/football/teams/425.png",
+                    "winner": null
+                }
+            },
+            "goals": {
+                "home": 1,
+                "away": 1
+            },
+            "score": {
+                "halftime": {
+                    "home": 0,
+                    "away": 1
+                },
+                "fulltime": {
+                    "home": 1,
+                    "away": 1
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 866079,
+                "referee": "M. Lukjan\u010dukas",
+                "timezone": "europe/london",
+                "date": "2022-11-17T16:00:00+00:00",
+                "timestamp": 1668700800,
+                "periods": {
+                    "first": 1668700800,
+                    "second": 1668704400
+                },
+                "venue": {
+                    "id": 2642,
+                    "name": "Garg\u017ed\u0173 miesto stadionas",
+                    "city": "Garg\u017edai"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 362,
+                "name": "A Lyga",
+                "country": "Lithuania",
+                "logo": "https://media-2.api-sports.io/football/leagues/362.png",
+                "flag": "https://media-3.api-sports.io/flags/lt.svg",
+                "season": 2022,
+                "round": "Regular Season - 31"
+            },
+            "teams": {
+                "home": {
+                    "id": 3858,
+                    "name": "Banga",
+                    "logo": "https://media-3.api-sports.io/football/teams/3858.png",
+                    "winner": false
+                },
+                "away": {
+                    "id": 586,
+                    "name": "FK Zalgiris Vilnius",
+                    "logo": "https://media-3.api-sports.io/football/teams/586.png",
+                    "winner": true
+                }
+            },
+            "goals": {
+                "home": 0,
+                "away": 2
+            },
+            "score": {
+                "halftime": {
+                    "home": 0,
+                    "away": 2
+                },
+                "fulltime": {
+                    "home": 0,
+                    "away": 2
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        }
+    ]
+}

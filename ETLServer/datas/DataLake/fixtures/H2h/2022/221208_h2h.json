@@ -1,0 +1,1024 @@
+{
+    "data": [
+        {
+            "fixture": {
+                "id": 903692,
+                "referee": "M. Piccinini",
+                "timezone": "europe/london",
+                "date": "2022-12-08T14:00:00+00:00",
+                "timestamp": 1670508000,
+                "periods": {
+                    "first": 1670508000,
+                    "second": 1670511600
+                },
+                "venue": {
+                    "id": 891,
+                    "name": "Stadio Pier Cesare Tombolato",
+                    "city": "Cittadella"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 136,
+                "name": "Serie B",
+                "country": "Italy",
+                "logo": "https://media-3.api-sports.io/football/leagues/136.png",
+                "flag": "https://media-3.api-sports.io/flags/it.svg",
+                "season": 2022,
+                "round": "Regular Season - 16"
+            },
+            "teams": {
+                "home": {
+                    "id": 510,
+                    "name": "Cittadella",
+                    "logo": "https://media-2.api-sports.io/football/teams/510.png",
+                    "winner": false
+                },
+                "away": {
+                    "id": 508,
+                    "name": "Bari",
+                    "logo": "https://media-2.api-sports.io/football/teams/508.png",
+                    "winner": true
+                }
+            },
+            "goals": {
+                "home": 0,
+                "away": 3
+            },
+            "score": {
+                "halftime": {
+                    "home": 0,
+                    "away": 2
+                },
+                "fulltime": {
+                    "home": 0,
+                    "away": 3
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 903693,
+                "referee": "F. Meraviglia",
+                "timezone": "europe/london",
+                "date": "2022-12-08T14:00:00+00:00",
+                "timestamp": 1670508000,
+                "periods": {
+                    "first": 1670508000,
+                    "second": 1670511600
+                },
+                "venue": {
+                    "id": 893,
+                    "name": "Stadio San Vito-Luigi Marulla",
+                    "city": "Cosenza"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 136,
+                "name": "Serie B",
+                "country": "Italy",
+                "logo": "https://media-2.api-sports.io/football/leagues/136.png",
+                "flag": "https://media-3.api-sports.io/flags/it.svg",
+                "season": 2022,
+                "round": "Regular Season - 16"
+            },
+            "teams": {
+                "home": {
+                    "id": 10137,
+                    "name": "Nuova Cosenza",
+                    "logo": "https://media-2.api-sports.io/football/teams/10137.png",
+                    "winner": null
+                },
+                "away": {
+                    "id": 518,
+                    "name": "Brescia",
+                    "logo": "https://media-3.api-sports.io/football/teams/518.png",
+                    "winner": null
+                }
+            },
+            "goals": {
+                "home": 1,
+                "away": 1
+            },
+            "score": {
+                "halftime": {
+                    "home": 0,
+                    "away": 0
+                },
+                "fulltime": {
+                    "home": 1,
+                    "away": 1
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 903694,
+                "referee": "A. Giua",
+                "timezone": "europe/london",
+                "date": "2022-12-08T14:00:00+00:00",
+                "timestamp": 1670508000,
+                "periods": {
+                    "first": 1670508000,
+                    "second": 1670511600
+                },
+                "venue": {
+                    "id": 905,
+                    "name": "Stadio Comunale Luigi Ferraris",
+                    "city": "Genova"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 136,
+                "name": "Serie B",
+                "country": "Italy",
+                "logo": "https://media-2.api-sports.io/football/leagues/136.png",
+                "flag": "https://media-3.api-sports.io/flags/it.svg",
+                "season": 2022,
+                "round": "Regular Season - 16"
+            },
+            "teams": {
+                "home": {
+                    "id": 495,
+                    "name": "Genoa",
+                    "logo": "https://media-3.api-sports.io/football/teams/495.png",
+                    "winner": true
+                },
+                "away": {
+                    "id": 1578,
+                    "name": "Sudtirol",
+                    "logo": "https://media-3.api-sports.io/football/teams/1578.png",
+                    "winner": false
+                }
+            },
+            "goals": {
+                "home": 2,
+                "away": 0
+            },
+            "score": {
+                "halftime": {
+                    "home": 0,
+                    "away": 0
+                },
+                "fulltime": {
+                    "home": 2,
+                    "away": 0
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 903695,
+                "referee": "D. Paterna",
+                "timezone": "europe/london",
+                "date": "2022-12-08T14:00:00+00:00",
+                "timestamp": 1670508000,
+                "periods": {
+                    "first": 1670508000,
+                    "second": 1670511600
+                },
+                "venue": {
+                    "id": 2771,
+                    "name": "Stadio Alberto Braglia",
+                    "city": "Modena"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 136,
+                "name": "Serie B",
+                "country": "Italy",
+                "logo": "https://media-1.api-sports.io/football/leagues/136.png",
+                "flag": "https://media-3.api-sports.io/flags/it.svg",
+                "season": 2022,
+                "round": "Regular Season - 16"
+            },
+            "teams": {
+                "home": {
+                    "id": 899,
+                    "name": "Modena",
+                    "logo": "https://media-3.api-sports.io/football/teams/899.png",
+                    "winner": null
+                },
+                "away": {
+                    "id": 517,
+                    "name": "Venezia",
+                    "logo": "https://media-1.api-sports.io/football/teams/517.png",
+                    "winner": null
+                }
+            },
+            "goals": {
+                "home": 2,
+                "away": 2
+            },
+            "score": {
+                "halftime": {
+                    "home": 1,
+                    "away": 0
+                },
+                "fulltime": {
+                    "home": 2,
+                    "away": 2
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 903696,
+                "referee": "F. Dionisi",
+                "timezone": "europe/london",
+                "date": "2022-12-08T19:30:00+00:00",
+                "timestamp": 1670527800,
+                "periods": {
+                    "first": 1670527800,
+                    "second": 1670531400
+                },
+                "venue": {
+                    "id": 920,
+                    "name": "Stadio Renzo Barbera",
+                    "city": "Palermo"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 136,
+                "name": "Serie B",
+                "country": "Italy",
+                "logo": "https://media-2.api-sports.io/football/leagues/136.png",
+                "flag": "https://media-3.api-sports.io/flags/it.svg",
+                "season": 2022,
+                "round": "Regular Season - 16"
+            },
+            "teams": {
+                "home": {
+                    "id": 522,
+                    "name": "Palermo",
+                    "logo": "https://media-1.api-sports.io/football/teams/522.png",
+                    "winner": null
+                },
+                "away": {
+                    "id": 895,
+                    "name": "como",
+                    "logo": "https://media-1.api-sports.io/football/teams/895.png",
+                    "winner": null
+                }
+            },
+            "goals": {
+                "home": 0,
+                "away": 0
+            },
+            "score": {
+                "halftime": {
+                    "home": 0,
+                    "away": 0
+                },
+                "fulltime": {
+                    "home": 0,
+                    "away": 0
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 903697,
+                "referee": "M. Gariglio",
+                "timezone": "europe/london",
+                "date": "2022-12-08T11:30:00+00:00",
+                "timestamp": 1670499000,
+                "periods": {
+                    "first": 1670499000,
+                    "second": 1670502600
+                },
+                "venue": {
+                    "id": 921,
+                    "name": "Stadio Ennio Tardini",
+                    "city": "Parma"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 136,
+                "name": "Serie B",
+                "country": "Italy",
+                "logo": "https://media-1.api-sports.io/football/leagues/136.png",
+                "flag": "https://media-1.api-sports.io/flags/it.svg",
+                "season": 2022,
+                "round": "Regular Season - 16"
+            },
+            "teams": {
+                "home": {
+                    "id": 523,
+                    "name": "Parma",
+                    "logo": "https://media-2.api-sports.io/football/teams/523.png",
+                    "winner": false
+                },
+                "away": {
+                    "id": 506,
+                    "name": "Benevento",
+                    "logo": "https://media-3.api-sports.io/football/teams/506.png",
+                    "winner": true
+                }
+            },
+            "goals": {
+                "home": 0,
+                "away": 1
+            },
+            "score": {
+                "halftime": {
+                    "home": 0,
+                    "away": 1
+                },
+                "fulltime": {
+                    "home": 0,
+                    "away": 1
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 903698,
+                "referee": "M. Gualtieri",
+                "timezone": "europe/london",
+                "date": "2022-12-08T14:00:00+00:00",
+                "timestamp": 1670508000,
+                "periods": {
+                    "first": 1670508000,
+                    "second": 1670511600
+                },
+                "venue": {
+                    "id": 922,
+                    "name": "Stadio Renato Curi",
+                    "city": "Perugia"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 136,
+                "name": "Serie B",
+                "country": "Italy",
+                "logo": "https://media-3.api-sports.io/football/leagues/136.png",
+                "flag": "https://media-1.api-sports.io/flags/it.svg",
+                "season": 2022,
+                "round": "Regular Season - 16"
+            },
+            "teams": {
+                "home": {
+                    "id": 524,
+                    "name": "Perugia",
+                    "logo": "https://media-2.api-sports.io/football/teams/524.png",
+                    "winner": null
+                },
+                "away": {
+                    "id": 493,
+                    "name": "Spal",
+                    "logo": "https://media-3.api-sports.io/football/teams/493.png",
+                    "winner": null
+                }
+            },
+            "goals": {
+                "home": 0,
+                "away": 0
+            },
+            "score": {
+                "halftime": {
+                    "home": 0,
+                    "away": 0
+                },
+                "fulltime": {
+                    "home": 0,
+                    "away": 0
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 903699,
+                "referee": "A. Santoro",
+                "timezone": "europe/london",
+                "date": "2022-12-08T17:00:00+00:00",
+                "timestamp": 1670518800,
+                "periods": {
+                    "first": 1670518800,
+                    "second": 1670522400
+                },
+                "venue": {
+                    "id": 925,
+                    "name": "Arena Garibaldi - Stadio Romeo Anconetani",
+                    "city": "Pisa"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 136,
+                "name": "Serie B",
+                "country": "Italy",
+                "logo": "https://media-3.api-sports.io/football/leagues/136.png",
+                "flag": "https://media-1.api-sports.io/flags/it.svg",
+                "season": 2022,
+                "round": "Regular Season - 16"
+            },
+            "teams": {
+                "home": {
+                    "id": 801,
+                    "name": "Pisa",
+                    "logo": "https://media-1.api-sports.io/football/teams/801.png",
+                    "winner": true
+                },
+                "away": {
+                    "id": 507,
+                    "name": "Ascoli",
+                    "logo": "https://media-2.api-sports.io/football/teams/507.png",
+                    "winner": false
+                }
+            },
+            "goals": {
+                "home": 2,
+                "away": 0
+            },
+            "score": {
+                "halftime": {
+                    "home": 1,
+                    "away": 0
+                },
+                "fulltime": {
+                    "home": 2,
+                    "away": 0
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 903700,
+                "referee": "M. Mariani",
+                "timezone": "europe/london",
+                "date": "2022-12-08T14:00:00+00:00",
+                "timestamp": 1670508000,
+                "periods": {
+                    "first": 1670508000,
+                    "second": 1670511600
+                },
+                "venue": {
+                    "id": 2760,
+                    "name": "Stadio Oreste Granillo",
+                    "city": "Reggio Calabria"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 136,
+                "name": "Serie B",
+                "country": "Italy",
+                "logo": "https://media-3.api-sports.io/football/leagues/136.png",
+                "flag": "https://media-1.api-sports.io/flags/it.svg",
+                "season": 2022,
+                "round": "Regular Season - 16"
+            },
+            "teams": {
+                "home": {
+                    "id": 1692,
+                    "name": "Reggina",
+                    "logo": "https://media-2.api-sports.io/football/teams/1692.png",
+                    "winner": false
+                },
+                "away": {
+                    "id": 512,
+                    "name": "Frosinone",
+                    "logo": "https://media-3.api-sports.io/football/teams/512.png",
+                    "winner": true
+                }
+            },
+            "goals": {
+                "home": 0,
+                "away": 3
+            },
+            "score": {
+                "halftime": {
+                    "home": 0,
+                    "away": 1
+                },
+                "fulltime": {
+                    "home": 0,
+                    "away": 3
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 878520,
+                "referee": "Francisco Hernandez Maeso, Spain",
+                "timezone": "europe/london",
+                "date": "2022-12-08T13:00:00+00:00",
+                "timestamp": 1670504400,
+                "periods": {
+                    "first": 1670504400,
+                    "second": 1670508000
+                },
+                "venue": {
+                    "id": 6674,
+                    "name": "Estadio Municipal de El Plant\u00edo",
+                    "city": "Burgos"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 141,
+                "name": "Segunda Divisi\u00f3n",
+                "country": "Spain",
+                "logo": "https://media-1.api-sports.io/football/leagues/141.png",
+                "flag": "https://media-3.api-sports.io/flags/es.svg",
+                "season": 2022,
+                "round": "Regular Season - 19"
+            },
+            "teams": {
+                "home": {
+                    "id": 9580,
+                    "name": "Burgos",
+                    "logo": "https://media-3.api-sports.io/football/teams/9580.png",
+                    "winner": false
+                },
+                "away": {
+                    "id": 545,
+                    "name": "Eibar",
+                    "logo": "https://media-3.api-sports.io/football/teams/545.png",
+                    "winner": true
+                }
+            },
+            "goals": {
+                "home": 1,
+                "away": 2
+            },
+            "score": {
+                "halftime": {
+                    "home": 1,
+                    "away": 0
+                },
+                "fulltime": {
+                    "home": 1,
+                    "away": 2
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 878522,
+                "referee": "Ivan Caparros Hernandez, Spain",
+                "timezone": "europe/london",
+                "date": "2022-12-08T17:30:00+00:00",
+                "timestamp": 1670520600,
+                "periods": {
+                    "first": 1670520600,
+                    "second": 1670524200
+                },
+                "venue": {
+                    "id": 12463,
+                    "name": "Estadio Can Misses \u2013 Power Electronic",
+                    "city": "Ibiza"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 141,
+                "name": "Segunda Divisi\u00f3n",
+                "country": "Spain",
+                "logo": "https://media-2.api-sports.io/football/leagues/141.png",
+                "flag": "https://media-1.api-sports.io/flags/es.svg",
+                "season": 2022,
+                "round": "Regular Season - 19"
+            },
+            "teams": {
+                "home": {
+                    "id": 9390,
+                    "name": "Ibiza",
+                    "logo": "https://media-3.api-sports.io/football/teams/9390.png",
+                    "winner": true
+                },
+                "away": {
+                    "id": 4665,
+                    "name": "Racing Santander",
+                    "logo": "https://media-2.api-sports.io/football/teams/4665.png",
+                    "winner": false
+                }
+            },
+            "goals": {
+                "home": 1,
+                "away": 0
+            },
+            "score": {
+                "halftime": {
+                    "home": 0,
+                    "away": 0
+                },
+                "fulltime": {
+                    "home": 1,
+                    "away": 0
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 878524,
+                "referee": "Jon Ander Gonzalez Esteban, Spain",
+                "timezone": "europe/london",
+                "date": "2022-12-08T17:30:00+00:00",
+                "timestamp": 1670520600,
+                "periods": {
+                    "first": 1670520600,
+                    "second": 1670524200
+                },
+                "venue": {
+                    "id": 1482,
+                    "name": "Estadio Ciudad de Valencia",
+                    "city": "Valencia"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 141,
+                "name": "Segunda Divisi\u00f3n",
+                "country": "Spain",
+                "logo": "https://media-2.api-sports.io/football/leagues/141.png",
+                "flag": "https://media-1.api-sports.io/flags/es.svg",
+                "season": 2022,
+                "round": "Regular Season - 19"
+            },
+            "teams": {
+                "home": {
+                    "id": 539,
+                    "name": "Levante",
+                    "logo": "https://media-2.api-sports.io/football/teams/539.png",
+                    "winner": null
+                },
+                "away": {
+                    "id": 4907,
+                    "name": "Ponferradina",
+                    "logo": "https://media-1.api-sports.io/football/teams/4907.png",
+                    "winner": null
+                }
+            },
+            "goals": {
+                "home": 0,
+                "away": 0
+            },
+            "score": {
+                "halftime": {
+                    "home": 0,
+                    "away": 0
+                },
+                "fulltime": {
+                    "home": 0,
+                    "away": 0
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 878525,
+                "referee": "Iosu Galech Apezteguia, Spain",
+                "timezone": "europe/london",
+                "date": "2022-12-08T15:15:00+00:00",
+                "timestamp": 1670512500,
+                "periods": {
+                    "first": 1670512500,
+                    "second": 1670516100
+                },
+                "venue": {
+                    "id": 1465,
+                    "name": "Estadio Anxo Carro",
+                    "city": "Lugo"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 141,
+                "name": "Segunda Divisi\u00f3n",
+                "country": "Spain",
+                "logo": "https://media-1.api-sports.io/football/leagues/141.png",
+                "flag": "https://media-1.api-sports.io/flags/es.svg",
+                "season": 2022,
+                "round": "Regular Season - 19"
+            },
+            "teams": {
+                "home": {
+                    "id": 716,
+                    "name": "Lugo",
+                    "logo": "https://media-2.api-sports.io/football/teams/716.png",
+                    "winner": false
+                },
+                "away": {
+                    "id": 731,
+                    "name": "Sporting Gijon",
+                    "logo": "https://media-3.api-sports.io/football/teams/731.png",
+                    "winner": true
+                }
+            },
+            "goals": {
+                "home": 0,
+                "away": 1
+            },
+            "score": {
+                "halftime": {
+                    "home": 0,
+                    "away": 0
+                },
+                "fulltime": {
+                    "home": 0,
+                    "away": 1
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 878529,
+                "referee": "David Galvez Rascon, Spain",
+                "timezone": "europe/london",
+                "date": "2022-12-08T20:00:00+00:00",
+                "timestamp": 1670529600,
+                "periods": {
+                    "first": 1670529600,
+                    "second": 1670533200
+                },
+                "venue": {
+                    "id": 1483,
+                    "name": "Estadio La Rosaleda",
+                    "city": "M\u00e1laga"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 141,
+                "name": "Segunda Divisi\u00f3n",
+                "country": "Spain",
+                "logo": "https://media-2.api-sports.io/football/leagues/141.png",
+                "flag": "https://media-1.api-sports.io/flags/es.svg",
+                "season": 2022,
+                "round": "Regular Season - 19"
+            },
+            "teams": {
+                "home": {
+                    "id": 535,
+                    "name": "Malaga",
+                    "logo": "https://media-2.api-sports.io/football/teams/535.png",
+                    "winner": null
+                },
+                "away": {
+                    "id": 715,
+                    "name": "Granada CF",
+                    "logo": "https://media-1.api-sports.io/football/teams/715.png",
+                    "winner": null
+                }
+            },
+            "goals": {
+                "home": 1,
+                "away": 1
+            },
+            "score": {
+                "halftime": {
+                    "home": 1,
+                    "away": 0
+                },
+                "fulltime": {
+                    "home": 1,
+                    "away": 1
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 977447,
+                "referee": "C. Ortega",
+                "timezone": "europe/london",
+                "date": "2022-12-08T00:00:00+00:00",
+                "timestamp": 1670457600,
+                "periods": {
+                    "first": 1670457600,
+                    "second": 1670461200
+                },
+                "venue": {
+                    "id": 378,
+                    "name": "Estadio Hern\u00e1n Ram\u00edrez Villegas",
+                    "city": "Pereira"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "PEN",
+                    "elapsed": 120
+                }
+            },
+            "league": {
+                "id": 239,
+                "name": "Primera A",
+                "country": "Colombia",
+                "logo": "https://media-1.api-sports.io/football/leagues/239.png",
+                "flag": "https://media-3.api-sports.io/flags/co.svg",
+                "season": 2022,
+                "round": "Clausura - Final"
+            },
+            "teams": {
+                "home": {
+                    "id": 1462,
+                    "name": "Deportivo Pereira",
+                    "logo": "https://media-3.api-sports.io/football/teams/1462.png",
+                    "winner": true
+                },
+                "away": {
+                    "id": 1128,
+                    "name": "Independiente Medellin",
+                    "logo": "https://media-3.api-sports.io/football/teams/1128.png",
+                    "winner": false
+                }
+            },
+            "goals": {
+                "home": 0,
+                "away": 0
+            },
+            "score": {
+                "halftime": {
+                    "home": 0,
+                    "away": 0
+                },
+                "fulltime": {
+                    "home": 0,
+                    "away": 0
+                },
+                "extratime": {
+                    "home": 0,
+                    "away": 0
+                },
+                "penalty": {
+                    "home": 4,
+                    "away": 3
+                }
+            }
+        }
+    ]
+}

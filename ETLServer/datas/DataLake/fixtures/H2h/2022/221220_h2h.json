@@ -1,0 +1,480 @@
+{
+    "data": [
+        {
+            "fixture": {
+                "id": 882377,
+                "referee": "T. Owen",
+                "timezone": "europe/london",
+                "date": "2022-12-20T19:45:00+00:00",
+                "timestamp": 1671565500,
+                "periods": {
+                    "first": 1671565500,
+                    "second": 1671569100
+                },
+                "venue": {
+                    "id": 1676,
+                    "name": "Deeside College Stadium",
+                    "city": "Cei Conna / Connah's Quay, Flintshire"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 110,
+                "name": "Premier League",
+                "country": "Wales",
+                "logo": "https://media-3.api-sports.io/football/leagues/110.png",
+                "flag": "https://media-2.api-sports.io/flags/gb.svg",
+                "season": 2022,
+                "round": "1st Phase - 17"
+            },
+            "teams": {
+                "home": {
+                    "id": 357,
+                    "name": "GAP Connah S Quay FC",
+                    "logo": "https://media-3.api-sports.io/football/teams/357.png",
+                    "winner": true
+                },
+                "away": {
+                    "id": 351,
+                    "name": "Aberystwyth Town",
+                    "logo": "https://media-1.api-sports.io/football/teams/351.png",
+                    "winner": false
+                }
+            },
+            "goals": {
+                "home": 3,
+                "away": 0
+            },
+            "score": {
+                "halftime": {
+                    "home": 1,
+                    "away": 0
+                },
+                "fulltime": {
+                    "home": 3,
+                    "away": 0
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 964288,
+                "referee": "M. Zahedifar",
+                "timezone": "europe/london",
+                "date": "2022-12-20T14:00:00+00:00",
+                "timestamp": 1671544800,
+                "periods": {
+                    "first": 1671544800,
+                    "second": 1671548400
+                },
+                "venue": {
+                    "id": 845,
+                    "name": "Azadi Stadium",
+                    "city": "Teheran"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 290,
+                "name": "Persian Gulf Pro League",
+                "country": "Iran",
+                "logo": "https://media-3.api-sports.io/football/leagues/290.png",
+                "flag": "https://media-2.api-sports.io/flags/ir.svg",
+                "season": 2022,
+                "round": "Regular Season - 12"
+            },
+            "teams": {
+                "home": {
+                    "id": 2733,
+                    "name": "Esteghlal FC",
+                    "logo": "https://media-1.api-sports.io/football/teams/2733.png",
+                    "winner": null
+                },
+                "away": {
+                    "id": 2742,
+                    "name": "Persepolis FC",
+                    "logo": "https://media-3.api-sports.io/football/teams/2742.png",
+                    "winner": null
+                }
+            },
+            "goals": {
+                "home": 2,
+                "away": 2
+            },
+            "score": {
+                "halftime": {
+                    "home": 1,
+                    "away": 1
+                },
+                "fulltime": {
+                    "home": 2,
+                    "away": 2
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 964290,
+                "referee": "R. Mahdavi",
+                "timezone": "europe/london",
+                "date": "2022-12-20T11:30:00+00:00",
+                "timestamp": 1671535800,
+                "periods": {
+                    "first": 1671535800,
+                    "second": 1671539400
+                },
+                "venue": {
+                    "id": null,
+                    "name": "Enghelab Stadium",
+                    "city": "Karadj"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 290,
+                "name": "Persian Gulf Pro League",
+                "country": "Iran",
+                "logo": "https://media-2.api-sports.io/football/leagues/290.png",
+                "flag": "https://media-2.api-sports.io/flags/ir.svg",
+                "season": 2022,
+                "round": "Regular Season - 12"
+            },
+            "teams": {
+                "home": {
+                    "id": 2741,
+                    "name": "Paykan",
+                    "logo": "https://media-2.api-sports.io/football/teams/2741.png",
+                    "winner": false
+                },
+                "away": {
+                    "id": 2737,
+                    "name": "Tractor Sazi",
+                    "logo": "https://media-3.api-sports.io/football/teams/2737.png",
+                    "winner": true
+                }
+            },
+            "goals": {
+                "home": 0,
+                "away": 1
+            },
+            "score": {
+                "halftime": {
+                    "home": 0,
+                    "away": 1
+                },
+                "fulltime": {
+                    "home": 0,
+                    "away": 1
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 903992,
+                "referee": "Sultan Mohamed",
+                "timezone": "europe/london",
+                "date": "2022-12-20T15:30:00+00:00",
+                "timestamp": 1671550200,
+                "periods": {
+                    "first": 1671550200,
+                    "second": 1671553800
+                },
+                "venue": {
+                    "id": 1600,
+                    "name": "Hazza Bin Zayed Stadium",
+                    "city": "Al Ain"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 301,
+                "name": "Pro League",
+                "country": "United-Arab-Emirates",
+                "logo": "https://media-2.api-sports.io/football/leagues/301.png",
+                "flag": "https://media-1.api-sports.io/flags/ae.svg",
+                "season": 2022,
+                "round": "Regular Season - 11"
+            },
+            "teams": {
+                "home": {
+                    "id": 2865,
+                    "name": "Al Ain",
+                    "logo": "https://media-3.api-sports.io/football/teams/2865.png",
+                    "winner": null
+                },
+                "away": {
+                    "id": 2877,
+                    "name": "Baniyas SC",
+                    "logo": "https://media-3.api-sports.io/football/teams/2877.png",
+                    "winner": null
+                }
+            },
+            "goals": {
+                "home": 2,
+                "away": 2
+            },
+            "score": {
+                "halftime": {
+                    "home": 1,
+                    "away": 2
+                },
+                "fulltime": {
+                    "home": 2,
+                    "away": 2
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 903997,
+                "referee": "Yahya Almulla",
+                "timezone": "europe/london",
+                "date": "2022-12-20T12:45:00+00:00",
+                "timestamp": 1671540300,
+                "periods": {
+                    "first": 1671540300,
+                    "second": 1671543900
+                },
+                "venue": {
+                    "id": 2927,
+                    "name": "Al Nahyan Stadium",
+                    "city": "Abu Dhabi"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 301,
+                "name": "Pro League",
+                "country": "United-Arab-Emirates",
+                "logo": "https://media-1.api-sports.io/football/leagues/301.png",
+                "flag": "https://media-3.api-sports.io/flags/ae.svg",
+                "season": 2022,
+                "round": "Regular Season - 11"
+            },
+            "teams": {
+                "home": {
+                    "id": 2875,
+                    "name": "Al Wahda FC",
+                    "logo": "https://media-3.api-sports.io/football/teams/2875.png",
+                    "winner": null
+                },
+                "away": {
+                    "id": 4912,
+                    "name": "Al Khaleej",
+                    "logo": "https://media-2.api-sports.io/football/teams/4912.png",
+                    "winner": null
+                }
+            },
+            "goals": {
+                "home": 2,
+                "away": 2
+            },
+            "score": {
+                "halftime": {
+                    "home": 0,
+                    "away": 1
+                },
+                "fulltime": {
+                    "home": 2,
+                    "away": 2
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 903998,
+                "referee": "Yousif Al Jasmi",
+                "timezone": "europe/london",
+                "date": "2022-12-20T12:45:00+00:00",
+                "timestamp": 1671540300,
+                "periods": {
+                    "first": 1671540300,
+                    "second": 1671543900
+                },
+                "venue": {
+                    "id": 1603,
+                    "name": "Ittihad Kalba Club Stadium",
+                    "city": "Kalba"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 301,
+                "name": "Pro League",
+                "country": "United-Arab-Emirates",
+                "logo": "https://media-3.api-sports.io/football/leagues/301.png",
+                "flag": "https://media-2.api-sports.io/flags/ae.svg",
+                "season": 2022,
+                "round": "Regular Season - 11"
+            },
+            "teams": {
+                "home": {
+                    "id": 2876,
+                    "name": "Al-Ittihad Kalba",
+                    "logo": "https://media-2.api-sports.io/football/teams/2876.png",
+                    "winner": false
+                },
+                "away": {
+                    "id": 2874,
+                    "name": "Sharjah FC",
+                    "logo": "https://media-2.api-sports.io/football/teams/2874.png",
+                    "winner": true
+                }
+            },
+            "goals": {
+                "home": 0,
+                "away": 4
+            },
+            "score": {
+                "halftime": {
+                    "home": 0,
+                    "away": 1
+                },
+                "fulltime": {
+                    "home": 0,
+                    "away": 4
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 877385,
+                "referee": "C. Morrison",
+                "timezone": "europe/london",
+                "date": "2022-12-20T19:45:00+00:00",
+                "timestamp": 1671565500,
+                "periods": {
+                    "first": 1671565500,
+                    "second": 1671569100
+                },
+                "venue": {
+                    "id": 1169,
+                    "name": "Solitude",
+                    "city": "Belfast"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 408,
+                "name": "Premiership",
+                "country": "Northern-Ireland",
+                "logo": "https://media-3.api-sports.io/football/leagues/408.png",
+                "flag": "https://media-3.api-sports.io/flags/gb.svg",
+                "season": 2022,
+                "round": "Regular Season - 6"
+            },
+            "teams": {
+                "home": {
+                    "id": 2266,
+                    "name": "Cliftonville FC",
+                    "logo": "https://media-1.api-sports.io/football/teams/2266.png",
+                    "winner": true
+                },
+                "away": {
+                    "id": 5352,
+                    "name": "Glentoran",
+                    "logo": "https://media-1.api-sports.io/football/teams/5352.png",
+                    "winner": false
+                }
+            },
+            "goals": {
+                "home": 1,
+                "away": 0
+            },
+            "score": {
+                "halftime": {
+                    "home": 0,
+                    "away": 0
+                },
+                "fulltime": {
+                    "home": 1,
+                    "away": 0
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        }
+    ]
+}

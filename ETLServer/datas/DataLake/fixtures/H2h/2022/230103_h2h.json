@@ -1,0 +1,888 @@
+{
+    "data": [
+        {
+            "fixture": {
+                "id": 868126,
+                "referee": "A. Madley",
+                "timezone": "europe/london",
+                "date": "2023-01-03T19:45:00+00:00",
+                "timestamp": 1672775100,
+                "periods": {
+                    "first": 1672775100,
+                    "second": 1672778700
+                },
+                "venue": {
+                    "id": 494,
+                    "name": "Emirates Stadium",
+                    "city": "London"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 39,
+                "name": "Premier League",
+                "country": "England",
+                "logo": "https://media-3.api-sports.io/football/leagues/39.png",
+                "flag": "https://media-2.api-sports.io/flags/gb.svg",
+                "season": 2022,
+                "round": "Regular Season - 19"
+            },
+            "teams": {
+                "home": {
+                    "id": 42,
+                    "name": "Arsenal",
+                    "logo": "https://media-1.api-sports.io/football/teams/42.png",
+                    "winner": null
+                },
+                "away": {
+                    "id": 34,
+                    "name": "Newcastle",
+                    "logo": "https://media-1.api-sports.io/football/teams/34.png",
+                    "winner": null
+                }
+            },
+            "goals": {
+                "home": 0,
+                "away": 0
+            },
+            "score": {
+                "halftime": {
+                    "home": 0,
+                    "away": 0
+                },
+                "fulltime": {
+                    "home": 0,
+                    "away": 0
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 868131,
+                "referee": "A. Marriner",
+                "timezone": "europe/london",
+                "date": "2023-01-03T19:45:00+00:00",
+                "timestamp": 1672775100,
+                "periods": {
+                    "first": 1672775100,
+                    "second": 1672778700
+                },
+                "venue": {
+                    "id": 8560,
+                    "name": "Goodison Park",
+                    "city": "Liverpool"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 39,
+                "name": "Premier League",
+                "country": "England",
+                "logo": "https://media-3.api-sports.io/football/leagues/39.png",
+                "flag": "https://media-2.api-sports.io/flags/gb.svg",
+                "season": 2022,
+                "round": "Regular Season - 19"
+            },
+            "teams": {
+                "home": {
+                    "id": 45,
+                    "name": "Everton",
+                    "logo": "https://media-2.api-sports.io/football/teams/45.png",
+                    "winner": false
+                },
+                "away": {
+                    "id": 51,
+                    "name": "Brighton",
+                    "logo": "https://media-1.api-sports.io/football/teams/51.png",
+                    "winner": true
+                }
+            },
+            "goals": {
+                "home": 1,
+                "away": 4
+            },
+            "score": {
+                "halftime": {
+                    "home": 0,
+                    "away": 1
+                },
+                "fulltime": {
+                    "home": 1,
+                    "away": 4
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 868133,
+                "referee": "D. Bond",
+                "timezone": "europe/london",
+                "date": "2023-01-03T19:45:00+00:00",
+                "timestamp": 1672775100,
+                "periods": {
+                    "first": 1672775100,
+                    "second": 1672778700
+                },
+                "venue": {
+                    "id": 547,
+                    "name": "King Power Stadium",
+                    "city": "Leicester, Leicestershire"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 39,
+                "name": "Premier League",
+                "country": "England",
+                "logo": "https://media-2.api-sports.io/football/leagues/39.png",
+                "flag": "https://media-3.api-sports.io/flags/gb.svg",
+                "season": 2022,
+                "round": "Regular Season - 19"
+            },
+            "teams": {
+                "home": {
+                    "id": 46,
+                    "name": "Leicester",
+                    "logo": "https://media-2.api-sports.io/football/teams/46.png",
+                    "winner": false
+                },
+                "away": {
+                    "id": 36,
+                    "name": "Fulham",
+                    "logo": "https://media-3.api-sports.io/football/teams/36.png",
+                    "winner": true
+                }
+            },
+            "goals": {
+                "home": 0,
+                "away": 1
+            },
+            "score": {
+                "halftime": {
+                    "home": 0,
+                    "away": 1
+                },
+                "fulltime": {
+                    "home": 0,
+                    "away": 1
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 868134,
+                "referee": "M. Salisbury",
+                "timezone": "europe/london",
+                "date": "2023-01-03T20:00:00+00:00",
+                "timestamp": 1672776000,
+                "periods": {
+                    "first": 1672776000,
+                    "second": 1672779600
+                },
+                "venue": {
+                    "id": 556,
+                    "name": "Old Trafford",
+                    "city": "Manchester"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 39,
+                "name": "Premier League",
+                "country": "England",
+                "logo": "https://media-2.api-sports.io/football/leagues/39.png",
+                "flag": "https://media-1.api-sports.io/flags/gb.svg",
+                "season": 2022,
+                "round": "Regular Season - 19"
+            },
+            "teams": {
+                "home": {
+                    "id": 33,
+                    "name": "Manchester United",
+                    "logo": "https://media-1.api-sports.io/football/teams/33.png",
+                    "winner": true
+                },
+                "away": {
+                    "id": 35,
+                    "name": "Bournemouth",
+                    "logo": "https://media-2.api-sports.io/football/teams/35.png",
+                    "winner": false
+                }
+            },
+            "goals": {
+                "home": 3,
+                "away": 0
+            },
+            "score": {
+                "halftime": {
+                    "home": 1,
+                    "away": 0
+                },
+                "fulltime": {
+                    "home": 3,
+                    "away": 0
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 882376,
+                "referee": "N. Pratt",
+                "timezone": "europe/london",
+                "date": "2023-01-03T19:45:00+00:00",
+                "timestamp": 1672775100,
+                "periods": {
+                    "first": 1672775100,
+                    "second": 1672778700
+                },
+                "venue": {
+                    "id": 1672,
+                    "name": "The Oval",
+                    "city": "Caernarfon, Gwynedd"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 110,
+                "name": "Premier League",
+                "country": "Wales",
+                "logo": "https://media-3.api-sports.io/football/leagues/110.png",
+                "flag": "https://media-1.api-sports.io/flags/gb.svg",
+                "season": 2022,
+                "round": "1st Phase - 17"
+            },
+            "teams": {
+                "home": {
+                    "id": 356,
+                    "name": "Caernarfon Town",
+                    "logo": "https://media-3.api-sports.io/football/teams/356.png",
+                    "winner": false
+                },
+                "away": {
+                    "id": 354,
+                    "name": "The New Saints",
+                    "logo": "https://media-3.api-sports.io/football/teams/354.png",
+                    "winner": true
+                }
+            },
+            "goals": {
+                "home": 0,
+                "away": 1
+            },
+            "score": {
+                "halftime": {
+                    "home": 0,
+                    "away": 0
+                },
+                "fulltime": {
+                    "home": 0,
+                    "away": 1
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 882380,
+                "referee": "T. Owen",
+                "timezone": "europe/london",
+                "date": "2023-01-03T19:45:00+00:00",
+                "timestamp": 1672775100,
+                "periods": {
+                    "first": 1672775100,
+                    "second": 1672778700
+                },
+                "venue": {
+                    "id": 11921,
+                    "name": "SDM Glass Stadium",
+                    "city": "Bridgend, Bridgend County Borough"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 110,
+                "name": "Premier League",
+                "country": "Wales",
+                "logo": "https://media-2.api-sports.io/football/leagues/110.png",
+                "flag": "https://media-1.api-sports.io/flags/gb.svg",
+                "season": 2022,
+                "round": "1st Phase - 17"
+            },
+            "teams": {
+                "home": {
+                    "id": 2191,
+                    "name": "Penybont",
+                    "logo": "https://media-3.api-sports.io/football/teams/2191.png",
+                    "winner": true
+                },
+                "away": {
+                    "id": 4909,
+                    "name": "Airbus UK",
+                    "logo": "https://media-3.api-sports.io/football/teams/4909.png",
+                    "winner": false
+                }
+            },
+            "goals": {
+                "home": 2,
+                "away": 0
+            },
+            "score": {
+                "halftime": {
+                    "home": 0,
+                    "away": 0
+                },
+                "fulltime": {
+                    "home": 2,
+                    "away": 0
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 882381,
+                "referee": "A. Livesey",
+                "timezone": "europe/london",
+                "date": "2023-01-03T19:45:00+00:00",
+                "timestamp": 1672775100,
+                "periods": {
+                    "first": 1672775100,
+                    "second": 1672778700
+                },
+                "venue": {
+                    "id": null,
+                    "name": "USW Sports Park",
+                    "city": "Treforest, Pontypridd"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 110,
+                "name": "Premier League",
+                "country": "Wales",
+                "logo": "https://media-2.api-sports.io/football/leagues/110.png",
+                "flag": "https://media-1.api-sports.io/flags/gb.svg",
+                "season": 2022,
+                "round": "1st Phase - 17"
+            },
+            "teams": {
+                "home": {
+                    "id": 2192,
+                    "name": "Pontypridd Town",
+                    "logo": "https://media-1.api-sports.io/football/teams/2192.png",
+                    "winner": true
+                },
+                "away": {
+                    "id": 352,
+                    "name": "Bala Town",
+                    "logo": "https://media-1.api-sports.io/football/teams/352.png",
+                    "winner": false
+                }
+            },
+            "goals": {
+                "home": 2,
+                "away": 1
+            },
+            "score": {
+                "halftime": {
+                    "home": 2,
+                    "away": 1
+                },
+                "fulltime": {
+                    "home": 2,
+                    "away": 1
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 923716,
+                "referee": "Alexandros Tsakalidis, Greece",
+                "timezone": "europe/london",
+                "date": "2023-01-03T15:00:00+00:00",
+                "timestamp": 1672758000,
+                "periods": {
+                    "first": 1672758000,
+                    "second": 1672761600
+                },
+                "venue": {
+                    "id": 773,
+                    "name": "Stadio Levadias",
+                    "city": "Levadia"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 197,
+                "name": "Super League 1",
+                "country": "Greece",
+                "logo": "https://media-2.api-sports.io/football/leagues/197.png",
+                "flag": "https://media-2.api-sports.io/flags/gr.svg",
+                "season": 2022,
+                "round": "Regular Season - 16"
+            },
+            "teams": {
+                "home": {
+                    "id": 957,
+                    "name": "Levadiakos",
+                    "logo": "https://media-3.api-sports.io/football/teams/957.png",
+                    "winner": false
+                },
+                "away": {
+                    "id": 617,
+                    "name": "Panathinaikos",
+                    "logo": "https://media-3.api-sports.io/football/teams/617.png",
+                    "winner": true
+                }
+            },
+            "goals": {
+                "home": 0,
+                "away": 1
+            },
+            "score": {
+                "halftime": {
+                    "home": 0,
+                    "away": 1
+                },
+                "fulltime": {
+                    "home": 0,
+                    "away": 1
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 923804,
+                "referee": "Aristotelis Diamantopoulos, Greece",
+                "timezone": "europe/london",
+                "date": "2023-01-03T19:30:00+00:00",
+                "timestamp": 1672774200,
+                "periods": {
+                    "first": 1672774200,
+                    "second": 1672777800
+                },
+                "venue": {
+                    "id": 5455,
+                    "name": "Dimotiko Gipedo Neapolis Nikaias",
+                    "city": "Athens"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 197,
+                "name": "Super League 1",
+                "country": "Greece",
+                "logo": "https://media-1.api-sports.io/football/leagues/197.png",
+                "flag": "https://media-2.api-sports.io/flags/gr.svg",
+                "season": 2022,
+                "round": "Regular Season - 16"
+            },
+            "teams": {
+                "home": {
+                    "id": 7513,
+                    "name": "Ionikos",
+                    "logo": "https://media-1.api-sports.io/football/teams/7513.png",
+                    "winner": false
+                },
+                "away": {
+                    "id": 553,
+                    "name": "Olympiakos Piraeus",
+                    "logo": "https://media-1.api-sports.io/football/teams/553.png",
+                    "winner": true
+                }
+            },
+            "goals": {
+                "home": 0,
+                "away": 2
+            },
+            "score": {
+                "halftime": {
+                    "home": 0,
+                    "away": 2
+                },
+                "fulltime": {
+                    "home": 0,
+                    "away": 2
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 923805,
+                "referee": "Angelos Evangelou, Greece",
+                "timezone": "europe/london",
+                "date": "2023-01-03T14:30:00+00:00",
+                "timestamp": 1672756200,
+                "periods": {
+                    "first": 1672756200,
+                    "second": 1672759800
+                },
+                "venue": {
+                    "id": 774,
+                    "name": "Stadio Th\u00f3doros Vardinoy\u00e1nnis",
+                    "city": "Heraklion"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 197,
+                "name": "Super League 1",
+                "country": "Greece",
+                "logo": "https://media-3.api-sports.io/football/leagues/197.png",
+                "flag": "https://media-1.api-sports.io/flags/gr.svg",
+                "season": 2022,
+                "round": "Regular Season - 16"
+            },
+            "teams": {
+                "home": {
+                    "id": 1124,
+                    "name": "OFI",
+                    "logo": "https://media-2.api-sports.io/football/teams/1124.png",
+                    "winner": null
+                },
+                "away": {
+                    "id": 2110,
+                    "name": "Volos NFC",
+                    "logo": "https://media-1.api-sports.io/football/teams/2110.png",
+                    "winner": null
+                }
+            },
+            "goals": {
+                "home": 0,
+                "away": 0
+            },
+            "score": {
+                "halftime": {
+                    "home": 0,
+                    "away": 0
+                },
+                "fulltime": {
+                    "home": 0,
+                    "away": 0
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 923809,
+                "referee": "Vasilios Fotias, Greece",
+                "timezone": "europe/london",
+                "date": "2023-01-03T18:00:00+00:00",
+                "timestamp": 1672768800,
+                "periods": {
+                    "first": 1672768800,
+                    "second": 1672772400
+                },
+                "venue": {
+                    "id": 781,
+                    "name": "Stadio Zosimades",
+                    "city": "Ioannina"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 197,
+                "name": "Super League 1",
+                "country": "Greece",
+                "logo": "https://media-3.api-sports.io/football/leagues/197.png",
+                "flag": "https://media-2.api-sports.io/flags/gr.svg",
+                "season": 2022,
+                "round": "Regular Season - 16"
+            },
+            "teams": {
+                "home": {
+                    "id": 950,
+                    "name": "PAS Giannina",
+                    "logo": "https://media-3.api-sports.io/football/teams/950.png",
+                    "winner": true
+                },
+                "away": {
+                    "id": 575,
+                    "name": "AEK Athens FC",
+                    "logo": "https://media-3.api-sports.io/football/teams/575.png",
+                    "winner": false
+                }
+            },
+            "goals": {
+                "home": 2,
+                "away": 1
+            },
+            "score": {
+                "halftime": {
+                    "home": 2,
+                    "away": 0
+                },
+                "fulltime": {
+                    "home": 2,
+                    "away": 1
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 884484,
+                "referee": "Kadir Saglam, Turkey",
+                "timezone": "europe/london",
+                "date": "2023-01-03T17:00:00+00:00",
+                "timestamp": 1672765200,
+                "periods": {
+                    "first": 1672765200,
+                    "second": 1672768800
+                },
+                "venue": {
+                    "id": 19220,
+                    "name": "Corendon Airlines Park",
+                    "city": "Antalya"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 203,
+                "name": "S\u00fcper Lig",
+                "country": "Turkey",
+                "logo": "https://media-3.api-sports.io/football/leagues/203.png",
+                "flag": "https://media-3.api-sports.io/flags/tr.svg",
+                "season": 2022,
+                "round": "Regular Season - 17"
+            },
+            "teams": {
+                "home": {
+                    "id": 1005,
+                    "name": "Antalyaspor",
+                    "logo": "https://media-2.api-sports.io/football/teams/1005.png",
+                    "winner": false
+                },
+                "away": {
+                    "id": 611,
+                    "name": "Fenerbahce",
+                    "logo": "https://media-3.api-sports.io/football/teams/611.png",
+                    "winner": true
+                }
+            },
+            "goals": {
+                "home": 1,
+                "away": 2
+            },
+            "score": {
+                "halftime": {
+                    "home": 1,
+                    "away": 0
+                },
+                "fulltime": {
+                    "home": 1,
+                    "away": 2
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 884485,
+                "referee": "Huseyin Gocek, Turkey",
+                "timezone": "europe/london",
+                "date": "2023-01-03T14:00:00+00:00",
+                "timestamp": 1672754400,
+                "periods": {
+                    "first": 1672754400,
+                    "second": 1672758000
+                },
+                "venue": {
+                    "id": 2379,
+                    "name": "\u00dcmraniye Hekimba\u015f\u0131 \u015eehir Stadyumu",
+                    "city": "\u0130stanbul"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 203,
+                "name": "S\u00fcper Lig",
+                "country": "Turkey",
+                "logo": "https://media-3.api-sports.io/football/leagues/203.png",
+                "flag": "https://media-1.api-sports.io/flags/tr.svg",
+                "season": 2022,
+                "round": "Regular Season - 17"
+            },
+            "teams": {
+                "home": {
+                    "id": 3577,
+                    "name": "\u00dcmraniyespor",
+                    "logo": "https://media-1.api-sports.io/football/teams/3577.png",
+                    "winner": null
+                },
+                "away": {
+                    "id": 3575,
+                    "name": "Hatayspor",
+                    "logo": "https://media-2.api-sports.io/football/teams/3575.png",
+                    "winner": null
+                }
+            },
+            "goals": {
+                "home": 2,
+                "away": 2
+            },
+            "score": {
+                "halftime": {
+                    "home": 1,
+                    "away": 1
+                },
+                "fulltime": {
+                    "home": 2,
+                    "away": 2
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        }
+    ]
+}

@@ -2,228 +2,2908 @@
     "data": [
         {
             "fixture": 868277,
-            "events": {
-                "time": {
-                    "elapsed": 18,
-                    "extra": null
+            "events": [
+                {
+                    "time": {
+                        "elapsed": 18,
+                        "extra": null
+                    },
+                    "team": {
+                        "id": 42,
+                        "name": "Arsenal",
+                        "logo": "https://media-3.api-sports.io/football/teams/42.png"
+                    },
+                    "player": {
+                        "id": 37127,
+                        "name": "M. \u00d8degaard"
+                    },
+                    "assist": {
+                        "id": 1464,
+                        "name": "G. Xhaka"
+                    },
+                    "type": "Goal",
+                    "detail": "Normal Goal",
+                    "comments": null
                 },
-                "team": {
-                    "id": 42,
-                    "name": "Arsenal",
-                    "logo": "https://media-2.api-sports.io/football/teams/42.png"
+                {
+                    "time": {
+                        "elapsed": 31,
+                        "extra": null
+                    },
+                    "team": {
+                        "id": 42,
+                        "name": "Arsenal",
+                        "logo": "https://media-1.api-sports.io/football/teams/42.png"
+                    },
+                    "player": {
+                        "id": 37127,
+                        "name": "M. \u00d8degaard"
+                    },
+                    "assist": {
+                        "id": 1464,
+                        "name": "G. Xhaka"
+                    },
+                    "type": "Goal",
+                    "detail": "Normal Goal",
+                    "comments": null
                 },
-                "player": {
-                    "id": 37127,
-                    "name": "M. Odegaard"
+                {
+                    "time": {
+                        "elapsed": 34,
+                        "extra": null
+                    },
+                    "team": {
+                        "id": 42,
+                        "name": "Arsenal",
+                        "logo": "https://media-1.api-sports.io/football/teams/42.png"
+                    },
+                    "player": {
+                        "id": 643,
+                        "name": "Gabriel Jesus"
+                    },
+                    "assist": {
+                        "id": null,
+                        "name": null
+                    },
+                    "type": "Goal",
+                    "detail": "Normal Goal",
+                    "comments": null
                 },
-                "assist": {
-                    "id": 1464,
-                    "name": "G. Xhaka"
+                {
+                    "time": {
+                        "elapsed": 46,
+                        "extra": null
+                    },
+                    "team": {
+                        "id": 49,
+                        "name": "Chelsea",
+                        "logo": "https://media-1.api-sports.io/football/teams/49.png"
+                    },
+                    "player": {
+                        "id": 1465,
+                        "name": "P. Aubameyang"
+                    },
+                    "assist": {
+                        "id": 978,
+                        "name": "K. Havertz"
+                    },
+                    "type": "subst",
+                    "detail": "Substitution 1",
+                    "comments": null
                 },
-                "type": "Goal",
-                "detail": "Normal Goal",
-                "comments": null
-            }
+                {
+                    "time": {
+                        "elapsed": 59,
+                        "extra": null
+                    },
+                    "team": {
+                        "id": 42,
+                        "name": "Arsenal",
+                        "logo": "https://media-2.api-sports.io/football/teams/42.png"
+                    },
+                    "player": {
+                        "id": 1946,
+                        "name": "L. Trossard"
+                    },
+                    "assist": {
+                        "id": 127769,
+                        "name": "Gabriel Martinelli"
+                    },
+                    "type": "subst",
+                    "detail": "Substitution 1",
+                    "comments": null
+                },
+                {
+                    "time": {
+                        "elapsed": 65,
+                        "extra": null
+                    },
+                    "team": {
+                        "id": 49,
+                        "name": "Chelsea",
+                        "logo": "https://media-3.api-sports.io/football/teams/49.png"
+                    },
+                    "player": {
+                        "id": 136723,
+                        "name": "N. Madueke"
+                    },
+                    "assist": {
+                        "id": 2291,
+                        "name": "M. Kova\u010di\u0107"
+                    },
+                    "type": "Goal",
+                    "detail": "Normal Goal",
+                    "comments": null
+                },
+                {
+                    "time": {
+                        "elapsed": 71,
+                        "extra": null
+                    },
+                    "team": {
+                        "id": 49,
+                        "name": "Chelsea",
+                        "logo": "https://media-1.api-sports.io/football/teams/49.png"
+                    },
+                    "player": {
+                        "id": 645,
+                        "name": "R. Sterling"
+                    },
+                    "assist": {
+                        "id": 67972,
+                        "name": "C. Gallagher"
+                    },
+                    "type": "subst",
+                    "detail": "Substitution 2",
+                    "comments": null
+                },
+                {
+                    "time": {
+                        "elapsed": 71,
+                        "extra": null
+                    },
+                    "team": {
+                        "id": 49,
+                        "name": "Chelsea",
+                        "logo": "https://media-2.api-sports.io/football/teams/49.png"
+                    },
+                    "player": {
+                        "id": 5996,
+                        "name": "E. Fern\u00e1ndez"
+                    },
+                    "assist": {
+                        "id": 63577,
+                        "name": "M. Mudryk"
+                    },
+                    "type": "subst",
+                    "detail": "Substitution 3",
+                    "comments": null
+                },
+                {
+                    "time": {
+                        "elapsed": 73,
+                        "extra": null
+                    },
+                    "team": {
+                        "id": 42,
+                        "name": "Arsenal",
+                        "logo": "https://media-1.api-sports.io/football/teams/42.png"
+                    },
+                    "player": {
+                        "id": 641,
+                        "name": "O. Zinchenko"
+                    },
+                    "assist": {
+                        "id": 1117,
+                        "name": "K. Tierney"
+                    },
+                    "type": "subst",
+                    "detail": "Substitution 2",
+                    "comments": null
+                },
+                {
+                    "time": {
+                        "elapsed": 74,
+                        "extra": null
+                    },
+                    "team": {
+                        "id": 42,
+                        "name": "Arsenal",
+                        "logo": "https://media-1.api-sports.io/football/teams/42.png"
+                    },
+                    "player": {
+                        "id": 1460,
+                        "name": "B. Saka"
+                    },
+                    "assist": {
+                        "id": 727,
+                        "name": "R. Nelson"
+                    },
+                    "type": "subst",
+                    "detail": "Substitution 3",
+                    "comments": null
+                },
+                {
+                    "time": {
+                        "elapsed": 79,
+                        "extra": null
+                    },
+                    "team": {
+                        "id": 49,
+                        "name": "Chelsea",
+                        "logo": "https://media-2.api-sports.io/football/teams/49.png"
+                    },
+                    "player": {
+                        "id": 136723,
+                        "name": "N. Madueke"
+                    },
+                    "assist": {
+                        "id": 548,
+                        "name": "H. Ziyech"
+                    },
+                    "type": "subst",
+                    "detail": "Substitution 4",
+                    "comments": null
+                },
+                {
+                    "time": {
+                        "elapsed": 80,
+                        "extra": null
+                    },
+                    "team": {
+                        "id": 49,
+                        "name": "Chelsea",
+                        "logo": "https://media-3.api-sports.io/football/teams/49.png"
+                    },
+                    "player": {
+                        "id": 2291,
+                        "name": "Mateo Kova\u010di\u0107"
+                    },
+                    "assist": {
+                        "id": null,
+                        "name": null
+                    },
+                    "type": "Card",
+                    "detail": "Yellow Card",
+                    "comments": "Foul"
+                },
+                {
+                    "time": {
+                        "elapsed": 85,
+                        "extra": null
+                    },
+                    "team": {
+                        "id": 42,
+                        "name": "Arsenal",
+                        "logo": "https://media-3.api-sports.io/football/teams/42.png"
+                    },
+                    "player": {
+                        "id": 22224,
+                        "name": "Gabriel Magalh\u00e3es"
+                    },
+                    "assist": {
+                        "id": 1440,
+                        "name": "R. Holding"
+                    },
+                    "type": "subst",
+                    "detail": "Substitution 4",
+                    "comments": null
+                },
+                {
+                    "time": {
+                        "elapsed": 86,
+                        "extra": null
+                    },
+                    "team": {
+                        "id": 42,
+                        "name": "Arsenal",
+                        "logo": "https://media-2.api-sports.io/football/teams/42.png"
+                    },
+                    "player": {
+                        "id": 2289,
+                        "name": "Jorginho"
+                    },
+                    "assist": {
+                        "id": 49,
+                        "name": "T. Partey"
+                    },
+                    "type": "subst",
+                    "detail": "Substitution 5",
+                    "comments": null
+                },
+                {
+                    "time": {
+                        "elapsed": 86,
+                        "extra": null
+                    },
+                    "team": {
+                        "id": 49,
+                        "name": "Chelsea",
+                        "logo": "https://media-1.api-sports.io/football/teams/49.png"
+                    },
+                    "player": {
+                        "id": 22094,
+                        "name": "W. Fofana"
+                    },
+                    "assist": {
+                        "id": 19720,
+                        "name": "T. Chalobah"
+                    },
+                    "type": "subst",
+                    "detail": "Substitution 5",
+                    "comments": null
+                },
+                {
+                    "time": {
+                        "elapsed": 90,
+                        "extra": 5
+                    },
+                    "team": {
+                        "id": 49,
+                        "name": "Chelsea",
+                        "logo": "https://media-2.api-sports.io/football/teams/49.png"
+                    },
+                    "player": {
+                        "id": 67972,
+                        "name": "Conor Gallagher"
+                    },
+                    "assist": {
+                        "id": null,
+                        "name": null
+                    },
+                    "type": "Card",
+                    "detail": "Yellow Card",
+                    "comments": "Foul"
+                }
+            ]
         },
         {
             "fixture": 871798,
-            "events": {
-                "time": {
-                    "elapsed": 33,
-                    "extra": null
+            "events": [
+                {
+                    "time": {
+                        "elapsed": 33,
+                        "extra": null
+                    },
+                    "team": {
+                        "id": 116,
+                        "name": "Lens",
+                        "logo": "https://media-2.api-sports.io/football/teams/116.png"
+                    },
+                    "player": {
+                        "id": 86,
+                        "name": "L. Openda"
+                    },
+                    "assist": {
+                        "id": 3333,
+                        "name": "M. Ha\u00efdara"
+                    },
+                    "type": "Goal",
+                    "detail": "Normal Goal",
+                    "comments": null
                 },
-                "team": {
-                    "id": 116,
-                    "name": "Lens",
-                    "logo": "https://media-2.api-sports.io/football/teams/116.png"
+                {
+                    "time": {
+                        "elapsed": 58,
+                        "extra": null
+                    },
+                    "team": {
+                        "id": 96,
+                        "name": "Toulouse",
+                        "logo": "https://media-3.api-sports.io/football/teams/96.png"
+                    },
+                    "player": {
+                        "id": 61159,
+                        "name": "Rafael Rat\u00e3o"
+                    },
+                    "assist": {
+                        "id": 37652,
+                        "name": "B. van den Boomen"
+                    },
+                    "type": "subst",
+                    "detail": "Substitution 1",
+                    "comments": null
                 },
-                "player": {
-                    "id": 86,
-                    "name": "L. Openda"
+                {
+                    "time": {
+                        "elapsed": 59,
+                        "extra": null
+                    },
+                    "team": {
+                        "id": 96,
+                        "name": "Toulouse",
+                        "logo": "https://media-1.api-sports.io/football/teams/96.png"
+                    },
+                    "player": {
+                        "id": 32940,
+                        "name": "A. Onaiwu"
+                    },
+                    "assist": {
+                        "id": 93016,
+                        "name": "T. Dallinga"
+                    },
+                    "type": "subst",
+                    "detail": "Substitution 2",
+                    "comments": null
                 },
-                "assist": {
-                    "id": 3333,
-                    "name": "M. Ha\u00efdara"
+                {
+                    "time": {
+                        "elapsed": 59,
+                        "extra": null
+                    },
+                    "team": {
+                        "id": 96,
+                        "name": "Toulouse",
+                        "logo": "https://media-3.api-sports.io/football/teams/96.png"
+                    },
+                    "player": {
+                        "id": 302622,
+                        "name": "K. Keben"
+                    },
+                    "assist": {
+                        "id": 243,
+                        "name": "Z. Aboukhlal"
+                    },
+                    "type": "subst",
+                    "detail": "Substitution 3",
+                    "comments": null
                 },
-                "type": "Goal",
-                "detail": "Normal Goal",
-                "comments": null
-            }
+                {
+                    "time": {
+                        "elapsed": 60,
+                        "extra": null
+                    },
+                    "team": {
+                        "id": 116,
+                        "name": "Lens",
+                        "logo": "https://media-3.api-sports.io/football/teams/116.png"
+                    },
+                    "player": {
+                        "id": 3007,
+                        "name": "Przemys\u0142aw Frankowski"
+                    },
+                    "assist": {
+                        "id": null,
+                        "name": null
+                    },
+                    "type": "Card",
+                    "detail": "Yellow Card",
+                    "comments": "Foul"
+                },
+                {
+                    "time": {
+                        "elapsed": 71,
+                        "extra": null
+                    },
+                    "team": {
+                        "id": 96,
+                        "name": "Toulouse",
+                        "logo": "https://media-1.api-sports.io/football/teams/96.png"
+                    },
+                    "player": {
+                        "id": 36928,
+                        "name": "D. Genreau"
+                    },
+                    "assist": {
+                        "id": 8482,
+                        "name": "B. Dejaegere"
+                    },
+                    "type": "subst",
+                    "detail": "Substitution 4",
+                    "comments": null
+                },
+                {
+                    "time": {
+                        "elapsed": 71,
+                        "extra": null
+                    },
+                    "team": {
+                        "id": 116,
+                        "name": "Lens",
+                        "logo": "https://media-3.api-sports.io/football/teams/116.png"
+                    },
+                    "player": {
+                        "id": 22261,
+                        "name": "A. Thomasson"
+                    },
+                    "assist": {
+                        "id": 21146,
+                        "name": "A. Fulgini"
+                    },
+                    "type": "subst",
+                    "detail": "Substitution 1",
+                    "comments": null
+                },
+                {
+                    "time": {
+                        "elapsed": 78,
+                        "extra": null
+                    },
+                    "team": {
+                        "id": 96,
+                        "name": "Toulouse",
+                        "logo": "https://media-1.api-sports.io/football/teams/96.png"
+                    },
+                    "player": {
+                        "id": 264383,
+                        "name": "Waren Kamanzi"
+                    },
+                    "assist": {
+                        "id": null,
+                        "name": null
+                    },
+                    "type": "Card",
+                    "detail": "Yellow Card",
+                    "comments": "Foul"
+                },
+                {
+                    "time": {
+                        "elapsed": 78,
+                        "extra": null
+                    },
+                    "team": {
+                        "id": 96,
+                        "name": "Toulouse",
+                        "logo": "https://media-1.api-sports.io/football/teams/96.png"
+                    },
+                    "player": {
+                        "id": 70476,
+                        "name": "M. Diarra"
+                    },
+                    "assist": {
+                        "id": 11421,
+                        "name": "G. Suazo"
+                    },
+                    "type": "subst",
+                    "detail": "Substitution 5",
+                    "comments": null
+                },
+                {
+                    "time": {
+                        "elapsed": 82,
+                        "extra": null
+                    },
+                    "team": {
+                        "id": 116,
+                        "name": "Lens",
+                        "logo": "https://media-2.api-sports.io/football/teams/116.png"
+                    },
+                    "player": {
+                        "id": 41748,
+                        "name": "J. Onana"
+                    },
+                    "assist": {
+                        "id": 40533,
+                        "name": "\u0141. Por\u0119ba"
+                    },
+                    "type": "subst",
+                    "detail": "Substitution 2",
+                    "comments": null
+                },
+                {
+                    "time": {
+                        "elapsed": 83,
+                        "extra": null
+                    },
+                    "team": {
+                        "id": 116,
+                        "name": "Lens",
+                        "logo": "https://media-2.api-sports.io/football/teams/116.png"
+                    },
+                    "player": {
+                        "id": 86,
+                        "name": "L. Openda"
+                    },
+                    "assist": {
+                        "id": 326073,
+                        "name": "R. Labeau Lascary"
+                    },
+                    "type": "subst",
+                    "detail": "Substitution 3",
+                    "comments": null
+                },
+                {
+                    "time": {
+                        "elapsed": 84,
+                        "extra": null
+                    },
+                    "team": {
+                        "id": 116,
+                        "name": "Lens",
+                        "logo": "https://media-3.api-sports.io/football/teams/116.png"
+                    },
+                    "player": {
+                        "id": 21628,
+                        "name": "Brice Samba"
+                    },
+                    "assist": {
+                        "id": null,
+                        "name": null
+                    },
+                    "type": "Card",
+                    "detail": "Yellow Card",
+                    "comments": "Time wasting"
+                }
+            ]
         },
         {
             "fixture": 878264,
-            "events": {
-                "time": {
-                    "elapsed": 27,
-                    "extra": null
+            "events": [
+                {
+                    "time": {
+                        "elapsed": 26,
+                        "extra": null
+                    },
+                    "team": {
+                        "id": 727,
+                        "name": "Osasuna",
+                        "logo": "https://media-1.api-sports.io/football/teams/727.png"
+                    },
+                    "player": {
+                        "id": 182592,
+                        "name": "Jorge Herrando"
+                    },
+                    "assist": {
+                        "id": null,
+                        "name": null
+                    },
+                    "type": "Card",
+                    "detail": "Red Card",
+                    "comments": "Professional foul last man"
                 },
-                "team": {
-                    "id": 727,
-                    "name": "Osasuna",
-                    "logo": "https://media-3.api-sports.io/football/teams/727.png"
+                {
+                    "time": {
+                        "elapsed": 36,
+                        "extra": null
+                    },
+                    "team": {
+                        "id": 529,
+                        "name": "Barcelona",
+                        "logo": "https://media-3.api-sports.io/football/teams/529.png"
+                    },
+                    "player": {
+                        "id": 296667,
+                        "name": "Gavi"
+                    },
+                    "assist": {
+                        "id": 135775,
+                        "name": "Ansu Fati"
+                    },
+                    "type": "subst",
+                    "detail": "Substitution 1",
+                    "comments": null
                 },
-                "player": {
-                    "id": 182592,
-                    "name": "J. Herrando"
+                {
+                    "time": {
+                        "elapsed": 46,
+                        "extra": null
+                    },
+                    "team": {
+                        "id": 727,
+                        "name": "Osasuna",
+                        "logo": "https://media-2.api-sports.io/football/teams/727.png"
+                    },
+                    "player": {
+                        "id": 46658,
+                        "name": "Rub\u00e9n Garc\u00eda"
+                    },
+                    "assist": {
+                        "id": 46667,
+                        "name": "Kike Barja"
+                    },
+                    "type": "subst",
+                    "detail": "Substitution 1",
+                    "comments": null
                 },
-                "assist": {
-                    "id": null,
-                    "name": null
+                {
+                    "time": {
+                        "elapsed": 46,
+                        "extra": null
+                    },
+                    "team": {
+                        "id": 727,
+                        "name": "Osasuna",
+                        "logo": "https://media-2.api-sports.io/football/teams/727.png"
+                    },
+                    "player": {
+                        "id": 67939,
+                        "name": "Aimar Oroz"
+                    },
+                    "assist": {
+                        "id": 182621,
+                        "name": "Iker Mu\u00f1oz"
+                    },
+                    "type": "subst",
+                    "detail": "Substitution 2",
+                    "comments": null
                 },
-                "type": "Card",
-                "detail": "Red Card",
-                "comments": "Holding"
-            }
+                {
+                    "time": {
+                        "elapsed": 52,
+                        "extra": null
+                    },
+                    "team": {
+                        "id": 529,
+                        "name": "Barcelona",
+                        "logo": "https://media-1.api-sports.io/football/teams/529.png"
+                    },
+                    "player": {
+                        "id": 2282,
+                        "name": "A. Christensen"
+                    },
+                    "assist": {
+                        "id": 619,
+                        "name": "Eric Garc\u00eda"
+                    },
+                    "type": "subst",
+                    "detail": "Substitution 2",
+                    "comments": null
+                },
+                {
+                    "time": {
+                        "elapsed": 52,
+                        "extra": null
+                    },
+                    "team": {
+                        "id": 529,
+                        "name": "Barcelona",
+                        "logo": "https://media-3.api-sports.io/football/teams/529.png"
+                    },
+                    "player": {
+                        "id": 1496,
+                        "name": "Raphinha"
+                    },
+                    "assist": {
+                        "id": 153,
+                        "name": "O. Demb\u00e9l\u00e9"
+                    },
+                    "type": "subst",
+                    "detail": "Substitution 3",
+                    "comments": null
+                },
+                {
+                    "time": {
+                        "elapsed": 59,
+                        "extra": null
+                    },
+                    "team": {
+                        "id": 727,
+                        "name": "Osasuna",
+                        "logo": "https://media-3.api-sports.io/football/teams/727.png"
+                    },
+                    "player": {
+                        "id": 1825,
+                        "name": "Lucas Torr\u00f3"
+                    },
+                    "assist": {
+                        "id": 46967,
+                        "name": "Juan Cruz"
+                    },
+                    "type": "subst",
+                    "detail": "Substitution 3",
+                    "comments": null
+                },
+                {
+                    "time": {
+                        "elapsed": 59,
+                        "extra": null
+                    },
+                    "team": {
+                        "id": 727,
+                        "name": "Osasuna",
+                        "logo": "https://media-1.api-sports.io/football/teams/727.png"
+                    },
+                    "player": {
+                        "id": 47579,
+                        "name": "E. \u00c1vila"
+                    },
+                    "assist": {
+                        "id": 47396,
+                        "name": "Kike Garc\u00eda"
+                    },
+                    "type": "subst",
+                    "detail": "Substitution 4",
+                    "comments": null
+                },
+                {
+                    "time": {
+                        "elapsed": 70,
+                        "extra": null
+                    },
+                    "team": {
+                        "id": 727,
+                        "name": "Osasuna",
+                        "logo": "https://media-3.api-sports.io/football/teams/727.png"
+                    },
+                    "player": {
+                        "id": 288800,
+                        "name": "Iker Benito"
+                    },
+                    "assist": {
+                        "id": 46654,
+                        "name": "Aridane"
+                    },
+                    "type": "subst",
+                    "detail": "Substitution 5",
+                    "comments": null
+                },
+                {
+                    "time": {
+                        "elapsed": 75,
+                        "extra": null
+                    },
+                    "team": {
+                        "id": 529,
+                        "name": "Barcelona",
+                        "logo": "https://media-2.api-sports.io/football/teams/529.png"
+                    },
+                    "player": {
+                        "id": 144,
+                        "name": "Sergio Busquets"
+                    },
+                    "assist": {
+                        "id": 931,
+                        "name": "Ferran Torres"
+                    },
+                    "type": "subst",
+                    "detail": "Substitution 4",
+                    "comments": null
+                },
+                {
+                    "time": {
+                        "elapsed": 76,
+                        "extra": null
+                    },
+                    "team": {
+                        "id": 529,
+                        "name": "Barcelona",
+                        "logo": "https://media-1.api-sports.io/football/teams/529.png"
+                    },
+                    "player": {
+                        "id": 161928,
+                        "name": "Alejandro Balde"
+                    },
+                    "assist": {
+                        "id": 128,
+                        "name": "Jordi Alba"
+                    },
+                    "type": "subst",
+                    "detail": "Substitution 5",
+                    "comments": null
+                },
+                {
+                    "time": {
+                        "elapsed": 85,
+                        "extra": null
+                    },
+                    "team": {
+                        "id": 529,
+                        "name": "Barcelona",
+                        "logo": "https://media-2.api-sports.io/football/teams/529.png"
+                    },
+                    "player": {
+                        "id": 128,
+                        "name": "Jordi Alba"
+                    },
+                    "assist": {
+                        "id": 538,
+                        "name": "F. de Jong"
+                    },
+                    "type": "Goal",
+                    "detail": "Normal Goal",
+                    "comments": null
+                }
+            ]
         },
         {
             "fixture": 878267,
-            "events": {
-                "time": {
-                    "elapsed": 20,
-                    "extra": null
+            "events": [
+                {
+                    "time": {
+                        "elapsed": 20,
+                        "extra": null
+                    },
+                    "team": {
+                        "id": 797,
+                        "name": "Elche",
+                        "logo": "https://media-2.api-sports.io/football/teams/797.png"
+                    },
+                    "player": {
+                        "id": 189866,
+                        "name": "John Nwankwo"
+                    },
+                    "assist": {
+                        "id": null,
+                        "name": null
+                    },
+                    "type": "Card",
+                    "detail": "Yellow Card",
+                    "comments": "Foul"
                 },
-                "team": {
-                    "id": 797,
-                    "name": "Elche",
-                    "logo": "https://media-3.api-sports.io/football/teams/797.png"
+                {
+                    "time": {
+                        "elapsed": 22,
+                        "extra": null
+                    },
+                    "team": {
+                        "id": 723,
+                        "name": "Almeria",
+                        "logo": "https://media-1.api-sports.io/football/teams/723.png"
+                    },
+                    "player": {
+                        "id": 13062,
+                        "name": "L\u00e9o Baptist\u00e3o"
+                    },
+                    "assist": {
+                        "id": 47356,
+                        "name": "Rodrigo Ely"
+                    },
+                    "type": "Goal",
+                    "detail": "Normal Goal",
+                    "comments": null
                 },
-                "player": {
-                    "id": 295879,
-                    "name": "J. Donald"
+                {
+                    "time": {
+                        "elapsed": 46,
+                        "extra": null
+                    },
+                    "team": {
+                        "id": 797,
+                        "name": "Elche",
+                        "logo": "https://media-3.api-sports.io/football/teams/797.png"
+                    },
+                    "player": {
+                        "id": 189866,
+                        "name": "John Nwankwo"
+                    },
+                    "assist": {
+                        "id": 146,
+                        "name": "\u00c1lex Collado"
+                    },
+                    "type": "subst",
+                    "detail": "Substitution 1",
+                    "comments": null
                 },
-                "assist": {
-                    "id": null,
-                    "name": null
+                {
+                    "time": {
+                        "elapsed": 50,
+                        "extra": null
+                    },
+                    "team": {
+                        "id": 797,
+                        "name": "Elche",
+                        "logo": "https://media-2.api-sports.io/football/teams/797.png"
+                    },
+                    "player": {
+                        "id": 46651,
+                        "name": "Carlos Clerc"
+                    },
+                    "assist": {
+                        "id": null,
+                        "name": null
+                    },
+                    "type": "Card",
+                    "detail": "Yellow Card",
+                    "comments": "Foul"
                 },
-                "type": "Card",
-                "detail": "Yellow Card",
-                "comments": "Roughing"
-            }
+                {
+                    "time": {
+                        "elapsed": 52,
+                        "extra": null
+                    },
+                    "team": {
+                        "id": 723,
+                        "name": "Almeria",
+                        "logo": "https://media-2.api-sports.io/football/teams/723.png"
+                    },
+                    "player": {
+                        "id": 47554,
+                        "name": "Adri Embarba"
+                    },
+                    "assist": {
+                        "id": null,
+                        "name": null
+                    },
+                    "type": "Goal",
+                    "detail": "Normal Goal",
+                    "comments": null
+                },
+                {
+                    "time": {
+                        "elapsed": 59,
+                        "extra": null
+                    },
+                    "team": {
+                        "id": 723,
+                        "name": "Almeria",
+                        "logo": "https://media-1.api-sports.io/football/teams/723.png"
+                    },
+                    "player": {
+                        "id": 47356,
+                        "name": "Rodrigo Ely"
+                    },
+                    "assist": {
+                        "id": null,
+                        "name": null
+                    },
+                    "type": "Card",
+                    "detail": "Yellow Card",
+                    "comments": "Foul"
+                },
+                {
+                    "time": {
+                        "elapsed": 67,
+                        "extra": null
+                    },
+                    "team": {
+                        "id": 797,
+                        "name": "Elche",
+                        "logo": "https://media-1.api-sports.io/football/teams/797.png"
+                    },
+                    "player": {
+                        "id": 608,
+                        "name": "L. Boy\u00e9"
+                    },
+                    "assist": {
+                        "id": 612,
+                        "name": "E. Ponce"
+                    },
+                    "type": "subst",
+                    "detail": "Substitution 2",
+                    "comments": null
+                },
+                {
+                    "time": {
+                        "elapsed": 68,
+                        "extra": null
+                    },
+                    "team": {
+                        "id": 797,
+                        "name": "Elche",
+                        "logo": "https://media-2.api-sports.io/football/teams/797.png"
+                    },
+                    "player": {
+                        "id": 47398,
+                        "name": "Pere Milla"
+                    },
+                    "assist": {
+                        "id": 122657,
+                        "name": "R. Nteka"
+                    },
+                    "type": "subst",
+                    "detail": "Substitution 3",
+                    "comments": null
+                },
+                {
+                    "time": {
+                        "elapsed": 68,
+                        "extra": null
+                    },
+                    "team": {
+                        "id": 797,
+                        "name": "Elche",
+                        "logo": "https://media-1.api-sports.io/football/teams/797.png"
+                    },
+                    "player": {
+                        "id": 47002,
+                        "name": "Fidel"
+                    },
+                    "assist": {
+                        "id": 47057,
+                        "name": "Ra\u00fal Guti"
+                    },
+                    "type": "subst",
+                    "detail": "Substitution 4",
+                    "comments": null
+                },
+                {
+                    "time": {
+                        "elapsed": 69,
+                        "extra": null
+                    },
+                    "team": {
+                        "id": 723,
+                        "name": "Almeria",
+                        "logo": "https://media-2.api-sports.io/football/teams/723.png"
+                    },
+                    "player": {
+                        "id": 13062,
+                        "name": "L\u00e9o Baptist\u00e3o"
+                    },
+                    "assist": {
+                        "id": 129,
+                        "name": "Chumi"
+                    },
+                    "type": "subst",
+                    "detail": "Substitution 1",
+                    "comments": null
+                },
+                {
+                    "time": {
+                        "elapsed": 77,
+                        "extra": null
+                    },
+                    "team": {
+                        "id": 723,
+                        "name": "Almeria",
+                        "logo": "https://media-2.api-sports.io/football/teams/723.png"
+                    },
+                    "player": {
+                        "id": 47554,
+                        "name": "Adri Embarba"
+                    },
+                    "assist": {
+                        "id": 47262,
+                        "name": "Portillo"
+                    },
+                    "type": "subst",
+                    "detail": "Substitution 2",
+                    "comments": null
+                },
+                {
+                    "time": {
+                        "elapsed": 77,
+                        "extra": null
+                    },
+                    "team": {
+                        "id": 723,
+                        "name": "Almeria",
+                        "logo": "https://media-3.api-sports.io/football/teams/723.png"
+                    },
+                    "player": {
+                        "id": 46688,
+                        "name": "Alejandro Pozo"
+                    },
+                    "assist": {
+                        "id": 138776,
+                        "name": "L. Ramazani"
+                    },
+                    "type": "subst",
+                    "detail": "Substitution 3",
+                    "comments": null
+                },
+                {
+                    "time": {
+                        "elapsed": 77,
+                        "extra": null
+                    },
+                    "team": {
+                        "id": 723,
+                        "name": "Almeria",
+                        "logo": "https://media-2.api-sports.io/football/teams/723.png"
+                    },
+                    "player": {
+                        "id": 46919,
+                        "name": "C\u00e9sar de la Hoz"
+                    },
+                    "assist": {
+                        "id": null,
+                        "name": null
+                    },
+                    "type": "Card",
+                    "detail": "Yellow Card",
+                    "comments": "Foul"
+                },
+                {
+                    "time": {
+                        "elapsed": 77,
+                        "extra": null
+                    },
+                    "team": {
+                        "id": 797,
+                        "name": "Elche",
+                        "logo": "https://media-2.api-sports.io/football/teams/797.png"
+                    },
+                    "player": {
+                        "id": 289444,
+                        "name": "L. Blanco"
+                    },
+                    "assist": {
+                        "id": 75414,
+                        "name": "N. Fern\u00e1ndez Mercau"
+                    },
+                    "type": "subst",
+                    "detail": "Substitution 5",
+                    "comments": null
+                },
+                {
+                    "time": {
+                        "elapsed": 84,
+                        "extra": null
+                    },
+                    "team": {
+                        "id": 723,
+                        "name": "Almeria",
+                        "logo": "https://media-2.api-sports.io/football/teams/723.png"
+                    },
+                    "player": {
+                        "id": 6065,
+                        "name": "L. Robertone"
+                    },
+                    "assist": {
+                        "id": 190485,
+                        "name": "Sam\u00fa Costa"
+                    },
+                    "type": "subst",
+                    "detail": "Substitution 4",
+                    "comments": null
+                },
+                {
+                    "time": {
+                        "elapsed": 84,
+                        "extra": null
+                    },
+                    "team": {
+                        "id": 723,
+                        "name": "Almeria",
+                        "logo": "https://media-1.api-sports.io/football/teams/723.png"
+                    },
+                    "player": {
+                        "id": 47576,
+                        "name": "Melero"
+                    },
+                    "assist": {
+                        "id": 47056,
+                        "name": "\u00cd\u00f1igo Eguaras"
+                    },
+                    "type": "subst",
+                    "detail": "Substitution 5",
+                    "comments": null
+                },
+                {
+                    "time": {
+                        "elapsed": 90,
+                        "extra": null
+                    },
+                    "team": {
+                        "id": 797,
+                        "name": "Elche",
+                        "logo": "https://media-2.api-sports.io/football/teams/797.png"
+                    },
+                    "player": {
+                        "id": 612,
+                        "name": "E. Ponce"
+                    },
+                    "assist": {
+                        "id": 75414,
+                        "name": "N. Fern\u00e1ndez Mercau"
+                    },
+                    "type": "Goal",
+                    "detail": "Normal Goal",
+                    "comments": null
+                }
+            ]
         },
         {
             "fixture": 878271,
-            "events": {
-                "time": {
-                    "elapsed": 22,
-                    "extra": null
+            "events": [
+                {
+                    "time": {
+                        "elapsed": 22,
+                        "extra": null
+                    },
+                    "team": {
+                        "id": 548,
+                        "name": "Real Sociedad",
+                        "logo": "https://media-2.api-sports.io/football/teams/548.png"
+                    },
+                    "player": {
+                        "id": 47299,
+                        "name": "Andoni Gorosabel"
+                    },
+                    "assist": {
+                        "id": null,
+                        "name": null
+                    },
+                    "type": "Card",
+                    "detail": "Yellow Card",
+                    "comments": "Foul"
                 },
-                "team": {
-                    "id": 548,
-                    "name": "Real Sociedad",
-                    "logo": "https://media-1.api-sports.io/football/teams/548.png"
+                {
+                    "time": {
+                        "elapsed": 47,
+                        "extra": null
+                    },
+                    "team": {
+                        "id": 548,
+                        "name": "Real Sociedad",
+                        "logo": "https://media-3.api-sports.io/football/teams/548.png"
+                    },
+                    "player": {
+                        "id": 32862,
+                        "name": "T. Kubo"
+                    },
+                    "assist": {
+                        "id": null,
+                        "name": null
+                    },
+                    "type": "Goal",
+                    "detail": "Normal Goal",
+                    "comments": null
                 },
-                "player": {
-                    "id": 47299,
-                    "name": "A. Gorosabel"
+                {
+                    "time": {
+                        "elapsed": 53,
+                        "extra": null
+                    },
+                    "team": {
+                        "id": 541,
+                        "name": "Real Madrid",
+                        "logo": "https://media-2.api-sports.io/football/teams/541.png"
+                    },
+                    "player": {
+                        "id": 733,
+                        "name": "Daniel Carvajal"
+                    },
+                    "assist": {
+                        "id": null,
+                        "name": null
+                    },
+                    "type": "Card",
+                    "detail": "Yellow Card",
+                    "comments": "Argument"
                 },
-                "assist": {
-                    "id": null,
-                    "name": null
+                {
+                    "time": {
+                        "elapsed": 59,
+                        "extra": null
+                    },
+                    "team": {
+                        "id": 541,
+                        "name": "Real Madrid",
+                        "logo": "https://media-2.api-sports.io/football/teams/541.png"
+                    },
+                    "player": {
+                        "id": 760,
+                        "name": "M. D\u00edaz"
+                    },
+                    "assist": {
+                        "id": 343202,
+                        "name": "\u00c1. Rodr\u00edguez"
+                    },
+                    "type": "subst",
+                    "detail": "Substitution 1",
+                    "comments": null
                 },
-                "type": "Card",
-                "detail": "Yellow Card",
-                "comments": "Tripping"
-            }
+                {
+                    "time": {
+                        "elapsed": 61,
+                        "extra": null
+                    },
+                    "team": {
+                        "id": 541,
+                        "name": "Real Madrid",
+                        "logo": "https://media-3.api-sports.io/football/teams/541.png"
+                    },
+                    "player": {
+                        "id": 733,
+                        "name": "Daniel Carvajal"
+                    },
+                    "assist": {
+                        "id": null,
+                        "name": null
+                    },
+                    "type": "Card",
+                    "detail": "Yellow Card",
+                    "comments": "Foul"
+                },
+                {
+                    "time": {
+                        "elapsed": 61,
+                        "extra": null
+                    },
+                    "team": {
+                        "id": 541,
+                        "name": "Real Madrid",
+                        "logo": "https://media-1.api-sports.io/football/teams/541.png"
+                    },
+                    "player": {
+                        "id": 733,
+                        "name": "Daniel Carvajal"
+                    },
+                    "assist": {
+                        "id": null,
+                        "name": null
+                    },
+                    "type": "Card",
+                    "detail": "Red Card",
+                    "comments": "Foul"
+                },
+                {
+                    "time": {
+                        "elapsed": 63,
+                        "extra": null
+                    },
+                    "team": {
+                        "id": 548,
+                        "name": "Real Sociedad",
+                        "logo": "https://media-2.api-sports.io/football/teams/548.png"
+                    },
+                    "player": {
+                        "id": 47299,
+                        "name": "Gorosabel"
+                    },
+                    "assist": {
+                        "id": 47298,
+                        "name": "Elustondo"
+                    },
+                    "type": "subst",
+                    "detail": "Substitution 1",
+                    "comments": null
+                },
+                {
+                    "time": {
+                        "elapsed": 63,
+                        "extra": null
+                    },
+                    "team": {
+                        "id": 541,
+                        "name": "Real Madrid",
+                        "logo": "https://media-3.api-sports.io/football/teams/541.png"
+                    },
+                    "player": {
+                        "id": 752,
+                        "name": "T. Kroos"
+                    },
+                    "assist": {
+                        "id": 757,
+                        "name": "Lucas V\u00e1zquez"
+                    },
+                    "type": "subst",
+                    "detail": "Substitution 2",
+                    "comments": null
+                },
+                {
+                    "time": {
+                        "elapsed": 64,
+                        "extra": null
+                    },
+                    "team": {
+                        "id": 548,
+                        "name": "Real Sociedad",
+                        "logo": "https://media-2.api-sports.io/football/teams/548.png"
+                    },
+                    "player": {
+                        "id": 47314,
+                        "name": "Zubeldia"
+                    },
+                    "assist": {
+                        "id": 182546,
+                        "name": "Jon Pacheco"
+                    },
+                    "type": "subst",
+                    "detail": "Substitution 2",
+                    "comments": null
+                },
+                {
+                    "time": {
+                        "elapsed": 74,
+                        "extra": null
+                    },
+                    "team": {
+                        "id": 548,
+                        "name": "Real Sociedad",
+                        "logo": "https://media-1.api-sports.io/football/teams/548.png"
+                    },
+                    "player": {
+                        "id": 32862,
+                        "name": "T. Kubo"
+                    },
+                    "assist": {
+                        "id": 47317,
+                        "name": "Barrenetxea"
+                    },
+                    "type": "subst",
+                    "detail": "Substitution 3",
+                    "comments": null
+                },
+                {
+                    "time": {
+                        "elapsed": 74,
+                        "extra": null
+                    },
+                    "team": {
+                        "id": 548,
+                        "name": "Real Sociedad",
+                        "logo": "https://media-3.api-sports.io/football/teams/548.png"
+                    },
+                    "player": {
+                        "id": 8492,
+                        "name": "A. S\u00f8rloth"
+                    },
+                    "assist": {
+                        "id": 46808,
+                        "name": "Carlos Fern\u00e1ndez"
+                    },
+                    "type": "subst",
+                    "detail": "Substitution 4",
+                    "comments": null
+                },
+                {
+                    "time": {
+                        "elapsed": 79,
+                        "extra": null
+                    },
+                    "team": {
+                        "id": 541,
+                        "name": "Real Madrid",
+                        "logo": "https://media-3.api-sports.io/football/teams/541.png"
+                    },
+                    "player": {
+                        "id": 748,
+                        "name": "Dani Ceballos"
+                    },
+                    "assist": {
+                        "id": null,
+                        "name": null
+                    },
+                    "type": "Card",
+                    "detail": "Yellow Card",
+                    "comments": "Argument"
+                },
+                {
+                    "time": {
+                        "elapsed": 82,
+                        "extra": null
+                    },
+                    "team": {
+                        "id": 541,
+                        "name": "Real Madrid",
+                        "logo": "https://media-2.api-sports.io/football/teams/541.png"
+                    },
+                    "player": {
+                        "id": 746,
+                        "name": "Marco Asensio"
+                    },
+                    "assist": {
+                        "id": 162033,
+                        "name": "Sergio Arribas"
+                    },
+                    "type": "subst",
+                    "detail": "Substitution 3",
+                    "comments": null
+                },
+                {
+                    "time": {
+                        "elapsed": 85,
+                        "extra": null
+                    },
+                    "team": {
+                        "id": 548,
+                        "name": "Real Sociedad",
+                        "logo": "https://media-3.api-sports.io/football/teams/548.png"
+                    },
+                    "player": {
+                        "id": 47317,
+                        "name": "Barrenetxea"
+                    },
+                    "assist": {
+                        "id": 634,
+                        "name": "David Silva"
+                    },
+                    "type": "Goal",
+                    "detail": "Normal Goal",
+                    "comments": null
+                },
+                {
+                    "time": {
+                        "elapsed": 87,
+                        "extra": null
+                    },
+                    "team": {
+                        "id": 541,
+                        "name": "Real Madrid",
+                        "logo": "https://media-3.api-sports.io/football/teams/541.png"
+                    },
+                    "player": {
+                        "id": 735,
+                        "name": "Nacho Fern\u00e1ndez"
+                    },
+                    "assist": {
+                        "id": null,
+                        "name": null
+                    },
+                    "type": "Card",
+                    "detail": "Yellow Card",
+                    "comments": "Foul"
+                },
+                {
+                    "time": {
+                        "elapsed": 89,
+                        "extra": null
+                    },
+                    "team": {
+                        "id": 548,
+                        "name": "Real Sociedad",
+                        "logo": "https://media-1.api-sports.io/football/teams/548.png"
+                    },
+                    "player": {
+                        "id": 634,
+                        "name": "David Silva"
+                    },
+                    "assist": {
+                        "id": 47310,
+                        "name": "Illarramendi"
+                    },
+                    "type": "subst",
+                    "detail": "Substitution 5",
+                    "comments": null
+                },
+                {
+                    "time": {
+                        "elapsed": 90,
+                        "extra": 1
+                    },
+                    "team": {
+                        "id": 541,
+                        "name": "Real Madrid",
+                        "logo": "https://media-1.api-sports.io/football/teams/541.png"
+                    },
+                    "player": {
+                        "id": 10009,
+                        "name": "Rodrygo"
+                    },
+                    "assist": {
+                        "id": null,
+                        "name": null
+                    },
+                    "type": "Card",
+                    "detail": "Yellow Card",
+                    "comments": "Argument"
+                }
+            ]
         },
         {
             "fixture": 976723,
-            "events": {
-                "time": {
-                    "elapsed": 57,
-                    "extra": null
+            "events": [
+                {
+                    "time": {
+                        "elapsed": 57,
+                        "extra": null
+                    },
+                    "team": {
+                        "id": 2951,
+                        "name": "Abha",
+                        "logo": "https://media-1.api-sports.io/football/teams/2951.png"
+                    },
+                    "player": {
+                        "id": 44495,
+                        "name": "Saleh Al-Amri"
+                    },
+                    "assist": {
+                        "id": null,
+                        "name": null
+                    },
+                    "type": "Var",
+                    "detail": "Penalty confirmed",
+                    "comments": null
                 },
-                "team": {
-                    "id": 2951,
-                    "name": "Abha",
-                    "logo": "https://media-1.api-sports.io/football/teams/2951.png"
+                {
+                    "time": {
+                        "elapsed": 57,
+                        "extra": null
+                    },
+                    "team": {
+                        "id": 2950,
+                        "name": "Al-Adalah",
+                        "logo": "https://media-3.api-sports.io/football/teams/2950.png"
+                    },
+                    "player": {
+                        "id": 286548,
+                        "name": "Arif Al-Haydar"
+                    },
+                    "assist": {
+                        "id": null,
+                        "name": null
+                    },
+                    "type": "Card",
+                    "detail": "Yellow Card",
+                    "comments": "Foul"
                 },
-                "player": {
-                    "id": 44495,
-                    "name": "Saleh Al-Amri"
+                {
+                    "time": {
+                        "elapsed": 65,
+                        "extra": null
+                    },
+                    "team": {
+                        "id": 2951,
+                        "name": "Abha",
+                        "logo": "https://media-2.api-sports.io/football/teams/2951.png"
+                    },
+                    "player": {
+                        "id": 7607,
+                        "name": "U. Mati\u0107"
+                    },
+                    "assist": {
+                        "id": 49406,
+                        "name": "S. Bguir"
+                    },
+                    "type": "subst",
+                    "detail": "Substitution 1",
+                    "comments": null
                 },
-                "assist": {
-                    "id": null,
-                    "name": null
+                {
+                    "time": {
+                        "elapsed": 65,
+                        "extra": null
+                    },
+                    "team": {
+                        "id": 2951,
+                        "name": "Abha",
+                        "logo": "https://media-1.api-sports.io/football/teams/2951.png"
+                    },
+                    "player": {
+                        "id": 44479,
+                        "name": "Abdullah Al Dossary"
+                    },
+                    "assist": {
+                        "id": 197961,
+                        "name": "Mohammed Al Kunaydiri"
+                    },
+                    "type": "subst",
+                    "detail": "Substitution 2",
+                    "comments": null
                 },
-                "type": "Var",
-                "detail": "Penalty confirmed",
-                "comments": null
-            }
+                {
+                    "time": {
+                        "elapsed": 66,
+                        "extra": null
+                    },
+                    "team": {
+                        "id": 2951,
+                        "name": "Abha",
+                        "logo": "https://media-2.api-sports.io/football/teams/2951.png"
+                    },
+                    "player": {
+                        "id": 1861,
+                        "name": "F. Caicedo"
+                    },
+                    "assist": {
+                        "id": 2641,
+                        "name": "Abdulfattah Adam"
+                    },
+                    "type": "subst",
+                    "detail": "Substitution 3",
+                    "comments": null
+                },
+                {
+                    "time": {
+                        "elapsed": 73,
+                        "extra": null
+                    },
+                    "team": {
+                        "id": 2951,
+                        "name": "Abha",
+                        "logo": "https://media-2.api-sports.io/football/teams/2951.png"
+                    },
+                    "player": {
+                        "id": 53889,
+                        "name": "Saad Natiq"
+                    },
+                    "assist": {
+                        "id": null,
+                        "name": null
+                    },
+                    "type": "Card",
+                    "detail": "Yellow Card",
+                    "comments": "Foul"
+                },
+                {
+                    "time": {
+                        "elapsed": 81,
+                        "extra": null
+                    },
+                    "team": {
+                        "id": 2951,
+                        "name": "Abha",
+                        "logo": "https://media-1.api-sports.io/football/teams/2951.png"
+                    },
+                    "player": {
+                        "id": 49406,
+                        "name": "S. Bguir"
+                    },
+                    "assist": {
+                        "id": 44495,
+                        "name": "Saleh  Al Amri"
+                    },
+                    "type": "Goal",
+                    "detail": "Normal Goal",
+                    "comments": null
+                },
+                {
+                    "time": {
+                        "elapsed": 83,
+                        "extra": null
+                    },
+                    "team": {
+                        "id": 2950,
+                        "name": "Al-Adalah",
+                        "logo": "https://media-3.api-sports.io/football/teams/2950.png"
+                    },
+                    "player": {
+                        "id": 286548,
+                        "name": "Arif Al Haydar"
+                    },
+                    "assist": {
+                        "id": 104687,
+                        "name": "Abdulaziz Al Jamman"
+                    },
+                    "type": "subst",
+                    "detail": "Substitution 1",
+                    "comments": null
+                },
+                {
+                    "time": {
+                        "elapsed": 83,
+                        "extra": null
+                    },
+                    "team": {
+                        "id": 2950,
+                        "name": "Al-Adalah",
+                        "logo": "https://media-3.api-sports.io/football/teams/2950.png"
+                    },
+                    "player": {
+                        "id": 109691,
+                        "name": "D. Tijani\u010d"
+                    },
+                    "assist": {
+                        "id": 44176,
+                        "name": "Abdularahman Al Hurayb"
+                    },
+                    "type": "subst",
+                    "detail": "Substitution 2",
+                    "comments": null
+                },
+                {
+                    "time": {
+                        "elapsed": 85,
+                        "extra": null
+                    },
+                    "team": {
+                        "id": 2951,
+                        "name": "Abha",
+                        "logo": "https://media-1.api-sports.io/football/teams/2951.png"
+                    },
+                    "player": {
+                        "id": 310869,
+                        "name": "Nawaf Al Saadi"
+                    },
+                    "assist": {
+                        "id": 44578,
+                        "name": "Saad Al Salouli"
+                    },
+                    "type": "subst",
+                    "detail": "Substitution 4",
+                    "comments": null
+                },
+                {
+                    "time": {
+                        "elapsed": 90,
+                        "extra": null
+                    },
+                    "team": {
+                        "id": 2951,
+                        "name": "Abha",
+                        "logo": "https://media-2.api-sports.io/football/teams/2951.png"
+                    },
+                    "player": {
+                        "id": 36793,
+                        "name": "Dries Saddiki"
+                    },
+                    "assist": {
+                        "id": null,
+                        "name": null
+                    },
+                    "type": "Card",
+                    "detail": "Yellow Card",
+                    "comments": "Handball"
+                },
+                {
+                    "time": {
+                        "elapsed": 90,
+                        "extra": 2
+                    },
+                    "team": {
+                        "id": 2951,
+                        "name": "Abha",
+                        "logo": "https://media-2.api-sports.io/football/teams/2951.png"
+                    },
+                    "player": {
+                        "id": 36793,
+                        "name": "D. Saddiki"
+                    },
+                    "assist": {
+                        "id": 44371,
+                        "name": "Nasser Al Omran"
+                    },
+                    "type": "subst",
+                    "detail": "Substitution 5",
+                    "comments": null
+                },
+                {
+                    "time": {
+                        "elapsed": 90,
+                        "extra": 2
+                    },
+                    "team": {
+                        "id": 2950,
+                        "name": "Al-Adalah",
+                        "logo": "https://media-2.api-sports.io/football/teams/2950.png"
+                    },
+                    "player": {
+                        "id": 11050,
+                        "name": "Pedro Eug\u00e9nio"
+                    },
+                    "assist": {
+                        "id": 2634,
+                        "name": "Hassan Al Habib"
+                    },
+                    "type": "subst",
+                    "detail": "Substitution 3",
+                    "comments": null
+                },
+                {
+                    "time": {
+                        "elapsed": 90,
+                        "extra": 2
+                    },
+                    "team": {
+                        "id": 2950,
+                        "name": "Al-Adalah",
+                        "logo": "https://media-1.api-sports.io/football/teams/2950.png"
+                    },
+                    "player": {
+                        "id": 2430,
+                        "name": "C. Gonz\u00e1les"
+                    },
+                    "assist": {
+                        "id": 134375,
+                        "name": "Fahad Al Harbi"
+                    },
+                    "type": "subst",
+                    "detail": "Substitution 4",
+                    "comments": null
+                }
+            ]
         },
         {
             "fixture": 976726,
-            "events": {
-                "time": {
-                    "elapsed": 17,
-                    "extra": null
+            "events": [
+                {
+                    "time": {
+                        "elapsed": 17,
+                        "extra": null
+                    },
+                    "team": {
+                        "id": 2935,
+                        "name": "Al-Raed",
+                        "logo": "https://media-2.api-sports.io/football/teams/2935.png"
+                    },
+                    "player": {
+                        "id": 36627,
+                        "name": "K. El Berkaoui"
+                    },
+                    "assist": {
+                        "id": null,
+                        "name": null
+                    },
+                    "type": "Goal",
+                    "detail": "Penalty",
+                    "comments": null
                 },
-                "team": {
-                    "id": 2935,
-                    "name": "Al-Raed",
-                    "logo": "https://media-2.api-sports.io/football/teams/2935.png"
+                {
+                    "time": {
+                        "elapsed": 23,
+                        "extra": null
+                    },
+                    "team": {
+                        "id": 2935,
+                        "name": "Al-Raed",
+                        "logo": "https://media-2.api-sports.io/football/teams/2935.png"
+                    },
+                    "player": {
+                        "id": 36627,
+                        "name": "K. El Berkaoui"
+                    },
+                    "assist": {
+                        "id": null,
+                        "name": null
+                    },
+                    "type": "Goal",
+                    "detail": "Normal Goal",
+                    "comments": null
                 },
-                "player": {
-                    "id": 36627,
-                    "name": "Karim El Berkaoui"
+                {
+                    "time": {
+                        "elapsed": 28,
+                        "extra": null
+                    },
+                    "team": {
+                        "id": 2935,
+                        "name": "Al-Raed",
+                        "logo": "https://media-3.api-sports.io/football/teams/2935.png"
+                    },
+                    "player": {
+                        "id": 36627,
+                        "name": "K. El Berkaoui"
+                    },
+                    "assist": {
+                        "id": 21716,
+                        "name": "J\u00falio Tavares"
+                    },
+                    "type": "Goal",
+                    "detail": "Normal Goal",
+                    "comments": null
                 },
-                "assist": {
-                    "id": null,
-                    "name": null
+                {
+                    "time": {
+                        "elapsed": 33,
+                        "extra": null
+                    },
+                    "team": {
+                        "id": 2926,
+                        "name": "Al Baten",
+                        "logo": "https://media-1.api-sports.io/football/teams/2926.png"
+                    },
+                    "player": {
+                        "id": 286511,
+                        "name": "Mohammed Bassam Al Hurayji"
+                    },
+                    "assist": {
+                        "id": 33094,
+                        "name": "Maur\u00edcio Ant\u00f4nio"
+                    },
+                    "type": "subst",
+                    "detail": "Substitution 1",
+                    "comments": null
                 },
-                "type": "Goal",
-                "detail": "Penalty",
-                "comments": null
-            }
+                {
+                    "time": {
+                        "elapsed": 33,
+                        "extra": null
+                    },
+                    "team": {
+                        "id": 2926,
+                        "name": "Al Baten",
+                        "logo": "https://media-3.api-sports.io/football/teams/2926.png"
+                    },
+                    "player": {
+                        "id": 44506,
+                        "name": "Abdullah Al Yousif"
+                    },
+                    "assist": {
+                        "id": 6184,
+                        "name": "A. Roa"
+                    },
+                    "type": "subst",
+                    "detail": "Substitution 2",
+                    "comments": null
+                },
+                {
+                    "time": {
+                        "elapsed": 36,
+                        "extra": null
+                    },
+                    "team": {
+                        "id": 2926,
+                        "name": "Al Baten",
+                        "logo": "https://media-1.api-sports.io/football/teams/2926.png"
+                    },
+                    "player": {
+                        "id": 293640,
+                        "name": "Mudasiru Salifu"
+                    },
+                    "assist": {
+                        "id": null,
+                        "name": null
+                    },
+                    "type": "Card",
+                    "detail": "Yellow Card",
+                    "comments": "Foul"
+                },
+                {
+                    "time": {
+                        "elapsed": 39,
+                        "extra": null
+                    },
+                    "team": {
+                        "id": 2926,
+                        "name": "Al Baten",
+                        "logo": "https://media-1.api-sports.io/football/teams/2926.png"
+                    },
+                    "player": {
+                        "id": 6184,
+                        "name": "A. Roa"
+                    },
+                    "assist": {
+                        "id": 44279,
+                        "name": "Nawaf Al Sehimai"
+                    },
+                    "type": "Goal",
+                    "detail": "Normal Goal",
+                    "comments": null
+                },
+                {
+                    "time": {
+                        "elapsed": 45,
+                        "extra": 4
+                    },
+                    "team": {
+                        "id": 2935,
+                        "name": "Al-Raed",
+                        "logo": "https://media-3.api-sports.io/football/teams/2935.png"
+                    },
+                    "player": {
+                        "id": 44368,
+                        "name": "Mohammed Salem"
+                    },
+                    "assist": {
+                        "id": null,
+                        "name": null
+                    },
+                    "type": "Card",
+                    "detail": "Yellow Card",
+                    "comments": "Foul"
+                },
+                {
+                    "time": {
+                        "elapsed": 45,
+                        "extra": 1
+                    },
+                    "team": {
+                        "id": 2926,
+                        "name": "Al Baten",
+                        "logo": "https://media-1.api-sports.io/football/teams/2926.png"
+                    },
+                    "player": {
+                        "id": 11490,
+                        "name": "Renzo L\u00f3pez"
+                    },
+                    "assist": {
+                        "id": null,
+                        "name": null
+                    },
+                    "type": "Card",
+                    "detail": "Yellow Card",
+                    "comments": "Argument"
+                },
+                {
+                    "time": {
+                        "elapsed": 46,
+                        "extra": null
+                    },
+                    "team": {
+                        "id": 2935,
+                        "name": "Al-Raed",
+                        "logo": "https://media-2.api-sports.io/football/teams/2935.png"
+                    },
+                    "player": {
+                        "id": 41093,
+                        "name": "Pablo Santos"
+                    },
+                    "assist": {
+                        "id": 399417,
+                        "name": "Mubarak Al Rajeh"
+                    },
+                    "type": "subst",
+                    "detail": "Substitution 1",
+                    "comments": null
+                },
+                {
+                    "time": {
+                        "elapsed": 48,
+                        "extra": null
+                    },
+                    "team": {
+                        "id": 2935,
+                        "name": "Al-Raed",
+                        "logo": "https://media-2.api-sports.io/football/teams/2935.png"
+                    },
+                    "player": {
+                        "id": 44759,
+                        "name": "Mohamed Fouzair"
+                    },
+                    "assist": {
+                        "id": null,
+                        "name": null
+                    },
+                    "type": "Card",
+                    "detail": "Yellow Card",
+                    "comments": "Foul"
+                },
+                {
+                    "time": {
+                        "elapsed": 50,
+                        "extra": null
+                    },
+                    "team": {
+                        "id": 2935,
+                        "name": "Al-Raed",
+                        "logo": "https://media-3.api-sports.io/football/teams/2935.png"
+                    },
+                    "player": {
+                        "id": 36627,
+                        "name": "Karim El Berkaoui"
+                    },
+                    "assist": {
+                        "id": null,
+                        "name": null
+                    },
+                    "type": "Card",
+                    "detail": "Yellow Card",
+                    "comments": "Foul"
+                },
+                {
+                    "time": {
+                        "elapsed": 57,
+                        "extra": null
+                    },
+                    "team": {
+                        "id": 2926,
+                        "name": "Al Baten",
+                        "logo": "https://media-3.api-sports.io/football/teams/2926.png"
+                    },
+                    "player": {
+                        "id": 41930,
+                        "name": "A. Bukia"
+                    },
+                    "assist": {
+                        "id": 366539,
+                        "name": "Yousef Fawaz"
+                    },
+                    "type": "subst",
+                    "detail": "Substitution 3",
+                    "comments": null
+                },
+                {
+                    "time": {
+                        "elapsed": 81,
+                        "extra": null
+                    },
+                    "team": {
+                        "id": 2935,
+                        "name": "Al-Raed",
+                        "logo": "https://media-2.api-sports.io/football/teams/2935.png"
+                    },
+                    "player": {
+                        "id": 44759,
+                        "name": "M. Fouzair"
+                    },
+                    "assist": {
+                        "id": 43002,
+                        "name": "D. \u0110okovi\u0107"
+                    },
+                    "type": "subst",
+                    "detail": "Substitution 2",
+                    "comments": null
+                },
+                {
+                    "time": {
+                        "elapsed": 82,
+                        "extra": null
+                    },
+                    "team": {
+                        "id": 2926,
+                        "name": "Al Baten",
+                        "logo": "https://media-3.api-sports.io/football/teams/2926.png"
+                    },
+                    "player": {
+                        "id": 44731,
+                        "name": "Yousef Al Shammari"
+                    },
+                    "assist": {
+                        "id": 44432,
+                        "name": "Yahya Al Qarani"
+                    },
+                    "type": "subst",
+                    "detail": "Substitution 4",
+                    "comments": null
+                },
+                {
+                    "time": {
+                        "elapsed": 82,
+                        "extra": null
+                    },
+                    "team": {
+                        "id": 2926,
+                        "name": "Al Baten",
+                        "logo": "https://media-3.api-sports.io/football/teams/2926.png"
+                    },
+                    "player": {
+                        "id": 44279,
+                        "name": "Nawaf Al Sehimai"
+                    },
+                    "assist": {
+                        "id": 286509,
+                        "name": "Bader Nasser"
+                    },
+                    "type": "subst",
+                    "detail": "Substitution 5",
+                    "comments": null
+                },
+                {
+                    "time": {
+                        "elapsed": 82,
+                        "extra": null
+                    },
+                    "team": {
+                        "id": 2935,
+                        "name": "Al-Raed",
+                        "logo": "https://media-3.api-sports.io/football/teams/2935.png"
+                    },
+                    "player": {
+                        "id": 44330,
+                        "name": "Mohammed Al-Dosari"
+                    },
+                    "assist": {
+                        "id": null,
+                        "name": null
+                    },
+                    "type": "Card",
+                    "detail": "Yellow Card",
+                    "comments": "Foul"
+                },
+                {
+                    "time": {
+                        "elapsed": 85,
+                        "extra": null
+                    },
+                    "team": {
+                        "id": 2935,
+                        "name": "Al-Raed",
+                        "logo": "https://media-3.api-sports.io/football/teams/2935.png"
+                    },
+                    "player": {
+                        "id": 50867,
+                        "name": "A. Mitri\u021b\u0103"
+                    },
+                    "assist": {
+                        "id": 44720,
+                        "name": "Raed Al Ghamdi"
+                    },
+                    "type": "subst",
+                    "detail": "Substitution 3",
+                    "comments": null
+                },
+                {
+                    "time": {
+                        "elapsed": 90,
+                        "extra": null
+                    },
+                    "team": {
+                        "id": 2935,
+                        "name": "Al-Raed",
+                        "logo": "https://media-2.api-sports.io/football/teams/2935.png"
+                    },
+                    "player": {
+                        "id": 36627,
+                        "name": "K. El Berkaoui"
+                    },
+                    "assist": {
+                        "id": 208286,
+                        "name": "Yahya Sunbul"
+                    },
+                    "type": "subst",
+                    "detail": "Substitution 4",
+                    "comments": null
+                },
+                {
+                    "time": {
+                        "elapsed": 90,
+                        "extra": null
+                    },
+                    "team": {
+                        "id": 2935,
+                        "name": "Al-Raed",
+                        "logo": "https://media-2.api-sports.io/football/teams/2935.png"
+                    },
+                    "player": {
+                        "id": 44548,
+                        "name": "Sultan Al Farhan"
+                    },
+                    "assist": {
+                        "id": 44372,
+                        "name": "Abdulmalek Al Shammary"
+                    },
+                    "type": "subst",
+                    "detail": "Substitution 5",
+                    "comments": null
+                }
+            ]
         },
         {
             "fixture": 976727,
-            "events": {
-                "time": {
-                    "elapsed": 6,
-                    "extra": null
+            "events": [
+                {
+                    "time": {
+                        "elapsed": 6,
+                        "extra": null
+                    },
+                    "team": {
+                        "id": 2942,
+                        "name": "Al Taee",
+                        "logo": "https://media-3.api-sports.io/football/teams/2942.png"
+                    },
+                    "player": {
+                        "id": 4609,
+                        "name": "A. Sayoud"
+                    },
+                    "assist": {
+                        "id": null,
+                        "name": null
+                    },
+                    "type": "Goal",
+                    "detail": "Normal Goal",
+                    "comments": null
                 },
-                "team": {
-                    "id": 2942,
-                    "name": "Al Taee",
-                    "logo": "https://media-2.api-sports.io/football/teams/2942.png"
+                {
+                    "time": {
+                        "elapsed": 19,
+                        "extra": null
+                    },
+                    "team": {
+                        "id": 2944,
+                        "name": "Al-Fayha",
+                        "logo": "https://media-2.api-sports.io/football/teams/2944.png"
+                    },
+                    "player": {
+                        "id": 47343,
+                        "name": "Alfa Semedo"
+                    },
+                    "assist": {
+                        "id": null,
+                        "name": null
+                    },
+                    "type": "Goal",
+                    "detail": "Own Goal",
+                    "comments": null
                 },
-                "player": {
-                    "id": 4609,
-                    "name": "Amir Sa\u00e2youd"
+                {
+                    "time": {
+                        "elapsed": 38,
+                        "extra": null
+                    },
+                    "team": {
+                        "id": 2942,
+                        "name": "Al Taee",
+                        "logo": "https://media-2.api-sports.io/football/teams/2942.png"
+                    },
+                    "player": {
+                        "id": 47343,
+                        "name": "Alfa Semedo"
+                    },
+                    "assist": {
+                        "id": 4609,
+                        "name": "A. Sayoud"
+                    },
+                    "type": "Goal",
+                    "detail": "Normal Goal",
+                    "comments": null
                 },
-                "assist": {
-                    "id": null,
-                    "name": null
+                {
+                    "time": {
+                        "elapsed": 41,
+                        "extra": null
+                    },
+                    "team": {
+                        "id": 2944,
+                        "name": "Al-Fayha",
+                        "logo": "https://media-1.api-sports.io/football/teams/2944.png"
+                    },
+                    "player": {
+                        "id": 41106,
+                        "name": "Ricardo Ryller"
+                    },
+                    "assist": {
+                        "id": 44306,
+                        "name": "Saud Zaydan"
+                    },
+                    "type": "subst",
+                    "detail": "Substitution 1",
+                    "comments": null
                 },
-                "type": "Goal",
-                "detail": "Normal Goal",
-                "comments": null
-            }
+                {
+                    "time": {
+                        "elapsed": 67,
+                        "extra": null
+                    },
+                    "team": {
+                        "id": 2944,
+                        "name": "Al-Fayha",
+                        "logo": "https://media-2.api-sports.io/football/teams/2944.png"
+                    },
+                    "player": {
+                        "id": 134766,
+                        "name": "Abdulrahman Al Safari"
+                    },
+                    "assist": {
+                        "id": 44457,
+                        "name": "Mohammed Abusabaan"
+                    },
+                    "type": "subst",
+                    "detail": "Substitution 2",
+                    "comments": null
+                },
+                {
+                    "time": {
+                        "elapsed": 67,
+                        "extra": null
+                    },
+                    "team": {
+                        "id": 2944,
+                        "name": "Al-Fayha",
+                        "logo": "https://media-3.api-sports.io/football/teams/2944.png"
+                    },
+                    "player": {
+                        "id": 31563,
+                        "name": "A. Trajkovski"
+                    },
+                    "assist": {
+                        "id": 44361,
+                        "name": "Mohammed Al Baqawi"
+                    },
+                    "type": "subst",
+                    "detail": "Substitution 3",
+                    "comments": null
+                },
+                {
+                    "time": {
+                        "elapsed": 74,
+                        "extra": null
+                    },
+                    "team": {
+                        "id": 2942,
+                        "name": "Al Taee",
+                        "logo": "https://media-3.api-sports.io/football/teams/2942.png"
+                    },
+                    "player": {
+                        "id": 44637,
+                        "name": "Mohammed Harzan"
+                    },
+                    "assist": {
+                        "id": 44400,
+                        "name": "Abdullah Al Joui"
+                    },
+                    "type": "subst",
+                    "detail": "Substitution 1",
+                    "comments": null
+                },
+                {
+                    "time": {
+                        "elapsed": 85,
+                        "extra": null
+                    },
+                    "team": {
+                        "id": 2944,
+                        "name": "Al-Fayha",
+                        "logo": "https://media-2.api-sports.io/football/teams/2944.png"
+                    },
+                    "player": {
+                        "id": 2639,
+                        "name": "Sultan Mandash"
+                    },
+                    "assist": {
+                        "id": 365,
+                        "name": "M. Pavkov"
+                    },
+                    "type": "subst",
+                    "detail": "Substitution 4",
+                    "comments": null
+                },
+                {
+                    "time": {
+                        "elapsed": 90,
+                        "extra": 2
+                    },
+                    "team": {
+                        "id": 2944,
+                        "name": "Al-Fayha",
+                        "logo": "https://media-2.api-sports.io/football/teams/2944.png"
+                    },
+                    "player": {
+                        "id": 365,
+                        "name": "Milan Pavkov"
+                    },
+                    "assist": {
+                        "id": null,
+                        "name": null
+                    },
+                    "type": "Var",
+                    "detail": "Goal cancelled",
+                    "comments": null
+                }
+            ]
         },
         {
             "fixture": 976729,
-            "events": {
-                "time": {
-                    "elapsed": 22,
-                    "extra": null
+            "events": [
+                {
+                    "time": {
+                        "elapsed": 22,
+                        "extra": null
+                    },
+                    "team": {
+                        "id": 2934,
+                        "name": "Al-Ettifaq",
+                        "logo": "https://media-3.api-sports.io/football/teams/2934.png"
+                    },
+                    "player": {
+                        "id": 44585,
+                        "name": "Mohammed Al Kuwaykibi"
+                    },
+                    "assist": {
+                        "id": 8971,
+                        "name": "Y. Niakat\u00e9"
+                    },
+                    "type": "Goal",
+                    "detail": "Normal Goal",
+                    "comments": null
                 },
-                "team": {
-                    "id": 2934,
-                    "name": "Al-Ettifaq",
-                    "logo": "https://media-1.api-sports.io/football/teams/2934.png"
+                {
+                    "time": {
+                        "elapsed": 29,
+                        "extra": null
+                    },
+                    "team": {
+                        "id": 2928,
+                        "name": "Al Khaleej Saihat",
+                        "logo": "https://media-1.api-sports.io/football/teams/2928.png"
+                    },
+                    "player": {
+                        "id": 44649,
+                        "name": "Omar Al-Aowda"
+                    },
+                    "assist": {
+                        "id": null,
+                        "name": null
+                    },
+                    "type": "Card",
+                    "detail": "Yellow Card",
+                    "comments": "Foul"
                 },
-                "player": {
-                    "id": 44585,
-                    "name": "Mohammed Al Kuwaykibi"
+                {
+                    "time": {
+                        "elapsed": 34,
+                        "extra": null
+                    },
+                    "team": {
+                        "id": 2928,
+                        "name": "Al Khaleej Saihat",
+                        "logo": "https://media-3.api-sports.io/football/teams/2928.png"
+                    },
+                    "player": {
+                        "id": 2154,
+                        "name": "S. \u00c7ikalleshi"
+                    },
+                    "assist": {
+                        "id": null,
+                        "name": null
+                    },
+                    "type": "Goal",
+                    "detail": "Penalty",
+                    "comments": null
                 },
-                "assist": {
-                    "id": 8971,
-                    "name": "Youssouf Niakate"
+                {
+                    "time": {
+                        "elapsed": 35,
+                        "extra": null
+                    },
+                    "team": {
+                        "id": 2934,
+                        "name": "Al-Ettifaq",
+                        "logo": "https://media-1.api-sports.io/football/teams/2934.png"
+                    },
+                    "player": {
+                        "id": 187953,
+                        "name": "Faisal Al-Ghamdi"
+                    },
+                    "assist": {
+                        "id": null,
+                        "name": null
+                    },
+                    "type": "Card",
+                    "detail": "Yellow Card",
+                    "comments": "Foul"
                 },
-                "type": "Goal",
-                "detail": "Normal Goal",
-                "comments": null
-            }
+                {
+                    "time": {
+                        "elapsed": 43,
+                        "extra": null
+                    },
+                    "team": {
+                        "id": 2934,
+                        "name": "Al-Ettifaq",
+                        "logo": "https://media-1.api-sports.io/football/teams/2934.png"
+                    },
+                    "player": {
+                        "id": 25405,
+                        "name": "M. Tisserand"
+                    },
+                    "assist": {
+                        "id": 14278,
+                        "name": "D. Velkovski"
+                    },
+                    "type": "subst",
+                    "detail": "Substitution 1",
+                    "comments": null
+                },
+                {
+                    "time": {
+                        "elapsed": 46,
+                        "extra": null
+                    },
+                    "team": {
+                        "id": 2934,
+                        "name": "Al-Ettifaq",
+                        "logo": "https://media-3.api-sports.io/football/teams/2934.png"
+                    },
+                    "player": {
+                        "id": 187953,
+                        "name": "Faisal Al Ghamdi"
+                    },
+                    "assist": {
+                        "id": 2632,
+                        "name": "Ali Abdullah Hazzazi"
+                    },
+                    "type": "subst",
+                    "detail": "Substitution 2",
+                    "comments": null
+                },
+                {
+                    "time": {
+                        "elapsed": 71,
+                        "extra": null
+                    },
+                    "team": {
+                        "id": 2928,
+                        "name": "Al Khaleej Saihat",
+                        "logo": "https://media-3.api-sports.io/football/teams/2928.png"
+                    },
+                    "player": {
+                        "id": 41113,
+                        "name": "F\u00e1bio Martins"
+                    },
+                    "assist": {
+                        "id": 9471,
+                        "name": "Morato"
+                    },
+                    "type": "Goal",
+                    "detail": "Normal Goal",
+                    "comments": null
+                },
+                {
+                    "time": {
+                        "elapsed": 76,
+                        "extra": null
+                    },
+                    "team": {
+                        "id": 2934,
+                        "name": "Al-Ettifaq",
+                        "logo": "https://media-1.api-sports.io/football/teams/2934.png"
+                    },
+                    "player": {
+                        "id": 10177,
+                        "name": "Vitinho"
+                    },
+                    "assist": {
+                        "id": 44322,
+                        "name": "Abdullah Al Salem"
+                    },
+                    "type": "subst",
+                    "detail": "Substitution 3",
+                    "comments": null
+                },
+                {
+                    "time": {
+                        "elapsed": 76,
+                        "extra": null
+                    },
+                    "team": {
+                        "id": 2934,
+                        "name": "Al-Ettifaq",
+                        "logo": "https://media-1.api-sports.io/football/teams/2934.png"
+                    },
+                    "player": {
+                        "id": 44581,
+                        "name": "Ibrahim Mahnashi"
+                    },
+                    "assist": {
+                        "id": 61820,
+                        "name": "B. \u00d6zdemir"
+                    },
+                    "type": "subst",
+                    "detail": "Substitution 4",
+                    "comments": null
+                },
+                {
+                    "time": {
+                        "elapsed": 85,
+                        "extra": null
+                    },
+                    "team": {
+                        "id": 2934,
+                        "name": "Al-Ettifaq",
+                        "logo": "https://media-2.api-sports.io/football/teams/2934.png"
+                    },
+                    "player": {
+                        "id": 44585,
+                        "name": "Mohammed Al Kuwaykibi"
+                    },
+                    "assist": {
+                        "id": 78583,
+                        "name": "Ahmed Al Ghamdi"
+                    },
+                    "type": "subst",
+                    "detail": "Substitution 5",
+                    "comments": null
+                },
+                {
+                    "time": {
+                        "elapsed": 87,
+                        "extra": null
+                    },
+                    "team": {
+                        "id": 2928,
+                        "name": "Al Khaleej Saihat",
+                        "logo": "https://media-1.api-sports.io/football/teams/2928.png"
+                    },
+                    "player": {
+                        "id": 2154,
+                        "name": "S. \u00c7ikalleshi"
+                    },
+                    "assist": {
+                        "id": 134764,
+                        "name": "Saleh Al Abbas"
+                    },
+                    "type": "subst",
+                    "detail": "Substitution 1",
+                    "comments": null
+                },
+                {
+                    "time": {
+                        "elapsed": 90,
+                        "extra": 5
+                    },
+                    "team": {
+                        "id": 2928,
+                        "name": "Al Khaleej Saihat",
+                        "logo": "https://media-2.api-sports.io/football/teams/2928.png"
+                    },
+                    "player": {
+                        "id": 41113,
+                        "name": "F\u00e1bio Martins"
+                    },
+                    "assist": {
+                        "id": 44205,
+                        "name": "Mohammed Al Sahli"
+                    },
+                    "type": "subst",
+                    "detail": "Substitution 2",
+                    "comments": null
+                },
+                {
+                    "time": {
+                        "elapsed": 90,
+                        "extra": 7
+                    },
+                    "team": {
+                        "id": 2928,
+                        "name": "Al Khaleej Saihat",
+                        "logo": "https://media-2.api-sports.io/football/teams/2928.png"
+                    },
+                    "player": {
+                        "id": 26767,
+                        "name": "Pedro Amaral"
+                    },
+                    "assist": {
+                        "id": 44415,
+                        "name": "Hani Al Sebyani"
+                    },
+                    "type": "subst",
+                    "detail": "Substitution 3",
+                    "comments": null
+                }
+            ]
         }
     ]
 }

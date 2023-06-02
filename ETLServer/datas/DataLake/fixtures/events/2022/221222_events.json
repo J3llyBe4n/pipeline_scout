@@ -1,0 +1,899 @@
+{
+    "data": [
+        {
+            "fixture": 882388,
+            "events": [
+                {
+                    "time": {
+                        "elapsed": 2,
+                        "extra": null
+                    },
+                    "team": {
+                        "id": 353,
+                        "name": "Cardiff MET",
+                        "logo": "https://media-1.api-sports.io/football/teams/353.png"
+                    },
+                    "player": {
+                        "id": 53334,
+                        "name": "E. Evans"
+                    },
+                    "assist": {
+                        "id": null,
+                        "name": null
+                    },
+                    "type": "Goal",
+                    "detail": "Normal Goal",
+                    "comments": null
+                },
+                {
+                    "time": {
+                        "elapsed": 16,
+                        "extra": null
+                    },
+                    "team": {
+                        "id": 358,
+                        "name": "Newtown AFC",
+                        "logo": "https://media-3.api-sports.io/football/teams/358.png"
+                    },
+                    "player": {
+                        "id": 129199,
+                        "name": "B. Taylor"
+                    },
+                    "assist": {
+                        "id": null,
+                        "name": null
+                    },
+                    "type": "Card",
+                    "detail": "Yellow Card",
+                    "comments": null
+                },
+                {
+                    "time": {
+                        "elapsed": 20,
+                        "extra": null
+                    },
+                    "team": {
+                        "id": 358,
+                        "name": "Newtown AFC",
+                        "logo": "https://media-3.api-sports.io/football/teams/358.png"
+                    },
+                    "player": {
+                        "id": 152566,
+                        "name": "M. Chubb"
+                    },
+                    "assist": {
+                        "id": null,
+                        "name": null
+                    },
+                    "type": "Goal",
+                    "detail": "Own Goal",
+                    "comments": null
+                },
+                {
+                    "time": {
+                        "elapsed": 33,
+                        "extra": null
+                    },
+                    "team": {
+                        "id": 353,
+                        "name": "Cardiff MET",
+                        "logo": "https://media-2.api-sports.io/football/teams/353.png"
+                    },
+                    "player": {
+                        "id": 152566,
+                        "name": "M. Chubb"
+                    },
+                    "assist": {
+                        "id": null,
+                        "name": null
+                    },
+                    "type": "Card",
+                    "detail": "Yellow Card",
+                    "comments": null
+                },
+                {
+                    "time": {
+                        "elapsed": 46,
+                        "extra": null
+                    },
+                    "team": {
+                        "id": 358,
+                        "name": "Newtown AFC",
+                        "logo": "https://media-3.api-sports.io/football/teams/358.png"
+                    },
+                    "player": {
+                        "id": 118601,
+                        "name": "S. Sutton"
+                    },
+                    "assist": {
+                        "id": 53359,
+                        "name": "M. Jones"
+                    },
+                    "type": "subst",
+                    "detail": "Substitution 1",
+                    "comments": null
+                },
+                {
+                    "time": {
+                        "elapsed": 59,
+                        "extra": null
+                    },
+                    "team": {
+                        "id": 358,
+                        "name": "Newtown AFC",
+                        "logo": "https://media-1.api-sports.io/football/teams/358.png"
+                    },
+                    "player": {
+                        "id": 82177,
+                        "name": "H. Cowans"
+                    },
+                    "assist": {
+                        "id": 138926,
+                        "name": "J. Walker"
+                    },
+                    "type": "subst",
+                    "detail": "Substitution 2",
+                    "comments": null
+                },
+                {
+                    "time": {
+                        "elapsed": 65,
+                        "extra": null
+                    },
+                    "team": {
+                        "id": 358,
+                        "name": "Newtown AFC",
+                        "logo": "https://media-2.api-sports.io/football/teams/358.png"
+                    },
+                    "player": {
+                        "id": 280679,
+                        "name": "N. Aris"
+                    },
+                    "assist": {
+                        "id": 53264,
+                        "name": "C. Williams"
+                    },
+                    "type": "subst",
+                    "detail": "Substitution 3",
+                    "comments": null
+                },
+                {
+                    "time": {
+                        "elapsed": 72,
+                        "extra": null
+                    },
+                    "team": {
+                        "id": 353,
+                        "name": "Cardiff MET",
+                        "logo": "https://media-1.api-sports.io/football/teams/353.png"
+                    },
+                    "player": {
+                        "id": 53262,
+                        "name": "C. Roberts"
+                    },
+                    "assist": {
+                        "id": null,
+                        "name": null
+                    },
+                    "type": "Goal",
+                    "detail": "Own Goal",
+                    "comments": null
+                },
+                {
+                    "time": {
+                        "elapsed": 88,
+                        "extra": null
+                    },
+                    "team": {
+                        "id": 353,
+                        "name": "Cardiff MET",
+                        "logo": "https://media-3.api-sports.io/football/teams/353.png"
+                    },
+                    "player": {
+                        "id": 53322,
+                        "name": "C. Baker"
+                    },
+                    "assist": {
+                        "id": 380225,
+                        "name": "D. Kabongo"
+                    },
+                    "type": "subst",
+                    "detail": "Substitution 1",
+                    "comments": null
+                },
+                {
+                    "time": {
+                        "elapsed": 90,
+                        "extra": 3
+                    },
+                    "team": {
+                        "id": 353,
+                        "name": "Cardiff MET",
+                        "logo": "https://media-2.api-sports.io/football/teams/353.png"
+                    },
+                    "player": {
+                        "id": 53308,
+                        "name": "A. Lang"
+                    },
+                    "assist": {
+                        "id": null,
+                        "name": null
+                    },
+                    "type": "Card",
+                    "detail": "Yellow Card",
+                    "comments": null
+                },
+                {
+                    "time": {
+                        "elapsed": 90,
+                        "extra": 1
+                    },
+                    "team": {
+                        "id": 353,
+                        "name": "Cardiff MET",
+                        "logo": "https://media-3.api-sports.io/football/teams/353.png"
+                    },
+                    "player": {
+                        "id": 198487,
+                        "name": "L. Rees"
+                    },
+                    "assist": {
+                        "id": 281863,
+                        "name": "C. Davies"
+                    },
+                    "type": "subst",
+                    "detail": "Substitution 2",
+                    "comments": null
+                }
+            ]
+        },
+        {
+            "fixture": 923793,
+            "events": [
+                {
+                    "time": {
+                        "elapsed": 38,
+                        "extra": null
+                    },
+                    "team": {
+                        "id": 12260,
+                        "name": "Atromitos",
+                        "logo": "https://media-2.api-sports.io/football/teams/12260.png"
+                    },
+                    "player": {
+                        "id": 26738,
+                        "name": "T. Mavromatis"
+                    },
+                    "assist": {
+                        "id": 26653,
+                        "name": "S. Stroungis"
+                    },
+                    "type": "subst",
+                    "detail": "Substitution 1",
+                    "comments": null
+                },
+                {
+                    "time": {
+                        "elapsed": 43,
+                        "extra": null
+                    },
+                    "team": {
+                        "id": 12260,
+                        "name": "Atromitos",
+                        "logo": "https://media-1.api-sports.io/football/teams/12260.png"
+                    },
+                    "player": {
+                        "id": 47994,
+                        "name": "A. Erlingmark"
+                    },
+                    "assist": {
+                        "id": null,
+                        "name": null
+                    },
+                    "type": "Goal",
+                    "detail": "Normal Goal",
+                    "comments": null
+                },
+                {
+                    "time": {
+                        "elapsed": 46,
+                        "extra": null
+                    },
+                    "team": {
+                        "id": 1124,
+                        "name": "OFI",
+                        "logo": "https://media-1.api-sports.io/football/teams/1124.png"
+                    },
+                    "player": {
+                        "id": 49905,
+                        "name": "T. Bifouma"
+                    },
+                    "assist": {
+                        "id": 1616,
+                        "name": "Miguel Guerrero"
+                    },
+                    "type": "subst",
+                    "detail": "Substitution 1",
+                    "comments": null
+                },
+                {
+                    "time": {
+                        "elapsed": 53,
+                        "extra": null
+                    },
+                    "team": {
+                        "id": 1124,
+                        "name": "OFI",
+                        "logo": "https://media-3.api-sports.io/football/teams/1124.png"
+                    },
+                    "player": {
+                        "id": 15285,
+                        "name": "Praxitelis Vouros"
+                    },
+                    "assist": {
+                        "id": null,
+                        "name": null
+                    },
+                    "type": "Var",
+                    "detail": "Goal cancelled",
+                    "comments": null
+                },
+                {
+                    "time": {
+                        "elapsed": 67,
+                        "extra": null
+                    },
+                    "team": {
+                        "id": 1124,
+                        "name": "OFI",
+                        "logo": "https://media-3.api-sports.io/football/teams/1124.png"
+                    },
+                    "player": {
+                        "id": 26831,
+                        "name": "T. Pasalidis"
+                    },
+                    "assist": {
+                        "id": 26905,
+                        "name": "J. Neira"
+                    },
+                    "type": "subst",
+                    "detail": "Substitution 2",
+                    "comments": null
+                },
+                {
+                    "time": {
+                        "elapsed": 71,
+                        "extra": null
+                    },
+                    "team": {
+                        "id": 12260,
+                        "name": "Atromitos",
+                        "logo": "https://media-1.api-sports.io/football/teams/12260.png"
+                    },
+                    "player": {
+                        "id": 20901,
+                        "name": "G. Robail"
+                    },
+                    "assist": {
+                        "id": 610,
+                        "name": "V. Klonaridis"
+                    },
+                    "type": "subst",
+                    "detail": "Substitution 2",
+                    "comments": null
+                },
+                {
+                    "time": {
+                        "elapsed": 71,
+                        "extra": null
+                    },
+                    "team": {
+                        "id": 12260,
+                        "name": "Atromitos",
+                        "logo": "https://media-1.api-sports.io/football/teams/12260.png"
+                    },
+                    "player": {
+                        "id": 2248,
+                        "name": "D. Rotariu"
+                    },
+                    "assist": {
+                        "id": 2386,
+                        "name": "G. Tzovaras"
+                    },
+                    "type": "subst",
+                    "detail": "Substitution 3",
+                    "comments": null
+                },
+                {
+                    "time": {
+                        "elapsed": 76,
+                        "extra": null
+                    },
+                    "team": {
+                        "id": 1124,
+                        "name": "OFI",
+                        "logo": "https://media-1.api-sports.io/football/teams/1124.png"
+                    },
+                    "player": {
+                        "id": 30748,
+                        "name": "A. Diouss\u00e9"
+                    },
+                    "assist": {
+                        "id": 46664,
+                        "name": "Luis Perea"
+                    },
+                    "type": "subst",
+                    "detail": "Substitution 3",
+                    "comments": null
+                },
+                {
+                    "time": {
+                        "elapsed": 76,
+                        "extra": null
+                    },
+                    "team": {
+                        "id": 12260,
+                        "name": "Atromitos",
+                        "logo": "https://media-1.api-sports.io/football/teams/12260.png"
+                    },
+                    "player": {
+                        "id": 39138,
+                        "name": "S. Fri\u00f0j\u00f3nsson"
+                    },
+                    "assist": {
+                        "id": 26692,
+                        "name": "I. Oikonomidis"
+                    },
+                    "type": "subst",
+                    "detail": "Substitution 4",
+                    "comments": null
+                },
+                {
+                    "time": {
+                        "elapsed": 77,
+                        "extra": null
+                    },
+                    "team": {
+                        "id": 12260,
+                        "name": "Atromitos",
+                        "logo": "https://media-3.api-sports.io/football/teams/12260.png"
+                    },
+                    "player": {
+                        "id": 320118,
+                        "name": "M. Tzavidas"
+                    },
+                    "assist": {
+                        "id": 2800,
+                        "name": "V. Kjartansson"
+                    },
+                    "type": "subst",
+                    "detail": "Substitution 5",
+                    "comments": null
+                },
+                {
+                    "time": {
+                        "elapsed": 84,
+                        "extra": null
+                    },
+                    "team": {
+                        "id": 1124,
+                        "name": "OFI",
+                        "logo": "https://media-3.api-sports.io/football/teams/1124.png"
+                    },
+                    "player": {
+                        "id": 19426,
+                        "name": "Jon Toral"
+                    },
+                    "assist": {
+                        "id": 26697,
+                        "name": "F. Durmishaj"
+                    },
+                    "type": "subst",
+                    "detail": "Substitution 4",
+                    "comments": null
+                },
+                {
+                    "time": {
+                        "elapsed": 85,
+                        "extra": null
+                    },
+                    "team": {
+                        "id": 1124,
+                        "name": "OFI",
+                        "logo": "https://media-2.api-sports.io/football/teams/1124.png"
+                    },
+                    "player": {
+                        "id": 26905,
+                        "name": "Juan Angel Neira"
+                    },
+                    "assist": {
+                        "id": null,
+                        "name": null
+                    },
+                    "type": "Card",
+                    "detail": "Yellow Card",
+                    "comments": "Argument"
+                },
+                {
+                    "time": {
+                        "elapsed": 86,
+                        "extra": null
+                    },
+                    "team": {
+                        "id": 12260,
+                        "name": "Atromitos",
+                        "logo": "https://media-3.api-sports.io/football/teams/12260.png"
+                    },
+                    "player": {
+                        "id": 26653,
+                        "name": "Stefanos Stroungis"
+                    },
+                    "assist": {
+                        "id": null,
+                        "name": null
+                    },
+                    "type": "Card",
+                    "detail": "Yellow Card",
+                    "comments": "Foul"
+                }
+            ]
+        },
+        {
+            "fixture": 923794,
+            "events": [
+                {
+                    "time": {
+                        "elapsed": 19,
+                        "extra": null
+                    },
+                    "team": {
+                        "id": 619,
+                        "name": "PAOK",
+                        "logo": "https://media-1.api-sports.io/football/teams/619.png"
+                    },
+                    "player": {
+                        "id": 2371,
+                        "name": "O. El Kaddouri"
+                    },
+                    "assist": {
+                        "id": 579,
+                        "name": "A. \u017divkovi\u0107"
+                    },
+                    "type": "subst",
+                    "detail": "Substitution 1",
+                    "comments": null
+                },
+                {
+                    "time": {
+                        "elapsed": 45,
+                        "extra": 6
+                    },
+                    "team": {
+                        "id": 949,
+                        "name": "Panetolikos",
+                        "logo": "https://media-2.api-sports.io/football/teams/949.png"
+                    },
+                    "player": {
+                        "id": 15384,
+                        "name": "Dimitrios Kolovos"
+                    },
+                    "assist": {
+                        "id": null,
+                        "name": null
+                    },
+                    "type": "Card",
+                    "detail": "Yellow Card",
+                    "comments": "Argument"
+                },
+                {
+                    "time": {
+                        "elapsed": 45,
+                        "extra": 6
+                    },
+                    "team": {
+                        "id": 619,
+                        "name": "PAOK",
+                        "logo": "https://media-1.api-sports.io/football/teams/619.png"
+                    },
+                    "player": {
+                        "id": 10036,
+                        "name": "Douglas Augusto"
+                    },
+                    "assist": {
+                        "id": null,
+                        "name": null
+                    },
+                    "type": "Card",
+                    "detail": "Yellow Card",
+                    "comments": "Argument"
+                },
+                {
+                    "time": {
+                        "elapsed": 45,
+                        "extra": 5
+                    },
+                    "team": {
+                        "id": 619,
+                        "name": "PAOK",
+                        "logo": "https://media-3.api-sports.io/football/teams/619.png"
+                    },
+                    "player": {
+                        "id": 19624,
+                        "name": "N\u00e9lson Oliveira"
+                    },
+                    "assist": {
+                        "id": 24883,
+                        "name": "K. Narey"
+                    },
+                    "type": "Goal",
+                    "detail": "Normal Goal",
+                    "comments": null
+                },
+                {
+                    "time": {
+                        "elapsed": 50,
+                        "extra": null
+                    },
+                    "team": {
+                        "id": 949,
+                        "name": "Panetolikos",
+                        "logo": "https://media-3.api-sports.io/football/teams/949.png"
+                    },
+                    "player": {
+                        "id": 27539,
+                        "name": "Deybi Flores"
+                    },
+                    "assist": {
+                        "id": null,
+                        "name": null
+                    },
+                    "type": "Card",
+                    "detail": "Yellow Card",
+                    "comments": "Simulation"
+                },
+                {
+                    "time": {
+                        "elapsed": 61,
+                        "extra": null
+                    },
+                    "team": {
+                        "id": 619,
+                        "name": "PAOK",
+                        "logo": "https://media-1.api-sports.io/football/teams/619.png"
+                    },
+                    "player": {
+                        "id": 41149,
+                        "name": "Rafa Soares"
+                    },
+                    "assist": {
+                        "id": null,
+                        "name": null
+                    },
+                    "type": "Card",
+                    "detail": "Yellow Card",
+                    "comments": "Foul"
+                },
+                {
+                    "time": {
+                        "elapsed": 65,
+                        "extra": null
+                    },
+                    "team": {
+                        "id": 949,
+                        "name": "Panetolikos",
+                        "logo": "https://media-3.api-sports.io/football/teams/949.png"
+                    },
+                    "player": {
+                        "id": 48306,
+                        "name": "J. M\u00e5rtensson"
+                    },
+                    "assist": {
+                        "id": 24617,
+                        "name": "L. Shengelia"
+                    },
+                    "type": "subst",
+                    "detail": "Substitution 1",
+                    "comments": null
+                },
+                {
+                    "time": {
+                        "elapsed": 74,
+                        "extra": null
+                    },
+                    "team": {
+                        "id": 619,
+                        "name": "PAOK",
+                        "logo": "https://media-2.api-sports.io/football/teams/619.png"
+                    },
+                    "player": {
+                        "id": 162410,
+                        "name": "Giannis Konstantelias"
+                    },
+                    "assist": {
+                        "id": null,
+                        "name": null
+                    },
+                    "type": "Card",
+                    "detail": "Yellow Card",
+                    "comments": "Foul"
+                },
+                {
+                    "time": {
+                        "elapsed": 81,
+                        "extra": null
+                    },
+                    "team": {
+                        "id": 949,
+                        "name": "Panetolikos",
+                        "logo": "https://media-2.api-sports.io/football/teams/949.png"
+                    },
+                    "player": {
+                        "id": 2381,
+                        "name": "N. Karelis"
+                    },
+                    "assist": {
+                        "id": 96450,
+                        "name": "Jo\u00e3o Pedro"
+                    },
+                    "type": "subst",
+                    "detail": "Substitution 2",
+                    "comments": null
+                },
+                {
+                    "time": {
+                        "elapsed": 81,
+                        "extra": null
+                    },
+                    "team": {
+                        "id": 949,
+                        "name": "Panetolikos",
+                        "logo": "https://media-3.api-sports.io/football/teams/949.png"
+                    },
+                    "player": {
+                        "id": 26776,
+                        "name": "J. D\u00edaz"
+                    },
+                    "assist": {
+                        "id": 1614,
+                        "name": "G. Xenitidis"
+                    },
+                    "type": "subst",
+                    "detail": "Substitution 3",
+                    "comments": null
+                },
+                {
+                    "time": {
+                        "elapsed": 81,
+                        "extra": null
+                    },
+                    "team": {
+                        "id": 619,
+                        "name": "PAOK",
+                        "logo": "https://media-1.api-sports.io/football/teams/619.png"
+                    },
+                    "player": {
+                        "id": 24883,
+                        "name": "K. Narey"
+                    },
+                    "assist": {
+                        "id": 1727,
+                        "name": "T. Murg"
+                    },
+                    "type": "subst",
+                    "detail": "Substitution 2",
+                    "comments": null
+                },
+                {
+                    "time": {
+                        "elapsed": 82,
+                        "extra": null
+                    },
+                    "team": {
+                        "id": 619,
+                        "name": "PAOK",
+                        "logo": "https://media-3.api-sports.io/football/teams/619.png"
+                    },
+                    "player": {
+                        "id": 1729,
+                        "name": "Stefan Schwab"
+                    },
+                    "assist": {
+                        "id": null,
+                        "name": null
+                    },
+                    "type": "Card",
+                    "detail": "Yellow Card",
+                    "comments": "Foul"
+                },
+                {
+                    "time": {
+                        "elapsed": 86,
+                        "extra": null
+                    },
+                    "team": {
+                        "id": 619,
+                        "name": "PAOK",
+                        "logo": "https://media-1.api-sports.io/football/teams/619.png"
+                    },
+                    "player": {
+                        "id": 10036,
+                        "name": "Douglas Augusto"
+                    },
+                    "assist": {
+                        "id": 579,
+                        "name": "A. \u017divkovi\u0107"
+                    },
+                    "type": "Goal",
+                    "detail": "Normal Goal",
+                    "comments": null
+                },
+                {
+                    "time": {
+                        "elapsed": 88,
+                        "extra": null
+                    },
+                    "team": {
+                        "id": 619,
+                        "name": "PAOK",
+                        "logo": "https://media-2.api-sports.io/football/teams/619.png"
+                    },
+                    "player": {
+                        "id": 41149,
+                        "name": "Rafa Soares"
+                    },
+                    "assist": {
+                        "id": 2378,
+                        "name": "Vieirinha"
+                    },
+                    "type": "subst",
+                    "detail": "Substitution 3",
+                    "comments": null
+                },
+                {
+                    "time": {
+                        "elapsed": 88,
+                        "extra": null
+                    },
+                    "team": {
+                        "id": 619,
+                        "name": "PAOK",
+                        "logo": "https://media-3.api-sports.io/football/teams/619.png"
+                    },
+                    "player": {
+                        "id": 19624,
+                        "name": "N\u00e9lson Oliveira"
+                    },
+                    "assist": {
+                        "id": 46670,
+                        "name": "Brandon Thomas"
+                    },
+                    "type": "subst",
+                    "detail": "Substitution 4",
+                    "comments": null
+                },
+                {
+                    "time": {
+                        "elapsed": 89,
+                        "extra": null
+                    },
+                    "team": {
+                        "id": 619,
+                        "name": "PAOK",
+                        "logo": "https://media-3.api-sports.io/football/teams/619.png"
+                    },
+                    "player": {
+                        "id": 1729,
+                        "name": "S. Schwab"
+                    },
+                    "assist": {
+                        "id": 41582,
+                        "name": "Tiago Dantas"
+                    },
+                    "type": "subst",
+                    "detail": "Substitution 5",
+                    "comments": null
+                }
+            ]
+        }
+    ]
+}

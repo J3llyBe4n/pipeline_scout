@@ -1,0 +1,344 @@
+{
+    "data": [
+        {
+            "fixture": {
+                "id": 974335,
+                "referee": "Oscar Mejia Garcia, Mexico",
+                "timezone": "europe/london",
+                "date": "2023-03-30T04:05:00+01:00",
+                "timestamp": 1680145500,
+                "periods": {
+                    "first": 1680145500,
+                    "second": 1680149100
+                },
+                "venue": {
+                    "id": 1084,
+                    "name": "Estadio La Corregidora",
+                    "city": "Santiago de Quer\u00e9taro"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 262,
+                "name": "Liga MX",
+                "country": "Mexico",
+                "logo": "https://media-1.api-sports.io/football/leagues/262.png",
+                "flag": "https://media-2.api-sports.io/flags/mx.svg",
+                "season": 2022,
+                "round": "Clausura - 4"
+            },
+            "teams": {
+                "home": {
+                    "id": 2290,
+                    "name": "Club Queretaro",
+                    "logo": "https://media-2.api-sports.io/football/teams/2290.png",
+                    "winner": null
+                },
+                "away": {
+                    "id": 2295,
+                    "name": "Cruz Azul",
+                    "logo": "https://media-2.api-sports.io/football/teams/2295.png",
+                    "winner": null
+                }
+            },
+            "goals": {
+                "home": 2,
+                "away": 2
+            },
+            "score": {
+                "halftime": {
+                    "home": 0,
+                    "away": 1
+                },
+                "fulltime": {
+                    "home": 2,
+                    "away": 2
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 1012203,
+                "referee": "H. Haj Malek",
+                "timezone": "europe/london",
+                "date": "2023-03-30T16:30:00+01:00",
+                "timestamp": 1680190200,
+                "periods": {
+                    "first": 1680190200,
+                    "second": 1680193800
+                },
+                "venue": {
+                    "id": 850,
+                    "name": "Shahid Bahonar Stadium",
+                    "city": "Kerman"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 290,
+                "name": "Persian Gulf Pro League",
+                "country": "Iran",
+                "logo": "https://media-1.api-sports.io/football/leagues/290.png",
+                "flag": "https://media-3.api-sports.io/flags/ir.svg",
+                "season": 2022,
+                "round": "Regular Season - 24"
+            },
+            "teams": {
+                "home": {
+                    "id": 2718,
+                    "name": "Mes Kerman",
+                    "logo": "https://media-3.api-sports.io/football/teams/2718.png",
+                    "winner": null
+                },
+                "away": {
+                    "id": 2703,
+                    "name": "Aluminium Arak",
+                    "logo": "https://media-2.api-sports.io/football/teams/2703.png",
+                    "winner": null
+                }
+            },
+            "goals": {
+                "home": 1,
+                "away": 1
+            },
+            "score": {
+                "halftime": {
+                    "home": 1,
+                    "away": 1
+                },
+                "fulltime": {
+                    "home": 1,
+                    "away": 1
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 1012204,
+                "referee": "M. Bonyadifar",
+                "timezone": "europe/london",
+                "date": "2023-03-30T16:45:00+01:00",
+                "timestamp": 1680191100,
+                "periods": {
+                    "first": 1680191100,
+                    "second": 1680194700
+                },
+                "venue": {
+                    "id": 1704,
+                    "name": "Behnam Mohammadi Stadium",
+                    "city": "Masjed Soleyman"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 290,
+                "name": "Persian Gulf Pro League",
+                "country": "Iran",
+                "logo": "https://media-1.api-sports.io/football/leagues/290.png",
+                "flag": "https://media-2.api-sports.io/flags/ir.svg",
+                "season": 2022,
+                "round": "Regular Season - 24"
+            },
+            "teams": {
+                "home": {
+                    "id": 2707,
+                    "name": "Naft Masjed Soleyman",
+                    "logo": "https://media-1.api-sports.io/football/teams/2707.png",
+                    "winner": false
+                },
+                "away": {
+                    "id": 2737,
+                    "name": "Tractor Sazi",
+                    "logo": "https://media-1.api-sports.io/football/teams/2737.png",
+                    "winner": true
+                }
+            },
+            "goals": {
+                "home": 1,
+                "away": 5
+            },
+            "score": {
+                "halftime": {
+                    "home": 0,
+                    "away": 2
+                },
+                "fulltime": {
+                    "home": 1,
+                    "away": 5
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 1012205,
+                "referee": "M. Ojaghi",
+                "timezone": "europe/london",
+                "date": "2023-03-30T16:45:00+01:00",
+                "timestamp": 1680191100,
+                "periods": {
+                    "first": 1680191100,
+                    "second": 1680194700
+                },
+                "venue": {
+                    "id": null,
+                    "name": "Takhti Stadium",
+                    "city": "Bandar-e-Anzal\u012b"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 290,
+                "name": "Persian Gulf Pro League",
+                "country": "Iran",
+                "logo": "https://media-2.api-sports.io/football/leagues/290.png",
+                "flag": "https://media-3.api-sports.io/flags/ir.svg",
+                "season": 2022,
+                "round": "Regular Season - 24"
+            },
+            "teams": {
+                "home": {
+                    "id": 2717,
+                    "name": "Malavan",
+                    "logo": "https://media-3.api-sports.io/football/teams/2717.png",
+                    "winner": false
+                },
+                "away": {
+                    "id": 15541,
+                    "name": "Havadar",
+                    "logo": "https://media-2.api-sports.io/football/teams/15541.png",
+                    "winner": true
+                }
+            },
+            "goals": {
+                "home": 1,
+                "away": 2
+            },
+            "score": {
+                "halftime": {
+                    "home": 1,
+                    "away": 2
+                },
+                "fulltime": {
+                    "home": 1,
+                    "away": 2
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 1012206,
+                "referee": "S. Behrouzi",
+                "timezone": "europe/london",
+                "date": "2023-03-30T17:00:00+01:00",
+                "timestamp": 1680192000,
+                "periods": {
+                    "first": 1680192000,
+                    "second": 1680195600
+                },
+                "venue": {
+                    "id": 855,
+                    "name": "Enghelab Stadium",
+                    "city": "Karadj"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 290,
+                "name": "Persian Gulf Pro League",
+                "country": "Iran",
+                "logo": "https://media-1.api-sports.io/football/leagues/290.png",
+                "flag": "https://media-3.api-sports.io/flags/ir.svg",
+                "season": 2022,
+                "round": "Regular Season - 24"
+            },
+            "teams": {
+                "home": {
+                    "id": 2741,
+                    "name": "Paykan",
+                    "logo": "https://media-1.api-sports.io/football/teams/2741.png",
+                    "winner": false
+                },
+                "away": {
+                    "id": 2734,
+                    "name": "Foolad FC",
+                    "logo": "https://media-2.api-sports.io/football/teams/2734.png",
+                    "winner": true
+                }
+            },
+            "goals": {
+                "home": 0,
+                "away": 2
+            },
+            "score": {
+                "halftime": {
+                    "home": 0,
+                    "away": 1
+                },
+                "fulltime": {
+                    "home": 0,
+                    "away": 2
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        }
+    ]
+}

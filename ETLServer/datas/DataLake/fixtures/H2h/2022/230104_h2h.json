@@ -1,0 +1,1636 @@
+{
+    "data": [
+        {
+            "fixture": {
+                "id": 868127,
+                "referee": "J. Gillett",
+                "timezone": "europe/london",
+                "date": "2023-01-04T20:00:00+00:00",
+                "timestamp": 1672862400,
+                "periods": {
+                    "first": 1672862400,
+                    "second": 1672866000
+                },
+                "venue": {
+                    "id": 495,
+                    "name": "Villa Park",
+                    "city": "Birmingham"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 39,
+                "name": "Premier League",
+                "country": "England",
+                "logo": "https://media-2.api-sports.io/football/leagues/39.png",
+                "flag": "https://media-3.api-sports.io/flags/gb.svg",
+                "season": 2022,
+                "round": "Regular Season - 19"
+            },
+            "teams": {
+                "home": {
+                    "id": 66,
+                    "name": "Aston Villa",
+                    "logo": "https://media-2.api-sports.io/football/teams/66.png",
+                    "winner": null
+                },
+                "away": {
+                    "id": 39,
+                    "name": "Wolves",
+                    "logo": "https://media-2.api-sports.io/football/teams/39.png",
+                    "winner": null
+                }
+            },
+            "goals": {
+                "home": 1,
+                "away": 1
+            },
+            "score": {
+                "halftime": {
+                    "home": 0,
+                    "away": 1
+                },
+                "fulltime": {
+                    "home": 1,
+                    "away": 1
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 868130,
+                "referee": "M. Oliver",
+                "timezone": "europe/london",
+                "date": "2023-01-04T20:00:00+00:00",
+                "timestamp": 1672862400,
+                "periods": {
+                    "first": 1672862400,
+                    "second": 1672866000
+                },
+                "venue": {
+                    "id": 525,
+                    "name": "Selhurst Park",
+                    "city": "London"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 39,
+                "name": "Premier League",
+                "country": "England",
+                "logo": "https://media-1.api-sports.io/football/leagues/39.png",
+                "flag": "https://media-2.api-sports.io/flags/gb.svg",
+                "season": 2022,
+                "round": "Regular Season - 19"
+            },
+            "teams": {
+                "home": {
+                    "id": 52,
+                    "name": "Crystal Palace",
+                    "logo": "https://media-1.api-sports.io/football/teams/52.png",
+                    "winner": false
+                },
+                "away": {
+                    "id": 47,
+                    "name": "Tottenham",
+                    "logo": "https://media-1.api-sports.io/football/teams/47.png",
+                    "winner": true
+                }
+            },
+            "goals": {
+                "home": 0,
+                "away": 4
+            },
+            "score": {
+                "halftime": {
+                    "home": 0,
+                    "away": 0
+                },
+                "fulltime": {
+                    "home": 0,
+                    "away": 4
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 868132,
+                "referee": "D. Coote",
+                "timezone": "europe/london",
+                "date": "2023-01-04T19:45:00+00:00",
+                "timestamp": 1672861500,
+                "periods": {
+                    "first": 1672861500,
+                    "second": 1672865100
+                },
+                "venue": {
+                    "id": 546,
+                    "name": "Elland Road",
+                    "city": "Leeds, West Yorkshire"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 39,
+                "name": "Premier League",
+                "country": "England",
+                "logo": "https://media-1.api-sports.io/football/leagues/39.png",
+                "flag": "https://media-3.api-sports.io/flags/gb.svg",
+                "season": 2022,
+                "round": "Regular Season - 19"
+            },
+            "teams": {
+                "home": {
+                    "id": 63,
+                    "name": "Leeds",
+                    "logo": "https://media-2.api-sports.io/football/teams/63.png",
+                    "winner": null
+                },
+                "away": {
+                    "id": 48,
+                    "name": "West Ham",
+                    "logo": "https://media-2.api-sports.io/football/teams/48.png",
+                    "winner": null
+                }
+            },
+            "goals": {
+                "home": 2,
+                "away": 2
+            },
+            "score": {
+                "halftime": {
+                    "home": 1,
+                    "away": 1
+                },
+                "fulltime": {
+                    "home": 2,
+                    "away": 2
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 868135,
+                "referee": "T. Bramall",
+                "timezone": "europe/london",
+                "date": "2023-01-04T19:30:00+00:00",
+                "timestamp": 1672860600,
+                "periods": {
+                    "first": 1672860600,
+                    "second": 1672864200
+                },
+                "venue": {
+                    "id": 585,
+                    "name": "St. Mary's Stadium",
+                    "city": "Southampton, Hampshire"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 39,
+                "name": "Premier League",
+                "country": "England",
+                "logo": "https://media-1.api-sports.io/football/leagues/39.png",
+                "flag": "https://media-2.api-sports.io/flags/gb.svg",
+                "season": 2022,
+                "round": "Regular Season - 19"
+            },
+            "teams": {
+                "home": {
+                    "id": 41,
+                    "name": "Southampton",
+                    "logo": "https://media-3.api-sports.io/football/teams/41.png",
+                    "winner": false
+                },
+                "away": {
+                    "id": 65,
+                    "name": "Nottingham Forest",
+                    "logo": "https://media-3.api-sports.io/football/teams/65.png",
+                    "winner": true
+                }
+            },
+            "goals": {
+                "home": 0,
+                "away": 1
+            },
+            "score": {
+                "halftime": {
+                    "home": 0,
+                    "away": 1
+                },
+                "fulltime": {
+                    "home": 0,
+                    "away": 1
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 881930,
+                "referee": "G. Ayroldi",
+                "timezone": "europe/london",
+                "date": "2023-01-04T17:30:00+00:00",
+                "timestamp": 1672853400,
+                "periods": {
+                    "first": 1672853400,
+                    "second": 1672857000
+                },
+                "venue": {
+                    "id": 894,
+                    "name": "Stadio Giovanni Zini",
+                    "city": "Cremona"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 135,
+                "name": "Serie A",
+                "country": "Italy",
+                "logo": "https://media-2.api-sports.io/football/leagues/135.png",
+                "flag": "https://media-3.api-sports.io/flags/it.svg",
+                "season": 2022,
+                "round": "Regular Season - 16"
+            },
+            "teams": {
+                "home": {
+                    "id": 520,
+                    "name": "Cremonese",
+                    "logo": "https://media-1.api-sports.io/football/teams/520.png",
+                    "winner": false
+                },
+                "away": {
+                    "id": 496,
+                    "name": "Juventus",
+                    "logo": "https://media-2.api-sports.io/football/teams/496.png",
+                    "winner": true
+                }
+            },
+            "goals": {
+                "home": 0,
+                "away": 1
+            },
+            "score": {
+                "halftime": {
+                    "home": 0,
+                    "away": 0
+                },
+                "fulltime": {
+                    "home": 0,
+                    "away": 1
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 881931,
+                "referee": "E. Feliciani",
+                "timezone": "europe/london",
+                "date": "2023-01-04T17:30:00+00:00",
+                "timestamp": 1672853400,
+                "periods": {
+                    "first": 1672853400,
+                    "second": 1672857000
+                },
+                "venue": {
+                    "id": 902,
+                    "name": "Stadio Artemio Franchi",
+                    "city": "Firenze"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 135,
+                "name": "Serie A",
+                "country": "Italy",
+                "logo": "https://media-3.api-sports.io/football/leagues/135.png",
+                "flag": "https://media-1.api-sports.io/flags/it.svg",
+                "season": 2022,
+                "round": "Regular Season - 16"
+            },
+            "teams": {
+                "home": {
+                    "id": 502,
+                    "name": "Fiorentina",
+                    "logo": "https://media-3.api-sports.io/football/teams/502.png",
+                    "winner": null
+                },
+                "away": {
+                    "id": 1579,
+                    "name": "Monza",
+                    "logo": "https://media-2.api-sports.io/football/teams/1579.png",
+                    "winner": null
+                }
+            },
+            "goals": {
+                "home": 1,
+                "away": 1
+            },
+            "score": {
+                "halftime": {
+                    "home": 1,
+                    "away": 0
+                },
+                "fulltime": {
+                    "home": 1,
+                    "away": 1
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 881932,
+                "referee": "S. Sozza",
+                "timezone": "europe/london",
+                "date": "2023-01-04T19:45:00+00:00",
+                "timestamp": 1672861500,
+                "periods": {
+                    "first": 1672861500,
+                    "second": 1672865100
+                },
+                "venue": {
+                    "id": 907,
+                    "name": "Stadio Giuseppe Meazza",
+                    "city": "Milano"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 135,
+                "name": "Serie A",
+                "country": "Italy",
+                "logo": "https://media-2.api-sports.io/football/leagues/135.png",
+                "flag": "https://media-2.api-sports.io/flags/it.svg",
+                "season": 2022,
+                "round": "Regular Season - 16"
+            },
+            "teams": {
+                "home": {
+                    "id": 505,
+                    "name": "Inter",
+                    "logo": "https://media-1.api-sports.io/football/teams/505.png",
+                    "winner": true
+                },
+                "away": {
+                    "id": 492,
+                    "name": "Napoli",
+                    "logo": "https://media-2.api-sports.io/football/teams/492.png",
+                    "winner": false
+                }
+            },
+            "goals": {
+                "home": 1,
+                "away": 0
+            },
+            "score": {
+                "halftime": {
+                    "home": 0,
+                    "away": 0
+                },
+                "fulltime": {
+                    "home": 1,
+                    "away": 0
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 881933,
+                "referee": "A. Giua",
+                "timezone": "europe/london",
+                "date": "2023-01-04T13:30:00+00:00",
+                "timestamp": 1672839000,
+                "periods": {
+                    "first": 1672839000,
+                    "second": 1672842600
+                },
+                "venue": {
+                    "id": 939,
+                    "name": "Stadio Alberto Picco",
+                    "city": "La Spezia"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 135,
+                "name": "Serie A",
+                "country": "Italy",
+                "logo": "https://media-1.api-sports.io/football/leagues/135.png",
+                "flag": "https://media-1.api-sports.io/flags/it.svg",
+                "season": 2022,
+                "round": "Regular Season - 16"
+            },
+            "teams": {
+                "home": {
+                    "id": 515,
+                    "name": "Spezia",
+                    "logo": "https://media-3.api-sports.io/football/teams/515.png",
+                    "winner": null
+                },
+                "away": {
+                    "id": 499,
+                    "name": "Atalanta",
+                    "logo": "https://media-3.api-sports.io/football/teams/499.png",
+                    "winner": null
+                }
+            },
+            "goals": {
+                "home": 2,
+                "away": 2
+            },
+            "score": {
+                "halftime": {
+                    "home": 2,
+                    "away": 0
+                },
+                "fulltime": {
+                    "home": 2,
+                    "away": 2
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 881934,
+                "referee": "A. Santoro",
+                "timezone": "europe/london",
+                "date": "2023-01-04T15:30:00+00:00",
+                "timestamp": 1672846200,
+                "periods": {
+                    "first": 1672846200,
+                    "second": 1672849800
+                },
+                "venue": {
+                    "id": 910,
+                    "name": "Stadio Olimpico",
+                    "city": "Roma"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 135,
+                "name": "Serie A",
+                "country": "Italy",
+                "logo": "https://media-2.api-sports.io/football/leagues/135.png",
+                "flag": "https://media-2.api-sports.io/flags/it.svg",
+                "season": 2022,
+                "round": "Regular Season - 16"
+            },
+            "teams": {
+                "home": {
+                    "id": 497,
+                    "name": "AS Roma",
+                    "logo": "https://media-2.api-sports.io/football/teams/497.png",
+                    "winner": true
+                },
+                "away": {
+                    "id": 500,
+                    "name": "Bologna",
+                    "logo": "https://media-3.api-sports.io/football/teams/500.png",
+                    "winner": false
+                }
+            },
+            "goals": {
+                "home": 1,
+                "away": 0
+            },
+            "score": {
+                "halftime": {
+                    "home": 1,
+                    "away": 0
+                },
+                "fulltime": {
+                    "home": 1,
+                    "away": 0
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 881935,
+                "referee": "M. Serra",
+                "timezone": "europe/london",
+                "date": "2023-01-04T19:45:00+00:00",
+                "timestamp": 1672861500,
+                "periods": {
+                    "first": 1672861500,
+                    "second": 1672865100
+                },
+                "venue": {
+                    "id": 928,
+                    "name": "Dacia Arena",
+                    "city": "Udine"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 135,
+                "name": "Serie A",
+                "country": "Italy",
+                "logo": "https://media-2.api-sports.io/football/leagues/135.png",
+                "flag": "https://media-3.api-sports.io/flags/it.svg",
+                "season": 2022,
+                "round": "Regular Season - 16"
+            },
+            "teams": {
+                "home": {
+                    "id": 494,
+                    "name": "Udinese",
+                    "logo": "https://media-1.api-sports.io/football/teams/494.png",
+                    "winner": null
+                },
+                "away": {
+                    "id": 511,
+                    "name": "Empoli",
+                    "logo": "https://media-1.api-sports.io/football/teams/511.png",
+                    "winner": null
+                }
+            },
+            "goals": {
+                "home": 1,
+                "away": 1
+            },
+            "score": {
+                "halftime": {
+                    "home": 0,
+                    "away": 1
+                },
+                "fulltime": {
+                    "home": 1,
+                    "away": 1
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 881936,
+                "referee": "F. Dionisi",
+                "timezone": "europe/london",
+                "date": "2023-01-04T13:30:00+00:00",
+                "timestamp": 1672839000,
+                "periods": {
+                    "first": 1672839000,
+                    "second": 1672842600
+                },
+                "venue": {
+                    "id": 943,
+                    "name": "Stadio Olimpico Grande Torino",
+                    "city": "Torino"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 135,
+                "name": "Serie A",
+                "country": "Italy",
+                "logo": "https://media-3.api-sports.io/football/leagues/135.png",
+                "flag": "https://media-2.api-sports.io/flags/it.svg",
+                "season": 2022,
+                "round": "Regular Season - 16"
+            },
+            "teams": {
+                "home": {
+                    "id": 503,
+                    "name": "Torino",
+                    "logo": "https://media-3.api-sports.io/football/teams/503.png",
+                    "winner": null
+                },
+                "away": {
+                    "id": 504,
+                    "name": "Verona",
+                    "logo": "https://media-1.api-sports.io/football/teams/504.png",
+                    "winner": null
+                }
+            },
+            "goals": {
+                "home": 1,
+                "away": 1
+            },
+            "score": {
+                "halftime": {
+                    "home": 0,
+                    "away": 1
+                },
+                "fulltime": {
+                    "home": 1,
+                    "away": 1
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 881937,
+                "referee": "L. Marinelli",
+                "timezone": "europe/london",
+                "date": "2023-01-04T15:30:00+00:00",
+                "timestamp": 1672846200,
+                "periods": {
+                    "first": 1672846200,
+                    "second": 1672849800
+                },
+                "venue": {
+                    "id": 911,
+                    "name": "Stadio Comunale Via del Mare",
+                    "city": "Lecce"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 135,
+                "name": "Serie A",
+                "country": "Italy",
+                "logo": "https://media-2.api-sports.io/football/leagues/135.png",
+                "flag": "https://media-1.api-sports.io/flags/it.svg",
+                "season": 2022,
+                "round": "Regular Season - 16"
+            },
+            "teams": {
+                "home": {
+                    "id": 867,
+                    "name": "Lecce",
+                    "logo": "https://media-2.api-sports.io/football/teams/867.png",
+                    "winner": true
+                },
+                "away": {
+                    "id": 487,
+                    "name": "Lazio",
+                    "logo": "https://media-1.api-sports.io/football/teams/487.png",
+                    "winner": false
+                }
+            },
+            "goals": {
+                "home": 2,
+                "away": 1
+            },
+            "score": {
+                "halftime": {
+                    "home": 0,
+                    "away": 1
+                },
+                "fulltime": {
+                    "home": 2,
+                    "away": 1
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 881938,
+                "referee": "F. Fourneau",
+                "timezone": "europe/london",
+                "date": "2023-01-04T11:30:00+00:00",
+                "timestamp": 1672831800,
+                "periods": {
+                    "first": 1672831800,
+                    "second": 1672835400
+                },
+                "venue": {
+                    "id": 933,
+                    "name": "Stadio Arechi",
+                    "city": "Salerno"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 135,
+                "name": "Serie A",
+                "country": "Italy",
+                "logo": "https://media-3.api-sports.io/football/leagues/135.png",
+                "flag": "https://media-1.api-sports.io/flags/it.svg",
+                "season": 2022,
+                "round": "Regular Season - 16"
+            },
+            "teams": {
+                "home": {
+                    "id": 514,
+                    "name": "Salernitana",
+                    "logo": "https://media-3.api-sports.io/football/teams/514.png",
+                    "winner": false
+                },
+                "away": {
+                    "id": 489,
+                    "name": "AC Milan",
+                    "logo": "https://media-2.api-sports.io/football/teams/489.png",
+                    "winner": true
+                }
+            },
+            "goals": {
+                "home": 1,
+                "away": 2
+            },
+            "score": {
+                "halftime": {
+                    "home": 0,
+                    "away": 2
+                },
+                "fulltime": {
+                    "home": 1,
+                    "away": 2
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 881939,
+                "referee": "F. Maresca",
+                "timezone": "europe/london",
+                "date": "2023-01-04T11:30:00+00:00",
+                "timestamp": 1672831800,
+                "periods": {
+                    "first": 1672831800,
+                    "second": 1672835400
+                },
+                "venue": {
+                    "id": 935,
+                    "name": "MAPEI Stadium - Citt\u00e0 del Tricolore",
+                    "city": "Reggio nell'Emilia"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 135,
+                "name": "Serie A",
+                "country": "Italy",
+                "logo": "https://media-2.api-sports.io/football/leagues/135.png",
+                "flag": "https://media-3.api-sports.io/flags/it.svg",
+                "season": 2022,
+                "round": "Regular Season - 16"
+            },
+            "teams": {
+                "home": {
+                    "id": 488,
+                    "name": "Sassuolo",
+                    "logo": "https://media-3.api-sports.io/football/teams/488.png",
+                    "winner": false
+                },
+                "away": {
+                    "id": 498,
+                    "name": "Sampdoria",
+                    "logo": "https://media-1.api-sports.io/football/teams/498.png",
+                    "winner": true
+                }
+            },
+            "goals": {
+                "home": 1,
+                "away": 2
+            },
+            "score": {
+                "halftime": {
+                    "home": 0,
+                    "away": 2
+                },
+                "fulltime": {
+                    "home": 1,
+                    "away": 2
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 923803,
+                "referee": "Konstantinos Katoikos, Greece",
+                "timezone": "europe/london",
+                "date": "2023-01-04T15:00:00+00:00",
+                "timestamp": 1672844400,
+                "periods": {
+                    "first": 1672844400,
+                    "second": 1672848000
+                },
+                "venue": {
+                    "id": 766,
+                    "name": "Stadio Theodoros Kolokotronis",
+                    "city": "Tripoli"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 197,
+                "name": "Super League 1",
+                "country": "Greece",
+                "logo": "https://media-3.api-sports.io/football/leagues/197.png",
+                "flag": "https://media-2.api-sports.io/flags/gr.svg",
+                "season": 2022,
+                "round": "Regular Season - 16"
+            },
+            "teams": {
+                "home": {
+                    "id": 955,
+                    "name": "Asteras Tripolis",
+                    "logo": "https://media-1.api-sports.io/football/teams/955.png",
+                    "winner": true
+                },
+                "away": {
+                    "id": 956,
+                    "name": "Lamia",
+                    "logo": "https://media-3.api-sports.io/football/teams/956.png",
+                    "winner": false
+                }
+            },
+            "goals": {
+                "home": 3,
+                "away": 0
+            },
+            "score": {
+                "halftime": {
+                    "home": 3,
+                    "away": 0
+                },
+                "fulltime": {
+                    "home": 3,
+                    "away": 0
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 923807,
+                "referee": "Dimitris Maloutas, Greece",
+                "timezone": "europe/london",
+                "date": "2023-01-04T16:00:00+00:00",
+                "timestamp": 1672848000,
+                "periods": {
+                    "first": 1672848000,
+                    "second": 1672851600
+                },
+                "venue": {
+                    "id": 778,
+                    "name": "Stadio Panetolikou",
+                    "city": "Agrinio"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 197,
+                "name": "Super League 1",
+                "country": "Greece",
+                "logo": "https://media-3.api-sports.io/football/leagues/197.png",
+                "flag": "https://media-2.api-sports.io/flags/gr.svg",
+                "season": 2022,
+                "round": "Regular Season - 16"
+            },
+            "teams": {
+                "home": {
+                    "id": 949,
+                    "name": "Panetolikos",
+                    "logo": "https://media-3.api-sports.io/football/teams/949.png",
+                    "winner": true
+                },
+                "away": {
+                    "id": 12260,
+                    "name": "Atromitos",
+                    "logo": "https://media-1.api-sports.io/football/teams/12260.png",
+                    "winner": false
+                }
+            },
+            "goals": {
+                "home": 2,
+                "away": 0
+            },
+            "score": {
+                "halftime": {
+                    "home": 0,
+                    "away": 0
+                },
+                "fulltime": {
+                    "home": 2,
+                    "away": 0
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 923808,
+                "referee": "Tamas Bognar, Hungary",
+                "timezone": "europe/london",
+                "date": "2023-01-04T18:00:00+00:00",
+                "timestamp": 1672855200,
+                "periods": {
+                    "first": 1672855200,
+                    "second": 1672858800
+                },
+                "venue": {
+                    "id": 780,
+                    "name": "Stadio Toumbas",
+                    "city": "Thessalon\u00edki"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 197,
+                "name": "Super League 1",
+                "country": "Greece",
+                "logo": "https://media-3.api-sports.io/football/leagues/197.png",
+                "flag": "https://media-3.api-sports.io/flags/gr.svg",
+                "season": 2022,
+                "round": "Regular Season - 16"
+            },
+            "teams": {
+                "home": {
+                    "id": 619,
+                    "name": "PAOK",
+                    "logo": "https://media-3.api-sports.io/football/teams/619.png",
+                    "winner": true
+                },
+                "away": {
+                    "id": 1123,
+                    "name": "Aris Thessalonikis",
+                    "logo": "https://media-2.api-sports.io/football/teams/1123.png",
+                    "winner": false
+                }
+            },
+            "goals": {
+                "home": 1,
+                "away": 0
+            },
+            "score": {
+                "halftime": {
+                    "home": 1,
+                    "away": 0
+                },
+                "fulltime": {
+                    "home": 1,
+                    "away": 0
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 884486,
+                "referee": "Zorbay Kucuk, Turkey",
+                "timezone": "europe/london",
+                "date": "2023-01-04T17:00:00+00:00",
+                "timestamp": 1672851600,
+                "periods": {
+                    "first": 1672851600,
+                    "second": 1672855200
+                },
+                "venue": {
+                    "id": 12598,
+                    "name": "NEF Stadyumu",
+                    "city": "\u0130stanbul"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 203,
+                "name": "S\u00fcper Lig",
+                "country": "Turkey",
+                "logo": "https://media-1.api-sports.io/football/leagues/203.png",
+                "flag": "https://media-2.api-sports.io/flags/tr.svg",
+                "season": 2022,
+                "round": "Regular Season - 17"
+            },
+            "teams": {
+                "home": {
+                    "id": 645,
+                    "name": "Galatasaray",
+                    "logo": "https://media-2.api-sports.io/football/teams/645.png",
+                    "winner": true
+                },
+                "away": {
+                    "id": 1010,
+                    "name": "Ankaragucu",
+                    "logo": "https://media-1.api-sports.io/football/teams/1010.png",
+                    "winner": false
+                }
+            },
+            "goals": {
+                "home": 2,
+                "away": 1
+            },
+            "score": {
+                "halftime": {
+                    "home": 2,
+                    "away": 1
+                },
+                "fulltime": {
+                    "home": 2,
+                    "away": 1
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 884490,
+                "referee": "Yasin Kol, Turkey",
+                "timezone": "europe/london",
+                "date": "2023-01-04T14:00:00+00:00",
+                "timestamp": 1672840800,
+                "periods": {
+                    "first": 1672840800,
+                    "second": 1672844400
+                },
+                "venue": {
+                    "id": 1585,
+                    "name": "Recep Tayyip Erdo\u011fan Stadyumu",
+                    "city": "\u0130stanbul"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 203,
+                "name": "S\u00fcper Lig",
+                "country": "Turkey",
+                "logo": "https://media-1.api-sports.io/football/leagues/203.png",
+                "flag": "https://media-1.api-sports.io/flags/tr.svg",
+                "season": 2022,
+                "round": "Regular Season - 17"
+            },
+            "teams": {
+                "home": {
+                    "id": 1004,
+                    "name": "Kasimpasa",
+                    "logo": "https://media-2.api-sports.io/football/teams/1004.png",
+                    "winner": true
+                },
+                "away": {
+                    "id": 996,
+                    "name": "Alanyaspor",
+                    "logo": "https://media-2.api-sports.io/football/teams/996.png",
+                    "winner": false
+                }
+            },
+            "goals": {
+                "home": 4,
+                "away": 1
+            },
+            "score": {
+                "halftime": {
+                    "home": 2,
+                    "away": 0
+                },
+                "fulltime": {
+                    "home": 4,
+                    "away": 1
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 884491,
+                "referee": "Umit Ozturk, Turkey",
+                "timezone": "europe/london",
+                "date": "2023-01-04T17:00:00+00:00",
+                "timestamp": 1672851600,
+                "periods": {
+                    "first": 1672851600,
+                    "second": 1672855200
+                },
+                "venue": {
+                    "id": 1587,
+                    "name": "Konya B\u00fcy\u00fck\u015fehir Belediye Stadyumu",
+                    "city": "Konya"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 203,
+                "name": "S\u00fcper Lig",
+                "country": "Turkey",
+                "logo": "https://media-1.api-sports.io/football/leagues/203.png",
+                "flag": "https://media-2.api-sports.io/flags/tr.svg",
+                "season": 2022,
+                "round": "Regular Season - 17"
+            },
+            "teams": {
+                "home": {
+                    "id": 607,
+                    "name": "Konyaspor",
+                    "logo": "https://media-3.api-sports.io/football/teams/607.png",
+                    "winner": null
+                },
+                "away": {
+                    "id": 1002,
+                    "name": "Sivasspor",
+                    "logo": "https://media-3.api-sports.io/football/teams/1002.png",
+                    "winner": null
+                }
+            },
+            "goals": {
+                "home": 2,
+                "away": 2
+            },
+            "score": {
+                "halftime": {
+                    "home": 1,
+                    "away": 1
+                },
+                "fulltime": {
+                    "home": 2,
+                    "away": 2
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 884492,
+                "referee": "Suat Arslanboga, Turkey",
+                "timezone": "europe/london",
+                "date": "2023-01-04T14:00:00+00:00",
+                "timestamp": 1672840800,
+                "periods": {
+                    "first": 1672840800,
+                    "second": 1672844400
+                },
+                "venue": {
+                    "id": 19613,
+                    "name": "RHG Enert\u00fcrk Enerji Stadyumu",
+                    "city": "Kayseri"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 203,
+                "name": "S\u00fcper Lig",
+                "country": "Turkey",
+                "logo": "https://media-3.api-sports.io/football/leagues/203.png",
+                "flag": "https://media-1.api-sports.io/flags/tr.svg",
+                "season": 2022,
+                "round": "Regular Season - 17"
+            },
+            "teams": {
+                "home": {
+                    "id": 1001,
+                    "name": "Kayserispor",
+                    "logo": "https://media-2.api-sports.io/football/teams/1001.png",
+                    "winner": false
+                },
+                "away": {
+                    "id": 3589,
+                    "name": "Fatih Karag\u00fcmr\u00fck",
+                    "logo": "https://media-3.api-sports.io/football/teams/3589.png",
+                    "winner": true
+                }
+            },
+            "goals": {
+                "home": 2,
+                "away": 4
+            },
+            "score": {
+                "halftime": {
+                    "home": 0,
+                    "away": 2
+                },
+                "fulltime": {
+                    "home": 2,
+                    "away": 4
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 972987,
+                "referee": "M. Torabian",
+                "timezone": "europe/london",
+                "date": "2023-01-04T10:30:00+00:00",
+                "timestamp": 1672828200,
+                "periods": {
+                    "first": 1672828200,
+                    "second": 1672831800
+                },
+                "venue": {
+                    "id": 1738,
+                    "name": "Imam Khomeini Stadium",
+                    "city": "Arak"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 290,
+                "name": "Persian Gulf Pro League",
+                "country": "Iran",
+                "logo": "https://media-3.api-sports.io/football/leagues/290.png",
+                "flag": "https://media-2.api-sports.io/flags/ir.svg",
+                "season": 2022,
+                "round": "Regular Season - 15"
+            },
+            "teams": {
+                "home": {
+                    "id": 2703,
+                    "name": "Aluminium Arak",
+                    "logo": "https://media-2.api-sports.io/football/teams/2703.png",
+                    "winner": false
+                },
+                "away": {
+                    "id": 2734,
+                    "name": "Foolad FC",
+                    "logo": "https://media-2.api-sports.io/football/teams/2734.png",
+                    "winner": true
+                }
+            },
+            "goals": {
+                "home": 0,
+                "away": 1
+            },
+            "score": {
+                "halftime": {
+                    "home": 0,
+                    "away": 1
+                },
+                "fulltime": {
+                    "home": 0,
+                    "away": 1
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 972989,
+                "referee": "V. Zamani",
+                "timezone": "europe/london",
+                "date": "2023-01-04T10:30:00+00:00",
+                "timestamp": 1672828200,
+                "periods": {
+                    "first": 1672828200,
+                    "second": 1672831800
+                },
+                "venue": {
+                    "id": 855,
+                    "name": "Shahid Dastgerdi Stadium",
+                    "city": "Teheran"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 290,
+                "name": "Persian Gulf Pro League",
+                "country": "Iran",
+                "logo": "https://media-3.api-sports.io/football/leagues/290.png",
+                "flag": "https://media-1.api-sports.io/flags/ir.svg",
+                "season": 2022,
+                "round": "Regular Season - 15"
+            },
+            "teams": {
+                "home": {
+                    "id": 15541,
+                    "name": "Havadar",
+                    "logo": "https://media-2.api-sports.io/football/teams/15541.png",
+                    "winner": true
+                },
+                "away": {
+                    "id": 2738,
+                    "name": "ZOB Ahan",
+                    "logo": "https://media-2.api-sports.io/football/teams/2738.png",
+                    "winner": false
+                }
+            },
+            "goals": {
+                "home": 1,
+                "away": 0
+            },
+            "score": {
+                "halftime": {
+                    "home": 1,
+                    "away": 0
+                },
+                "fulltime": {
+                    "home": 1,
+                    "away": 0
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 962495,
+                "referee": "Saoud Al Athbah",
+                "timezone": "europe/london",
+                "date": "2023-01-04T13:15:00+00:00",
+                "timestamp": 1672838100,
+                "periods": {
+                    "first": 1672838100,
+                    "second": 1672841700
+                },
+                "venue": {
+                    "id": 1304,
+                    "name": "Abdullah bin Nasser bin Khalifa Stadium",
+                    "city": "Doha"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 305,
+                "name": "Stars League",
+                "country": "Qatar",
+                "logo": "https://media-2.api-sports.io/football/leagues/305.png",
+                "flag": "https://media-1.api-sports.io/flags/qa.svg",
+                "season": 2022,
+                "round": "Regular Season - 8"
+            },
+            "teams": {
+                "home": {
+                    "id": 2904,
+                    "name": "Al-Duhail SC",
+                    "logo": "https://media-1.api-sports.io/football/teams/2904.png",
+                    "winner": true
+                },
+                "away": {
+                    "id": 2903,
+                    "name": "Al-Gharafa",
+                    "logo": "https://media-1.api-sports.io/football/teams/2903.png",
+                    "winner": false
+                }
+            },
+            "goals": {
+                "home": 3,
+                "away": 0
+            },
+            "score": {
+                "halftime": {
+                    "home": 1,
+                    "away": 0
+                },
+                "fulltime": {
+                    "home": 3,
+                    "away": 0
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        }
+    ]
+}

@@ -1,0 +1,548 @@
+{
+    "data": [
+        {
+            "fixture": {
+                "id": 867712,
+                "referee": "R. Hensgens",
+                "timezone": "europe/london",
+                "date": "2022-11-14T19:00:00+00:00",
+                "timestamp": 1668452400,
+                "periods": {
+                    "first": 1668452400,
+                    "second": 1668456000
+                },
+                "venue": {
+                    "id": 1135,
+                    "name": "Sportpark De Toekomst",
+                    "city": "Amsterdam-Duivendrecht"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 89,
+                "name": "Eerste Divisie",
+                "country": "Netherlands",
+                "logo": "https://media-3.api-sports.io/football/leagues/89.png",
+                "flag": "https://media-1.api-sports.io/flags/nl.svg",
+                "season": 2022,
+                "round": "Regular Season - 15"
+            },
+            "teams": {
+                "home": {
+                    "id": 425,
+                    "name": "Jong Ajax",
+                    "logo": "https://media-2.api-sports.io/football/teams/425.png",
+                    "winner": null
+                },
+                "away": {
+                    "id": 421,
+                    "name": "Den Bosch",
+                    "logo": "https://media-3.api-sports.io/football/teams/421.png",
+                    "winner": null
+                }
+            },
+            "goals": {
+                "home": 4,
+                "away": 4
+            },
+            "score": {
+                "halftime": {
+                    "home": 2,
+                    "away": 1
+                },
+                "fulltime": {
+                    "home": 4,
+                    "away": 4
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 867713,
+                "referee": "S. Teuben",
+                "timezone": "europe/london",
+                "date": "2022-11-14T19:00:00+00:00",
+                "timestamp": 1668452400,
+                "periods": {
+                    "first": 1668452400,
+                    "second": 1668456000
+                },
+                "venue": {
+                    "id": 12600,
+                    "name": "Sportcomplex Zoudenbalch",
+                    "city": "Utrecht"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 89,
+                "name": "Eerste Divisie",
+                "country": "Netherlands",
+                "logo": "https://media-3.api-sports.io/football/leagues/89.png",
+                "flag": "https://media-1.api-sports.io/flags/nl.svg",
+                "season": 2022,
+                "round": "Regular Season - 15"
+            },
+            "teams": {
+                "home": {
+                    "id": 428,
+                    "name": "Jong Utrecht",
+                    "logo": "https://media-3.api-sports.io/football/teams/428.png",
+                    "winner": true
+                },
+                "away": {
+                    "id": 412,
+                    "name": "MVV",
+                    "logo": "https://media-1.api-sports.io/football/teams/412.png",
+                    "winner": false
+                }
+            },
+            "goals": {
+                "home": 3,
+                "away": 0
+            },
+            "score": {
+                "halftime": {
+                    "home": 1,
+                    "away": 0
+                },
+                "fulltime": {
+                    "home": 3,
+                    "away": 0
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 898719,
+                "referee": "Andre Filipe Domingues Narciso, Portugal",
+                "timezone": "europe/london",
+                "date": "2022-11-14T20:15:00+00:00",
+                "timestamp": 1668456900,
+                "periods": {
+                    "first": 1668456900,
+                    "second": 1668460500
+                },
+                "venue": {
+                    "id": 1289,
+                    "name": "Est\u00e1dio de S\u00e3o Miguel",
+                    "city": "Ponta Delgada, Ilha de S\u00e3o Miguel, A\u00e7ores"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 94,
+                "name": "Primeira Liga",
+                "country": "Portugal",
+                "logo": "https://media-2.api-sports.io/football/leagues/94.png",
+                "flag": "https://media-3.api-sports.io/flags/pt.svg",
+                "season": 2022,
+                "round": "Regular Season - 13"
+            },
+            "teams": {
+                "home": {
+                    "id": 227,
+                    "name": "Santa Clara",
+                    "logo": "https://media-3.api-sports.io/football/teams/227.png",
+                    "winner": true
+                },
+                "away": {
+                    "id": 230,
+                    "name": "Estoril",
+                    "logo": "https://media-2.api-sports.io/football/teams/230.png",
+                    "winner": false
+                }
+            },
+            "goals": {
+                "home": 3,
+                "away": 1
+            },
+            "score": {
+                "halftime": {
+                    "home": 2,
+                    "away": 1
+                },
+                "fulltime": {
+                    "home": 3,
+                    "away": 1
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 923782,
+                "referee": "Konstantinos Perrakis, Greece",
+                "timezone": "europe/london",
+                "date": "2022-11-14T16:00:00+00:00",
+                "timestamp": 1668441600,
+                "periods": {
+                    "first": 1668441600,
+                    "second": 1668445200
+                },
+                "venue": {
+                    "id": 766,
+                    "name": "Stadio Theodoros Kolokotronis",
+                    "city": "Tripoli"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 197,
+                "name": "Super League 1",
+                "country": "Greece",
+                "logo": "https://media-3.api-sports.io/football/leagues/197.png",
+                "flag": "https://media-3.api-sports.io/flags/gr.svg",
+                "season": 2022,
+                "round": "Regular Season - 13"
+            },
+            "teams": {
+                "home": {
+                    "id": 955,
+                    "name": "Asteras Tripolis",
+                    "logo": "https://media-1.api-sports.io/football/teams/955.png",
+                    "winner": true
+                },
+                "away": {
+                    "id": 7513,
+                    "name": "Ionikos",
+                    "logo": "https://media-2.api-sports.io/football/teams/7513.png",
+                    "winner": false
+                }
+            },
+            "goals": {
+                "home": 1,
+                "away": 0
+            },
+            "score": {
+                "halftime": {
+                    "home": 1,
+                    "away": 0
+                },
+                "fulltime": {
+                    "home": 1,
+                    "away": 0
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 923784,
+                "referee": "Angelakis Angelos, Greece",
+                "timezone": "europe/london",
+                "date": "2022-11-14T17:30:00+00:00",
+                "timestamp": 1668447000,
+                "periods": {
+                    "first": 1668447000,
+                    "second": 1668450600
+                },
+                "venue": {
+                    "id": 774,
+                    "name": "Stadio Th\u00f3doros Vardinoy\u00e1nnis",
+                    "city": "Heraklion"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 197,
+                "name": "Super League 1",
+                "country": "Greece",
+                "logo": "https://media-2.api-sports.io/football/leagues/197.png",
+                "flag": "https://media-1.api-sports.io/flags/gr.svg",
+                "season": 2022,
+                "round": "Regular Season - 13"
+            },
+            "teams": {
+                "home": {
+                    "id": 1124,
+                    "name": "OFI",
+                    "logo": "https://media-1.api-sports.io/football/teams/1124.png",
+                    "winner": true
+                },
+                "away": {
+                    "id": 957,
+                    "name": "Levadiakos",
+                    "logo": "https://media-2.api-sports.io/football/teams/957.png",
+                    "winner": false
+                }
+            },
+            "goals": {
+                "home": 2,
+                "away": 1
+            },
+            "score": {
+                "halftime": {
+                    "home": 0,
+                    "away": 1
+                },
+                "fulltime": {
+                    "home": 2,
+                    "away": 1
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 970034,
+                "referee": "W. Rold\u00e1n",
+                "timezone": "europe/london",
+                "date": "2022-11-14T21:00:00+00:00",
+                "timestamp": 1668459600,
+                "periods": {
+                    "first": 1668459600,
+                    "second": 1668463200
+                },
+                "venue": {
+                    "id": 383,
+                    "name": "Estadio Nemesio Camacho El Camp\u00edn",
+                    "city": "Bogot\u00e1, D.C."
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 239,
+                "name": "Primera A",
+                "country": "Colombia",
+                "logo": "https://media-3.api-sports.io/football/leagues/239.png",
+                "flag": "https://media-3.api-sports.io/flags/co.svg",
+                "season": 2022,
+                "round": "Clausura - Quadrangular - 3"
+            },
+            "teams": {
+                "home": {
+                    "id": 1125,
+                    "name": "Millonarios",
+                    "logo": "https://media-1.api-sports.io/football/teams/1125.png",
+                    "winner": true
+                },
+                "away": {
+                    "id": 1462,
+                    "name": "Deportivo Pereira",
+                    "logo": "https://media-3.api-sports.io/football/teams/1462.png",
+                    "winner": false
+                }
+            },
+            "goals": {
+                "home": 2,
+                "away": 0
+            },
+            "score": {
+                "halftime": {
+                    "home": 2,
+                    "away": 0
+                },
+                "fulltime": {
+                    "home": 2,
+                    "away": 0
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 970037,
+                "referee": "A. Rojas",
+                "timezone": "europe/london",
+                "date": "2022-11-14T00:00:00+00:00",
+                "timestamp": 1668384000,
+                "periods": {
+                    "first": 1668384000,
+                    "second": 1668387600
+                },
+                "venue": {
+                    "id": 368,
+                    "name": "Estadio Ol\u00edmpico Pascual Guerrero",
+                    "city": "Santiago de Cali"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 239,
+                "name": "Primera A",
+                "country": "Colombia",
+                "logo": "https://media-1.api-sports.io/football/leagues/239.png",
+                "flag": "https://media-2.api-sports.io/flags/co.svg",
+                "season": 2022,
+                "round": "Clausura - Quadrangular - 3"
+            },
+            "teams": {
+                "home": {
+                    "id": 1138,
+                    "name": "America de Cali",
+                    "logo": "https://media-3.api-sports.io/football/teams/1138.png",
+                    "winner": true
+                },
+                "away": {
+                    "id": 1126,
+                    "name": "Deportivo Pasto",
+                    "logo": "https://media-3.api-sports.io/football/teams/1126.png",
+                    "winner": false
+                }
+            },
+            "goals": {
+                "home": 2,
+                "away": 1
+            },
+            "score": {
+                "halftime": {
+                    "home": 1,
+                    "away": 0
+                },
+                "fulltime": {
+                    "home": 2,
+                    "away": 1
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 877439,
+                "referee": "T. Clarke",
+                "timezone": "europe/london",
+                "date": "2022-11-14T19:45:00+00:00",
+                "timestamp": 1668455100,
+                "periods": {
+                    "first": 1668455100,
+                    "second": 1668458700
+                },
+                "venue": {
+                    "id": 1171,
+                    "name": "Seaview",
+                    "city": "Belfast"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 408,
+                "name": "Premiership",
+                "country": "Northern-Ireland",
+                "logo": "https://media-3.api-sports.io/football/leagues/408.png",
+                "flag": "https://media-1.api-sports.io/flags/gb.svg",
+                "season": 2022,
+                "round": "Regular Season - 15"
+            },
+            "teams": {
+                "home": {
+                    "id": 697,
+                    "name": "Crusaders FC",
+                    "logo": "https://media-3.api-sports.io/football/teams/697.png",
+                    "winner": false
+                },
+                "away": {
+                    "id": 668,
+                    "name": "Ballymena United",
+                    "logo": "https://media-2.api-sports.io/football/teams/668.png",
+                    "winner": true
+                }
+            },
+            "goals": {
+                "home": 0,
+                "away": 1
+            },
+            "score": {
+                "halftime": {
+                    "home": 0,
+                    "away": 0
+                },
+                "fulltime": {
+                    "home": 0,
+                    "away": 1
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        }
+    ]
+}

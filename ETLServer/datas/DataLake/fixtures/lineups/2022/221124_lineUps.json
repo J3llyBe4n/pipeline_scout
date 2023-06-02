@@ -1,0 +1,389 @@
+{
+    "data": [
+        {
+            "fixture": 970038,
+            "home": {
+                "team": {
+                    "id": 1462,
+                    "name": "Deportivo Pereira",
+                    "logo": "https://media-1.api-sports.io/football/teams/1462.png",
+                    "colors": {
+                        "player": {
+                            "primary": "fff200",
+                            "number": "222226",
+                            "border": "fff200"
+                        },
+                        "goalkeeper": {
+                            "primary": "a3ea16",
+                            "number": "222226",
+                            "border": "a3ea16"
+                        }
+                    }
+                },
+                "coach": {
+                    "id": 2183,
+                    "name": "A. Restrepo",
+                    "photo": "https://media-3.api-sports.io/football/coachs/2183.png"
+                },
+                "formation": "3-4-1-2",
+                "startXI": [
+                    {
+                        "player": {
+                            "id": 59574,
+                            "name": "H. Castillo",
+                            "number": 1,
+                            "pos": "G",
+                            "grid": "1:1"
+                        }
+                    },
+                    {
+                        "player": {
+                            "id": 13737,
+                            "name": "C. Ram\u00edrez",
+                            "number": 29,
+                            "pos": "D",
+                            "grid": "2:3"
+                        }
+                    },
+                    {
+                        "player": {
+                            "id": 13545,
+                            "name": "J. Zuluaga",
+                            "number": 13,
+                            "pos": "M",
+                            "grid": "2:2"
+                        }
+                    },
+                    {
+                        "player": {
+                            "id": 59588,
+                            "name": "J. Mosquera",
+                            "number": 6,
+                            "pos": "D",
+                            "grid": "2:1"
+                        }
+                    },
+                    {
+                        "player": {
+                            "id": 13290,
+                            "name": "Y. Vel\u00e1squez",
+                            "number": 20,
+                            "pos": "M",
+                            "grid": "3:4"
+                        }
+                    },
+                    {
+                        "player": {
+                            "id": 59604,
+                            "name": "Jhonny V\u00e1squez",
+                            "number": 25,
+                            "pos": "D",
+                            "grid": "3:3"
+                        }
+                    },
+                    {
+                        "player": {
+                            "id": 13724,
+                            "name": "M. Medina",
+                            "number": 18,
+                            "pos": "M",
+                            "grid": "3:2"
+                        }
+                    },
+                    {
+                        "player": {
+                            "id": 59779,
+                            "name": "L. Berr\u00edo",
+                            "number": 7,
+                            "pos": "F",
+                            "grid": "3:1"
+                        }
+                    },
+                    {
+                        "player": {
+                            "id": 13525,
+                            "name": "L. Castro",
+                            "number": 23,
+                            "pos": "F",
+                            "grid": "4:1"
+                        }
+                    },
+                    {
+                        "player": {
+                            "id": 195718,
+                            "name": "J. Fory",
+                            "number": 27,
+                            "pos": "M",
+                            "grid": "5:2"
+                        }
+                    },
+                    {
+                        "player": {
+                            "id": 301780,
+                            "name": "B. Le\u00f3n",
+                            "number": 9,
+                            "pos": "F",
+                            "grid": "5:1"
+                        }
+                    }
+                ],
+                "substitutes": [
+                    {
+                        "player": {
+                            "id": 13689,
+                            "name": "H. Su\u00e1rez",
+                            "number": 8,
+                            "pos": "M",
+                            "grid": null
+                        }
+                    },
+                    {
+                        "player": {
+                            "id": 13295,
+                            "name": "Y. G\u00f3ez",
+                            "number": 30,
+                            "pos": "M",
+                            "grid": null
+                        }
+                    },
+                    {
+                        "player": {
+                            "id": 59438,
+                            "name": "D. Palacio",
+                            "number": 14,
+                            "pos": "M",
+                            "grid": null
+                        }
+                    },
+                    {
+                        "player": {
+                            "id": 171324,
+                            "name": "S. Casta\u00f1o",
+                            "number": 22,
+                            "pos": "G",
+                            "grid": null
+                        }
+                    },
+                    {
+                        "player": {
+                            "id": 126091,
+                            "name": "J. Palacios",
+                            "number": 16,
+                            "pos": "D",
+                            "grid": null
+                        }
+                    },
+                    {
+                        "player": {
+                            "id": 287860,
+                            "name": "A. Piedrahita",
+                            "number": 19,
+                            "pos": "M",
+                            "grid": null
+                        }
+                    },
+                    {
+                        "player": {
+                            "id": 6220,
+                            "name": "J. Sinisterra",
+                            "number": 11,
+                            "pos": "F",
+                            "grid": null
+                        }
+                    }
+                ]
+            },
+            "away": {
+                "team": {
+                    "id": 1125,
+                    "name": "Millonarios",
+                    "logo": "https://media-3.api-sports.io/football/teams/1125.png",
+                    "colors": {
+                        "player": {
+                            "primary": "ebebeb",
+                            "number": "0011ff",
+                            "border": "ebebeb"
+                        },
+                        "goalkeeper": {
+                            "primary": "ffffff",
+                            "number": "ffffff",
+                            "border": "c800ff"
+                        }
+                    }
+                },
+                "coach": {
+                    "id": 2165,
+                    "name": "A. Gamero",
+                    "photo": "https://media-2.api-sports.io/football/coachs/2165.png"
+                },
+                "formation": "4-2-3-1",
+                "startXI": [
+                    {
+                        "player": {
+                            "id": 2481,
+                            "name": "\u00c1. Montero",
+                            "number": 31,
+                            "pos": "G",
+                            "grid": "1:1"
+                        }
+                    },
+                    {
+                        "player": {
+                            "id": 13699,
+                            "name": "I. Alba",
+                            "number": 20,
+                            "pos": "D",
+                            "grid": "2:4"
+                        }
+                    },
+                    {
+                        "player": {
+                            "id": 59657,
+                            "name": "O. Vanegas",
+                            "number": 6,
+                            "pos": "D",
+                            "grid": "2:3"
+                        }
+                    },
+                    {
+                        "player": {
+                            "id": 13659,
+                            "name": "A. Llin\u00e1s",
+                            "number": 26,
+                            "pos": "D",
+                            "grid": "2:2"
+                        }
+                    },
+                    {
+                        "player": {
+                            "id": 13634,
+                            "name": "O. Bertel",
+                            "number": 3,
+                            "pos": "D",
+                            "grid": "2:1"
+                        }
+                    },
+                    {
+                        "player": {
+                            "id": 13656,
+                            "name": "D. Silva",
+                            "number": 14,
+                            "pos": "M",
+                            "grid": "3:2"
+                        }
+                    },
+                    {
+                        "player": {
+                            "id": 13819,
+                            "name": "J. Pereira",
+                            "number": 21,
+                            "pos": "M",
+                            "grid": "3:1"
+                        }
+                    },
+                    {
+                        "player": {
+                            "id": 13373,
+                            "name": "L. V\u00e1squez",
+                            "number": 5,
+                            "pos": "M",
+                            "grid": "4:3"
+                        }
+                    },
+                    {
+                        "player": {
+                            "id": 59635,
+                            "name": "D. Ruiz",
+                            "number": 10,
+                            "pos": "M",
+                            "grid": "4:2"
+                        }
+                    },
+                    {
+                        "player": {
+                            "id": 13663,
+                            "name": "J. Valencia",
+                            "number": 16,
+                            "pos": "F",
+                            "grid": "4:1"
+                        }
+                    },
+                    {
+                        "player": {
+                            "id": 345748,
+                            "name": "C. G\u00f3mez",
+                            "number": 11,
+                            "pos": "M",
+                            "grid": "5:1"
+                        }
+                    }
+                ],
+                "substitutes": [
+                    {
+                        "player": {
+                            "id": 13597,
+                            "name": "L. Ruiz",
+                            "number": 27,
+                            "pos": "F",
+                            "grid": null
+                        }
+                    },
+                    {
+                        "player": {
+                            "id": 13366,
+                            "name": "D. Cata\u00f1o",
+                            "number": 8,
+                            "pos": "M",
+                            "grid": null
+                        }
+                    },
+                    {
+                        "player": {
+                            "id": 13526,
+                            "name": "D. Herazo",
+                            "number": 7,
+                            "pos": "F",
+                            "grid": null
+                        }
+                    },
+                    {
+                        "player": {
+                            "id": 13631,
+                            "name": "J. Moreno",
+                            "number": 1,
+                            "pos": "G",
+                            "grid": null
+                        }
+                    },
+                    {
+                        "player": {
+                            "id": 13504,
+                            "name": "E. Perlaza",
+                            "number": 13,
+                            "pos": "D",
+                            "grid": null
+                        }
+                    },
+                    {
+                        "player": {
+                            "id": 13648,
+                            "name": "J. Garcia",
+                            "number": 19,
+                            "pos": "M",
+                            "grid": null
+                        }
+                    },
+                    {
+                        "player": {
+                            "id": 59692,
+                            "name": "J. Cuen\u00fa",
+                            "number": 22,
+                            "pos": "D",
+                            "grid": null
+                        }
+                    }
+                ]
+            }
+        }
+    ]
+}

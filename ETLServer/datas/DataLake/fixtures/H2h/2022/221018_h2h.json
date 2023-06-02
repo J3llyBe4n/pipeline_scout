@@ -1,0 +1,2044 @@
+{
+    "data": [
+        {
+            "fixture": {
+                "id": 868059,
+                "referee": "D. England",
+                "timezone": "europe/london",
+                "date": "2022-10-18T19:30:00+01:00",
+                "timestamp": 1666117800,
+                "periods": {
+                    "first": 1666117800,
+                    "second": 1666121400
+                },
+                "venue": {
+                    "id": 508,
+                    "name": "The American Express Community Stadium",
+                    "city": "Falmer, East Sussex"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 39,
+                "name": "Premier League",
+                "country": "England",
+                "logo": "https://media-2.api-sports.io/football/leagues/39.png",
+                "flag": "https://media-3.api-sports.io/flags/gb.svg",
+                "season": 2022,
+                "round": "Regular Season - 12"
+            },
+            "teams": {
+                "home": {
+                    "id": 51,
+                    "name": "Brighton",
+                    "logo": "https://media-3.api-sports.io/football/teams/51.png",
+                    "winner": null
+                },
+                "away": {
+                    "id": 65,
+                    "name": "Nottingham Forest",
+                    "logo": "https://media-2.api-sports.io/football/teams/65.png",
+                    "winner": null
+                }
+            },
+            "goals": {
+                "home": 0,
+                "away": 0
+            },
+            "score": {
+                "halftime": {
+                    "home": 0,
+                    "away": 0
+                },
+                "fulltime": {
+                    "home": 0,
+                    "away": 0
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 868062,
+                "referee": "D. Coote",
+                "timezone": "europe/london",
+                "date": "2022-10-18T20:15:00+01:00",
+                "timestamp": 1666120500,
+                "periods": {
+                    "first": 1666120500,
+                    "second": 1666124100
+                },
+                "venue": {
+                    "id": 525,
+                    "name": "Selhurst Park",
+                    "city": "London"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 39,
+                "name": "Premier League",
+                "country": "England",
+                "logo": "https://media-2.api-sports.io/football/leagues/39.png",
+                "flag": "https://media-2.api-sports.io/flags/gb.svg",
+                "season": 2022,
+                "round": "Regular Season - 12"
+            },
+            "teams": {
+                "home": {
+                    "id": 52,
+                    "name": "Crystal Palace",
+                    "logo": "https://media-1.api-sports.io/football/teams/52.png",
+                    "winner": true
+                },
+                "away": {
+                    "id": 39,
+                    "name": "Wolves",
+                    "logo": "https://media-1.api-sports.io/football/teams/39.png",
+                    "winner": false
+                }
+            },
+            "goals": {
+                "home": 2,
+                "away": 1
+            },
+            "score": {
+                "halftime": {
+                    "home": 0,
+                    "away": 1
+                },
+                "fulltime": {
+                    "home": 2,
+                    "away": 1
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 880899,
+                "referee": "C. Pawson",
+                "timezone": "europe/london",
+                "date": "2022-10-18T20:00:00+01:00",
+                "timestamp": 1666119600,
+                "periods": {
+                    "first": 1666119600,
+                    "second": 1666123200
+                },
+                "venue": {
+                    "id": 500,
+                    "name": "Ewood Park",
+                    "city": "Blackburn, Lancashire"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 40,
+                "name": "Championship",
+                "country": "England",
+                "logo": "https://media-3.api-sports.io/football/leagues/40.png",
+                "flag": "https://media-3.api-sports.io/flags/gb.svg",
+                "season": 2022,
+                "round": "Regular Season - 16"
+            },
+            "teams": {
+                "home": {
+                    "id": 67,
+                    "name": "Blackburn",
+                    "logo": "https://media-1.api-sports.io/football/teams/67.png",
+                    "winner": true
+                },
+                "away": {
+                    "id": 746,
+                    "name": "Sunderland",
+                    "logo": "https://media-3.api-sports.io/football/teams/746.png",
+                    "winner": false
+                }
+            },
+            "goals": {
+                "home": 2,
+                "away": 0
+            },
+            "score": {
+                "halftime": {
+                    "home": 1,
+                    "away": 0
+                },
+                "fulltime": {
+                    "home": 2,
+                    "away": 0
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 880900,
+                "referee": "A.  Woolmer",
+                "timezone": "europe/london",
+                "date": "2022-10-18T19:45:00+01:00",
+                "timestamp": 1666118700,
+                "periods": {
+                    "first": 1666118700,
+                    "second": 1666122300
+                },
+                "venue": {
+                    "id": 543,
+                    "name": "John Smith's Stadium",
+                    "city": "Huddersfield, West Yorkshire"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 40,
+                "name": "Championship",
+                "country": "England",
+                "logo": "https://media-3.api-sports.io/football/leagues/40.png",
+                "flag": "https://media-3.api-sports.io/flags/gb.svg",
+                "season": 2022,
+                "round": "Regular Season - 16"
+            },
+            "teams": {
+                "home": {
+                    "id": 37,
+                    "name": "Huddersfield",
+                    "logo": "https://media-1.api-sports.io/football/teams/37.png",
+                    "winner": false
+                },
+                "away": {
+                    "id": 59,
+                    "name": "Preston",
+                    "logo": "https://media-3.api-sports.io/football/teams/59.png",
+                    "winner": true
+                }
+            },
+            "goals": {
+                "home": 0,
+                "away": 1
+            },
+            "score": {
+                "halftime": {
+                    "home": 0,
+                    "away": 0
+                },
+                "fulltime": {
+                    "home": 0,
+                    "away": 1
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 880901,
+                "referee": "O. Langford",
+                "timezone": "europe/london",
+                "date": "2022-10-18T19:45:00+01:00",
+                "timestamp": 1666118700,
+                "periods": {
+                    "first": 1666118700,
+                    "second": 1666122300
+                },
+                "venue": {
+                    "id": 565,
+                    "name": "Carrow Road",
+                    "city": "Norwich, Norfolk"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 40,
+                "name": "Championship",
+                "country": "England",
+                "logo": "https://media-2.api-sports.io/football/leagues/40.png",
+                "flag": "https://media-1.api-sports.io/flags/gb.svg",
+                "season": 2022,
+                "round": "Regular Season - 16"
+            },
+            "teams": {
+                "home": {
+                    "id": 71,
+                    "name": "Norwich",
+                    "logo": "https://media-2.api-sports.io/football/teams/71.png",
+                    "winner": false
+                },
+                "away": {
+                    "id": 1359,
+                    "name": "Luton",
+                    "logo": "https://media-2.api-sports.io/football/teams/1359.png",
+                    "winner": true
+                }
+            },
+            "goals": {
+                "home": 0,
+                "away": 1
+            },
+            "score": {
+                "halftime": {
+                    "home": 0,
+                    "away": 0
+                },
+                "fulltime": {
+                    "home": 0,
+                    "away": 1
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 880902,
+                "referee": "A. Davies",
+                "timezone": "europe/london",
+                "date": "2022-10-18T19:45:00+01:00",
+                "timestamp": 1666118700,
+                "periods": {
+                    "first": 1666118700,
+                    "second": 1666122300
+                },
+                "venue": {
+                    "id": 12273,
+                    "name": "Swansea.com Stadium",
+                    "city": "Swansea"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 40,
+                "name": "Championship",
+                "country": "England",
+                "logo": "https://media-3.api-sports.io/football/leagues/40.png",
+                "flag": "https://media-2.api-sports.io/flags/gb.svg",
+                "season": 2022,
+                "round": "Regular Season - 16"
+            },
+            "teams": {
+                "home": {
+                    "id": 76,
+                    "name": "Swansea",
+                    "logo": "https://media-1.api-sports.io/football/teams/76.png",
+                    "winner": true
+                },
+                "away": {
+                    "id": 53,
+                    "name": "Reading",
+                    "logo": "https://media-2.api-sports.io/football/teams/53.png",
+                    "winner": false
+                }
+            },
+            "goals": {
+                "home": 3,
+                "away": 2
+            },
+            "score": {
+                "halftime": {
+                    "home": 1,
+                    "away": 2
+                },
+                "fulltime": {
+                    "home": 3,
+                    "away": 2
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 880903,
+                "referee": "G. Ward",
+                "timezone": "europe/london",
+                "date": "2022-10-18T20:00:00+01:00",
+                "timestamp": 1666119600,
+                "periods": {
+                    "first": 1666119600,
+                    "second": 1666123200
+                },
+                "venue": {
+                    "id": 588,
+                    "name": "bet365 Stadium",
+                    "city": "Stoke-on-Trent, Staffordshire"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 40,
+                "name": "Championship",
+                "country": "England",
+                "logo": "https://media-3.api-sports.io/football/leagues/40.png",
+                "flag": "https://media-2.api-sports.io/flags/gb.svg",
+                "season": 2022,
+                "round": "Regular Season - 16"
+            },
+            "teams": {
+                "home": {
+                    "id": 75,
+                    "name": "Stoke City",
+                    "logo": "https://media-1.api-sports.io/football/teams/75.png",
+                    "winner": false
+                },
+                "away": {
+                    "id": 73,
+                    "name": "Rotherham",
+                    "logo": "https://media-1.api-sports.io/football/teams/73.png",
+                    "winner": true
+                }
+            },
+            "goals": {
+                "home": 0,
+                "away": 1
+            },
+            "score": {
+                "halftime": {
+                    "home": 0,
+                    "away": 1
+                },
+                "fulltime": {
+                    "home": 0,
+                    "away": 1
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 880904,
+                "referee": "R. Madley",
+                "timezone": "europe/london",
+                "date": "2022-10-18T20:00:00+01:00",
+                "timestamp": 1666119600,
+                "periods": {
+                    "first": 1666119600,
+                    "second": 1666123200
+                },
+                "venue": {
+                    "id": 597,
+                    "name": "The Hawthorns",
+                    "city": "West Bromwich"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 40,
+                "name": "Championship",
+                "country": "England",
+                "logo": "https://media-1.api-sports.io/football/leagues/40.png",
+                "flag": "https://media-3.api-sports.io/flags/gb.svg",
+                "season": 2022,
+                "round": "Regular Season - 16"
+            },
+            "teams": {
+                "home": {
+                    "id": 60,
+                    "name": "West Brom",
+                    "logo": "https://media-3.api-sports.io/football/teams/60.png",
+                    "winner": false
+                },
+                "away": {
+                    "id": 56,
+                    "name": "Bristol City",
+                    "logo": "https://media-3.api-sports.io/football/teams/56.png",
+                    "winner": true
+                }
+            },
+            "goals": {
+                "home": 0,
+                "away": 2
+            },
+            "score": {
+                "halftime": {
+                    "home": 0,
+                    "away": 2
+                },
+                "fulltime": {
+                    "home": 0,
+                    "away": 2
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 863519,
+                "referee": "P. Echavarr\u00eda",
+                "timezone": "europe/london",
+                "date": "2022-10-18T01:30:00+01:00",
+                "timestamp": 1666053000,
+                "periods": {
+                    "first": 1666053000,
+                    "second": 1666056600
+                },
+                "venue": {
+                    "id": 42,
+                    "name": "Estadio Monumental Presidente Jos\u00e9 Fierro",
+                    "city": "San Miguel de Tucum\u00e1n, Provincia de Tucum\u00e1n"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 128,
+                "name": "Liga Profesional Argentina",
+                "country": "Argentina",
+                "logo": "https://media-1.api-sports.io/football/leagues/128.png",
+                "flag": "https://media-1.api-sports.io/flags/ar.svg",
+                "season": 2022,
+                "round": "2nd Phase - 26"
+            },
+            "teams": {
+                "home": {
+                    "id": 455,
+                    "name": "Atletico Tucuman",
+                    "logo": "https://media-3.api-sports.io/football/teams/455.png",
+                    "winner": null
+                },
+                "away": {
+                    "id": 441,
+                    "name": "Union Santa Fe",
+                    "logo": "https://media-2.api-sports.io/football/teams/441.png",
+                    "winner": null
+                }
+            },
+            "goals": {
+                "home": 1,
+                "away": 1
+            },
+            "score": {
+                "halftime": {
+                    "home": 0,
+                    "away": 0
+                },
+                "fulltime": {
+                    "home": 1,
+                    "away": 1
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 863520,
+                "referee": "A. Merlos",
+                "timezone": "europe/london",
+                "date": "2022-10-18T20:30:00+01:00",
+                "timestamp": 1666121400,
+                "periods": {
+                    "first": 1666121400,
+                    "second": 1666125000
+                },
+                "venue": {
+                    "id": 57,
+                    "name": "Estadio Brigadier General Estanislao L\u00f3pez",
+                    "city": "Ciudad de Santa Fe, Provincia de Santa Fe"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 128,
+                "name": "Liga Profesional Argentina",
+                "country": "Argentina",
+                "logo": "https://media-2.api-sports.io/football/leagues/128.png",
+                "flag": "https://media-1.api-sports.io/flags/ar.svg",
+                "season": 2022,
+                "round": "2nd Phase - 26"
+            },
+            "teams": {
+                "home": {
+                    "id": 448,
+                    "name": "Colon Santa Fe",
+                    "logo": "https://media-3.api-sports.io/football/teams/448.png",
+                    "winner": false
+                },
+                "away": {
+                    "id": 442,
+                    "name": "Defensa Y Justicia",
+                    "logo": "https://media-1.api-sports.io/football/teams/442.png",
+                    "winner": true
+                }
+            },
+            "goals": {
+                "home": 1,
+                "away": 2
+            },
+            "score": {
+                "halftime": {
+                    "home": 1,
+                    "away": 2
+                },
+                "fulltime": {
+                    "home": 1,
+                    "away": 2
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 863522,
+                "referee": "D. Herrera",
+                "timezone": "europe/london",
+                "date": "2022-10-18T23:00:00+01:00",
+                "timestamp": 1666130400,
+                "periods": {
+                    "first": 1666130400,
+                    "second": 1666134000
+                },
+                "venue": {
+                    "id": 88,
+                    "name": "Estadio Ciudad de Lan\u00fas - N\u00e9stor D\u00edaz P\u00e9rez",
+                    "city": "Lan\u00fas, Provincia de Buenos Aires"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 128,
+                "name": "Liga Profesional Argentina",
+                "country": "Argentina",
+                "logo": "https://media-3.api-sports.io/football/leagues/128.png",
+                "flag": "https://media-3.api-sports.io/flags/ar.svg",
+                "season": 2022,
+                "round": "2nd Phase - 26"
+            },
+            "teams": {
+                "home": {
+                    "id": 446,
+                    "name": "Lanus",
+                    "logo": "https://media-3.api-sports.io/football/teams/446.png",
+                    "winner": false
+                },
+                "away": {
+                    "id": 436,
+                    "name": "Racing Club",
+                    "logo": "https://media-2.api-sports.io/football/teams/436.png",
+                    "winner": true
+                }
+            },
+            "goals": {
+                "home": 0,
+                "away": 1
+            },
+            "score": {
+                "halftime": {
+                    "home": 0,
+                    "away": 0
+                },
+                "fulltime": {
+                    "home": 0,
+                    "away": 1
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 863528,
+                "referee": "F. Espinoza",
+                "timezone": "europe/london",
+                "date": "2022-10-18T01:30:00+01:00",
+                "timestamp": 1666053000,
+                "periods": {
+                    "first": 1666053000,
+                    "second": 1666056600
+                },
+                "venue": {
+                    "id": 107,
+                    "name": "Estadio Eva Per\u00f3n de Jun\u00edn",
+                    "city": "Jun\u00edn, Provincia de Buenos Aires"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 128,
+                "name": "Liga Profesional Argentina",
+                "country": "Argentina",
+                "logo": "https://media-3.api-sports.io/football/leagues/128.png",
+                "flag": "https://media-1.api-sports.io/flags/ar.svg",
+                "season": 2022,
+                "round": "2nd Phase - 26"
+            },
+            "teams": {
+                "home": {
+                    "id": 474,
+                    "name": "Sarmiento Junin",
+                    "logo": "https://media-3.api-sports.io/football/teams/474.png",
+                    "winner": false
+                },
+                "away": {
+                    "id": 460,
+                    "name": "San Lorenzo",
+                    "logo": "https://media-1.api-sports.io/football/teams/460.png",
+                    "winner": true
+                }
+            },
+            "goals": {
+                "home": 2,
+                "away": 4
+            },
+            "score": {
+                "halftime": {
+                    "home": 1,
+                    "away": 3
+                },
+                "fulltime": {
+                    "home": 2,
+                    "away": 4
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 878032,
+                "referee": "Javier Iglesias",
+                "timezone": "europe/london",
+                "date": "2022-10-18T20:00:00+01:00",
+                "timestamp": 1666119600,
+                "periods": {
+                    "first": 1666119600,
+                    "second": 1666123200
+                },
+                "venue": {
+                    "id": 19217,
+                    "name": "Est\u00e1dio C\u00edvitas Metropolitano",
+                    "city": "Madrid"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 140,
+                "name": "La Liga",
+                "country": "Spain",
+                "logo": "https://media-1.api-sports.io/football/leagues/140.png",
+                "flag": "https://media-2.api-sports.io/flags/es.svg",
+                "season": 2022,
+                "round": "Regular Season - 10"
+            },
+            "teams": {
+                "home": {
+                    "id": 530,
+                    "name": "Atletico Madrid",
+                    "logo": "https://media-1.api-sports.io/football/teams/530.png",
+                    "winner": null
+                },
+                "away": {
+                    "id": 728,
+                    "name": "Rayo Vallecano",
+                    "logo": "https://media-2.api-sports.io/football/teams/728.png",
+                    "winner": null
+                }
+            },
+            "goals": {
+                "home": 1,
+                "away": 1
+            },
+            "score": {
+                "halftime": {
+                    "home": 1,
+                    "away": 0
+                },
+                "fulltime": {
+                    "home": 1,
+                    "away": 1
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 878035,
+                "referee": "C\u00e9sar Soto",
+                "timezone": "europe/london",
+                "date": "2022-10-18T18:00:00+01:00",
+                "timestamp": 1666112400,
+                "periods": {
+                    "first": 1666112400,
+                    "second": 1666116000
+                },
+                "venue": {
+                    "id": 1494,
+                    "name": "Estadio Ram\u00f3n S\u00e1nchez Pizju\u00e1n",
+                    "city": "Sevilla"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 140,
+                "name": "La Liga",
+                "country": "Spain",
+                "logo": "https://media-3.api-sports.io/football/leagues/140.png",
+                "flag": "https://media-1.api-sports.io/flags/es.svg",
+                "season": 2022,
+                "round": "Regular Season - 10"
+            },
+            "teams": {
+                "home": {
+                    "id": 536,
+                    "name": "Sevilla",
+                    "logo": "https://media-3.api-sports.io/football/teams/536.png",
+                    "winner": null
+                },
+                "away": {
+                    "id": 532,
+                    "name": "Valencia",
+                    "logo": "https://media-2.api-sports.io/football/teams/532.png",
+                    "winner": null
+                }
+            },
+            "goals": {
+                "home": 1,
+                "away": 1
+            },
+            "score": {
+                "halftime": {
+                    "home": 0,
+                    "away": 1
+                },
+                "fulltime": {
+                    "home": 1,
+                    "away": 1
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 878037,
+                "referee": "Jos\u00e9 Munuera",
+                "timezone": "europe/london",
+                "date": "2022-10-18T19:00:00+01:00",
+                "timestamp": 1666116000,
+                "periods": {
+                    "first": 1666116000,
+                    "second": 1666119600
+                },
+                "venue": {
+                    "id": 1476,
+                    "name": "Coliseum Alfonso P\u00e9rez",
+                    "city": "Getafe"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 140,
+                "name": "La Liga",
+                "country": "Spain",
+                "logo": "https://media-2.api-sports.io/football/leagues/140.png",
+                "flag": "https://media-2.api-sports.io/flags/es.svg",
+                "season": 2022,
+                "round": "Regular Season - 10"
+            },
+            "teams": {
+                "home": {
+                    "id": 546,
+                    "name": "Getafe",
+                    "logo": "https://media-1.api-sports.io/football/teams/546.png",
+                    "winner": null
+                },
+                "away": {
+                    "id": 531,
+                    "name": "Athletic Club",
+                    "logo": "https://media-1.api-sports.io/football/teams/531.png",
+                    "winner": null
+                }
+            },
+            "goals": {
+                "home": 2,
+                "away": 2
+            },
+            "score": {
+                "halftime": {
+                    "home": 1,
+                    "away": 1
+                },
+                "fulltime": {
+                    "home": 2,
+                    "away": 2
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 874837,
+                "referee": "A. Denil",
+                "timezone": "europe/london",
+                "date": "2022-10-18T19:45:00+01:00",
+                "timestamp": 1666118700,
+                "periods": {
+                    "first": 1666118700,
+                    "second": 1666122300
+                },
+                "venue": {
+                    "id": 12455,
+                    "name": "Cegeka Arena",
+                    "city": "Genk"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 144,
+                "name": "Jupiler Pro League",
+                "country": "Belgium",
+                "logo": "https://media-2.api-sports.io/football/leagues/144.png",
+                "flag": "https://media-2.api-sports.io/flags/be.svg",
+                "season": 2022,
+                "round": "Regular Season - 13"
+            },
+            "teams": {
+                "home": {
+                    "id": 742,
+                    "name": "Genk",
+                    "logo": "https://media-2.api-sports.io/football/teams/742.png",
+                    "winner": true
+                },
+                "away": {
+                    "id": 261,
+                    "name": "KVC Westerlo",
+                    "logo": "https://media-3.api-sports.io/football/teams/261.png",
+                    "winner": false
+                }
+            },
+            "goals": {
+                "home": 6,
+                "away": 1
+            },
+            "score": {
+                "halftime": {
+                    "home": 5,
+                    "away": 1
+                },
+                "fulltime": {
+                    "home": 6,
+                    "away": 1
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 874839,
+                "referee": "N. Verboomen",
+                "timezone": "europe/london",
+                "date": "2022-10-18T19:45:00+01:00",
+                "timestamp": 1666118700,
+                "periods": {
+                    "first": 1666118700,
+                    "second": 1666122300
+                },
+                "venue": {
+                    "id": 4600,
+                    "name": "Stade du Pairay",
+                    "city": "Seraing"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 144,
+                "name": "Jupiler Pro League",
+                "country": "Belgium",
+                "logo": "https://media-2.api-sports.io/football/leagues/144.png",
+                "flag": "https://media-3.api-sports.io/flags/be.svg",
+                "season": 2022,
+                "round": "Regular Season - 13"
+            },
+            "teams": {
+                "home": {
+                    "id": 10244,
+                    "name": "Seraing United",
+                    "logo": "https://media-2.api-sports.io/football/teams/10244.png",
+                    "winner": false
+                },
+                "away": {
+                    "id": 741,
+                    "name": "Cercle Brugge",
+                    "logo": "https://media-2.api-sports.io/football/teams/741.png",
+                    "winner": true
+                }
+            },
+            "goals": {
+                "home": 0,
+                "away": 1
+            },
+            "score": {
+                "halftime": {
+                    "home": 0,
+                    "away": 1
+                },
+                "fulltime": {
+                    "home": 0,
+                    "away": 1
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 874843,
+                "referee": "B. Staessens",
+                "timezone": "europe/london",
+                "date": "2022-10-18T17:30:00+01:00",
+                "timestamp": 1666110600,
+                "periods": {
+                    "first": 1666110600,
+                    "second": 1666114200
+                },
+                "venue": {
+                    "id": 177,
+                    "name": "Stade du Pays de Charleroi",
+                    "city": "Charleroi"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 144,
+                "name": "Jupiler Pro League",
+                "country": "Belgium",
+                "logo": "https://media-1.api-sports.io/football/leagues/144.png",
+                "flag": "https://media-3.api-sports.io/flags/be.svg",
+                "season": 2022,
+                "round": "Regular Season - 13"
+            },
+            "teams": {
+                "home": {
+                    "id": 736,
+                    "name": "Charleroi",
+                    "logo": "https://media-2.api-sports.io/football/teams/736.png",
+                    "winner": null
+                },
+                "away": {
+                    "id": 734,
+                    "name": "Kortrijk",
+                    "logo": "https://media-2.api-sports.io/football/teams/734.png",
+                    "winner": null
+                }
+            },
+            "goals": {
+                "home": 2,
+                "away": 2
+            },
+            "score": {
+                "halftime": {
+                    "home": 2,
+                    "away": 0
+                },
+                "fulltime": {
+                    "home": 2,
+                    "away": 2
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 874844,
+                "referee": "B. Van Driessche",
+                "timezone": "europe/london",
+                "date": "2022-10-18T17:30:00+01:00",
+                "timestamp": 1666110600,
+                "periods": {
+                    "first": 1666110600,
+                    "second": 1666114200
+                },
+                "venue": {
+                    "id": 178,
+                    "name": "Stadion am Kehrweg",
+                    "city": "Eupen"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 144,
+                "name": "Jupiler Pro League",
+                "country": "Belgium",
+                "logo": "https://media-2.api-sports.io/football/leagues/144.png",
+                "flag": "https://media-3.api-sports.io/flags/be.svg",
+                "season": 2022,
+                "round": "Regular Season - 13"
+            },
+            "teams": {
+                "home": {
+                    "id": 739,
+                    "name": "AS Eupen",
+                    "logo": "https://media-2.api-sports.io/football/teams/739.png",
+                    "winner": true
+                },
+                "away": {
+                    "id": 260,
+                    "name": "OH Leuven",
+                    "logo": "https://media-3.api-sports.io/football/teams/260.png",
+                    "winner": false
+                }
+            },
+            "goals": {
+                "home": 4,
+                "away": 2
+            },
+            "score": {
+                "halftime": {
+                    "home": 2,
+                    "away": 2
+                },
+                "fulltime": {
+                    "home": 4,
+                    "away": 2
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 873354,
+                "referee": "A. Newlands",
+                "timezone": "europe/london",
+                "date": "2022-10-18T19:45:00+01:00",
+                "timestamp": 1666118700,
+                "periods": {
+                    "first": 1666118700,
+                    "second": 1666122300
+                },
+                "venue": {
+                    "id": 1395,
+                    "name": "Tulloch Caledonian Stadium",
+                    "city": "Inverness"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 180,
+                "name": "Championship",
+                "country": "Scotland",
+                "logo": "https://media-2.api-sports.io/football/leagues/180.png",
+                "flag": "https://media-3.api-sports.io/flags/gb.svg",
+                "season": 2022,
+                "round": "Regular Season - 7"
+            },
+            "teams": {
+                "home": {
+                    "id": 903,
+                    "name": "Inverness CT",
+                    "logo": "https://media-2.api-sports.io/football/teams/903.png",
+                    "winner": false
+                },
+                "away": {
+                    "id": 248,
+                    "name": "Hamilton Academical",
+                    "logo": "https://media-2.api-sports.io/football/teams/248.png",
+                    "winner": true
+                }
+            },
+            "goals": {
+                "home": 0,
+                "away": 1
+            },
+            "score": {
+                "halftime": {
+                    "home": 0,
+                    "away": 1
+                },
+                "fulltime": {
+                    "home": 0,
+                    "away": 1
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 872589,
+                "referee": "A. Dudic",
+                "timezone": "europe/london",
+                "date": "2022-10-18T19:30:00+01:00",
+                "timestamp": 1666117800,
+                "periods": {
+                    "first": 1666117800,
+                    "second": 1666121400
+                },
+                "venue": {
+                    "id": 1547,
+                    "name": "Stadion Sch\u00fctzenwiese",
+                    "city": "Winterthur"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 207,
+                "name": "Super League",
+                "country": "Switzerland",
+                "logo": "https://media-2.api-sports.io/football/leagues/207.png",
+                "flag": "https://media-2.api-sports.io/flags/ch.svg",
+                "season": 2022,
+                "round": "Regular Season - 12"
+            },
+            "teams": {
+                "home": {
+                    "id": 2180,
+                    "name": "FC Winterthur",
+                    "logo": "https://media-1.api-sports.io/football/teams/2180.png",
+                    "winner": true
+                },
+                "away": {
+                    "id": 630,
+                    "name": "FC Sion",
+                    "logo": "https://media-3.api-sports.io/football/teams/630.png",
+                    "winner": false
+                }
+            },
+            "goals": {
+                "home": 1,
+                "away": 0
+            },
+            "score": {
+                "halftime": {
+                    "home": 1,
+                    "away": 0
+                },
+                "fulltime": {
+                    "home": 1,
+                    "away": 0
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 823082,
+                "referee": "N. Gallo",
+                "timezone": "europe/london",
+                "date": "2022-10-18T01:40:00+01:00",
+                "timestamp": 1666053600,
+                "periods": {
+                    "first": 1666053600,
+                    "second": 1666057200
+                },
+                "venue": {
+                    "id": 367,
+                    "name": "Estadio Daniel Villa Zapata",
+                    "city": "Barrancabermeja"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 239,
+                "name": "Primera A",
+                "country": "Colombia",
+                "logo": "https://media-2.api-sports.io/football/leagues/239.png",
+                "flag": "https://media-2.api-sports.io/flags/co.svg",
+                "season": 2022,
+                "round": "Clausura - 18"
+            },
+            "teams": {
+                "home": {
+                    "id": 1141,
+                    "name": "Alianza Petrolera",
+                    "logo": "https://media-1.api-sports.io/football/teams/1141.png",
+                    "winner": false
+                },
+                "away": {
+                    "id": 1138,
+                    "name": "America de Cali",
+                    "logo": "https://media-3.api-sports.io/football/teams/1138.png",
+                    "winner": true
+                }
+            },
+            "goals": {
+                "home": 0,
+                "away": 2
+            },
+            "score": {
+                "halftime": {
+                    "home": 0,
+                    "away": 0
+                },
+                "fulltime": {
+                    "home": 0,
+                    "away": 2
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 827887,
+                "referee": "J. S\u00e1nchez",
+                "timezone": "europe/london",
+                "date": "2022-10-18T01:00:00+01:00",
+                "timestamp": 1666051200,
+                "periods": {
+                    "first": 1666051200,
+                    "second": 1666054800
+                },
+                "venue": {
+                    "id": 19550,
+                    "name": "Estadio Los Chirijos",
+                    "city": "Milagro"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 242,
+                "name": "Liga Pro",
+                "country": "Ecuador",
+                "logo": "https://media-3.api-sports.io/football/leagues/242.png",
+                "flag": "https://media-3.api-sports.io/flags/ec.svg",
+                "season": 2022,
+                "round": "2nd Round - 14"
+            },
+            "teams": {
+                "home": {
+                    "id": 10111,
+                    "name": "9 de Octubre",
+                    "logo": "https://media-1.api-sports.io/football/teams/10111.png",
+                    "winner": false
+                },
+                "away": {
+                    "id": 16476,
+                    "name": "Cumbay\u00e1",
+                    "logo": "https://media-2.api-sports.io/football/teams/16476.png",
+                    "winner": true
+                }
+            },
+            "goals": {
+                "home": 0,
+                "away": 1
+            },
+            "score": {
+                "halftime": {
+                    "home": 0,
+                    "away": 0
+                },
+                "fulltime": {
+                    "home": 0,
+                    "away": 1
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 827888,
+                "referee": "A. Arag\u00f3n",
+                "timezone": "europe/london",
+                "date": "2022-10-18T01:00:00+01:00",
+                "timestamp": 1666051200,
+                "periods": {
+                    "first": 1666051200,
+                    "second": 1666054800
+                },
+                "venue": {
+                    "id": 474,
+                    "name": "Estadio Bellavista de Ambato",
+                    "city": "Ambato"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 242,
+                "name": "Liga Pro",
+                "country": "Ecuador",
+                "logo": "https://media-1.api-sports.io/football/leagues/242.png",
+                "flag": "https://media-3.api-sports.io/flags/ec.svg",
+                "season": 2022,
+                "round": "2nd Round - 14"
+            },
+            "teams": {
+                "home": {
+                    "id": 1151,
+                    "name": "Tecnico Universitario",
+                    "logo": "https://media-3.api-sports.io/football/teams/1151.png",
+                    "winner": true
+                },
+                "away": {
+                    "id": 1155,
+                    "name": "Macara",
+                    "logo": "https://media-3.api-sports.io/football/teams/1155.png",
+                    "winner": false
+                }
+            },
+            "goals": {
+                "home": 3,
+                "away": 1
+            },
+            "score": {
+                "halftime": {
+                    "home": 1,
+                    "away": 1
+                },
+                "fulltime": {
+                    "home": 3,
+                    "away": 1
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 965516,
+                "referee": "T. Unkel",
+                "timezone": "europe/london",
+                "date": "2022-10-18T02:30:00+01:00",
+                "timestamp": 1666056600,
+                "periods": {
+                    "first": 1666056600,
+                    "second": 1666060200
+                },
+                "venue": {
+                    "id": 1612,
+                    "name": "Toyota Stadium",
+                    "city": "Frisco, Texas"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "PEN",
+                    "elapsed": 120
+                }
+            },
+            "league": {
+                "id": 253,
+                "name": "Major League Soccer",
+                "country": "USA",
+                "logo": "https://media-1.api-sports.io/football/leagues/253.png",
+                "flag": "https://media-3.api-sports.io/flags/us.svg",
+                "season": 2022,
+                "round": "MLS Cup - Round 1"
+            },
+            "teams": {
+                "home": {
+                    "id": 1597,
+                    "name": "FC Dallas",
+                    "logo": "https://media-3.api-sports.io/football/teams/1597.png",
+                    "winner": true
+                },
+                "away": {
+                    "id": 1612,
+                    "name": "Minnesota United FC",
+                    "logo": "https://media-2.api-sports.io/football/teams/1612.png",
+                    "winner": false
+                }
+            },
+            "goals": {
+                "home": 1,
+                "away": 1
+            },
+            "score": {
+                "halftime": {
+                    "home": 0,
+                    "away": 0
+                },
+                "fulltime": {
+                    "home": 1,
+                    "away": 1
+                },
+                "extratime": {
+                    "home": 0,
+                    "away": 0
+                },
+                "penalty": {
+                    "home": 5,
+                    "away": 4
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 962454,
+                "referee": "G. Quenta",
+                "timezone": "europe/london",
+                "date": "2022-10-18T01:30:00+01:00",
+                "timestamp": 1666053000,
+                "periods": {
+                    "first": 1666053000,
+                    "second": 1666056600
+                },
+                "venue": {
+                    "id": 11130,
+                    "name": "Estadio IV Centenario",
+                    "city": "Tarija"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 344,
+                "name": "Primera Divisi\u00f3n",
+                "country": "Bolivia",
+                "logo": "https://media-3.api-sports.io/football/leagues/344.png",
+                "flag": "https://media-1.api-sports.io/flags/bo.svg",
+                "season": 2022,
+                "round": "Clausura - 23"
+            },
+            "teams": {
+                "home": {
+                    "id": 15708,
+                    "name": "Real Tomayapo",
+                    "logo": "https://media-1.api-sports.io/football/teams/15708.png",
+                    "winner": null
+                },
+                "away": {
+                    "id": 3701,
+                    "name": "Blooming",
+                    "logo": "https://media-1.api-sports.io/football/teams/3701.png",
+                    "winner": null
+                }
+            },
+            "goals": {
+                "home": 1,
+                "away": 1
+            },
+            "score": {
+                "halftime": {
+                    "home": 0,
+                    "away": 1
+                },
+                "fulltime": {
+                    "home": 1,
+                    "away": 1
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 883430,
+                "referee": "R. Abduvaxidov",
+                "timezone": "europe/london",
+                "date": "2022-10-18T14:30:00+01:00",
+                "timestamp": 1666099800,
+                "periods": {
+                    "first": 1666099800,
+                    "second": 1666103400
+                },
+                "venue": {
+                    "id": 3219,
+                    "name": "Paxtakor Markaziy Stadion",
+                    "city": "Tashkent"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 369,
+                "name": "Super League",
+                "country": "Uzbekistan",
+                "logo": "https://media-1.api-sports.io/football/leagues/369.png",
+                "flag": "https://media-3.api-sports.io/flags/uz.svg",
+                "season": 2022,
+                "round": "Regular Season - 22"
+            },
+            "teams": {
+                "home": {
+                    "id": 4220,
+                    "name": "Pakhtakor",
+                    "logo": "https://media-3.api-sports.io/football/teams/4220.png",
+                    "winner": true
+                },
+                "away": {
+                    "id": 4212,
+                    "name": "Kokand-1912",
+                    "logo": "https://media-2.api-sports.io/football/teams/4212.png",
+                    "winner": false
+                }
+            },
+            "goals": {
+                "home": 5,
+                "away": 2
+            },
+            "score": {
+                "halftime": {
+                    "home": 2,
+                    "away": 2
+                },
+                "fulltime": {
+                    "home": 5,
+                    "away": 2
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 883431,
+                "referee": "R. Karimov",
+                "timezone": "europe/london",
+                "date": "2022-10-18T14:30:00+01:00",
+                "timestamp": 1666099800,
+                "periods": {
+                    "first": 1666099800,
+                    "second": 1666103400
+                },
+                "venue": {
+                    "id": 3222,
+                    "name": "So'g'diyona Sport Majmuasi",
+                    "city": "Jizzax"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 369,
+                "name": "Super League",
+                "country": "Uzbekistan",
+                "logo": "https://media-2.api-sports.io/football/leagues/369.png",
+                "flag": "https://media-3.api-sports.io/flags/uz.svg",
+                "season": 2022,
+                "round": "Regular Season - 22"
+            },
+            "teams": {
+                "home": {
+                    "id": 4223,
+                    "name": "Sogdiana",
+                    "logo": "https://media-3.api-sports.io/football/teams/4223.png",
+                    "winner": false
+                },
+                "away": {
+                    "id": 4225,
+                    "name": "Surkhon",
+                    "logo": "https://media-1.api-sports.io/football/teams/4225.png",
+                    "winner": true
+                }
+            },
+            "goals": {
+                "home": 0,
+                "away": 1
+            },
+            "score": {
+                "halftime": {
+                    "home": 0,
+                    "away": 1
+                },
+                "fulltime": {
+                    "home": 0,
+                    "away": 1
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 883435,
+                "referee": "T. Tukhtasinov",
+                "timezone": "europe/london",
+                "date": "2022-10-18T14:30:00+01:00",
+                "timestamp": 1666099800,
+                "periods": {
+                    "first": 1666099800,
+                    "second": 1666103400
+                },
+                "venue": {
+                    "id": 7792,
+                    "name": "Stadion Istiqlol",
+                    "city": "Fergana"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 369,
+                "name": "Super League",
+                "country": "Uzbekistan",
+                "logo": "https://media-1.api-sports.io/football/leagues/369.png",
+                "flag": "https://media-2.api-sports.io/flags/uz.svg",
+                "season": 2022,
+                "round": "Regular Season - 22"
+            },
+            "teams": {
+                "home": {
+                    "id": 4217,
+                    "name": "Neftchi",
+                    "logo": "https://media-2.api-sports.io/football/teams/4217.png",
+                    "winner": false
+                },
+                "away": {
+                    "id": 4216,
+                    "name": "Navbahor",
+                    "logo": "https://media-3.api-sports.io/football/teams/4216.png",
+                    "winner": true
+                }
+            },
+            "goals": {
+                "home": 1,
+                "away": 2
+            },
+            "score": {
+                "halftime": {
+                    "home": 1,
+                    "away": 1
+                },
+                "fulltime": {
+                    "home": 1,
+                    "away": 2
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 877388,
+                "referee": "D. Hassan",
+                "timezone": "europe/london",
+                "date": "2022-10-18T19:45:00+01:00",
+                "timestamp": 1666118700,
+                "periods": {
+                    "first": 1666118700,
+                    "second": 1666122300
+                },
+                "venue": {
+                    "id": 1971,
+                    "name": "Windsor Park",
+                    "city": "Belfast"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 408,
+                "name": "Premiership",
+                "country": "Northern-Ireland",
+                "logo": "https://media-1.api-sports.io/football/leagues/408.png",
+                "flag": "https://media-3.api-sports.io/flags/gb.svg",
+                "season": 2022,
+                "round": "Regular Season - 6"
+            },
+            "teams": {
+                "home": {
+                    "id": 583,
+                    "name": "Linfield",
+                    "logo": "https://media-1.api-sports.io/football/teams/583.png",
+                    "winner": true
+                },
+                "away": {
+                    "id": 2275,
+                    "name": "Glenavon FC",
+                    "logo": "https://media-2.api-sports.io/football/teams/2275.png",
+                    "winner": false
+                }
+            },
+            "goals": {
+                "home": 3,
+                "away": 2
+            },
+            "score": {
+                "halftime": {
+                    "home": 1,
+                    "away": 1
+                },
+                "fulltime": {
+                    "home": 3,
+                    "away": 2
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        }
+    ]
+}

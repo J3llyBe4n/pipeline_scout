@@ -1,0 +1,1568 @@
+{
+    "data": [
+        {
+            "fixture": {
+                "id": 868128,
+                "referee": "S. Attwell",
+                "timezone": "europe/london",
+                "date": "2023-01-02T17:30:00+00:00",
+                "timestamp": 1672680600,
+                "periods": {
+                    "first": 1672680600,
+                    "second": 1672684200
+                },
+                "venue": {
+                    "id": 10503,
+                    "name": "Gtech Community Stadium",
+                    "city": "Brentford, Middlesex"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 39,
+                "name": "Premier League",
+                "country": "England",
+                "logo": "https://media-1.api-sports.io/football/leagues/39.png",
+                "flag": "https://media-1.api-sports.io/flags/gb.svg",
+                "season": 2022,
+                "round": "Regular Season - 19"
+            },
+            "teams": {
+                "home": {
+                    "id": 55,
+                    "name": "Brentford",
+                    "logo": "https://media-3.api-sports.io/football/teams/55.png",
+                    "winner": true
+                },
+                "away": {
+                    "id": 40,
+                    "name": "Liverpool",
+                    "logo": "https://media-2.api-sports.io/football/teams/40.png",
+                    "winner": false
+                }
+            },
+            "goals": {
+                "home": 3,
+                "away": 1
+            },
+            "score": {
+                "halftime": {
+                    "home": 2,
+                    "away": 0
+                },
+                "fulltime": {
+                    "home": 3,
+                    "away": 1
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 881019,
+                "referee": "Dean Whitestone, England",
+                "timezone": "europe/london",
+                "date": "2023-01-02T15:00:00+00:00",
+                "timestamp": 1672671600,
+                "periods": {
+                    "first": 1672671600,
+                    "second": 1672675200
+                },
+                "venue": {
+                    "id": 12596,
+                    "name": "St Andrew's Stadium",
+                    "city": "Birmingham"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 40,
+                "name": "Championship",
+                "country": "England",
+                "logo": "https://media-1.api-sports.io/football/leagues/40.png",
+                "flag": "https://media-2.api-sports.io/flags/gb.svg",
+                "season": 2022,
+                "round": "Regular Season - 26"
+            },
+            "teams": {
+                "home": {
+                    "id": 54,
+                    "name": "Birmingham",
+                    "logo": "https://media-1.api-sports.io/football/teams/54.png",
+                    "winner": false
+                },
+                "away": {
+                    "id": 70,
+                    "name": "Middlesbrough",
+                    "logo": "https://media-3.api-sports.io/football/teams/70.png",
+                    "winner": true
+                }
+            },
+            "goals": {
+                "home": 1,
+                "away": 3
+            },
+            "score": {
+                "halftime": {
+                    "home": 0,
+                    "away": 0
+                },
+                "fulltime": {
+                    "home": 1,
+                    "away": 3
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 881025,
+                "referee": "James Linington, England",
+                "timezone": "europe/london",
+                "date": "2023-01-02T15:00:00+00:00",
+                "timestamp": 1672671600,
+                "periods": {
+                    "first": 1672671600,
+                    "second": 1672675200
+                },
+                "venue": {
+                    "id": 565,
+                    "name": "Carrow Road",
+                    "city": "Norwich, Norfolk"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 40,
+                "name": "Championship",
+                "country": "England",
+                "logo": "https://media-1.api-sports.io/football/leagues/40.png",
+                "flag": "https://media-2.api-sports.io/flags/gb.svg",
+                "season": 2022,
+                "round": "Regular Season - 26"
+            },
+            "teams": {
+                "home": {
+                    "id": 71,
+                    "name": "Norwich",
+                    "logo": "https://media-3.api-sports.io/football/teams/71.png",
+                    "winner": false
+                },
+                "away": {
+                    "id": 38,
+                    "name": "Watford",
+                    "logo": "https://media-1.api-sports.io/football/teams/38.png",
+                    "winner": true
+                }
+            },
+            "goals": {
+                "home": 0,
+                "away": 1
+            },
+            "score": {
+                "halftime": {
+                    "home": 0,
+                    "away": 0
+                },
+                "fulltime": {
+                    "home": 0,
+                    "away": 1
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 881026,
+                "referee": "Josh Smith, England",
+                "timezone": "europe/london",
+                "date": "2023-01-02T20:00:00+00:00",
+                "timestamp": 1672689600,
+                "periods": {
+                    "first": 1672689600,
+                    "second": 1672693200
+                },
+                "venue": {
+                    "id": 18619,
+                    "name": "Loftus Road",
+                    "city": "London"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 40,
+                "name": "Championship",
+                "country": "England",
+                "logo": "https://media-3.api-sports.io/football/leagues/40.png",
+                "flag": "https://media-1.api-sports.io/flags/gb.svg",
+                "season": 2022,
+                "round": "Regular Season - 26"
+            },
+            "teams": {
+                "home": {
+                    "id": 72,
+                    "name": "QPR",
+                    "logo": "https://media-3.api-sports.io/football/teams/72.png",
+                    "winner": null
+                },
+                "away": {
+                    "id": 62,
+                    "name": "Sheffield Utd",
+                    "logo": "https://media-1.api-sports.io/football/teams/62.png",
+                    "winner": null
+                }
+            },
+            "goals": {
+                "home": 1,
+                "away": 1
+            },
+            "score": {
+                "halftime": {
+                    "home": 1,
+                    "away": 0
+                },
+                "fulltime": {
+                    "home": 1,
+                    "away": 1
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 881027,
+                "referee": "Leigh Doughty, England",
+                "timezone": "europe/london",
+                "date": "2023-01-02T15:00:00+00:00",
+                "timestamp": 1672671600,
+                "periods": {
+                    "first": 1672671600,
+                    "second": 1672675200
+                },
+                "venue": {
+                    "id": 588,
+                    "name": "bet365 Stadium",
+                    "city": "Stoke-on-Trent, Staffordshire"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 40,
+                "name": "Championship",
+                "country": "England",
+                "logo": "https://media-2.api-sports.io/football/leagues/40.png",
+                "flag": "https://media-3.api-sports.io/flags/gb.svg",
+                "season": 2022,
+                "round": "Regular Season - 26"
+            },
+            "teams": {
+                "home": {
+                    "id": 75,
+                    "name": "Stoke City",
+                    "logo": "https://media-1.api-sports.io/football/teams/75.png",
+                    "winner": false
+                },
+                "away": {
+                    "id": 59,
+                    "name": "Preston",
+                    "logo": "https://media-3.api-sports.io/football/teams/59.png",
+                    "winner": true
+                }
+            },
+            "goals": {
+                "home": 0,
+                "away": 1
+            },
+            "score": {
+                "halftime": {
+                    "home": 0,
+                    "away": 0
+                },
+                "fulltime": {
+                    "home": 0,
+                    "away": 1
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 881028,
+                "referee": "Oliver Langford, England",
+                "timezone": "europe/london",
+                "date": "2023-01-02T15:00:00+00:00",
+                "timestamp": 1672671600,
+                "periods": {
+                    "first": 1672671600,
+                    "second": 1672675200
+                },
+                "venue": {
+                    "id": 12273,
+                    "name": "Swansea.com Stadium",
+                    "city": "Swansea"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 40,
+                "name": "Championship",
+                "country": "England",
+                "logo": "https://media-1.api-sports.io/football/leagues/40.png",
+                "flag": "https://media-1.api-sports.io/flags/gb.svg",
+                "season": 2022,
+                "round": "Regular Season - 26"
+            },
+            "teams": {
+                "home": {
+                    "id": 76,
+                    "name": "Swansea",
+                    "logo": "https://media-3.api-sports.io/football/teams/76.png",
+                    "winner": false
+                },
+                "away": {
+                    "id": 44,
+                    "name": "Burnley",
+                    "logo": "https://media-3.api-sports.io/football/teams/44.png",
+                    "winner": true
+                }
+            },
+            "goals": {
+                "home": 1,
+                "away": 2
+            },
+            "score": {
+                "halftime": {
+                    "home": 1,
+                    "away": 2
+                },
+                "fulltime": {
+                    "home": 1,
+                    "away": 2
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 881029,
+                "referee": "Tom Nield, England",
+                "timezone": "europe/london",
+                "date": "2023-01-02T15:00:00+00:00",
+                "timestamp": 1672671600,
+                "periods": {
+                    "first": 1672671600,
+                    "second": 1672675200
+                },
+                "venue": {
+                    "id": 597,
+                    "name": "The Hawthorns",
+                    "city": "West Bromwich"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 40,
+                "name": "Championship",
+                "country": "England",
+                "logo": "https://media-3.api-sports.io/football/leagues/40.png",
+                "flag": "https://media-1.api-sports.io/flags/gb.svg",
+                "season": 2022,
+                "round": "Regular Season - 26"
+            },
+            "teams": {
+                "home": {
+                    "id": 60,
+                    "name": "West Brom",
+                    "logo": "https://media-2.api-sports.io/football/teams/60.png",
+                    "winner": true
+                },
+                "away": {
+                    "id": 53,
+                    "name": "Reading",
+                    "logo": "https://media-3.api-sports.io/football/teams/53.png",
+                    "winner": false
+                }
+            },
+            "goals": {
+                "home": 1,
+                "away": 0
+            },
+            "score": {
+                "halftime": {
+                    "home": 0,
+                    "away": 0
+                },
+                "fulltime": {
+                    "home": 1,
+                    "away": 0
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 881030,
+                "referee": "Geoff Eltringham, England",
+                "timezone": "europe/london",
+                "date": "2023-01-02T15:00:00+00:00",
+                "timestamp": 1672671600,
+                "periods": {
+                    "first": 1672671600,
+                    "second": 1672675200
+                },
+                "venue": {
+                    "id": 599,
+                    "name": "DW Stadium",
+                    "city": "Wigan"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 40,
+                "name": "Championship",
+                "country": "England",
+                "logo": "https://media-3.api-sports.io/football/leagues/40.png",
+                "flag": "https://media-1.api-sports.io/flags/gb.svg",
+                "season": 2022,
+                "round": "Regular Season - 26"
+            },
+            "teams": {
+                "home": {
+                    "id": 61,
+                    "name": "Wigan",
+                    "logo": "https://media-1.api-sports.io/football/teams/61.png",
+                    "winner": false
+                },
+                "away": {
+                    "id": 64,
+                    "name": "Hull City",
+                    "logo": "https://media-1.api-sports.io/football/teams/64.png",
+                    "winner": true
+                }
+            },
+            "goals": {
+                "home": 1,
+                "away": 4
+            },
+            "score": {
+                "halftime": {
+                    "home": 0,
+                    "away": 1
+                },
+                "fulltime": {
+                    "home": 1,
+                    "away": 4
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 871632,
+                "referee": "Eric Wattellier, France",
+                "timezone": "europe/london",
+                "date": "2023-01-02T16:00:00+00:00",
+                "timestamp": 1672675200,
+                "periods": {
+                    "first": 1672675200,
+                    "second": 1672678800
+                },
+                "venue": {
+                    "id": 19207,
+                    "name": "Decathlon Arena \u2013 Stade Pierre-Mauroy",
+                    "city": "Villeneuve d'Ascq"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 61,
+                "name": "Ligue 1",
+                "country": "France",
+                "logo": "https://media-1.api-sports.io/football/leagues/61.png",
+                "flag": "https://media-1.api-sports.io/flags/fr.svg",
+                "season": 2022,
+                "round": "Regular Season - 17"
+            },
+            "teams": {
+                "home": {
+                    "id": 79,
+                    "name": "Lille",
+                    "logo": "https://media-3.api-sports.io/football/teams/79.png",
+                    "winner": null
+                },
+                "away": {
+                    "id": 93,
+                    "name": "Reims",
+                    "logo": "https://media-2.api-sports.io/football/teams/93.png",
+                    "winner": null
+                }
+            },
+            "goals": {
+                "home": 1,
+                "away": 1
+            },
+            "score": {
+                "halftime": {
+                    "home": 1,
+                    "away": 0
+                },
+                "fulltime": {
+                    "home": 1,
+                    "away": 1
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 871635,
+                "referee": "Thomas Leonard, France",
+                "timezone": "europe/london",
+                "date": "2023-01-02T20:00:00+00:00",
+                "timestamp": 1672689600,
+                "periods": {
+                    "first": 1672689600,
+                    "second": 1672693200
+                },
+                "venue": {
+                    "id": 680,
+                    "name": "Roazhon Park",
+                    "city": "Rennes"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 61,
+                "name": "Ligue 1",
+                "country": "France",
+                "logo": "https://media-1.api-sports.io/football/leagues/61.png",
+                "flag": "https://media-3.api-sports.io/flags/fr.svg",
+                "season": 2022,
+                "round": "Regular Season - 17"
+            },
+            "teams": {
+                "home": {
+                    "id": 94,
+                    "name": "Rennes",
+                    "logo": "https://media-1.api-sports.io/football/teams/94.png",
+                    "winner": true
+                },
+                "away": {
+                    "id": 84,
+                    "name": "Nice",
+                    "logo": "https://media-1.api-sports.io/football/teams/84.png",
+                    "winner": false
+                }
+            },
+            "goals": {
+                "home": 2,
+                "away": 1
+            },
+            "score": {
+                "halftime": {
+                    "home": 1,
+                    "away": 1
+                },
+                "fulltime": {
+                    "home": 2,
+                    "away": 1
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 871638,
+                "referee": "Ruddy Buquet, France",
+                "timezone": "europe/london",
+                "date": "2023-01-02T18:00:00+00:00",
+                "timestamp": 1672682400,
+                "periods": {
+                    "first": 1672682400,
+                    "second": 1672686000
+                },
+                "venue": {
+                    "id": 660,
+                    "name": "Stade de la Mosson",
+                    "city": "Montpellier"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 61,
+                "name": "Ligue 1",
+                "country": "France",
+                "logo": "https://media-2.api-sports.io/football/leagues/61.png",
+                "flag": "https://media-3.api-sports.io/flags/fr.svg",
+                "season": 2022,
+                "round": "Regular Season - 17"
+            },
+            "teams": {
+                "home": {
+                    "id": 82,
+                    "name": "Montpellier",
+                    "logo": "https://media-1.api-sports.io/football/teams/82.png",
+                    "winner": false
+                },
+                "away": {
+                    "id": 81,
+                    "name": "Marseille",
+                    "logo": "https://media-2.api-sports.io/football/teams/81.png",
+                    "winner": true
+                }
+            },
+            "goals": {
+                "home": 1,
+                "away": 2
+            },
+            "score": {
+                "halftime": {
+                    "home": 0,
+                    "away": 0
+                },
+                "fulltime": {
+                    "home": 1,
+                    "away": 2
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 871639,
+                "referee": "Benoit Millot, France",
+                "timezone": "europe/london",
+                "date": "2023-01-02T14:00:00+00:00",
+                "timestamp": 1672668000,
+                "periods": {
+                    "first": 1672668000,
+                    "second": 1672671600
+                },
+                "venue": {
+                    "id": 681,
+                    "name": "Stade de la Meinau",
+                    "city": "Strasbourg"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 61,
+                "name": "Ligue 1",
+                "country": "France",
+                "logo": "https://media-3.api-sports.io/football/leagues/61.png",
+                "flag": "https://media-1.api-sports.io/flags/fr.svg",
+                "season": 2022,
+                "round": "Regular Season - 17"
+            },
+            "teams": {
+                "home": {
+                    "id": 95,
+                    "name": "Strasbourg",
+                    "logo": "https://media-3.api-sports.io/football/teams/95.png",
+                    "winner": false
+                },
+                "away": {
+                    "id": 110,
+                    "name": "Estac Troyes",
+                    "logo": "https://media-3.api-sports.io/football/teams/110.png",
+                    "winner": true
+                }
+            },
+            "goals": {
+                "home": 2,
+                "away": 3
+            },
+            "score": {
+                "halftime": {
+                    "home": 1,
+                    "away": 2
+                },
+                "fulltime": {
+                    "home": 2,
+                    "away": 3
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 873416,
+                "referee": "S. Lambie",
+                "timezone": "europe/london",
+                "date": "2023-01-02T15:00:00+00:00",
+                "timestamp": 1672671600,
+                "periods": {
+                    "first": 1672671600,
+                    "second": 1672675200
+                },
+                "venue": {
+                    "id": 1387,
+                    "name": "Kilmac Stadium at Dens Park",
+                    "city": "Dundee"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 180,
+                "name": "Championship",
+                "country": "Scotland",
+                "logo": "https://media-3.api-sports.io/football/leagues/180.png",
+                "flag": "https://media-1.api-sports.io/flags/gb.svg",
+                "season": 2022,
+                "round": "Regular Season - 20"
+            },
+            "teams": {
+                "home": {
+                    "id": 253,
+                    "name": "Dundee",
+                    "logo": "https://media-2.api-sports.io/football/teams/253.png",
+                    "winner": false
+                },
+                "away": {
+                    "id": 4249,
+                    "name": "Arbroath",
+                    "logo": "https://media-1.api-sports.io/football/teams/4249.png",
+                    "winner": true
+                }
+            },
+            "goals": {
+                "home": 2,
+                "away": 4
+            },
+            "score": {
+                "halftime": {
+                    "home": 1,
+                    "away": 2
+                },
+                "fulltime": {
+                    "home": 2,
+                    "away": 4
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 873417,
+                "referee": "L. Wilson",
+                "timezone": "europe/london",
+                "date": "2023-01-02T15:00:00+00:00",
+                "timestamp": 1672671600,
+                "periods": {
+                    "first": 1672671600,
+                    "second": 1672675200
+                },
+                "venue": {
+                    "id": 1392,
+                    "name": "Fountain of Youth Stadium",
+                    "city": "Hamilton"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 180,
+                "name": "Championship",
+                "country": "Scotland",
+                "logo": "https://media-2.api-sports.io/football/leagues/180.png",
+                "flag": "https://media-2.api-sports.io/flags/gb.svg",
+                "season": 2022,
+                "round": "Regular Season - 20"
+            },
+            "teams": {
+                "home": {
+                    "id": 248,
+                    "name": "Hamilton Academical",
+                    "logo": "https://media-1.api-sports.io/football/teams/248.png",
+                    "winner": false
+                },
+                "away": {
+                    "id": 1385,
+                    "name": "Raith Rovers",
+                    "logo": "https://media-3.api-sports.io/football/teams/1385.png",
+                    "winner": true
+                }
+            },
+            "goals": {
+                "home": 0,
+                "away": 1
+            },
+            "score": {
+                "halftime": {
+                    "home": 0,
+                    "away": 1
+                },
+                "fulltime": {
+                    "home": 0,
+                    "away": 1
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 873418,
+                "referee": "C. Napier",
+                "timezone": "europe/london",
+                "date": "2023-01-02T15:00:00+00:00",
+                "timestamp": 1672671600,
+                "periods": {
+                    "first": 1672671600,
+                    "second": 1672675200
+                },
+                "venue": {
+                    "id": 1395,
+                    "name": "Tulloch Caledonian Stadium",
+                    "city": "Inverness"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 180,
+                "name": "Championship",
+                "country": "Scotland",
+                "logo": "https://media-2.api-sports.io/football/leagues/180.png",
+                "flag": "https://media-1.api-sports.io/flags/gb.svg",
+                "season": 2022,
+                "round": "Regular Season - 20"
+            },
+            "teams": {
+                "home": {
+                    "id": 903,
+                    "name": "Inverness CT",
+                    "logo": "https://media-3.api-sports.io/football/teams/903.png",
+                    "winner": true
+                },
+                "away": {
+                    "id": 6763,
+                    "name": "Cove Rangers",
+                    "logo": "https://media-3.api-sports.io/football/teams/6763.png",
+                    "winner": false
+                }
+            },
+            "goals": {
+                "home": 6,
+                "away": 1
+            },
+            "score": {
+                "halftime": {
+                    "home": 3,
+                    "away": 1
+                },
+                "fulltime": {
+                    "home": 6,
+                    "away": 1
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 873420,
+                "referee": "S. Kirkland",
+                "timezone": "europe/london",
+                "date": "2023-01-02T15:00:00+00:00",
+                "timestamp": 1672671600,
+                "periods": {
+                    "first": 1672671600,
+                    "second": 1672675200
+                },
+                "venue": {
+                    "id": 4952,
+                    "name": "Ochilview Park",
+                    "city": "Stenhousemuir"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 180,
+                "name": "Championship",
+                "country": "Scotland",
+                "logo": "https://media-2.api-sports.io/football/leagues/180.png",
+                "flag": "https://media-3.api-sports.io/flags/gb.svg",
+                "season": 2022,
+                "round": "Regular Season - 20"
+            },
+            "teams": {
+                "home": {
+                    "id": 6778,
+                    "name": "Queen's Park",
+                    "logo": "https://media-2.api-sports.io/football/teams/6778.png",
+                    "winner": true
+                },
+                "away": {
+                    "id": 901,
+                    "name": "Partick",
+                    "logo": "https://media-2.api-sports.io/football/teams/901.png",
+                    "winner": false
+                }
+            },
+            "goals": {
+                "home": 2,
+                "away": 0
+            },
+            "score": {
+                "halftime": {
+                    "home": 1,
+                    "away": 0
+                },
+                "fulltime": {
+                    "home": 2,
+                    "away": 0
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 924573,
+                "referee": "Alexander King, Australia",
+                "timezone": "europe/london",
+                "date": "2023-01-02T02:00:00+00:00",
+                "timestamp": 1672624800,
+                "periods": {
+                    "first": 1672624800,
+                    "second": 1672628400
+                },
+                "venue": {
+                    "id": 130,
+                    "name": "Sky Stadium",
+                    "city": "Wellington"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 188,
+                "name": "A-League",
+                "country": "Australia",
+                "logo": "https://media-1.api-sports.io/football/leagues/188.png",
+                "flag": "https://media-1.api-sports.io/flags/au.svg",
+                "season": 2022,
+                "round": "Regular Season - 10"
+            },
+            "teams": {
+                "home": {
+                    "id": 942,
+                    "name": "Wellington Phoenix",
+                    "logo": "https://media-3.api-sports.io/football/teams/942.png",
+                    "winner": false
+                },
+                "away": {
+                    "id": 945,
+                    "name": "Melbourne City",
+                    "logo": "https://media-1.api-sports.io/football/teams/945.png",
+                    "winner": true
+                }
+            },
+            "goals": {
+                "home": 1,
+                "away": 3
+            },
+            "score": {
+                "halftime": {
+                    "home": 1,
+                    "away": 1
+                },
+                "fulltime": {
+                    "home": 1,
+                    "away": 3
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 924574,
+                "referee": "Jonathan Barreiro, Australia",
+                "timezone": "europe/london",
+                "date": "2023-01-02T08:45:00+00:00",
+                "timestamp": 1672649100,
+                "periods": {
+                    "first": 1672649100,
+                    "second": 1672652700
+                },
+                "venue": {
+                    "id": 123,
+                    "name": "Coopers Stadium",
+                    "city": "Adelaide"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 188,
+                "name": "A-League",
+                "country": "Australia",
+                "logo": "https://media-2.api-sports.io/football/leagues/188.png",
+                "flag": "https://media-2.api-sports.io/flags/au.svg",
+                "season": 2022,
+                "round": "Regular Season - 10"
+            },
+            "teams": {
+                "home": {
+                    "id": 948,
+                    "name": "Adelaide United",
+                    "logo": "https://media-3.api-sports.io/football/teams/948.png",
+                    "winner": true
+                },
+                "away": {
+                    "id": 940,
+                    "name": "Perth Glory",
+                    "logo": "https://media-1.api-sports.io/football/teams/940.png",
+                    "winner": false
+                }
+            },
+            "goals": {
+                "home": 2,
+                "away": 0
+            },
+            "score": {
+                "halftime": {
+                    "home": 1,
+                    "away": 0
+                },
+                "fulltime": {
+                    "home": 2,
+                    "away": 0
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 877480,
+                "referee": "R. Dunlop",
+                "timezone": "europe/london",
+                "date": "2023-01-02T15:00:00+00:00",
+                "timestamp": 1672671600,
+                "periods": {
+                    "first": 1672671600,
+                    "second": 1672675200
+                },
+                "venue": {
+                    "id": 2933,
+                    "name": "The Showgrounds",
+                    "city": "Ballymena"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 408,
+                "name": "Premiership",
+                "country": "Northern-Ireland",
+                "logo": "https://media-1.api-sports.io/football/leagues/408.png",
+                "flag": "https://media-1.api-sports.io/flags/gb.svg",
+                "season": 2022,
+                "round": "Regular Season - 22"
+            },
+            "teams": {
+                "home": {
+                    "id": 668,
+                    "name": "Ballymena United",
+                    "logo": "https://media-1.api-sports.io/football/teams/668.png",
+                    "winner": true
+                },
+                "away": {
+                    "id": 5352,
+                    "name": "Glentoran",
+                    "logo": "https://media-3.api-sports.io/football/teams/5352.png",
+                    "winner": false
+                }
+            },
+            "goals": {
+                "home": 2,
+                "away": 0
+            },
+            "score": {
+                "halftime": {
+                    "home": 1,
+                    "away": 0
+                },
+                "fulltime": {
+                    "home": 2,
+                    "away": 0
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 877481,
+                "referee": "T. Marshall",
+                "timezone": "europe/london",
+                "date": "2023-01-02T15:00:00+00:00",
+                "timestamp": 1672671600,
+                "periods": {
+                    "first": 1672671600,
+                    "second": 1672675200
+                },
+                "venue": {
+                    "id": 12606,
+                    "name": "Loughview Leisure Arena",
+                    "city": "Carrickfergus"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 408,
+                "name": "Premiership",
+                "country": "Northern-Ireland",
+                "logo": "https://media-3.api-sports.io/football/leagues/408.png",
+                "flag": "https://media-3.api-sports.io/flags/gb.svg",
+                "season": 2022,
+                "round": "Regular Season - 22"
+            },
+            "teams": {
+                "home": {
+                    "id": 5350,
+                    "name": "Carrick Rangers",
+                    "logo": "https://media-2.api-sports.io/football/teams/5350.png",
+                    "winner": false
+                },
+                "away": {
+                    "id": 697,
+                    "name": "Crusaders FC",
+                    "logo": "https://media-2.api-sports.io/football/teams/697.png",
+                    "winner": true
+                }
+            },
+            "goals": {
+                "home": 0,
+                "away": 3
+            },
+            "score": {
+                "halftime": {
+                    "home": 0,
+                    "away": 2
+                },
+                "fulltime": {
+                    "home": 0,
+                    "away": 3
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 877482,
+                "referee": "E. Boyce",
+                "timezone": "europe/london",
+                "date": "2023-01-02T15:00:00+00:00",
+                "timestamp": 1672671600,
+                "periods": {
+                    "first": 1672671600,
+                    "second": 1672675200
+                },
+                "venue": {
+                    "id": 1169,
+                    "name": "Solitude",
+                    "city": "Belfast"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 408,
+                "name": "Premiership",
+                "country": "Northern-Ireland",
+                "logo": "https://media-3.api-sports.io/football/leagues/408.png",
+                "flag": "https://media-3.api-sports.io/flags/gb.svg",
+                "season": 2022,
+                "round": "Regular Season - 22"
+            },
+            "teams": {
+                "home": {
+                    "id": 2266,
+                    "name": "Cliftonville FC",
+                    "logo": "https://media-2.api-sports.io/football/teams/2266.png",
+                    "winner": true
+                },
+                "away": {
+                    "id": 5354,
+                    "name": "Larne",
+                    "logo": "https://media-1.api-sports.io/football/teams/5354.png",
+                    "winner": false
+                }
+            },
+            "goals": {
+                "home": 2,
+                "away": 1
+            },
+            "score": {
+                "halftime": {
+                    "home": 0,
+                    "away": 0
+                },
+                "fulltime": {
+                    "home": 2,
+                    "away": 1
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 877483,
+                "referee": "I. McNabb",
+                "timezone": "europe/london",
+                "date": "2023-01-02T15:00:00+00:00",
+                "timestamp": 1672671600,
+                "periods": {
+                    "first": 1672671600,
+                    "second": 1672675200
+                },
+                "venue": {
+                    "id": 1971,
+                    "name": "Windsor Park",
+                    "city": "Belfast"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 408,
+                "name": "Premiership",
+                "country": "Northern-Ireland",
+                "logo": "https://media-2.api-sports.io/football/leagues/408.png",
+                "flag": "https://media-3.api-sports.io/flags/gb.svg",
+                "season": 2022,
+                "round": "Regular Season - 22"
+            },
+            "teams": {
+                "home": {
+                    "id": 583,
+                    "name": "Linfield",
+                    "logo": "https://media-3.api-sports.io/football/teams/583.png",
+                    "winner": null
+                },
+                "away": {
+                    "id": 669,
+                    "name": "Coleraine FC",
+                    "logo": "https://media-3.api-sports.io/football/teams/669.png",
+                    "winner": null
+                }
+            },
+            "goals": {
+                "home": 0,
+                "away": 0
+            },
+            "score": {
+                "halftime": {
+                    "home": 0,
+                    "away": 0
+                },
+                "fulltime": {
+                    "home": 0,
+                    "away": 0
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 877485,
+                "referee": "B. McMaster",
+                "timezone": "europe/london",
+                "date": "2023-01-02T15:00:00+00:00",
+                "timestamp": 1672671600,
+                "periods": {
+                    "first": 1672671600,
+                    "second": 1672675200
+                },
+                "venue": {
+                    "id": 4040,
+                    "name": "Shamrock Park",
+                    "city": "Portadown"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 408,
+                "name": "Premiership",
+                "country": "Northern-Ireland",
+                "logo": "https://media-3.api-sports.io/football/leagues/408.png",
+                "flag": "https://media-2.api-sports.io/flags/gb.svg",
+                "season": 2022,
+                "round": "Regular Season - 22"
+            },
+            "teams": {
+                "home": {
+                    "id": 5348,
+                    "name": "Portadown",
+                    "logo": "https://media-2.api-sports.io/football/teams/5348.png",
+                    "winner": null
+                },
+                "away": {
+                    "id": 5351,
+                    "name": "Dungannon Swifts",
+                    "logo": "https://media-1.api-sports.io/football/teams/5351.png",
+                    "winner": null
+                }
+            },
+            "goals": {
+                "home": 0,
+                "away": 0
+            },
+            "score": {
+                "halftime": {
+                    "home": 0,
+                    "away": 0
+                },
+                "fulltime": {
+                    "home": 0,
+                    "away": 0
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        }
+    ]
+}

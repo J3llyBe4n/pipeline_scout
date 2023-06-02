@@ -1,0 +1,548 @@
+{
+    "data": [
+        {
+            "fixture": {
+                "id": 868013,
+                "referee": "S. Hooper",
+                "timezone": "europe/london",
+                "date": "2023-01-19T20:00:00+00:00",
+                "timestamp": 1674158400,
+                "periods": {
+                    "first": 1674158400,
+                    "second": 1674162000
+                },
+                "venue": {
+                    "id": 555,
+                    "name": "Etihad Stadium",
+                    "city": "Manchester"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 39,
+                "name": "Premier League",
+                "country": "England",
+                "logo": "https://media-3.api-sports.io/football/leagues/39.png",
+                "flag": "https://media-1.api-sports.io/flags/gb.svg",
+                "season": 2022,
+                "round": "Regular Season - 7"
+            },
+            "teams": {
+                "home": {
+                    "id": 50,
+                    "name": "Manchester City",
+                    "logo": "https://media-1.api-sports.io/football/teams/50.png",
+                    "winner": true
+                },
+                "away": {
+                    "id": 47,
+                    "name": "Tottenham",
+                    "logo": "https://media-3.api-sports.io/football/teams/47.png",
+                    "winner": false
+                }
+            },
+            "goals": {
+                "home": 4,
+                "away": 2
+            },
+            "score": {
+                "halftime": {
+                    "home": 0,
+                    "away": 2
+                },
+                "fulltime": {
+                    "home": 4,
+                    "away": 2
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 874910,
+                "referee": "Kevin van Damme, Belgium",
+                "timezone": "europe/london",
+                "date": "2023-01-19T17:30:00+00:00",
+                "timestamp": 1674149400,
+                "periods": {
+                    "first": 1674149400,
+                    "second": 1674153000
+                },
+                "venue": {
+                    "id": 180,
+                    "name": "Ghelamco Arena",
+                    "city": "Gent"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 144,
+                "name": "Jupiler Pro League",
+                "country": "Belgium",
+                "logo": "https://media-1.api-sports.io/football/leagues/144.png",
+                "flag": "https://media-3.api-sports.io/flags/be.svg",
+                "season": 2022,
+                "round": "Regular Season - 21"
+            },
+            "teams": {
+                "home": {
+                    "id": 631,
+                    "name": "Gent",
+                    "logo": "https://media-3.api-sports.io/football/teams/631.png",
+                    "winner": null
+                },
+                "away": {
+                    "id": 736,
+                    "name": "Charleroi",
+                    "logo": "https://media-2.api-sports.io/football/teams/736.png",
+                    "winner": null
+                }
+            },
+            "goals": {
+                "home": 0,
+                "away": 0
+            },
+            "score": {
+                "halftime": {
+                    "home": 0,
+                    "away": 0
+                },
+                "fulltime": {
+                    "home": 0,
+                    "away": 0
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 874914,
+                "referee": "Nicolas Laforge, Belgium",
+                "timezone": "europe/london",
+                "date": "2023-01-19T19:45:00+00:00",
+                "timestamp": 1674157500,
+                "periods": {
+                    "first": 1674157500,
+                    "second": 1674161100
+                },
+                "venue": {
+                    "id": 19611,
+                    "name": "Daio Wasabi Stayen Stadium",
+                    "city": "St.-Trond"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 144,
+                "name": "Jupiler Pro League",
+                "country": "Belgium",
+                "logo": "https://media-2.api-sports.io/football/leagues/144.png",
+                "flag": "https://media-2.api-sports.io/flags/be.svg",
+                "season": 2022,
+                "round": "Regular Season - 21"
+            },
+            "teams": {
+                "home": {
+                    "id": 735,
+                    "name": "St. Truiden",
+                    "logo": "https://media-2.api-sports.io/football/teams/735.png",
+                    "winner": null
+                },
+                "away": {
+                    "id": 569,
+                    "name": "Club Brugge KV",
+                    "logo": "https://media-3.api-sports.io/football/teams/569.png",
+                    "winner": null
+                }
+            },
+            "goals": {
+                "home": 1,
+                "away": 1
+            },
+            "score": {
+                "halftime": {
+                    "home": 0,
+                    "away": 1
+                },
+                "fulltime": {
+                    "home": 1,
+                    "away": 1
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 986156,
+                "referee": "M. Heydari",
+                "timezone": "europe/london",
+                "date": "2023-01-19T11:30:00+00:00",
+                "timestamp": 1674127800,
+                "periods": {
+                    "first": 1674127800,
+                    "second": 1674131400
+                },
+                "venue": {
+                    "id": null,
+                    "name": "Takhti Stadium",
+                    "city": "Bandar-e-Anzal\u012b"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 290,
+                "name": "Persian Gulf Pro League",
+                "country": "Iran",
+                "logo": "https://media-3.api-sports.io/football/leagues/290.png",
+                "flag": "https://media-3.api-sports.io/flags/ir.svg",
+                "season": 2022,
+                "round": "Regular Season - 16"
+            },
+            "teams": {
+                "home": {
+                    "id": 2717,
+                    "name": "Malavan",
+                    "logo": "https://media-3.api-sports.io/football/teams/2717.png",
+                    "winner": true
+                },
+                "away": {
+                    "id": 2741,
+                    "name": "Paykan",
+                    "logo": "https://media-2.api-sports.io/football/teams/2741.png",
+                    "winner": false
+                }
+            },
+            "goals": {
+                "home": 1,
+                "away": 0
+            },
+            "score": {
+                "halftime": {
+                    "home": 0,
+                    "away": 0
+                },
+                "fulltime": {
+                    "home": 1,
+                    "away": 0
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 986157,
+                "referee": "K. Gholami",
+                "timezone": "europe/london",
+                "date": "2023-01-19T11:30:00+00:00",
+                "timestamp": 1674127800,
+                "periods": {
+                    "first": 1674127800,
+                    "second": 1674131400
+                },
+                "venue": {
+                    "id": 19369,
+                    "name": "Shohada Mes Rafsanjan Stadium",
+                    "city": "Rafsanjan"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 290,
+                "name": "Persian Gulf Pro League",
+                "country": "Iran",
+                "logo": "https://media-1.api-sports.io/football/leagues/290.png",
+                "flag": "https://media-1.api-sports.io/flags/ir.svg",
+                "season": 2022,
+                "round": "Regular Season - 16"
+            },
+            "teams": {
+                "home": {
+                    "id": 2706,
+                    "name": "Mes Rafsanjan",
+                    "logo": "https://media-1.api-sports.io/football/teams/2706.png",
+                    "winner": null
+                },
+                "away": {
+                    "id": 2719,
+                    "name": "Nassaji Mazandaran",
+                    "logo": "https://media-3.api-sports.io/football/teams/2719.png",
+                    "winner": null
+                }
+            },
+            "goals": {
+                "home": 1,
+                "away": 1
+            },
+            "score": {
+                "halftime": {
+                    "home": 0,
+                    "away": 0
+                },
+                "fulltime": {
+                    "home": 1,
+                    "away": 1
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 986158,
+                "referee": "H. Akrami",
+                "timezone": "europe/london",
+                "date": "2023-01-19T13:00:00+00:00",
+                "timestamp": 1674133200,
+                "periods": {
+                    "first": 1674133200,
+                    "second": 1674136800
+                },
+                "venue": {
+                    "id": 857,
+                    "name": "Naghsh-e-Jahan Stadium",
+                    "city": "Isfahan"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 290,
+                "name": "Persian Gulf Pro League",
+                "country": "Iran",
+                "logo": "https://media-2.api-sports.io/football/leagues/290.png",
+                "flag": "https://media-2.api-sports.io/flags/ir.svg",
+                "season": 2022,
+                "round": "Regular Season - 16"
+            },
+            "teams": {
+                "home": {
+                    "id": 2744,
+                    "name": "Sepahan FC",
+                    "logo": "https://media-2.api-sports.io/football/teams/2744.png",
+                    "winner": true
+                },
+                "away": {
+                    "id": 2733,
+                    "name": "Esteghlal FC",
+                    "logo": "https://media-1.api-sports.io/football/teams/2733.png",
+                    "winner": false
+                }
+            },
+            "goals": {
+                "home": 2,
+                "away": 1
+            },
+            "score": {
+                "halftime": {
+                    "home": 0,
+                    "away": 0
+                },
+                "fulltime": {
+                    "home": 2,
+                    "away": 1
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 932012,
+                "referee": "Abdullah Al-Kharbosh",
+                "timezone": "europe/london",
+                "date": "2023-01-19T11:30:00+00:00",
+                "timestamp": 1674127800,
+                "periods": {
+                    "first": 1674127800,
+                    "second": 1674131400
+                },
+                "venue": {
+                    "id": 1363,
+                    "name": "Prince Abdullah bin Jalawi Sports City Stadium",
+                    "city": "Al-Hasa"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 307,
+                "name": "Pro League",
+                "country": "Saudi-Arabia",
+                "logo": "https://media-3.api-sports.io/football/leagues/307.png",
+                "flag": "https://media-1.api-sports.io/flags/sa.svg",
+                "season": 2022,
+                "round": "Regular Season - 14"
+            },
+            "teams": {
+                "home": {
+                    "id": 2950,
+                    "name": "Al-Adalah",
+                    "logo": "https://media-1.api-sports.io/football/teams/2950.png",
+                    "winner": null
+                },
+                "away": {
+                    "id": 2926,
+                    "name": "Al Baten",
+                    "logo": "https://media-3.api-sports.io/football/teams/2926.png",
+                    "winner": null
+                }
+            },
+            "goals": {
+                "home": 1,
+                "away": 1
+            },
+            "score": {
+                "halftime": {
+                    "home": 0,
+                    "away": 0
+                },
+                "fulltime": {
+                    "home": 1,
+                    "away": 1
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 932015,
+                "referee": "S. Sch\u00e4rer",
+                "timezone": "europe/london",
+                "date": "2023-01-19T14:00:00+00:00",
+                "timestamp": 1674136800,
+                "periods": {
+                    "first": 1674136800,
+                    "second": 1674140400
+                },
+                "venue": {
+                    "id": 1364,
+                    "name": "King Abdullah Sports City",
+                    "city": "Jeddah"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 307,
+                "name": "Pro League",
+                "country": "Saudi-Arabia",
+                "logo": "https://media-1.api-sports.io/football/leagues/307.png",
+                "flag": "https://media-2.api-sports.io/flags/sa.svg",
+                "season": 2022,
+                "round": "Regular Season - 14"
+            },
+            "teams": {
+                "home": {
+                    "id": 2938,
+                    "name": "Al-Ittihad FC",
+                    "logo": "https://media-3.api-sports.io/football/teams/2938.png",
+                    "winner": true
+                },
+                "away": {
+                    "id": 2944,
+                    "name": "Al-Fayha",
+                    "logo": "https://media-2.api-sports.io/football/teams/2944.png",
+                    "winner": false
+                }
+            },
+            "goals": {
+                "home": 3,
+                "away": 0
+            },
+            "score": {
+                "halftime": {
+                    "home": 3,
+                    "away": 0
+                },
+                "fulltime": {
+                    "home": 3,
+                    "away": 0
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        }
+    ]
+}

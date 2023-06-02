@@ -1,0 +1,208 @@
+{
+    "data": [
+        {
+            "fixture": {
+                "id": 986043,
+                "referee": "Ahmad Salem Khalfan",
+                "timezone": "europe/london",
+                "date": "2023-04-13T19:00:00+01:00",
+                "timestamp": 1681408800,
+                "periods": {
+                    "first": 1681408800,
+                    "second": 1681412400
+                },
+                "venue": {
+                    "id": 19222,
+                    "name": "Dibba Stadium",
+                    "city": "Dibba Al Fujairah"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 301,
+                "name": "Pro League",
+                "country": "United-Arab-Emirates",
+                "logo": "https://media-2.api-sports.io/football/leagues/301.png",
+                "flag": "https://media-2.api-sports.io/flags/ae.svg",
+                "season": 2022,
+                "round": "Regular Season - 22"
+            },
+            "teams": {
+                "home": {
+                    "id": 2867,
+                    "name": "Dibba Al-Fujairah",
+                    "logo": "https://media-3.api-sports.io/football/teams/2867.png",
+                    "winner": null
+                },
+                "away": {
+                    "id": 2875,
+                    "name": "Al Wahda FC",
+                    "logo": "https://media-2.api-sports.io/football/teams/2875.png",
+                    "winner": null
+                }
+            },
+            "goals": {
+                "home": 1,
+                "away": 1
+            },
+            "score": {
+                "halftime": {
+                    "home": 0,
+                    "away": 0
+                },
+                "fulltime": {
+                    "home": 1,
+                    "away": 1
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 980377,
+                "referee": "Saoud Al Athbah",
+                "timezone": "europe/london",
+                "date": "2023-04-13T19:45:00+01:00",
+                "timestamp": 1681411500,
+                "periods": {
+                    "first": 1681411500,
+                    "second": 1681415100
+                },
+                "venue": {
+                    "id": null,
+                    "name": "Grand Hamad Stadium",
+                    "city": "Doha"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 305,
+                "name": "Stars League",
+                "country": "Qatar",
+                "logo": "https://media-2.api-sports.io/football/leagues/305.png",
+                "flag": "https://media-1.api-sports.io/flags/qa.svg",
+                "season": 2022,
+                "round": "Regular Season - 19"
+            },
+            "teams": {
+                "home": {
+                    "id": 2905,
+                    "name": "Al-Arabi SC",
+                    "logo": "https://media-2.api-sports.io/football/teams/2905.png",
+                    "winner": true
+                },
+                "away": {
+                    "id": 2896,
+                    "name": "Al Ahli Doha",
+                    "logo": "https://media-1.api-sports.io/football/teams/2896.png",
+                    "winner": false
+                }
+            },
+            "goals": {
+                "home": 4,
+                "away": 3
+            },
+            "score": {
+                "halftime": {
+                    "home": 2,
+                    "away": 2
+                },
+                "fulltime": {
+                    "home": 4,
+                    "away": 3
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 980379,
+                "referee": "Abdulrahman Al Jassim",
+                "timezone": "europe/london",
+                "date": "2023-04-13T19:45:00+01:00",
+                "timestamp": 1681411500,
+                "periods": {
+                    "first": 1681411500,
+                    "second": 1681415100
+                },
+                "venue": {
+                    "id": null,
+                    "name": "Saoud Bin Abdulrahman Stadium",
+                    "city": "Al-Wakra"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 305,
+                "name": "Stars League",
+                "country": "Qatar",
+                "logo": "https://media-2.api-sports.io/football/leagues/305.png",
+                "flag": "https://media-3.api-sports.io/flags/qa.svg",
+                "season": 2022,
+                "round": "Regular Season - 19"
+            },
+            "teams": {
+                "home": {
+                    "id": 2900,
+                    "name": "Al Wakrah",
+                    "logo": "https://media-3.api-sports.io/football/teams/2900.png",
+                    "winner": true
+                },
+                "away": {
+                    "id": 2916,
+                    "name": "Al Shamal",
+                    "logo": "https://media-1.api-sports.io/football/teams/2916.png",
+                    "winner": false
+                }
+            },
+            "goals": {
+                "home": 5,
+                "away": 1
+            },
+            "score": {
+                "halftime": {
+                    "home": 1,
+                    "away": 0
+                },
+                "fulltime": {
+                    "home": 5,
+                    "away": 1
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        }
+    ]
+}

@@ -1,0 +1,548 @@
+{
+    "data": [
+        {
+            "fixture": {
+                "id": 903701,
+                "referee": "D. Massa",
+                "timezone": "europe/london",
+                "date": "2022-12-07T19:30:00+00:00",
+                "timestamp": 1670441400,
+                "periods": {
+                    "first": 1670441400,
+                    "second": 1670445000
+                },
+                "venue": {
+                    "id": 942,
+                    "name": "Stadio Libero Liberati",
+                    "city": "Terni"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 136,
+                "name": "Serie B",
+                "country": "Italy",
+                "logo": "https://media-2.api-sports.io/football/leagues/136.png",
+                "flag": "https://media-2.api-sports.io/flags/it.svg",
+                "season": 2022,
+                "round": "Regular Season - 16"
+            },
+            "teams": {
+                "home": {
+                    "id": 516,
+                    "name": "Ternana",
+                    "logo": "https://media-2.api-sports.io/football/teams/516.png",
+                    "winner": true
+                },
+                "away": {
+                    "id": 490,
+                    "name": "Cagliari",
+                    "logo": "https://media-1.api-sports.io/football/teams/490.png",
+                    "winner": false
+                }
+            },
+            "goals": {
+                "home": 1,
+                "away": 0
+            },
+            "score": {
+                "halftime": {
+                    "home": 1,
+                    "away": 0
+                },
+                "fulltime": {
+                    "home": 1,
+                    "away": 0
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 878521,
+                "referee": "Victor Garcia Verdura, Spain",
+                "timezone": "europe/london",
+                "date": "2022-12-07T18:00:00+00:00",
+                "timestamp": 1670436000,
+                "periods": {
+                    "first": 1670436000,
+                    "second": 1670439600
+                },
+                "venue": {
+                    "id": 3976,
+                    "name": "Estadio Municipal Cartagonova",
+                    "city": "Cartagena"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 141,
+                "name": "Segunda Divisi\u00f3n",
+                "country": "Spain",
+                "logo": "https://media-1.api-sports.io/football/leagues/141.png",
+                "flag": "https://media-3.api-sports.io/flags/es.svg",
+                "season": 2022,
+                "round": "Regular Season - 19"
+            },
+            "teams": {
+                "home": {
+                    "id": 5262,
+                    "name": "FC Cartagena",
+                    "logo": "https://media-3.api-sports.io/football/teams/5262.png",
+                    "winner": false
+                },
+                "away": {
+                    "id": 9595,
+                    "name": "Villarreal II",
+                    "logo": "https://media-3.api-sports.io/football/teams/9595.png",
+                    "winner": true
+                }
+            },
+            "goals": {
+                "home": 0,
+                "away": 1
+            },
+            "score": {
+                "halftime": {
+                    "home": 0,
+                    "away": 0
+                },
+                "fulltime": {
+                    "home": 0,
+                    "away": 1
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 878527,
+                "referee": "Adrian Cordero Vega, Spain",
+                "timezone": "europe/london",
+                "date": "2022-12-07T20:00:00+00:00",
+                "timestamp": 1670443200,
+                "periods": {
+                    "first": 1670443200,
+                    "second": 1670446800
+                },
+                "venue": {
+                    "id": 1496,
+                    "name": "Estadio Heliodoro Rodr\u00edguez Lop\u00e9z",
+                    "city": "Tenerife"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 141,
+                "name": "Segunda Divisi\u00f3n",
+                "country": "Spain",
+                "logo": "https://media-1.api-sports.io/football/leagues/141.png",
+                "flag": "https://media-1.api-sports.io/flags/es.svg",
+                "season": 2022,
+                "round": "Regular Season - 19"
+            },
+            "teams": {
+                "home": {
+                    "id": 719,
+                    "name": "Tenerife",
+                    "logo": "https://media-3.api-sports.io/football/teams/719.png",
+                    "winner": true
+                },
+                "away": {
+                    "id": 542,
+                    "name": "Alaves",
+                    "logo": "https://media-3.api-sports.io/football/teams/542.png",
+                    "winner": false
+                }
+            },
+            "goals": {
+                "home": 2,
+                "away": 1
+            },
+            "score": {
+                "halftime": {
+                    "home": 1,
+                    "away": 0
+                },
+                "fulltime": {
+                    "home": 2,
+                    "away": 1
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 878528,
+                "referee": "Jose Luis Guzman Mansilla, Spain",
+                "timezone": "europe/london",
+                "date": "2022-12-07T18:00:00+00:00",
+                "timestamp": 1670436000,
+                "periods": {
+                    "first": 1670436000,
+                    "second": 1670439600
+                },
+                "venue": {
+                    "id": 1480,
+                    "name": "Estadio El Alcoraz",
+                    "city": "Huesca"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 141,
+                "name": "Segunda Divisi\u00f3n",
+                "country": "Spain",
+                "logo": "https://media-1.api-sports.io/football/leagues/141.png",
+                "flag": "https://media-3.api-sports.io/flags/es.svg",
+                "season": 2022,
+                "round": "Regular Season - 19"
+            },
+            "teams": {
+                "home": {
+                    "id": 726,
+                    "name": "Huesca",
+                    "logo": "https://media-2.api-sports.io/football/teams/726.png",
+                    "winner": true
+                },
+                "away": {
+                    "id": 8157,
+                    "name": "FC Andorra",
+                    "logo": "https://media-3.api-sports.io/football/teams/8157.png",
+                    "winner": false
+                }
+            },
+            "goals": {
+                "home": 1,
+                "away": 0
+            },
+            "score": {
+                "halftime": {
+                    "home": 0,
+                    "away": 0
+                },
+                "fulltime": {
+                    "home": 1,
+                    "away": 0
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 867518,
+                "referee": "M. Savovi\u0107",
+                "timezone": "europe/london",
+                "date": "2022-12-07T12:00:00+00:00",
+                "timestamp": 1670414400,
+                "periods": {
+                    "first": 1670414400,
+                    "second": 1670418000
+                },
+                "venue": {
+                    "id": 2519,
+                    "name": "Stadion Donja Sutvara",
+                    "city": "Radanovi\u0107i"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 355,
+                "name": "First League",
+                "country": "Montenegro",
+                "logo": "https://media-3.api-sports.io/football/leagues/355.png",
+                "flag": "https://media-3.api-sports.io/flags/me.svg",
+                "season": 2022,
+                "round": "Regular Season - 19"
+            },
+            "teams": {
+                "home": {
+                    "id": 3742,
+                    "name": "Arsenal Tivat",
+                    "logo": "https://media-1.api-sports.io/football/teams/3742.png",
+                    "winner": null
+                },
+                "away": {
+                    "id": 3741,
+                    "name": "Petrovac",
+                    "logo": "https://media-2.api-sports.io/football/teams/3741.png",
+                    "winner": null
+                }
+            },
+            "goals": {
+                "home": 1,
+                "away": 1
+            },
+            "score": {
+                "halftime": {
+                    "home": 0,
+                    "away": 1
+                },
+                "fulltime": {
+                    "home": 1,
+                    "away": 1
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 867519,
+                "referee": "S. Vujovi\u0107",
+                "timezone": "europe/london",
+                "date": "2022-12-07T12:00:00+00:00",
+                "timestamp": 1670414400,
+                "periods": {
+                    "first": 1670414400,
+                    "second": 1670418000
+                },
+                "venue": {
+                    "id": 2529,
+                    "name": "Gradski Stadion",
+                    "city": "Bijelo Polje"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 355,
+                "name": "First League",
+                "country": "Montenegro",
+                "logo": "https://media-2.api-sports.io/football/leagues/355.png",
+                "flag": "https://media-1.api-sports.io/flags/me.svg",
+                "season": 2022,
+                "round": "Regular Season - 19"
+            },
+            "teams": {
+                "home": {
+                    "id": 3747,
+                    "name": "Jedinstvo",
+                    "logo": "https://media-3.api-sports.io/football/teams/3747.png",
+                    "winner": false
+                },
+                "away": {
+                    "id": 673,
+                    "name": "Sutjeska",
+                    "logo": "https://media-2.api-sports.io/football/teams/673.png",
+                    "winner": true
+                }
+            },
+            "goals": {
+                "home": 0,
+                "away": 4
+            },
+            "score": {
+                "halftime": {
+                    "home": 0,
+                    "away": 1
+                },
+                "fulltime": {
+                    "home": 0,
+                    "away": 4
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 867520,
+                "referee": "M. Be\u0161ovi\u0107",
+                "timezone": "europe/london",
+                "date": "2022-12-07T12:00:00+00:00",
+                "timestamp": 1670414400,
+                "periods": {
+                    "first": 1670414400,
+                    "second": 1670418000
+                },
+                "venue": {
+                    "id": 2530,
+                    "name": "Stadion pod Racinom",
+                    "city": "Plav"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 355,
+                "name": "First League",
+                "country": "Montenegro",
+                "logo": "https://media-3.api-sports.io/football/leagues/355.png",
+                "flag": "https://media-3.api-sports.io/flags/me.svg",
+                "season": 2022,
+                "round": "Regular Season - 19"
+            },
+            "teams": {
+                "home": {
+                    "id": 3748,
+                    "name": "Jezero",
+                    "logo": "https://media-1.api-sports.io/football/teams/3748.png",
+                    "winner": null
+                },
+                "away": {
+                    "id": 2258,
+                    "name": "Rudar Velenje",
+                    "logo": "https://media-1.api-sports.io/football/teams/2258.png",
+                    "winner": null
+                }
+            },
+            "goals": {
+                "home": 0,
+                "away": 0
+            },
+            "score": {
+                "halftime": {
+                    "home": 0,
+                    "away": 0
+                },
+                "fulltime": {
+                    "home": 0,
+                    "away": 0
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 867522,
+                "referee": "R. Pajovi\u0107",
+                "timezone": "europe/london",
+                "date": "2022-12-07T14:00:00+00:00",
+                "timestamp": 1670421600,
+                "periods": {
+                    "first": 1670421600,
+                    "second": 1670425200
+                },
+                "venue": {
+                    "id": 2520,
+                    "name": "Stadion Bra\u0107a Vela\u0161evi\u0107",
+                    "city": "Danilovgrad"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 355,
+                "name": "First League",
+                "country": "Montenegro",
+                "logo": "https://media-3.api-sports.io/football/leagues/355.png",
+                "flag": "https://media-1.api-sports.io/flags/me.svg",
+                "season": 2022,
+                "round": "Regular Season - 19"
+            },
+            "teams": {
+                "home": {
+                    "id": 3738,
+                    "name": "Iskra",
+                    "logo": "https://media-3.api-sports.io/football/teams/3738.png",
+                    "winner": true
+                },
+                "away": {
+                    "id": 579,
+                    "name": "Buducnost Podgorica",
+                    "logo": "https://media-2.api-sports.io/football/teams/579.png",
+                    "winner": false
+                }
+            },
+            "goals": {
+                "home": 3,
+                "away": 0
+            },
+            "score": {
+                "halftime": {
+                    "home": 1,
+                    "away": 0
+                },
+                "fulltime": {
+                    "home": 3,
+                    "away": 0
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        }
+    ]
+}

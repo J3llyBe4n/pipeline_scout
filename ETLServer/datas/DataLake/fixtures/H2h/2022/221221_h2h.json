@@ -1,0 +1,480 @@
+{
+    "data": [
+        {
+            "fixture": {
+                "id": 880820,
+                "referee": "Keith Stroud, England",
+                "timezone": "europe/london",
+                "date": "2022-12-21T19:45:00+00:00",
+                "timestamp": 1671651900,
+                "periods": {
+                    "first": 1671651900,
+                    "second": 1671655500
+                },
+                "venue": {
+                    "id": 11896,
+                    "name": "The Coventry Building Society Arena",
+                    "city": "Coventry, West Midlands"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 40,
+                "name": "Championship",
+                "country": "England",
+                "logo": "https://media-3.api-sports.io/football/leagues/40.png",
+                "flag": "https://media-3.api-sports.io/flags/gb.svg",
+                "season": 2022,
+                "round": "Regular Season - 9"
+            },
+            "teams": {
+                "home": {
+                    "id": 1346,
+                    "name": "Coventry",
+                    "logo": "https://media-2.api-sports.io/football/teams/1346.png",
+                    "winner": true
+                },
+                "away": {
+                    "id": 60,
+                    "name": "West Brom",
+                    "logo": "https://media-2.api-sports.io/football/teams/60.png",
+                    "winner": false
+                }
+            },
+            "goals": {
+                "home": 1,
+                "away": 0
+            },
+            "score": {
+                "halftime": {
+                    "home": 0,
+                    "away": 0
+                },
+                "fulltime": {
+                    "home": 1,
+                    "away": 0
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 924518,
+                "referee": "Lachlan Keevers, Australia",
+                "timezone": "europe/london",
+                "date": "2022-12-21T08:00:00+00:00",
+                "timestamp": 1671609600,
+                "periods": {
+                    "first": 1671609600,
+                    "second": 1671613200
+                },
+                "venue": {
+                    "id": 125,
+                    "name": "Industree Group Stadium",
+                    "city": "Gosford"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 188,
+                "name": "A-League",
+                "country": "Australia",
+                "logo": "https://media-3.api-sports.io/football/leagues/188.png",
+                "flag": "https://media-2.api-sports.io/flags/au.svg",
+                "season": 2022,
+                "round": "Regular Season - 1"
+            },
+            "teams": {
+                "home": {
+                    "id": 941,
+                    "name": "Central Coast Mariners",
+                    "logo": "https://media-3.api-sports.io/football/teams/941.png",
+                    "winner": true
+                },
+                "away": {
+                    "id": 946,
+                    "name": "Newcastle Jets",
+                    "logo": "https://media-2.api-sports.io/football/teams/946.png",
+                    "winner": false
+                }
+            },
+            "goals": {
+                "home": 3,
+                "away": 0
+            },
+            "score": {
+                "halftime": {
+                    "home": 1,
+                    "away": 0
+                },
+                "fulltime": {
+                    "home": 3,
+                    "away": 0
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 923789,
+                "referee": "Evangelos Manouchos, Greece",
+                "timezone": "europe/london",
+                "date": "2022-12-21T15:00:00+00:00",
+                "timestamp": 1671634800,
+                "periods": {
+                    "first": 1671634800,
+                    "second": 1671638400
+                },
+                "venue": {
+                    "id": null,
+                    "name": "OPAP Arena",
+                    "city": "Athens"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 197,
+                "name": "Super League 1",
+                "country": "Greece",
+                "logo": "https://media-3.api-sports.io/football/leagues/197.png",
+                "flag": "https://media-2.api-sports.io/flags/gr.svg",
+                "season": 2022,
+                "round": "Regular Season - 14"
+            },
+            "teams": {
+                "home": {
+                    "id": 575,
+                    "name": "AEK Athens FC",
+                    "logo": "https://media-1.api-sports.io/football/teams/575.png",
+                    "winner": true
+                },
+                "away": {
+                    "id": 956,
+                    "name": "Lamia",
+                    "logo": "https://media-3.api-sports.io/football/teams/956.png",
+                    "winner": false
+                }
+            },
+            "goals": {
+                "home": 3,
+                "away": 0
+            },
+            "score": {
+                "halftime": {
+                    "home": 0,
+                    "away": 0
+                },
+                "fulltime": {
+                    "home": 3,
+                    "away": 0
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 923790,
+                "referee": "Giorgos Tzovaras, Greece",
+                "timezone": "europe/london",
+                "date": "2022-12-21T15:00:00+00:00",
+                "timestamp": 1671634800,
+                "periods": {
+                    "first": 1671634800,
+                    "second": 1671638400
+                },
+                "venue": {
+                    "id": 766,
+                    "name": "Stadio Theodoros Kolokotronis",
+                    "city": "Tripoli"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 197,
+                "name": "Super League 1",
+                "country": "Greece",
+                "logo": "https://media-3.api-sports.io/football/leagues/197.png",
+                "flag": "https://media-3.api-sports.io/flags/gr.svg",
+                "season": 2022,
+                "round": "Regular Season - 14"
+            },
+            "teams": {
+                "home": {
+                    "id": 955,
+                    "name": "Asteras Tripolis",
+                    "logo": "https://media-3.api-sports.io/football/teams/955.png",
+                    "winner": null
+                },
+                "away": {
+                    "id": 2110,
+                    "name": "Volos NFC",
+                    "logo": "https://media-2.api-sports.io/football/teams/2110.png",
+                    "winner": null
+                }
+            },
+            "goals": {
+                "home": 0,
+                "away": 0
+            },
+            "score": {
+                "halftime": {
+                    "home": 0,
+                    "away": 0
+                },
+                "fulltime": {
+                    "home": 0,
+                    "away": 0
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 923791,
+                "referee": "Ioannis Papadopoulos, Greece",
+                "timezone": "europe/london",
+                "date": "2022-12-21T19:30:00+00:00",
+                "timestamp": 1671651000,
+                "periods": {
+                    "first": 1671651000,
+                    "second": 1671654600
+                },
+                "venue": {
+                    "id": 5455,
+                    "name": "Dimotiko Gipedo Neapolis Nikaias",
+                    "city": "Athens"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 197,
+                "name": "Super League 1",
+                "country": "Greece",
+                "logo": "https://media-3.api-sports.io/football/leagues/197.png",
+                "flag": "https://media-2.api-sports.io/flags/gr.svg",
+                "season": 2022,
+                "round": "Regular Season - 14"
+            },
+            "teams": {
+                "home": {
+                    "id": 7513,
+                    "name": "Ionikos",
+                    "logo": "https://media-3.api-sports.io/football/teams/7513.png",
+                    "winner": null
+                },
+                "away": {
+                    "id": 617,
+                    "name": "Panathinaikos",
+                    "logo": "https://media-1.api-sports.io/football/teams/617.png",
+                    "winner": null
+                }
+            },
+            "goals": {
+                "home": 1,
+                "away": 1
+            },
+            "score": {
+                "halftime": {
+                    "home": 0,
+                    "away": 1
+                },
+                "fulltime": {
+                    "home": 1,
+                    "away": 1
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 923792,
+                "referee": "Anastasios Papapetrou, Greece",
+                "timezone": "europe/london",
+                "date": "2022-12-21T13:00:00+00:00",
+                "timestamp": 1671627600,
+                "periods": {
+                    "first": 1671627600,
+                    "second": 1671631200
+                },
+                "venue": {
+                    "id": 773,
+                    "name": "Stadio Levadias",
+                    "city": "Levadia"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 197,
+                "name": "Super League 1",
+                "country": "Greece",
+                "logo": "https://media-2.api-sports.io/football/leagues/197.png",
+                "flag": "https://media-1.api-sports.io/flags/gr.svg",
+                "season": 2022,
+                "round": "Regular Season - 14"
+            },
+            "teams": {
+                "home": {
+                    "id": 957,
+                    "name": "Levadiakos",
+                    "logo": "https://media-2.api-sports.io/football/teams/957.png",
+                    "winner": null
+                },
+                "away": {
+                    "id": 1123,
+                    "name": "Aris Thessalonikis",
+                    "logo": "https://media-1.api-sports.io/football/teams/1123.png",
+                    "winner": null
+                }
+            },
+            "goals": {
+                "home": 1,
+                "away": 1
+            },
+            "score": {
+                "halftime": {
+                    "home": 1,
+                    "away": 0
+                },
+                "fulltime": {
+                    "home": 1,
+                    "away": 1
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 923795,
+                "referee": "Stephanos Koumparakis, Greece",
+                "timezone": "europe/london",
+                "date": "2022-12-21T18:00:00+00:00",
+                "timestamp": 1671645600,
+                "periods": {
+                    "first": 1671645600,
+                    "second": 1671649200
+                },
+                "venue": {
+                    "id": 781,
+                    "name": "Stadio Zosimades",
+                    "city": "Ioannina"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 197,
+                "name": "Super League 1",
+                "country": "Greece",
+                "logo": "https://media-3.api-sports.io/football/leagues/197.png",
+                "flag": "https://media-3.api-sports.io/flags/gr.svg",
+                "season": 2022,
+                "round": "Regular Season - 14"
+            },
+            "teams": {
+                "home": {
+                    "id": 950,
+                    "name": "PAS Giannina",
+                    "logo": "https://media-2.api-sports.io/football/teams/950.png",
+                    "winner": null
+                },
+                "away": {
+                    "id": 553,
+                    "name": "Olympiakos Piraeus",
+                    "logo": "https://media-3.api-sports.io/football/teams/553.png",
+                    "winner": null
+                }
+            },
+            "goals": {
+                "home": 2,
+                "away": 2
+            },
+            "score": {
+                "halftime": {
+                    "home": 0,
+                    "away": 2
+                },
+                "fulltime": {
+                    "home": 2,
+                    "away": 2
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        }
+    ]
+}
